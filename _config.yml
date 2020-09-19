@@ -1,12 +1,12 @@
 # Site settings
-title: PHOTORAMA
+title: Rainbow Marks Photography
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
+description: "Website for Rainbow Marks Photography"
+url: "https://rainbowmarks.github.io"
+baseurl: ""
+facebook_username: "RainbowMarks"
+twitter_username: "RainbowMarks"
+instagram_username: "RainbowLandMarks"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   ChrisHammond
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photography website for Rainbow Marks Photography
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://rainbowmarks.github.io/gallery/"  
+  - JOURNAL: "https://rainbowmarks.github.io/journal/"
+  - ABOUT: "https://rainbowmarks.github.io/about/"
 
 # All translation keys
 translations:
