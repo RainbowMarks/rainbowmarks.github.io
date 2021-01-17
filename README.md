@@ -1,5 +1,5 @@
 RainbowMarks.com Repository 
 ====================
 
+Rainbow Marks Photography out of Wildwood, Missouri.
 
-Theme built off of https://github.com/sunbliss/photorama 

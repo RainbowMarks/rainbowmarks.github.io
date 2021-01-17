@@ -2,8 +2,8 @@
 title: Rainbow Marks Photography
 email: ""
 description: "Website for Rainbow Marks Photography"
-url: "https://rainbowmarks.github.io"
-baseurl: ""
+url: 
+baseurl: 
 facebook_username: "RainbowMarks"
 twitter_username: "RainbowMarks"
 instagram_username: "RainbowLandMarks"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://rainbowmarks.github.io/gallery/"  
-  - JOURNAL: "https://rainbowmarks.github.io/journal/"
-  - ABOUT: "https://rainbowmarks.github.io/about/"
+  - GALLERY: "/gallery/"  
+  - JOURNAL: "journal/"
+  - ABOUT: "/about/"
 
 # All translation keys
 translations:
@@ -52,10 +52,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+paginate_path: "/blog/page:num/"
+permalink: "/blog/:title/"
+categories_path: "/blog/category/"
+tags_path: "/blog/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
