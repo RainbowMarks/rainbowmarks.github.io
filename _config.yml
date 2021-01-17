@@ -7,16 +7,16 @@ baseurl:
 facebook_username: "RainbowMarks"
 twitter_username: "RainbowMarks"
 instagram_username: "RainbowLandMarks"
-github_username:  ""
+github_username:  "chrishammond"
 deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+flickr_username: "chrishammond"
+discus_shortname: "rainbowmarks"
 share: true
 
 # Owner/author information
 owner:
   name:   ChrisHammond
-  avatar: avatar.png
+  avatar: ChrisHammond_sq_200.jpg
   favicon: favicon.ico
   info: photography website for Rainbow Marks Photography
 
@@ -29,7 +29,7 @@ owner:
 comments :
   provider : disqus
   disqus :
-    short_name : ""
+    short_name : "rainbowmarks"
 
 # Internal nav
 nav:
