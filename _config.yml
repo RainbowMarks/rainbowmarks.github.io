@@ -59,7 +59,8 @@ tags_path: "/blog/tag/"
 # Plugins
 plugins:
  - jekyll-paginate
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md",vendor]
+
 
 # SiteMap
 sitemap:
