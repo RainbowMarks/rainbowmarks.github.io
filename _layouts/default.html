@@ -4,12 +4,9 @@
 {% include head.html %}
 
 
-<body
-    {% if page.url == "/404.html" %}
-        class="journal"
-    {% endif %}
->
-    
+<body {% if page.url="/blog/index.html" %} class="journal" {% endif %} {% if page.url="/gallery/index.html" %}
+    class="gallery" {% endif %}>
+
 
     {% include nav.html %}
 
@@ -21,7 +18,7 @@
 
     {% include footer.html %}
 
-   {% include Scroll_to_Top.html %}  
+    {% include Scroll_to_Top.html %}
 
 </body>
 
