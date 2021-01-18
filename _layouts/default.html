@@ -4,7 +4,12 @@
 {% include head.html %}
 
 
-<body>
+<body
+    {% if page.url == "/404.html" %}
+        class="journal"
+    {% endif %}
+>
+    
 
     {% include nav.html %}
 

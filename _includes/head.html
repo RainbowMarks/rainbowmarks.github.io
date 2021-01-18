@@ -7,6 +7,10 @@
    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
    
 
+   <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
 
   <link rel="shortcut icon" href="{{ site.basurl }}/favicon.ico?" type="image/x-icon">
 <link rel="icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
@@ -20,10 +24,7 @@
         <!-- Modernizr -->
       <script src="{{ site.baseurl }}/js/modernizr.js"></script>
 
-    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+    
 <!-- CSS -->
 	
     <!-- Bootstrap Core CSS -->
@@ -35,6 +36,7 @@
      <link rel="stylesheet" href="{{ "/css/super-search.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/magnificpopup.css" | prepend: site.baseurl }}">
     <link href="{{ site.baseurl }}/css/tags-wrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/journal.css" media="screen" />
 
     <!-- Custom Fonts -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -50,7 +52,7 @@
     <![endif]-->
 
 
-    {% if page.url == "/404.html" %}<meta http-equiv="refresh" content="5; url={{ site.baseurl }}/journal" />{% endif %}
+    {% if page.url == "/404.html" %}<meta http-equiv="refresh" content="5; url={{ site.baseurl }}/blog" />{% endif %}
 
 
 </head>
