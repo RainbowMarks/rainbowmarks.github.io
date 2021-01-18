@@ -3,27 +3,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-
-
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
 
     <link rel="shortcut icon" href="{{ site.basurl }}/favicon.ico?" type="image/x-icon">
     <link rel="icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
-    <meta name="description" content="{{ site.description }}">
-
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/WYSIWYG.css" media="screen" />
-
 
     <!-- Modernizr -->
     <script src="{{ site.baseurl }}/js/modernizr.js"></script>
-
 
     <!-- CSS -->
 
@@ -31,9 +20,9 @@
     <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | prepend: site.baseurl }}">
 
     <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/css/galleries.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ '/css/super-search.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/css/magnificpopup.css' | prepend: site.baseurl }}">
     <link href="{{ site.baseurl }}/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/journal.css" media="screen" />
@@ -59,7 +48,7 @@
 
     {% if page.url == "/404.html" %}
     <meta http-equiv="refresh" content="5; url={{ site.baseurl }}/blog" />{% endif %}
-    {% if page.url == "/gallery/index.html" %}
+    {% if page.url == "/gallery/" %}
     <link rel="stylesheet" href="{{ '/css/selena.css' | prepend: site.baseurl }}">
     {% endif %}
 
