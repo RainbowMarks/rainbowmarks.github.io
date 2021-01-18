@@ -4,8 +4,10 @@
 {% include head.html %}
 
 
-<body {% if page.url="/blog/index.html" %} class="journal" {% endif %} {% if page.url="/gallery/index.html" %}
-    class="gallery" {% endif %}>
+<body 
+    {% if page.url="/blog/index.html" %} class="journal" {% endif %} 
+    {% if page.url="/gallery/index.html" %} class="gallery" {% endif %}
+    >
 
 
     {% include nav.html %}
@@ -13,8 +15,6 @@
     {{ content }}
 
     {% include search.html %}
-
-    {% include newsletter.html %}
 
     {% include footer.html %}
 
