@@ -4,12 +4,12 @@ email: "rainbowmarks@christoc.com"
 description: "Website for Rainbow Marks Photography"
 url: 
 baseurl: 
-facebook_username: "RainbowMarks"
-twitter_username: "RainbowMarks"
+facebook_username: "rainbowmarks"
+twitter_username: "rainbowmarks"
 instagram_username: "RainbowLandMarks"
-github_username:  "chrishammond"
+github_username:
 deviantart_username: 
-flickr_username: "chrishammond"
+flickr_username: "chammond"
 discus_shortname: "rainbowmarks"
 share: true
 
