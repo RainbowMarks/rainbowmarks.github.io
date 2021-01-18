@@ -9,4 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll_picture_tag', '1.10.2'
   gem 'jekyll-feed'
+
+  gem 'html-proofer'
 end
