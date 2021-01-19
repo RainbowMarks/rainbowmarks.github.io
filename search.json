@@ -103,13 +103,6 @@
   
    {
      
-        "title"    : "GALLERY",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/gallery/",
-        "date"     : "",
-        "content"   : "\t<section id=\"content\" role=\"main\">\n\t\t<div class=\"wrapper\">\n\t\n\t\t\t<h2>GALLERY</h2>\n\t\t\t\n\t\t\t<!-- Gallery __-->\n\t\t\t<div class=\"gallery masonry-gallery\">\n\t\t\t\t\n  \t\n\n\t               <figure class=\"gallery-item\">\n                         <figure class=\"effect-selena\">\n\t\t\t\t\t<header class=\"gallery-icon\">\n\t\t       \n<a href=\"/gallery/gallery01/\">\n<img src=\"/gallery/albums/alb01.jpg\" alt=\"2019 CrossFit Games\"></a>\n\n\t\t\t\t\t</header>\t\n\t\t\t\t\t<figcaption class=\"gallery-caption\">\n\t\t\t\t\t\t<div class=\"entry-summary\">\n\t\t\t\t\t\t\t<h3>2019 CrossFit Games</h3>\n\t\t\t\t\t\t\t<p>August 2019</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</figcaption>\n                       </figure>\n\t\t\t\t</figure>\n\t\t\t\t\t\t\t\n  \t\n\n\t               <figure class=\"gallery-item\">\n                         <figure class=\"effect-selena\">\n\t\t\t\t\t<header class=\"gallery-icon\">\n\t\t       \n<a href=\"/gallery/gallery02/\">\n<img src=\"/gallery/albums/alb02.jpg\" alt=\"Yosemite\"></a>\n\n\t\t\t\t\t</header>\t\n\t\t\t\t\t<figcaption class=\"gallery-caption\">\n\t\t\t\t\t\t<div class=\"entry-summary\">\n\t\t\t\t\t\t\t<h3>Yosemite</h3>\n\t\t\t\t\t\t\t<p>July 2017</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</figcaption>\n                       </figure>\n\t\t\t\t</figure>\n\t\t\t\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div><!-- END .wrapper -->\n\t</section>\n\n\n<br>\n\n<!-- jQuery -->    \n\n<script src=\"//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js\"></script>\n<script src=\"/js/retina.min.js\"></script>\n<!-- include Masonry -->\n<script src=\"/js/isotope.pkgd.min.js\"></script> \n<!-- include mousewheel plugins -->\n<script src=\"/js/jquery.mousewheel.min.js\"></script>\n<!-- include carousel plugins -->\n<script src=\"/js/jquery.tinycarousel.min.js\"></script>\n<!-- include svg line drawing plugin -->\n<script src=\"/js/jquery.lazylinepainter.min.js\"></script>\n<!-- include custom script -->\n<script src=\"/js/scripts.js\"></script>\n<!-- Modernizr -->\n <script src=\"/js/modernizr.js\"></script>\n\n"
-     
    } ,
   
    {
