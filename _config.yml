@@ -36,7 +36,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "/gallery/"  
+  - PORTFOLIO: "/gallery/"  
   - BLOG: "/blog/"
   - ABOUT: "/about/"
 
