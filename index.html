@@ -14,9 +14,6 @@ images:
    gallery-folder: /img/slider/
    alt-tag: "Slide 3"
 ---
-
-
-
 <!-- MAIN CONTENT SECTION  _____________________________________________-->
 	<section id="content" role="main">
 		<div class="wrapper">
@@ -40,8 +37,7 @@ images:
 				<figure class="gallery-item">
 					<header class="gallery-icon">
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" alt="{{ image.alt-tag }}"></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">{% picture {{ image.image_path }} --alt {{ image.alt-tag }} %}</a>
 	
 				</header>	
 				</figure>
