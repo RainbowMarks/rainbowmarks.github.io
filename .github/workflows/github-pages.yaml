@@ -27,7 +27,7 @@ jobs:
           sudo apt-get install imagemagick 
           wget https://www.imagemagick.org/download/ImageMagick.tar.gz
           tar xvzf ImageMagick.tar.gz
-          cd ImageMagick-7.0.8-26/
+          cd ImageMagick-7.0.10-58/
           ./configure 
           make
           sudo make install
