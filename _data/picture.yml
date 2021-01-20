@@ -6,13 +6,6 @@ presets:
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
 
-  blogcrop:
-    crop: 2:1 # remoted crop for now 
-    formats: [original]
-    widths: [200, 400, 800, 1600, 2000]
-    link_source: false
-    
-
   direct:
     markup: direct_url
     widths: [200, 400, 800, 1600, 2000]
@@ -29,3 +22,9 @@ presets:
     markup: naked_srcset
     widths: [200, 400, 800, 1600, 2000]
 
+  blogcrop:
+    crop: '2:1' # remoted crop for now 
+    formats: [original]
+    widths: [200, 400, 800, 1600, 2000]
+    link_source: false
+    
