@@ -10,7 +10,7 @@ presets:
     formats: [original]
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
-    crop: '1:.49'
+    crop: '1:0.5'
 
   direct:
     markup: direct_url
