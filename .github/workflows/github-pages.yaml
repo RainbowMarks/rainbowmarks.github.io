@@ -22,8 +22,10 @@ jobs:
         with:
           ruby-version: 2.7 # can change this to 2.7 or whatever version you prefer
 
-#      - name: Install imagemagick
-#        run: |
+      - name: Install imagemagick
+        run: |
+          wget http://mirrors.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
+          sudo apt install ./libffi6_3.2.1-8_amd64.deb
 #          identify -version
 #          sudo apt update
 #          sudo apt install imagemagick
