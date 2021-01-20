@@ -3,7 +3,7 @@ layout: page
 description: "Blog"
 title: "Events and Blogs"
 active: blog
-header-img: "img/writing-bg.jpg"
+header-img: "/img/writing-bg.jpg"
 ---
 
 <div class="archive">
@@ -31,7 +31,7 @@ header-img: "img/writing-bg.jpg"
     
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
-          {% picture {{ post.image.feature }} --alt {{ post.title }} %}
+          {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
 	      {% endif %}
         <p class="post-title" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; margin-left: 1em;"> &#9658; {{ post.title }}
         </p></a>

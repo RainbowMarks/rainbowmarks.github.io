@@ -4,11 +4,10 @@ layout: default
 
 {% assign post = page %}
 
-{% picture direct {{ page.header-img }} %}
 <article>
   <!-- Post Header -->
   <header class="intro-header"
-    style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{% picture direct {{ page.header-img }} %}{% endif %}')">
+    style="background-image: url('{% if page.header-img %}{% picture direct {{ page.header-img }} %}{% endif %}')">
     <div class="container">
       <div class="row">
         <div class="post-heading">
