@@ -13,6 +13,9 @@ flickr_username: "chammond"
 discus_shortname: "rainbowmarks"
 share: true
 
+
+data_dir: _data
+
 # Owner/author information
 owner:
   name:   ChrisHammond

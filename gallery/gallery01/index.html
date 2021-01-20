@@ -3,25 +3,25 @@ layout: page
 title: "2019 CrossFit Games"
 description: "Shots from Madison, Wisconsin"
 active: gallery
-header-img: "img/crossfit-bg.jpg"
+header-img: "/img/galleries/g01/crossfit-bg.jpg"
 album-title: "2019 CrossFit Games"
 images:
- - image_path: /gallery/archive/g01/bg1.jpg
+ - image_path: /img/galleries/g01/bg1.jpg
    caption: Noah Ohlsen 2019 CrossFit Games
    copyright: © Rainbowmarks.com
- - image_path: /gallery/archive/g01/bg2.jpg
+ - image_path: /img/galleries/g01/bg2.jpg
    caption: 2019 CrossFit Games
    copyright: © Rainbowmarks.com
- - image_path: /gallery/archive/g01/bg3.jpg
+ - image_path: /img/galleries/g01/bg3.jpg
    caption: 2019 CrossFit Games
    copyright: © RainbowMarks.com
- - image_path: /gallery/archive/g01/bg4.jpg
+ - image_path: /img/galleries/g01/bg4.jpg
    caption: 2019 CrossFit Games
    copyright: © RainbowMarks.com
- - image_path: /gallery/archive/g01/bg5.jpg
+ - image_path: /img/galleries/g01/bg5.jpg
    caption: Mat Frazer 2019 CrossFit Games
    copyright: © RainbowMarks.com
- - image_path: /gallery/archive/g01/bg6.jpg
+ - image_path: /img/galleries/g01/bg6.jpg
    caption: 2019 CrossFit Games
    copyright: © RainbowMarks.com
 ---
@@ -42,7 +42,8 @@ images:
 					<header class="gallery-icon">
 
 <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" alt="{{ image.caption }}"></a>
+{% picture {{ image.image_path }} --alt {{ image.caption }} %}
+</a>
 						
 					</header>	
 					<figcaption class="gallery-caption">
