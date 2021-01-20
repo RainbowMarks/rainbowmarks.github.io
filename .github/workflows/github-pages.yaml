@@ -24,6 +24,7 @@ jobs:
 
       - name: Install imagemagick
         run: |
+          identify -version
           sudo apt-get install imagemagick 
           identify -version
 
