@@ -1,0 +1,24 @@
+# _data/picture.yml
+
+presets:
+  default:
+    formats: [original]
+    widths: [200, 400, 800, 1600, 2000]
+    link_source: false
+
+  direct:
+    markup: direct_url
+    widths: [200, 400, 800, 1600, 2000]
+    fallback_width: 1600
+
+  direct200:
+    # markup: direct_url
+    link_source: false # wrap images in a link to the original source image.
+    formats: [original] # Must be an array, and order matters.
+    widths: [200, 400, 800, 1600, 2000] # Must be an array.
+    size: 400px
+
+  directsrc:
+    markup: naked_srcset
+    widths: [200, 400, 800, 1600, 2000]
+
