@@ -23,17 +23,20 @@ jobs:
           ruby-version: 2.7 # can change this to 2.7 or whatever version you prefer
 
       - name: Install imagemagick
-        run: |
+        run: 
           sudo apt-get install imagemagick 
-          wget https://www.imagemagick.org/download/ImageMagick.tar.gz
-          tar xvzf ImageMagick.tar.gz
-          cd ImageMagick-7.0.10-58/
-          ./configure 
-          make
-          sudo make install
-          sudo ldconfig /usr/local/lib
           identify -version
-          
+
+    #       
+    # wget https://www.imagemagick.org/download/ImageMagick.tar.gz
+    # tar xvzf ImageMagick.tar.gz
+    # cd ImageMagick-7.0.10-58/
+    # ./configure 
+    # make
+    # sudo make install
+    # sudo ldconfig /usr/local/lib
+    # identify -version
+    
 
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2.4.0
