@@ -22,6 +22,9 @@ jobs:
         with:
           ruby-version: 2.7 # can change this to 2.7 or whatever version you prefer
 
+      - name: Install imagemagick
+        run: sudo apt-get install imagemagick
+
       - name: 🔨 install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2.4.0
         with:
