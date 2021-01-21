@@ -30,5 +30,5 @@ presets:
     
   hpslider:
     formats: [original]
-    widths: [400, , 1600, 2000]
+    widths: [400, 1600, 2000]
     link_source: false
