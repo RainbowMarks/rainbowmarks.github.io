@@ -28,7 +28,7 @@ presets:
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
     
- hpslider:
+  hpslider:
     formats: [original]
     widths: [400, , 1600, 2000]
     link_source: false
