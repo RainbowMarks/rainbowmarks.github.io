@@ -1827,7 +1827,7 @@ var RETINA_NS = 'retina';
 $.magnificPopup.registerModule(RETINA_NS, {
 	options: {
 		replaceSrc: function(item) {
-			return item.src.replace(/\.\w+$/, function(m) { return '' + m; }); //{ return '@2x' + m; });
+			return item.src.replace(/\.\w+$/, function(m) { return '@2x' + m; }); 
 		},
 		ratio: 1 // Function or number.  Set to 1 to disable.
 	},
