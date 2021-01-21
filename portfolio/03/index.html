@@ -170,8 +170,9 @@ images:
 				<figure class="gallery-item">
 					<header class="gallery-icon">
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" alt="{{ image.caption }}"></a>
+            <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+              {% picture {{ image.image_path }} --alt {{ image.caption }} %}
+              </a>
 						
 					</header>	
 					<figcaption class="gallery-caption">
