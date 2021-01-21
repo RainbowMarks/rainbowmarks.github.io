@@ -37,8 +37,7 @@ images:
       <figure class="gallery-item">
         <header class="gallery-icon">
 
-          <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">{% picture {{ image.image_path }} --alt
-            {{ image.alt-tag }} %}</a>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">{% picture {{ image.image_path }} --img sizes="100vw" --alt{{ image.alt-tag }} %} </a>
 
         </header>
       </figure>
