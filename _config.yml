@@ -76,3 +76,12 @@ sitemap:
         - "/writing/"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
+
+
+
+#jekyll_picture_tag
+
+picture:
+  suppress_warnings: true
+  fast_build: true
+  
