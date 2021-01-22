@@ -12,6 +12,7 @@ deviantart_username:
 flickr_username: "chammond"
 discus_shortname: "rainbowmarks"
 share: false
+google_analytics: UA-69145-51
 
 
 data_dir: _data
