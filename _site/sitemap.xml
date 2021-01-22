@@ -66,6 +66,9 @@
 <loc>http://localhost:4000/portfolio/03/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/portfolio/04/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/portfolio/01/</loc>
 </url>
 <url>
@@ -73,9 +76,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/tag/</loc>
@@ -88,6 +88,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/search/</loc>
