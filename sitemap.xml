@@ -72,9 +72,6 @@
 <loc>/blog/</loc>
 </url>
 <url>
-<loc>/about/</loc>
-</url>
-<url>
 <loc>/portfolio/03/</loc>
 </url>
 <url>
@@ -88,6 +85,9 @@
 </url>
 <url>
 <loc>/</loc>
+</url>
+<url>
+<loc>/about/</loc>
 </url>
 <url>
 <loc>/search/</loc>

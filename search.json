@@ -179,17 +179,6 @@
   
    {
      
-        "title"    : "About",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/about/",
-        "date"     : "",
-        "content"   : "Rainbow Marks is Chris Hammond. The name Rainbow Marks comes from Rainbow Landmarks. One of the first great (if we do say so ourselves) photos we took as we got more seriously into photography was the shot above of the Sydney Opera House, on a trip to Australia in 2012. The double rainbow presented itself over the harbor and we couldn't resist running around to get the perfect angle on the Opera House. A couple of years later, while visiting San Francisco, we happened to catch a rainbow over the Golden Gate Bridge. \n\nThe combination of these two events and the works produced gave us the name to use for our photography business. \n\nWe hope you enjoy our work. We are not typically available for hire, but if you're interested in having us at an event, you might be able to twist our arms. \n\nWe hope you enjoy our works.\n\n\n"
-     
-   } ,
-  
-   {
-     
         "title"    : "Air Show Photos",
         "category" : "",
         "tags"     : "",
@@ -233,6 +222,17 @@
    } ,
   
    {
+     
+   } ,
+  
+   {
+     
+        "title"    : "About",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/about/",
+        "date"     : "",
+        "content"   : "<p>Rainbow Marks is Chris Hammond. The name Rainbow Marks comes from Rainbow Landmarks. One of the first great (if we do say so ourselves) photos we took as we got more seriously into photography was the shot above of the Sydney Opera House, on a trip to Australia in 2012. The double rainbow presented itself over the harbor and we couldn’t resist running around to get the perfect angle on the Opera House. A couple of years later, while visiting San Francisco, we happened to catch a rainbow over the Golden Gate Bridge.</p>\n\n<p>The combination of these two events and the works produced gave us the name to use for our photography business.</p>\n\n<p>We hope you enjoy our work. We are not typically available for hire, but if you’re interested in having us at an event, you might be able to twist our arms.</p>\n\n<p>We hope you enjoy our works.</p>\n\n"
      
    } ,
   
