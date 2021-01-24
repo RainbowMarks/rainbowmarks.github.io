@@ -39,8 +39,9 @@ comments :
 nav:
   - PORTFOLIO: "/portfolio/"  
   - BLOG: "/blog/"
-  - ABOUT: "/about/"
   - PURCHASE: "/purchase/"
+  - ABOUT: "/about/"
+  
 
 # All translation keys
 translations:
