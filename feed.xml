@@ -5,8 +5,8 @@
     <description>Website for Rainbow Marks Photography</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Jan 2021 06:18:50 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2021 06:18:50 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Jan 2021 06:31:46 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2021 06:31:46 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -330,6 +330,10 @@
         <pubDate>Thu, 26 Sep 2019 20:07:23 +0000</pubDate>
         <link>/Events/2019/09/88-Dirt-Crits</link>
         <guid isPermaLink="true">/Events/2019/09/88-Dirt-Crits</guid>
+        
+        <category>bicyle</category>
+        
+        <category>event</category>
         
         
       </item>
