@@ -3,7 +3,7 @@ layout: page
 title: "Purchase Rainbow Marks Art"
 description: "Learn more about purchasing our work"
 active: purchase
-header-img: "img/slider/home02.jpg"
+header-img: "img/journal/NeowiseComet7-18-2020-5.jpg"
 redirect_from: 
   - "Purchase"
 ---

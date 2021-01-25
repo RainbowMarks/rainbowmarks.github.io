@@ -3,7 +3,7 @@ layout: page
 title: "Terms"
 description: "Privacy Policy and Terms of Service"
 active: Terms
-header-img: "img/slider/home03.jpg"
+header-img: "img/journal/BayBridge-1.jpg"
 redirect_from: 
   - "Terms"
   - "Privacy"
