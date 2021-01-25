@@ -75,7 +75,13 @@
 <loc>http://localhost:4000/portfolio/01/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/portfolio/07/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/portfolio/02/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/06/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/</loc>
@@ -91,6 +97,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/terms/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/purchase/</loc>
