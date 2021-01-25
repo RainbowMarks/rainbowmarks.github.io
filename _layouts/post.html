@@ -11,7 +11,7 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="post-heading">
-          <h1 style="color: #000000;">{{ page.title }}</h1>
+          <h1 style="color: #000000; text-shadow:2px 2px white;">{{ page.title }}</h1>
           {% if page.subtitle %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
@@ -22,22 +22,6 @@ layout: default
             {% assign minutes = content | number_of_words | divided_by: 180 %}
             <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
             {{ minutes }} minute read
-
-
-
-            {% if post.tags.size > 0 %}
-            &sim; Tagged with <i class="fa fa-tags"></i>{% if post.tags.size == 1 %} {% else %}{% endif
-            %}&nbsp;:&nbsp;{% for tag in page.tags %}<a href="{{ site.baseurl }}/blog/tag/{{  tag | cgi_encode }}/"
-              data-toggle="tooltip" title="Other posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless
-            forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}{% endif %}
-
-
-            {% if post.categories.size > 0 %}
-            &sim; Filed in <i class="fa fa-briefcase"></i>{% if post.categories.size == 1 %} {% else %}{% endif
-            %}&nbsp;:&nbsp;{% for tag in page.categories %}<a
-              href="{{ site.baseurl }}/blog/category/{{ tag | cgi_encode }}/" data-toggle="tooltip"
-              title="Other posts filed in {{ tag }} category" rel="tag">{{ tag }}</a>{% unless forloop.last
-            %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %%}{% endif %}
 
           </span>
 
