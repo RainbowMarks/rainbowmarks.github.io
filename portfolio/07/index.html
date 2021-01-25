@@ -1,0 +1,113 @@
+---
+layout: page
+title: "Landscapes"
+description: "Pictures of various landscapes"
+active: portfolio
+header-img: "/img/portfolio/07/landscapes-1.jpg"
+album-title: "Photos of Landscapes"
+images:
+ - image_path: /img/portfolio/07/landscapes-1.jpg
+   caption: Echo Bluff State Park, Missouri
+   mfp-title: Echo Bluff State Park, Missouri
+   copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-2.jpg
+   caption: Flat Tops Wilderness Area, Colorado
+   mfp-title: Flat Tops Wilderness Area, Colorado
+   copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-3.jpg
+   caption: Trapper's Lake Lodge Flat Tops Wilderness, Colorado
+   mfp-title: Trapper's Lake Lodge Flat Tops Wilderness, Colorado
+   copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-4.jpg
+   caption: Horsetooth Resevoir, Colorado
+   mfp-title: Horsetooth Resevoir, Colorado
+   copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-5.jpg
+   caption: Colorado Snow
+   mfp-title: Colorado Snow
+   copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-6.jpg
+   caption: Colorado Mountains
+   mfp-title: Colorado Mountains
+   copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-7.jpg
+   caption: Colorado Mountains
+   mfp-title: Colorado Mountains
+   copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-8.jpg
+   caption: Colorado Mountains
+   mfp-title: Colorado Mountains
+   copyright: © RainbowMarks.com
+
+---
+ 
+	<section id="content" role="main">
+		<div class="wrapper">
+	<br><br>
+			<h2>{{page.album-title}}</h2>
+
+
+			<!-- Gallery __-->
+			<div class="gallery masonry-gallery">
+		
+{% for image in page.images %}  		
+
+				<figure class="gallery-item">
+					<header class="gallery-icon">
+
+            <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+              {% picture {{ image.image_path }} --alt {{ image.caption }} %}
+              </a>
+						
+					</header>	
+					<figcaption class="gallery-caption">
+						<div class="entry-summary">
+							<h3>{{image.caption}}</h3>
+							<p>{{image.copyright}}</p>
+						</div>
+					</figcaption>
+				</figure>
+				
+{% endfor %}
+
+			</div>
+
+		</div><!-- END .wrapper -->
+	</section>
+
+<!-- jQuery -->    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- include image popups -->
+<script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
+<!-- include Masonry -->
+<script src="{{ site.baseurl }}/js/isotope.pkgd.min.js"></script> 
+<!-- include mousewheel plugins -->
+<script src="{{ site.baseurl }}/js/jquery.mousewheel.min.js"></script>
+<!-- include carousel plugins -->
+<script src="{{ site.baseurl}}/js/jquery.tinycarousel.min.js"></script>
+<!-- include svg line drawing plugin -->
+<script src="{{ site.baseurl }}/js/jquery.lazylinepainter.min.js"></script>
+<!-- include custom script -->
+<script src="{{ site.baseurl }}/js/scripts.js"></script>
+<!-- Modernizr -->
+ <script src="{{ site.baseurl }}/js/modernizr.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function($) {
+        $('a.popup').magnificPopup({
+          type: 'image',
+	  gallery:{
+         enabled:true,
+         navigateByImgClick: true,
+         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+       },
+      image: {
+         titleSrc: function(item) {
+             return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+            }
+        }
+          // other options
+      });
+});
+    </script>
