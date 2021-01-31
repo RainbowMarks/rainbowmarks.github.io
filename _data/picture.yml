@@ -2,7 +2,7 @@
 
 presets:
   default:
-    formats: [original]
+    formats: [original, webp]
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
 
@@ -32,4 +32,9 @@ presets:
     formats: [original]
     widths: [400, 1600, 2000]
     fallback_width: 1600
+    link_source: false
+
+  portthumb:
+    formats: [original]
+    widths: [200, 400, 800]
     link_source: false
