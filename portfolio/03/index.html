@@ -171,7 +171,7 @@ images:
 					<header class="gallery-icon">
 
             <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-              {% picture {{ image.image_path }} --alt {{ image.caption }} %}
+              {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
               </a>
 						
 					</header>	
