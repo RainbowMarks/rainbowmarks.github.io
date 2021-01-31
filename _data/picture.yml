@@ -39,3 +39,4 @@ presets:
     formats: [webp, original]
     widths: [200, 400, 600]
     link_source: false
+    fallback_width: 600
