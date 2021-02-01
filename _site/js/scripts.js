@@ -106,7 +106,7 @@
 	
 	
 	/* ********* WINDOW LOAD ********** */
-	jQuery(window).load(function() {
+	jQuery(window).on('load',function() {
 	
 		// load screen
 		jQuery('.loadreveal').addClass('reveal');
