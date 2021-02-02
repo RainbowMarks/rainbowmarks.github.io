@@ -431,4 +431,6 @@ body {
 }
 
 .pager .btn{ border:0;}
-
+.pager .btn-outline-primary:hover{
+  background-color: transparent;
+}
