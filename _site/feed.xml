@@ -5,8 +5,8 @@
     <description>Website for Rainbow Marks Photography</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Feb 2021 08:03:59 -0600</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2021 08:03:59 -0600</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2021 08:32:48 -0600</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2021 08:32:48 -0600</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -66,8 +66,14 @@
     
       <item>
         <title>How to see and photograph the NEOWISE Comet over the Central United States</title>
-        <description>&lt;p align=&quot;center&quot;&gt;&lt;img style=&quot;width: 100%; display: inline;&quot;
-        src=&quot;http://rainbowmarks.com/portals/2/images/Jupiter-6.jpg&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p align=&quot;center&quot;&gt;
+    &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/Jupiter-6-200-a4bb1dfac.webp 200w, /generated/img/posts/Jupiter-6-400-a4bb1dfac.webp 400w, /generated/img/posts/Jupiter-6-800-a4bb1dfac.webp 800w, /generated/img/posts/Jupiter-6-1200-a4bb1dfac.webp 1200w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/Jupiter-6-200-a4bb1dfac.jpg 200w, /generated/img/posts/Jupiter-6-400-a4bb1dfac.jpg 400w, /generated/img/posts/Jupiter-6-800-a4bb1dfac.jpg 800w, /generated/img/posts/Jupiter-6-1200-a4bb1dfac.jpg 1200w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/Jupiter-6-800-a4bb1dfac.jpg&quot;&gt;
+&lt;/picture&gt;
+
+&lt;/p&gt;
 &lt;p&gt;Living here in Wildwood, MO we have had access to some awesome events over the past few years. In August 2017 the
     total eclipse passed right over our city with some of the longest times available in the country. This week we’re
     fortunate enough to be able to see the Comet Neowise that was discovered back in March and recently travelled near
