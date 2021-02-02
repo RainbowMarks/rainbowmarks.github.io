@@ -117,7 +117,7 @@ images:
         {% assign modval = totimages | modulo: 3  %}
         {% assign columncount = totimages | divided_by: 3 %}
         
-        {% if modval>0 %}
+        {% if modval > 0 %}
           {% assign secondcolumnstart = columncount | plus: 1 %}
 
           {% if modval == 2 %}
@@ -143,7 +143,7 @@ images:
         {% endif %}
 
         <div class="p-0">
-          <figure class="img-fluid">
+          <figure class="gallery-item">
             <header class="gallery-icon">
               <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
               {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
