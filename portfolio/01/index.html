@@ -112,9 +112,39 @@ images:
       <div class="container">
         <div class="d-flex flex-column justify-content-center">
   
-		
+{% 
+  assign i = 0 
+  
+  assign totimages = page.images.size
+  
+  assign modval = totimages | modulo: 3 
+
+  assign columncount = totimages | divide: 3
+  
+  assign secondcolumnstart = columncount | plus: modval
+  
+  assign thirdcolumnstart = firstcolcount | plus: columncount
+
+%}
+
+
 {% for image in page.images %}  		
-      <div class="p-0 imagewrap">
+
+{% if i == 0 %}
+<div class="d-flex flex-column">
+{% elsif i == secondcolumnstart %}
+</div>
+<div class="d-flex flex-column">
+{% elsif i == thirdcolumnstart %}
+</div>
+<div class="d-flex flex-column">
+{% else %}
+
+{% endif %}
+{% assign i = i plus: 1 %}
+
+
+      <div class="p-0">
 				<figure class="img-fluid">
 					<header class="gallery-icon">
 
@@ -131,8 +161,8 @@ images:
 					</figcaption>
 				</figure>
 			</div>	
-{% endfor %}
 
+          </div>
 			  </div>
       </div> 
 		</div><!-- END .wrapper -->
