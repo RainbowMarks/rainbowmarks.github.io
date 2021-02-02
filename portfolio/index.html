@@ -40,11 +40,13 @@ images:
 	
 			<h2>{{page.title}}</h2>
 			
-			<!-- Gallery __-->
-			<div class="gallery masonry-gallery">
+      <!-- Gallery __-->
+      <div class="container">
+			<div class="row">
 				
 {% for image in page.images %}  	
 
+        <div class="col-md-4">
 	               <figure class="gallery-item">
                          <figure class="effect-selena">
 					<header class="gallery-icon">
@@ -62,11 +64,11 @@ images:
 					</figcaption>
                        </figure>
 				</figure>
-							
+      </div>
 {% endfor %}		
 				
 			</div>
-			
+    </div>
 		</div><!-- END .wrapper -->
 	</section>
 

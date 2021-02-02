@@ -4,7 +4,6 @@
 <head>
 
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Rainbows - Rainbow Marks Photography</title>
     <meta property="og:url" content="http://localhost:4000/portfolio/04/" />
@@ -18,7 +17,8 @@
     <!-- CSS -->
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
@@ -29,14 +29,14 @@
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
     <!-- Custom Fonts -->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
         type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Josefin+Sans:400,600&subset=latin,latin-ext" rel="stylesheet"
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,600&subset=latin,latin-ext" rel="stylesheet"
         type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
         type="text/css">
     <link
-        href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
         rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -61,15 +61,16 @@
             a.async = 1;
             a.src = g;
             m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
         ga('create', 'UA-69145-51', 'auto');
         ga('send', 'pageview');
     </script>
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+
 
 </head>
     
@@ -79,56 +80,27 @@
 
 
     <!-- Navigation -->
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top" style="margin-right:1em; z-index: 1;">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <i class="fa fa-bars fa-lg"></i>
-            </button>
-            <a href="/" title="HOME"><img src="/Logo2019-wm3.png" alt="logo" style="width:150px;cursor:pointer;margin-top:15px;"/></a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right" style="margin-right:1em; text-shadow: -.025em -.025em 0 rgba(0, 133, 161, 0.75), .025em -.025em 0 rgba(0, 133, 161, 0.75), -.025em .025em 0 rgba(0, 133, 161, 0.75), .025em .025em 0 rgba(0, 133, 161, 0.75);">
-               
-          
-            
-            
-              <li class="active"><a href="/portfolio/">PORTFOLIO</a></li>
-            
-          
-        
-          
-            
-            
-              <li><a href="/blog/">BLOG</a></li>
-            
-          
-        
-          
-            
-            
-              <li><a href="/purchase/">PURCHASE</a></li>
-            
-          
-        
-          
-            
-            
-              <li><a href="/about/">ABOUT</a></li>
-            
-          
-        
-                            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
+<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md"
+style="margin-right:1em; z-index: 1;">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
+    </button> <a href="/" title="HOME"><img src="/Logo2019-wm3.png" alt="logo" style="width:150px;cursor:pointer;margin-top:15px;"></a>
+    <!--
+    Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav ml-auto" style="margin-right:1em; text-shadow: -.025em -.025em 0 rgba(0, 133, 161, 0.75), .025em -.025em 0 rgba(0, 133, 161, 0.75), -.025em .025em 0 rgba(0, 133, 161, 0.75), .025em .025em 0 rgba(0, 133, 161, 0.75);">   
+            <li class="active nav-item"><a href="/portfolio/" class="nav-link">PORTFOLIO</a>
+            </li>     
+            <li class="nav-item"><a href="/blog/" class="nav-link">BLOG</a>
+            </li>     
+            <li class="nav-item"><a href="/purchase/" class="nav-link">PURCHASE</a>
+            </li>     
+            <li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a>
+            </li>  </ul>
     </div>
+    <!-- /.navbar-collapse -->
     <!-- /.container -->
 </nav>
-
-
 
     <!-- Page Header -->
 <header class="intro-header" style="background-image: url('/generated/img/portfolio/04/rainbows-1-1600-1d88a73db.jpg')">
@@ -360,7 +332,7 @@
 
 
 <!-- include Masonry -->
-<script src="//unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js""></script> 
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script> 
 <!-- include mousewheel plugins -->
 <script src="/js/jquery.mousewheel.min.js"></script>
 <!-- include carousel plugins -->

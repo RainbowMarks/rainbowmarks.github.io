@@ -410,3 +410,14 @@ body {
  color: black;
 }
 
+
+
+
+/*.col-md-4 {margin-bottom:30px;} */
+
+.gallery-caption .entry-summary { text-align: center; bottom: 0; padding: 1em; font-size: .8em; color: #F7F6F5; } 
+.d-flex .imagewrap{
+  width:300px;
+  flex:auto;
+  max-width:300px;
+}
