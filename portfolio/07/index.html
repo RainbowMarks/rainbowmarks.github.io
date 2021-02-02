@@ -14,7 +14,12 @@
 		<!-- CSS -->
 
 		<!-- Bootstrap Core CSS -->
-		<link rel="stylesheet" href="/css/bootstrap.min.css" />
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+			integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
+			crossorigin="anonymous"
+		/>
 
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
@@ -79,57 +84,58 @@
 		</script>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+			integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+			crossorigin="anonymous"
+		></script>
 	</head>
 
 	<body>
 		<!-- Navigation -->
 		<nav
-			class="navbar navbar-default navbar-custom navbar-fixed-top"
+			class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md"
 			style="margin-right: 1em; z-index: 1"
 		>
-			<div class="container-fluid">
-				<!-- Brand and toggle get grouped for better mobile display -->
-				<div class="navbar-header page-scroll">
-					<button
-						type="button"
-						class="navbar-toggle"
-						data-toggle="collapse"
-						data-target="#bs-example-navbar-collapse-1"
-					>
-						<i class="fa fa-bars fa-lg"></i>
-					</button>
-					<a href="/" title="HOME"
-						><img
-							src="/Logo2019-wm3.png"
-							alt="logo"
-							style="width: 150px; cursor: pointer; margin-top: 15px"
-					/></a>
-				</div>
-
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul
-						class="nav navbar-nav navbar-right"
-						style="
-							margin-right: 1em;
-							text-shadow: -0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
-								0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
-								-0.025em 0.025em 0 rgba(0, 133, 161, 0.75),
-								0.025em 0.025em 0 rgba(0, 133, 161, 0.75);
-						"
-					>
-						<li class="active"><a href="/portfolio/">PORTFOLIO</a></li>
-
-						<li><a href="/blog/">BLOG</a></li>
-
-						<li><a href="/purchase/">PURCHASE</a></li>
-
-						<li><a href="/about/">ABOUT</a></li>
-					</ul>
-				</div>
-				<!-- /.navbar-collapse -->
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<button
+				type="button"
+				class="navbar-toggler"
+				data-toggle="collapse"
+				data-target="#bs-example-navbar-collapse-1"
+			>
+				<i class="fa fa-bars fa-lg"></i>
+			</button>
+			<a href="/" title="HOME"
+				><img
+					src="/Logo2019-wm3.png"
+					alt="logo"
+					style="width: 150px; cursor: pointer; margin-top: 15px"
+			/></a>
+			<!--
+    Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul
+					class="nav navbar-nav ml-auto"
+					style="
+						margin-right: 1em;
+						text-shadow: -0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
+							0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
+							-0.025em 0.025em 0 rgba(0, 133, 161, 0.75),
+							0.025em 0.025em 0 rgba(0, 133, 161, 0.75);
+					"
+				>
+					<li class="active nav-item">
+						<a href="/portfolio/" class="nav-link">PORTFOLIO</a>
+					</li>
+					<li class="nav-item"><a href="/blog/" class="nav-link">BLOG</a></li>
+					<li class="nav-item">
+						<a href="/purchase/" class="nav-link">PURCHASE</a>
+					</li>
+					<li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a></li>
+				</ul>
 			</div>
+			<!-- /.navbar-collapse -->
 			<!-- /.container -->
 		</nav>
 
@@ -160,328 +166,365 @@
 					<div class="wrapper">
 						<br /><br />
 						<h2>Photos of Landscapes</h2>
-
 						<!-- Gallery __-->
-						<div class="gallery masonry-gallery">
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-1-1600-038777dea.jpg"
-										class="popup"
-										title="Echo Bluff State Park, Missouri"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-1-200-038777dea.webp 200w,
-													/generated/img/portfolio/07/landscapes-1-400-038777dea.webp 400w,
-													/generated/img/portfolio/07/landscapes-1-600-038777dea.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-1-200-038777dea.jpg 200w,
-													/generated/img/portfolio/07/landscapes-1-400-038777dea.jpg 400w,
-													/generated/img/portfolio/07/landscapes-1-600-038777dea.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-1-600-038777dea.jpg"
-												alt="Echo Bluff State Park, Missouri"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Echo Bluff State Park, Missouri</h3>
-										<p>© RainbowMarks.com</p>
+						<div class="container">
+							<div class="d-flex justify-content-center">
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-1-1600-038777dea.jpg"
+													class="popup"
+													title="Echo Bluff State Park, Missouri"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-1-200-038777dea.webp 200w,
+																/generated/img/portfolio/07/landscapes-1-400-038777dea.webp 400w,
+																/generated/img/portfolio/07/landscapes-1-600-038777dea.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-1-200-038777dea.jpg 200w,
+																/generated/img/portfolio/07/landscapes-1-400-038777dea.jpg 400w,
+																/generated/img/portfolio/07/landscapes-1-600-038777dea.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-1-600-038777dea.jpg"
+															alt="Echo Bluff State Park, Missouri"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Echo Bluff State Park, Missouri"
+												>
+													<h3>Echo Bluff State Park, Missouri</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-2-1600-584d18bdc.jpg"
-										class="popup"
-										title="Flat Tops Wilderness Area, Colorado"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-2-200-584d18bdc.webp 200w,
-													/generated/img/portfolio/07/landscapes-2-400-584d18bdc.webp 400w,
-													/generated/img/portfolio/07/landscapes-2-600-584d18bdc.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-2-200-584d18bdc.jpg 200w,
-													/generated/img/portfolio/07/landscapes-2-400-584d18bdc.jpg 400w,
-													/generated/img/portfolio/07/landscapes-2-600-584d18bdc.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-2-600-584d18bdc.jpg"
-												alt="Flat Tops Wilderness Area, Colorado"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Flat Tops Wilderness Area, Colorado</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-2-1600-584d18bdc.jpg"
+													class="popup"
+													title="Flat Tops Wilderness Area, Colorado"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-2-200-584d18bdc.webp 200w,
+																/generated/img/portfolio/07/landscapes-2-400-584d18bdc.webp 400w,
+																/generated/img/portfolio/07/landscapes-2-600-584d18bdc.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-2-200-584d18bdc.jpg 200w,
+																/generated/img/portfolio/07/landscapes-2-400-584d18bdc.jpg 400w,
+																/generated/img/portfolio/07/landscapes-2-600-584d18bdc.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-2-600-584d18bdc.jpg"
+															alt="Flat Tops Wilderness Area, Colorado"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Flat Tops Wilderness Area, Colorado"
+												>
+													<h3>Flat Tops Wilderness Area, Colorado</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-3-1600-9c31f19dc.jpg"
-										class="popup"
-										title="Trapper's Lake Lodge Flat Tops Wilderness, Colorado"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-3-200-9c31f19dc.webp 200w,
-													/generated/img/portfolio/07/landscapes-3-400-9c31f19dc.webp 400w,
-													/generated/img/portfolio/07/landscapes-3-600-9c31f19dc.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-3-200-9c31f19dc.jpg 200w,
-													/generated/img/portfolio/07/landscapes-3-400-9c31f19dc.jpg 400w,
-													/generated/img/portfolio/07/landscapes-3-600-9c31f19dc.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-3-600-9c31f19dc.jpg"
-												alt="Trapper's Lake Lodge Flat Tops Wilderness, Colorado"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Trapper's Lake Lodge Flat Tops Wilderness, Colorado</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-3-1600-9c31f19dc.jpg"
+													class="popup"
+													title="Trapper's Lake Lodge Flat Tops Wilderness, Colorado"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-3-200-9c31f19dc.webp 200w,
+																/generated/img/portfolio/07/landscapes-3-400-9c31f19dc.webp 400w,
+																/generated/img/portfolio/07/landscapes-3-600-9c31f19dc.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-3-200-9c31f19dc.jpg 200w,
+																/generated/img/portfolio/07/landscapes-3-400-9c31f19dc.jpg 400w,
+																/generated/img/portfolio/07/landscapes-3-600-9c31f19dc.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-3-600-9c31f19dc.jpg"
+															alt="Trapper's Lake Lodge Flat Tops Wilderness, Colorado"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Trapper's Lake Lodge Flat Tops Wilderness, Colorado"
+												>
+													<h3>
+														Trapper's Lake Lodge Flat Tops Wilderness, Colorado
+													</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-4-1600-8b7f6ca50.jpg"
-										class="popup"
-										title="Horsetooth Resevoir, Colorado"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-4-200-8b7f6ca50.webp 200w,
-													/generated/img/portfolio/07/landscapes-4-400-8b7f6ca50.webp 400w,
-													/generated/img/portfolio/07/landscapes-4-600-8b7f6ca50.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-4-200-8b7f6ca50.jpg 200w,
-													/generated/img/portfolio/07/landscapes-4-400-8b7f6ca50.jpg 400w,
-													/generated/img/portfolio/07/landscapes-4-600-8b7f6ca50.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-4-600-8b7f6ca50.jpg"
-												alt="Horsetooth Resevoir, Colorado"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Horsetooth Resevoir, Colorado</h3>
-										<p>© RainbowMarks.com</p>
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-4-1600-8b7f6ca50.jpg"
+													class="popup"
+													title="Horsetooth Resevoir, Colorado"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-4-200-8b7f6ca50.webp 200w,
+																/generated/img/portfolio/07/landscapes-4-400-8b7f6ca50.webp 400w,
+																/generated/img/portfolio/07/landscapes-4-600-8b7f6ca50.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-4-200-8b7f6ca50.jpg 200w,
+																/generated/img/portfolio/07/landscapes-4-400-8b7f6ca50.jpg 400w,
+																/generated/img/portfolio/07/landscapes-4-600-8b7f6ca50.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-4-600-8b7f6ca50.jpg"
+															alt="Horsetooth Resevoir, Colorado"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Horsetooth Resevoir, Colorado"
+												>
+													<h3>Horsetooth Resevoir, Colorado</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-5-1600-e87a71f9f.jpg"
-										class="popup"
-										title="Colorado Snow"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-5-200-e87a71f9f.webp 200w,
-													/generated/img/portfolio/07/landscapes-5-400-e87a71f9f.webp 400w,
-													/generated/img/portfolio/07/landscapes-5-600-e87a71f9f.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-5-200-e87a71f9f.jpg 200w,
-													/generated/img/portfolio/07/landscapes-5-400-e87a71f9f.jpg 400w,
-													/generated/img/portfolio/07/landscapes-5-600-e87a71f9f.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-5-600-e87a71f9f.jpg"
-												alt="Colorado Snow"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Colorado Snow</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-5-1600-e87a71f9f.jpg"
+													class="popup"
+													title="Colorado Snow"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-5-200-e87a71f9f.webp 200w,
+																/generated/img/portfolio/07/landscapes-5-400-e87a71f9f.webp 400w,
+																/generated/img/portfolio/07/landscapes-5-600-e87a71f9f.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-5-200-e87a71f9f.jpg 200w,
+																/generated/img/portfolio/07/landscapes-5-400-e87a71f9f.jpg 400w,
+																/generated/img/portfolio/07/landscapes-5-600-e87a71f9f.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-5-600-e87a71f9f.jpg"
+															alt="Colorado Snow"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Colorado Snow">
+													<h3>Colorado Snow</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-6-1600-b0e68a1f3.jpg"
-										class="popup"
-										title="Colorado Mountains"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-6-200-b0e68a1f3.webp 200w,
-													/generated/img/portfolio/07/landscapes-6-400-b0e68a1f3.webp 400w,
-													/generated/img/portfolio/07/landscapes-6-600-b0e68a1f3.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-6-200-b0e68a1f3.jpg 200w,
-													/generated/img/portfolio/07/landscapes-6-400-b0e68a1f3.jpg 400w,
-													/generated/img/portfolio/07/landscapes-6-600-b0e68a1f3.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-6-600-b0e68a1f3.jpg"
-												alt="Colorado Mountains"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Colorado Mountains</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-6-1600-b0e68a1f3.jpg"
+													class="popup"
+													title="Colorado Mountains"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-6-200-b0e68a1f3.webp 200w,
+																/generated/img/portfolio/07/landscapes-6-400-b0e68a1f3.webp 400w,
+																/generated/img/portfolio/07/landscapes-6-600-b0e68a1f3.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-6-200-b0e68a1f3.jpg 200w,
+																/generated/img/portfolio/07/landscapes-6-400-b0e68a1f3.jpg 400w,
+																/generated/img/portfolio/07/landscapes-6-600-b0e68a1f3.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-6-600-b0e68a1f3.jpg"
+															alt="Colorado Mountains"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Colorado Mountains">
+													<h3>Colorado Mountains</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-7-1600-eafde3236.jpg"
-										class="popup"
-										title="Colorado Mountains"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-7-200-eafde3236.webp 200w,
-													/generated/img/portfolio/07/landscapes-7-400-eafde3236.webp 400w,
-													/generated/img/portfolio/07/landscapes-7-600-eafde3236.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-7-200-eafde3236.jpg 200w,
-													/generated/img/portfolio/07/landscapes-7-400-eafde3236.jpg 400w,
-													/generated/img/portfolio/07/landscapes-7-600-eafde3236.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-7-600-eafde3236.jpg"
-												alt="Colorado Mountains"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Colorado Mountains</h3>
-										<p>© RainbowMarks.com</p>
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-7-1600-eafde3236.jpg"
+													class="popup"
+													title="Colorado Mountains"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-7-200-eafde3236.webp 200w,
+																/generated/img/portfolio/07/landscapes-7-400-eafde3236.webp 400w,
+																/generated/img/portfolio/07/landscapes-7-600-eafde3236.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-7-200-eafde3236.jpg 200w,
+																/generated/img/portfolio/07/landscapes-7-400-eafde3236.jpg 400w,
+																/generated/img/portfolio/07/landscapes-7-600-eafde3236.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-7-600-eafde3236.jpg"
+															alt="Colorado Mountains"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Colorado Mountains">
+													<h3>Colorado Mountains</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/07/landscapes-8-1600-5ed78152f.jpg"
-										class="popup"
-										title="Colorado Mountains"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-8-200-5ed78152f.webp 200w,
-													/generated/img/portfolio/07/landscapes-8-400-5ed78152f.webp 400w,
-													/generated/img/portfolio/07/landscapes-8-600-5ed78152f.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/07/landscapes-8-200-5ed78152f.jpg 200w,
-													/generated/img/portfolio/07/landscapes-8-400-5ed78152f.jpg 400w,
-													/generated/img/portfolio/07/landscapes-8-600-5ed78152f.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/07/landscapes-8-600-5ed78152f.jpg"
-												alt="Colorado Mountains"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Colorado Mountains</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/07/landscapes-8-1600-5ed78152f.jpg"
+													class="popup"
+													title="Colorado Mountains"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-8-200-5ed78152f.webp 200w,
+																/generated/img/portfolio/07/landscapes-8-400-5ed78152f.webp 400w,
+																/generated/img/portfolio/07/landscapes-8-600-5ed78152f.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/07/landscapes-8-200-5ed78152f.jpg 200w,
+																/generated/img/portfolio/07/landscapes-8-400-5ed78152f.jpg 400w,
+																/generated/img/portfolio/07/landscapes-8-600-5ed78152f.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/07/landscapes-8-600-5ed78152f.jpg"
+															alt="Colorado Mountains"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Colorado Mountains">
+													<h3>Colorado Mountains</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
+							</div>
 						</div>
 					</div>
 					<!-- END .wrapper -->
@@ -518,8 +561,8 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-						<ul class="list-inline text-center">
+					<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+						<ul class="list-inline text-center justify-content-center">
 							<li>
 								<a
 									href="https://facebook.com/rainbowmarksphoto"

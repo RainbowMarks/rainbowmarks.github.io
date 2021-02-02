@@ -14,7 +14,12 @@
 		<!-- CSS -->
 
 		<!-- Bootstrap Core CSS -->
-		<link rel="stylesheet" href="/css/bootstrap.min.css" />
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+			integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
+			crossorigin="anonymous"
+		/>
 
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
@@ -79,57 +84,58 @@
 		</script>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+			integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+			crossorigin="anonymous"
+		></script>
 	</head>
 
 	<body>
 		<!-- Navigation -->
 		<nav
-			class="navbar navbar-default navbar-custom navbar-fixed-top"
+			class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md"
 			style="margin-right: 1em; z-index: 1"
 		>
-			<div class="container-fluid">
-				<!-- Brand and toggle get grouped for better mobile display -->
-				<div class="navbar-header page-scroll">
-					<button
-						type="button"
-						class="navbar-toggle"
-						data-toggle="collapse"
-						data-target="#bs-example-navbar-collapse-1"
-					>
-						<i class="fa fa-bars fa-lg"></i>
-					</button>
-					<a href="/" title="HOME"
-						><img
-							src="/Logo2019-wm3.png"
-							alt="logo"
-							style="width: 150px; cursor: pointer; margin-top: 15px"
-					/></a>
-				</div>
-
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul
-						class="nav navbar-nav navbar-right"
-						style="
-							margin-right: 1em;
-							text-shadow: -0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
-								0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
-								-0.025em 0.025em 0 rgba(0, 133, 161, 0.75),
-								0.025em 0.025em 0 rgba(0, 133, 161, 0.75);
-						"
-					>
-						<li class="active"><a href="/portfolio/">PORTFOLIO</a></li>
-
-						<li><a href="/blog/">BLOG</a></li>
-
-						<li><a href="/purchase/">PURCHASE</a></li>
-
-						<li><a href="/about/">ABOUT</a></li>
-					</ul>
-				</div>
-				<!-- /.navbar-collapse -->
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<button
+				type="button"
+				class="navbar-toggler"
+				data-toggle="collapse"
+				data-target="#bs-example-navbar-collapse-1"
+			>
+				<i class="fa fa-bars fa-lg"></i>
+			</button>
+			<a href="/" title="HOME"
+				><img
+					src="/Logo2019-wm3.png"
+					alt="logo"
+					style="width: 150px; cursor: pointer; margin-top: 15px"
+			/></a>
+			<!--
+    Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul
+					class="nav navbar-nav ml-auto"
+					style="
+						margin-right: 1em;
+						text-shadow: -0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
+							0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
+							-0.025em 0.025em 0 rgba(0, 133, 161, 0.75),
+							0.025em 0.025em 0 rgba(0, 133, 161, 0.75);
+					"
+				>
+					<li class="active nav-item">
+						<a href="/portfolio/" class="nav-link">PORTFOLIO</a>
+					</li>
+					<li class="nav-item"><a href="/blog/" class="nav-link">BLOG</a></li>
+					<li class="nav-item">
+						<a href="/purchase/" class="nav-link">PURCHASE</a>
+					</li>
+					<li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a></li>
+				</ul>
 			</div>
+			<!-- /.navbar-collapse -->
 			<!-- /.container -->
 		</nav>
 
@@ -160,168 +166,195 @@
 					<div class="wrapper">
 						<br /><br />
 						<h2>Rainbow Photos</h2>
-
 						<!-- Gallery __-->
-						<div class="gallery masonry-gallery">
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/04/rainbows-1-1600-1d88a73db.jpg"
-										class="popup"
-										title="Sydney Opera House Double Rainbow"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-1-200-1d88a73db.webp 200w,
-													/generated/img/portfolio/04/rainbows-1-400-1d88a73db.webp 400w,
-													/generated/img/portfolio/04/rainbows-1-600-1d88a73db.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-1-200-1d88a73db.jpg 200w,
-													/generated/img/portfolio/04/rainbows-1-400-1d88a73db.jpg 400w,
-													/generated/img/portfolio/04/rainbows-1-600-1d88a73db.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/04/rainbows-1-600-1d88a73db.jpg"
-												alt="Sydney Opera House Double Rainbow"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Sydney Opera House Double Rainbow</h3>
-										<p>© RainbowMarks.com</p>
+						<div class="container">
+							<div class="d-flex justify-content-center">
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/04/rainbows-1-1600-1d88a73db.jpg"
+													class="popup"
+													title="Sydney Opera House Double Rainbow"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-1-200-1d88a73db.webp 200w,
+																/generated/img/portfolio/04/rainbows-1-400-1d88a73db.webp 400w,
+																/generated/img/portfolio/04/rainbows-1-600-1d88a73db.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-1-200-1d88a73db.jpg 200w,
+																/generated/img/portfolio/04/rainbows-1-400-1d88a73db.jpg 400w,
+																/generated/img/portfolio/04/rainbows-1-600-1d88a73db.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/04/rainbows-1-600-1d88a73db.jpg"
+															alt="Sydney Opera House Double Rainbow"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Sydney Opera House Double Rainbow"
+												>
+													<h3>Sydney Opera House Double Rainbow</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/04/rainbows-2-1600-e61fc72a2.jpg"
-										class="popup"
-										title="Golden Gate Bridge Rainbow"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-2-200-e61fc72a2.webp 200w,
-													/generated/img/portfolio/04/rainbows-2-400-e61fc72a2.webp 400w,
-													/generated/img/portfolio/04/rainbows-2-600-e61fc72a2.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-2-200-e61fc72a2.jpg 200w,
-													/generated/img/portfolio/04/rainbows-2-400-e61fc72a2.jpg 400w,
-													/generated/img/portfolio/04/rainbows-2-600-e61fc72a2.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/04/rainbows-2-600-e61fc72a2.jpg"
-												alt="Golden Gate Bridge Rainbow"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Golden Gate Bridge Rainbow</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/04/rainbows-2-1600-e61fc72a2.jpg"
+													class="popup"
+													title="Golden Gate Bridge Rainbow"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-2-200-e61fc72a2.webp 200w,
+																/generated/img/portfolio/04/rainbows-2-400-e61fc72a2.webp 400w,
+																/generated/img/portfolio/04/rainbows-2-600-e61fc72a2.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-2-200-e61fc72a2.jpg 200w,
+																/generated/img/portfolio/04/rainbows-2-400-e61fc72a2.jpg 400w,
+																/generated/img/portfolio/04/rainbows-2-600-e61fc72a2.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/04/rainbows-2-600-e61fc72a2.jpg"
+															alt="Golden Gate Bridge Rainbow"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Golden Gate Bridge Rainbow"
+												>
+													<h3>Golden Gate Bridge Rainbow</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/04/rainbows-3-1600-fa29f2be7.jpg"
-										class="popup"
-										title="Golden Gate Bridge Rainbow"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-3-200-fa29f2be7.webp 200w,
-													/generated/img/portfolio/04/rainbows-3-400-fa29f2be7.webp 400w,
-													/generated/img/portfolio/04/rainbows-3-600-fa29f2be7.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-3-200-fa29f2be7.jpg 200w,
-													/generated/img/portfolio/04/rainbows-3-400-fa29f2be7.jpg 400w,
-													/generated/img/portfolio/04/rainbows-3-600-fa29f2be7.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/04/rainbows-3-600-fa29f2be7.jpg"
-												alt="Golden Gate Bridge Rainbow"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Golden Gate Bridge Rainbow</h3>
-										<p>© RainbowMarks.com</p>
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/04/rainbows-3-1600-fa29f2be7.jpg"
+													class="popup"
+													title="Golden Gate Bridge Rainbow"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-3-200-fa29f2be7.webp 200w,
+																/generated/img/portfolio/04/rainbows-3-400-fa29f2be7.webp 400w,
+																/generated/img/portfolio/04/rainbows-3-600-fa29f2be7.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-3-200-fa29f2be7.jpg 200w,
+																/generated/img/portfolio/04/rainbows-3-400-fa29f2be7.jpg 400w,
+																/generated/img/portfolio/04/rainbows-3-600-fa29f2be7.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/04/rainbows-3-600-fa29f2be7.jpg"
+															alt="Golden Gate Bridge Rainbow"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Golden Gate Bridge Rainbow"
+												>
+													<h3>Golden Gate Bridge Rainbow</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/04/rainbows-4-1600-5a625fe86.jpg"
-										class="popup"
-										title="Echo Bluff State Park Lodge with Rainbow"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-4-200-5a625fe86.webp 200w,
-													/generated/img/portfolio/04/rainbows-4-400-5a625fe86.webp 400w,
-													/generated/img/portfolio/04/rainbows-4-600-5a625fe86.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/04/rainbows-4-200-5a625fe86.jpg 200w,
-													/generated/img/portfolio/04/rainbows-4-400-5a625fe86.jpg 400w,
-													/generated/img/portfolio/04/rainbows-4-600-5a625fe86.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/04/rainbows-4-600-5a625fe86.jpg"
-												alt="Echo Bluff State Park Lodge with Rainbow"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Echo Bluff State Park Lodge with Rainbow</h3>
-										<p>© RainbowMarks.com</p>
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/04/rainbows-4-1600-5a625fe86.jpg"
+													class="popup"
+													title="Echo Bluff State Park Lodge with Rainbow"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-4-200-5a625fe86.webp 200w,
+																/generated/img/portfolio/04/rainbows-4-400-5a625fe86.webp 400w,
+																/generated/img/portfolio/04/rainbows-4-600-5a625fe86.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/04/rainbows-4-200-5a625fe86.jpg 200w,
+																/generated/img/portfolio/04/rainbows-4-400-5a625fe86.jpg 400w,
+																/generated/img/portfolio/04/rainbows-4-600-5a625fe86.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/04/rainbows-4-600-5a625fe86.jpg"
+															alt="Echo Bluff State Park Lodge with Rainbow"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Echo Bluff State Park Lodge with Rainbow"
+												>
+													<h3>Echo Bluff State Park Lodge with Rainbow</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
+							</div>
 						</div>
 					</div>
 					<!-- END .wrapper -->
@@ -358,8 +391,8 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-						<ul class="list-inline text-center">
+					<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+						<ul class="list-inline text-center justify-content-center">
 							<li>
 								<a
 									href="https://facebook.com/rainbowmarksphoto"

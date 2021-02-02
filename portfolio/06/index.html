@@ -14,7 +14,12 @@
 		<!-- CSS -->
 
 		<!-- Bootstrap Core CSS -->
-		<link rel="stylesheet" href="/css/bootstrap.min.css" />
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+			integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
+			crossorigin="anonymous"
+		/>
 
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
@@ -79,57 +84,58 @@
 		</script>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+			integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+			crossorigin="anonymous"
+		></script>
 	</head>
 
 	<body>
 		<!-- Navigation -->
 		<nav
-			class="navbar navbar-default navbar-custom navbar-fixed-top"
+			class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md"
 			style="margin-right: 1em; z-index: 1"
 		>
-			<div class="container-fluid">
-				<!-- Brand and toggle get grouped for better mobile display -->
-				<div class="navbar-header page-scroll">
-					<button
-						type="button"
-						class="navbar-toggle"
-						data-toggle="collapse"
-						data-target="#bs-example-navbar-collapse-1"
-					>
-						<i class="fa fa-bars fa-lg"></i>
-					</button>
-					<a href="/" title="HOME"
-						><img
-							src="/Logo2019-wm3.png"
-							alt="logo"
-							style="width: 150px; cursor: pointer; margin-top: 15px"
-					/></a>
-				</div>
-
-				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul
-						class="nav navbar-nav navbar-right"
-						style="
-							margin-right: 1em;
-							text-shadow: -0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
-								0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
-								-0.025em 0.025em 0 rgba(0, 133, 161, 0.75),
-								0.025em 0.025em 0 rgba(0, 133, 161, 0.75);
-						"
-					>
-						<li class="active"><a href="/portfolio/">PORTFOLIO</a></li>
-
-						<li><a href="/blog/">BLOG</a></li>
-
-						<li><a href="/purchase/">PURCHASE</a></li>
-
-						<li><a href="/about/">ABOUT</a></li>
-					</ul>
-				</div>
-				<!-- /.navbar-collapse -->
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<button
+				type="button"
+				class="navbar-toggler"
+				data-toggle="collapse"
+				data-target="#bs-example-navbar-collapse-1"
+			>
+				<i class="fa fa-bars fa-lg"></i>
+			</button>
+			<a href="/" title="HOME"
+				><img
+					src="/Logo2019-wm3.png"
+					alt="logo"
+					style="width: 150px; cursor: pointer; margin-top: 15px"
+			/></a>
+			<!--
+    Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul
+					class="nav navbar-nav ml-auto"
+					style="
+						margin-right: 1em;
+						text-shadow: -0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
+							0.025em -0.025em 0 rgba(0, 133, 161, 0.75),
+							-0.025em 0.025em 0 rgba(0, 133, 161, 0.75),
+							0.025em 0.025em 0 rgba(0, 133, 161, 0.75);
+					"
+				>
+					<li class="active nav-item">
+						<a href="/portfolio/" class="nav-link">PORTFOLIO</a>
+					</li>
+					<li class="nav-item"><a href="/blog/" class="nav-link">BLOG</a></li>
+					<li class="nav-item">
+						<a href="/purchase/" class="nav-link">PURCHASE</a>
+					</li>
+					<li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a></li>
+				</ul>
 			</div>
+			<!-- /.navbar-collapse -->
 			<!-- /.container -->
 		</nav>
 
@@ -160,448 +166,486 @@
 					<div class="wrapper">
 						<br /><br />
 						<h2>Photos of Celestial Bodies</h2>
-
 						<!-- Gallery __-->
-						<div class="gallery masonry-gallery">
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-1-1483-72f639815.jpg"
-										class="popup"
-										title="Moon in a blue sky"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-1-200-72f639815.webp 200w,
-													/generated/img/portfolio/06/stars-1-400-72f639815.webp 400w,
-													/generated/img/portfolio/06/stars-1-600-72f639815.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-1-200-72f639815.jpg 200w,
-													/generated/img/portfolio/06/stars-1-400-72f639815.jpg 400w,
-													/generated/img/portfolio/06/stars-1-600-72f639815.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-1-600-72f639815.jpg"
-												alt="Moon in a blue sky"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Moon in a blue sky</h3>
-										<p>© RainbowMarks.com</p>
+						<div class="container">
+							<div class="d-flex justify-content-center">
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-1-1483-72f639815.jpg"
+													class="popup"
+													title="Moon in a blue sky"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-1-200-72f639815.webp 200w,
+																/generated/img/portfolio/06/stars-1-400-72f639815.webp 400w,
+																/generated/img/portfolio/06/stars-1-600-72f639815.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-1-200-72f639815.jpg 200w,
+																/generated/img/portfolio/06/stars-1-400-72f639815.jpg 400w,
+																/generated/img/portfolio/06/stars-1-600-72f639815.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-1-600-72f639815.jpg"
+															alt="Moon in a blue sky"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Moon in a blue sky">
+													<h3>Moon in a blue sky</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-2-1600-e1830935f.jpg"
-										class="popup"
-										title="Milky Way over Missouri Sky"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-2-200-e1830935f.webp 200w,
-													/generated/img/portfolio/06/stars-2-400-e1830935f.webp 400w,
-													/generated/img/portfolio/06/stars-2-600-e1830935f.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-2-200-e1830935f.jpg 200w,
-													/generated/img/portfolio/06/stars-2-400-e1830935f.jpg 400w,
-													/generated/img/portfolio/06/stars-2-600-e1830935f.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-2-600-e1830935f.jpg"
-												alt="Milky Way over Missouri Sky"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Milky Way over Missouri Sky</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-2-1600-e1830935f.jpg"
+													class="popup"
+													title="Milky Way over Missouri Sky"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-2-200-e1830935f.webp 200w,
+																/generated/img/portfolio/06/stars-2-400-e1830935f.webp 400w,
+																/generated/img/portfolio/06/stars-2-600-e1830935f.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-2-200-e1830935f.jpg 200w,
+																/generated/img/portfolio/06/stars-2-400-e1830935f.jpg 400w,
+																/generated/img/portfolio/06/stars-2-600-e1830935f.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-2-600-e1830935f.jpg"
+															alt="Milky Way over Missouri Sky"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Milky Way over Missouri Sky"
+												>
+													<h3>Milky Way over Missouri Sky</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-3-1600-a11f1701c.jpg"
-										class="popup"
-										title="Full Moon"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-3-200-a11f1701c.webp 200w,
-													/generated/img/portfolio/06/stars-3-400-a11f1701c.webp 400w,
-													/generated/img/portfolio/06/stars-3-600-a11f1701c.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-3-200-a11f1701c.jpg 200w,
-													/generated/img/portfolio/06/stars-3-400-a11f1701c.jpg 400w,
-													/generated/img/portfolio/06/stars-3-600-a11f1701c.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-3-600-a11f1701c.jpg"
-												alt="Full Moon"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Full Moon</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-3-1600-a11f1701c.jpg"
+													class="popup"
+													title="Full Moon"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-3-200-a11f1701c.webp 200w,
+																/generated/img/portfolio/06/stars-3-400-a11f1701c.webp 400w,
+																/generated/img/portfolio/06/stars-3-600-a11f1701c.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-3-200-a11f1701c.jpg 200w,
+																/generated/img/portfolio/06/stars-3-400-a11f1701c.jpg 400w,
+																/generated/img/portfolio/06/stars-3-600-a11f1701c.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-3-600-a11f1701c.jpg"
+															alt="Full Moon"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Full Moon">
+													<h3>Full Moon</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-4-1600-6a3e33708.jpg"
-										class="popup"
-										title="Milky Way over Missouri Sky"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-4-200-6a3e33708.webp 200w,
-													/generated/img/portfolio/06/stars-4-400-6a3e33708.webp 400w,
-													/generated/img/portfolio/06/stars-4-600-6a3e33708.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-4-200-6a3e33708.jpg 200w,
-													/generated/img/portfolio/06/stars-4-400-6a3e33708.jpg 400w,
-													/generated/img/portfolio/06/stars-4-600-6a3e33708.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-4-600-6a3e33708.jpg"
-												alt="Milky Way over Missouri Sky"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Milky Way over Missouri Sky</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-4-1600-6a3e33708.jpg"
+													class="popup"
+													title="Milky Way over Missouri Sky"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-4-200-6a3e33708.webp 200w,
+																/generated/img/portfolio/06/stars-4-400-6a3e33708.webp 400w,
+																/generated/img/portfolio/06/stars-4-600-6a3e33708.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-4-200-6a3e33708.jpg 200w,
+																/generated/img/portfolio/06/stars-4-400-6a3e33708.jpg 400w,
+																/generated/img/portfolio/06/stars-4-600-6a3e33708.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-4-600-6a3e33708.jpg"
+															alt="Milky Way over Missouri Sky"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="Milky Way over Missouri Sky"
+												>
+													<h3>Milky Way over Missouri Sky</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-5-1600-24ab0f204.jpg"
-										class="popup"
-										title="2017 Lunar Eclipse Sun Spots"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-5-200-24ab0f204.webp 200w,
-													/generated/img/portfolio/06/stars-5-400-24ab0f204.webp 400w,
-													/generated/img/portfolio/06/stars-5-600-24ab0f204.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-5-200-24ab0f204.jpg 200w,
-													/generated/img/portfolio/06/stars-5-400-24ab0f204.jpg 400w,
-													/generated/img/portfolio/06/stars-5-600-24ab0f204.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-5-600-24ab0f204.jpg"
-												alt="2017 Lunar Eclipse Sun Spots"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>2017 Lunar Eclipse Sun Spots</h3>
-										<p>© RainbowMarks.com</p>
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-5-1600-24ab0f204.jpg"
+													class="popup"
+													title="2017 Lunar Eclipse Sun Spots"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-5-200-24ab0f204.webp 200w,
+																/generated/img/portfolio/06/stars-5-400-24ab0f204.webp 400w,
+																/generated/img/portfolio/06/stars-5-600-24ab0f204.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-5-200-24ab0f204.jpg 200w,
+																/generated/img/portfolio/06/stars-5-400-24ab0f204.jpg 400w,
+																/generated/img/portfolio/06/stars-5-600-24ab0f204.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-5-600-24ab0f204.jpg"
+															alt="2017 Lunar Eclipse Sun Spots"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div
+													class="entry-summary"
+													id="2017 Lunar Eclipse Sun Spots"
+												>
+													<h3>2017 Lunar Eclipse Sun Spots</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-6-1600-ebbaa5146.jpg"
-										class="popup"
-										title="2017 Lunar Eclipse"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-6-200-ebbaa5146.webp 200w,
-													/generated/img/portfolio/06/stars-6-400-ebbaa5146.webp 400w,
-													/generated/img/portfolio/06/stars-6-600-ebbaa5146.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-6-200-ebbaa5146.jpg 200w,
-													/generated/img/portfolio/06/stars-6-400-ebbaa5146.jpg 400w,
-													/generated/img/portfolio/06/stars-6-600-ebbaa5146.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-6-600-ebbaa5146.jpg"
-												alt="2017 Lunar Eclipse"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>2017 Lunar Eclipse</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-6-1600-ebbaa5146.jpg"
+													class="popup"
+													title="2017 Lunar Eclipse"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-6-200-ebbaa5146.webp 200w,
+																/generated/img/portfolio/06/stars-6-400-ebbaa5146.webp 400w,
+																/generated/img/portfolio/06/stars-6-600-ebbaa5146.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-6-200-ebbaa5146.jpg 200w,
+																/generated/img/portfolio/06/stars-6-400-ebbaa5146.jpg 400w,
+																/generated/img/portfolio/06/stars-6-600-ebbaa5146.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-6-600-ebbaa5146.jpg"
+															alt="2017 Lunar Eclipse"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="2017 Lunar Eclipse">
+													<h3>2017 Lunar Eclipse</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-7-1600-9d041457c.jpg"
-										class="popup"
-										title="2017 Lunar Eclipse"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-7-200-9d041457c.webp 200w,
-													/generated/img/portfolio/06/stars-7-400-9d041457c.webp 400w,
-													/generated/img/portfolio/06/stars-7-600-9d041457c.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-7-200-9d041457c.jpg 200w,
-													/generated/img/portfolio/06/stars-7-400-9d041457c.jpg 400w,
-													/generated/img/portfolio/06/stars-7-600-9d041457c.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-7-600-9d041457c.jpg"
-												alt="2017 Lunar Eclipse"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>2017 Lunar Eclipse</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-7-1600-9d041457c.jpg"
+													class="popup"
+													title="2017 Lunar Eclipse"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-7-200-9d041457c.webp 200w,
+																/generated/img/portfolio/06/stars-7-400-9d041457c.webp 400w,
+																/generated/img/portfolio/06/stars-7-600-9d041457c.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-7-200-9d041457c.jpg 200w,
+																/generated/img/portfolio/06/stars-7-400-9d041457c.jpg 400w,
+																/generated/img/portfolio/06/stars-7-600-9d041457c.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-7-600-9d041457c.jpg"
+															alt="2017 Lunar Eclipse"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="2017 Lunar Eclipse">
+													<h3>2017 Lunar Eclipse</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-8-1600-e9d55a9c0.jpg"
-										class="popup"
-										title="2017 Lunar Eclipse"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-8-200-e9d55a9c0.webp 200w,
-													/generated/img/portfolio/06/stars-8-400-e9d55a9c0.webp 400w,
-													/generated/img/portfolio/06/stars-8-600-e9d55a9c0.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-8-200-e9d55a9c0.jpg 200w,
-													/generated/img/portfolio/06/stars-8-400-e9d55a9c0.jpg 400w,
-													/generated/img/portfolio/06/stars-8-600-e9d55a9c0.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-8-600-e9d55a9c0.jpg"
-												alt="2017 Lunar Eclipse"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>2017 Lunar Eclipse</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-8-1600-e9d55a9c0.jpg"
+													class="popup"
+													title="2017 Lunar Eclipse"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-8-200-e9d55a9c0.webp 200w,
+																/generated/img/portfolio/06/stars-8-400-e9d55a9c0.webp 400w,
+																/generated/img/portfolio/06/stars-8-600-e9d55a9c0.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-8-200-e9d55a9c0.jpg 200w,
+																/generated/img/portfolio/06/stars-8-400-e9d55a9c0.jpg 400w,
+																/generated/img/portfolio/06/stars-8-600-e9d55a9c0.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-8-600-e9d55a9c0.jpg"
+															alt="2017 Lunar Eclipse"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="2017 Lunar Eclipse">
+													<h3>2017 Lunar Eclipse</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-9-1600-d9b166192.jpg"
-										class="popup"
-										title="Neowise Comit"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-9-200-d9b166192.webp 200w,
-													/generated/img/portfolio/06/stars-9-400-d9b166192.webp 400w,
-													/generated/img/portfolio/06/stars-9-600-d9b166192.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-9-200-d9b166192.jpg 200w,
-													/generated/img/portfolio/06/stars-9-400-d9b166192.jpg 400w,
-													/generated/img/portfolio/06/stars-9-600-d9b166192.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-9-600-d9b166192.jpg"
-												alt="Neowise Comit"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Neowise Comit</h3>
-										<p>© RainbowMarks.com</p>
+								<div class="d-flex flex-column">
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-9-1600-d9b166192.jpg"
+													class="popup"
+													title="Neowise Comit"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-9-200-d9b166192.webp 200w,
+																/generated/img/portfolio/06/stars-9-400-d9b166192.webp 400w,
+																/generated/img/portfolio/06/stars-9-600-d9b166192.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-9-200-d9b166192.jpg 200w,
+																/generated/img/portfolio/06/stars-9-400-d9b166192.jpg 400w,
+																/generated/img/portfolio/06/stars-9-600-d9b166192.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-9-600-d9b166192.jpg"
+															alt="Neowise Comit"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Neowise Comit">
+													<h3>Neowise Comit</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-10-1600-4d504362d.jpg"
-										class="popup"
-										title="Neowise Comit"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-10-200-4d504362d.webp 200w,
-													/generated/img/portfolio/06/stars-10-400-4d504362d.webp 400w,
-													/generated/img/portfolio/06/stars-10-600-4d504362d.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-10-200-4d504362d.jpg 200w,
-													/generated/img/portfolio/06/stars-10-400-4d504362d.jpg 400w,
-													/generated/img/portfolio/06/stars-10-600-4d504362d.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-10-600-4d504362d.jpg"
-												alt="Neowise Comit"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Neowise Comit</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-10-1600-4d504362d.jpg"
+													class="popup"
+													title="Neowise Comit"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-10-200-4d504362d.webp 200w,
+																/generated/img/portfolio/06/stars-10-400-4d504362d.webp 400w,
+																/generated/img/portfolio/06/stars-10-600-4d504362d.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-10-200-4d504362d.jpg 200w,
+																/generated/img/portfolio/06/stars-10-400-4d504362d.jpg 400w,
+																/generated/img/portfolio/06/stars-10-600-4d504362d.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-10-600-4d504362d.jpg"
+															alt="Neowise Comit"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Neowise Comit">
+													<h3>Neowise Comit</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
 
-							<figure class="gallery-item">
-								<header class="gallery-icon">
-									<a
-										href="/generated/img/portfolio/06/stars-11-1600-bd78f2e42.jpg"
-										class="popup"
-										title="Neowise Comit"
-										data-caption="© RainbowMarks.com"
-									>
-										<picture>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-11-200-bd78f2e42.webp 200w,
-													/generated/img/portfolio/06/stars-11-400-bd78f2e42.webp 400w,
-													/generated/img/portfolio/06/stars-11-600-bd78f2e42.webp 600w
-												"
-												type="image/webp"
-											/>
-											<source
-												srcset="
-													/generated/img/portfolio/06/stars-11-200-bd78f2e42.jpg 200w,
-													/generated/img/portfolio/06/stars-11-400-bd78f2e42.jpg 400w,
-													/generated/img/portfolio/06/stars-11-600-bd78f2e42.jpg 600w
-												"
-												type="image/jpeg"
-											/>
-											<img
-												src="/generated/img/portfolio/06/stars-11-600-bd78f2e42.jpg"
-												alt="Neowise Comit"
-											/>
-										</picture>
-									</a>
-								</header>
-								<figcaption class="gallery-caption">
-									<div class="entry-summary">
-										<h3>Neowise Comit</h3>
-										<p>© RainbowMarks.com</p>
+									<div class="p-0">
+										<figure class="gallery-item">
+											<header class="gallery-icon">
+												<a
+													href="/generated/img/portfolio/06/stars-11-1600-bd78f2e42.jpg"
+													class="popup"
+													title="Neowise Comit"
+													data-caption="© RainbowMarks.com"
+												>
+													<picture>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-11-200-bd78f2e42.webp 200w,
+																/generated/img/portfolio/06/stars-11-400-bd78f2e42.webp 400w,
+																/generated/img/portfolio/06/stars-11-600-bd78f2e42.webp 600w
+															"
+															type="image/webp"
+														/>
+														<source
+															srcset="
+																/generated/img/portfolio/06/stars-11-200-bd78f2e42.jpg 200w,
+																/generated/img/portfolio/06/stars-11-400-bd78f2e42.jpg 400w,
+																/generated/img/portfolio/06/stars-11-600-bd78f2e42.jpg 600w
+															"
+															type="image/jpeg"
+														/>
+														<img
+															src="/generated/img/portfolio/06/stars-11-600-bd78f2e42.jpg"
+															alt="Neowise Comit"
+														/>
+													</picture>
+												</a>
+											</header>
+											<figcaption class="gallery-caption">
+												<div class="entry-summary" id="Neowise Comit">
+													<h3>Neowise Comit</h3>
+													<p>© RainbowMarks.com</p>
+												</div>
+											</figcaption>
+										</figure>
 									</div>
-								</figcaption>
-							</figure>
+								</div>
+							</div>
 						</div>
 					</div>
 					<!-- END .wrapper -->
@@ -638,8 +682,8 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-						<ul class="list-inline text-center">
+					<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+						<ul class="list-inline text-center justify-content-center">
 							<li>
 								<a
 									href="https://facebook.com/rainbowmarksphoto"
