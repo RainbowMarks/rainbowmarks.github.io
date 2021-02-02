@@ -127,10 +127,10 @@ images:
         {% if i == 0 %}
         <div class="d-flex flex-column">
         {% elsif i == secondcolumnstart %}
-        </div>
+        
         <div class="d-flex flex-column">
         {% elsif i == thirdcolumnstart %}
-        </div>
+        
         <div class="d-flex flex-column">
         {% else %}
 
@@ -155,12 +155,24 @@ images:
           </figure>
         </div>	
 
+        {% if i == 0 %}
+        </div>
+        {% elsif i == secondcolumnstart %}
+        </div>
+        
+        {% elsif i == thirdcolumnstart %}
+        </div>
+        
+        {% else %}
+
+        {% endif %}
+
       {% increment i %}
 
       {% endfor %}
 
 
-        </div>
+        
 			  </div>
       </div> 
 		</div><!-- END .wrapper -->
