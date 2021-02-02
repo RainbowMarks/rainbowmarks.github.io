@@ -430,5 +430,5 @@ body {
   flex-direction: row;;
 }
 
-.pager li{list-style:none;}
+.pager .btn{ border:0;}
 

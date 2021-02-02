@@ -35,39 +35,36 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col">
-      {{ content }}
-      <br>
-      <br>
-      <br>
+        {{ content }}
+        <br>
+        <br>
+        <br>
 
 
-      {% include signoff.html %}
-      <hr class="small">
-      {% if site.share %}{% include share.html %}{% endif %}
+        {% include signoff.html %}
+        <hr class="small">
+        {% if site.share %}{% include share.html %}{% endif %}
 
-      <br>
+        <br>
 
-      <ul class="d-flex justify-content-between">
-        {% if page.previous.url %}
-        <li class="pager-button btn btn-outline-primary">
-          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
-            data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="pager-button btn btn-outline-primary">
-          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
-            data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-        </li>
-        {% endif %}
-      </ul>
+        <ul class="d-flex justify-content-between pager">
+          {% if page.previous.url %}
+          <li class="pager-button btn btn-outline-primary">
+            <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
+              data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+          </li>
+          {% endif %}
+          {% if page.next.url %}
+          <li class="pager-button btn btn-outline-primary">
+            <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
+              data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+          </li>
+          {% endif %}
+        </ul>
 
+        {% if site.comments %}{% include disqus_comments.html %}{% endif %}
 
-      {% if site.comments %}{% include disqus_comments.html %}{% endif %}
-
-
-
-    </div>
+      </div>
     </div>
   </div>
 </article>
@@ -75,9 +72,6 @@ layout: default
 <br>
 
 <hr class="medium">
-
-
-
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ site.baseurl }}/js/main.min.js "></script>
