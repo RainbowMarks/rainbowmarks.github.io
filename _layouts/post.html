@@ -49,15 +49,15 @@ layout: default
 
       <br>
 
-      <ul class="pager">
+      <ul class="d-flex justify-content-between">
         {% if page.previous.url %}
-        <li class="previous">
+        <li class="pager-button btn btn-outline-primary">
           <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
             data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
         </li>
         {% endif %}
         {% if page.next.url %}
-        <li class="next">
+        <li class="pager-button btn btn-outline-primary">
           <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip"
             data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
         </li>
