@@ -155,19 +155,21 @@ images:
           </figure>
         </div>	
 
-        {% if i == 0 %}
-        </div>
-        {% elsif i == secondcolumnstart %}
-        </div>
-        
-        {% elsif i == thirdcolumnstart %}
-        </div>
-        
-        {% else %}
-
-        {% endif %}
 
       {% increment i %}
+
+      {% if i == secondcolumnstart %}
+      </div>
+    
+      {% elsif i == thirdcolumnstart %}
+      </div>
+    
+      
+      {% elsif i == totimages %}
+      </div>
+      {% else %}
+
+      {% endif %}
 
       {% endfor %}
 
