@@ -419,9 +419,8 @@ body {
 .d-flex .p-0{
   width:300px;
 }
-.d-flex figure{
+.d-flex figure, figure.gallery-item{
   margin: 0 0 0 0;
-
 }
 
 .list-inline > li {
