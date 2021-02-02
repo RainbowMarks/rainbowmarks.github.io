@@ -52,58 +52,92 @@ images:
    copyright: © RainbowMarks.com
 ---
  
-	<section id="content" role="main">
-		<div class="wrapper">
-	<br><br>
-			<h2>{{page.album-title}}</h2>
+<section id="content" role="main">
+  <div class="wrapper">
+<br><br>
+    <h2>{{page.album-title}}</h2>
+    <!-- Gallery __-->
+    <div class="container">
+      <div class="d-flex justify-content-center">
 
+      {% assign i = 0 %}
+      {% assign totimages = page.images.size %}
+      {% assign modval = totimages | modulo: 3  %}
+      {% assign columncount = totimages | divided_by: 3 %}
+      
+      {% if modval > 0 %}
+        {% assign secondcolumnstart = columncount | plus: 1 %}
 
-			<!-- Gallery __-->
-			<div class="gallery masonry-gallery">
-		
-{% for image in page.images %}  		
+        {% if modval == 2 %}
+        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}
+          {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}
+        {% else %}
+          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}
+        {% endif %}
 
-				<figure class="gallery-item">
-					<header class="gallery-icon">
+      {% else %}
+        {% assign secondcolumnstart = columncount %}
+        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}
+      {% endif %}
+      
+      {% for image in page.images %}  		
+      {% if i == 0 %}
+      <div class="d-flex flex-column">
+      {% elsif i == secondcolumnstart %}       
+      <div class="d-flex flex-column">
+      {% elsif i == thirdcolumnstart %}
+      <div class="d-flex flex-column">
+      {% else %}
+      {% endif %}
 
+      <div class="p-0">
+        <figure class="gallery-item">
+          <header class="gallery-icon">
             <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-              {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
-              </a>
-						
-					</header>	
-					<figcaption class="gallery-caption">
-						<div class="entry-summary">
-							<h3>{{image.caption}}</h3>
-							<p>{{image.copyright}}</p>
-						</div>
-					</figcaption>
-				</figure>
-				
-{% endfor %}
-
-			</div>
-
-		</div><!-- END .wrapper -->
-	</section>
+            {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
+            </a>              
+          </header>	
+          <figcaption class="gallery-caption">
+            <div class="entry-summary" id="{{ image.caption }}">
+              <h3>{{image.caption}}</h3>
+              <p>{{image.copyright}}</p>
+            </div>
+          </figcaption>
+        </figure>
+      </div>	
+    {% assign i = i | plus:1 %}
+    {% if i == secondcolumnstart %}
+    </div>
+    {% elsif i == thirdcolumnstart %}
+    </div>
+    {% elsif i == totimages %}
+    </div>
+    {% else %}
+    {% endif %}
+    {% endfor %}        
+      </div>
+    </div> 
+  </div><!-- END .wrapper -->
+</section>
 
 
 <!-- include image popups -->
 <script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function($) {
-        $('a.popup').magnificPopup({
-          type: 'image',
-	  gallery:{
-         enabled:true,
-         navigateByImgClick: true,
-         preload: [0,1] // Will preload 0 - before current, and 1 after the current image
-       },
-      image: {
-         titleSrc: function(item) {
-             return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
-            }
-        }
-          // other options
-      });
+  <script type="text/javascript">
+    $(document).ready(function($) {
+      $('a.popup').magnificPopup({
+        type: 'image',
+  gallery:{
+       enabled:true,
+       navigateByImgClick: true,
+       preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+     },
+    image: {
+       titleSrc: function(item) {
+           return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+          }
+      }
+        // other options
+    });
 });
-    </script>
+  </script>
