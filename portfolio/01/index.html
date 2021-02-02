@@ -110,41 +110,44 @@ images:
 			<h2>{{page.album-title}}</h2>
 			<!-- Gallery __-->
       <div class="container">
-        <div class="d-flex flex-column justify-content-center">
+        <div class="d-flex justify-content-center">
   
         {% assign i = 0 %}
-  
         {% assign totimages = page.images.size %}
-  
         {% assign modval = totimages | modulo: 3  %}
+        {% assign columncount = totimages | divided_by: 3 %}
         
-        {% assign columncount = totimages | divide: 3 %}
-        {% assign secondcolumnstart = columncount | plus: modval %}
-        {% assign thirdcolumnstart = firstcolcount | plus: columncount %}
+        {% if modval>0 %}
+          {% assign secondcolumnstart = columncount | plus: 1 %}
+
+          {% if modval == 2 %}
+          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}
+            {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}
+          {% else %}
+            {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}
+          {% endif %}
+
+        {% else %}
+          {% assign secondcolumnstart = columncount %}
+          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}
+        {% endif %}
         
         {% for image in page.images %}  		
-
         {% if i == 0 %}
         <div class="d-flex flex-column">
-        {% elsif i == secondcolumnstart %}
-        
+        {% elsif i == secondcolumnstart %}       
         <div class="d-flex flex-column">
         {% elsif i == thirdcolumnstart %}
-        
         <div class="d-flex flex-column">
         {% else %}
-
         {% endif %}
-
 
         <div class="p-0">
           <figure class="img-fluid">
             <header class="gallery-icon">
-
-  <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-  {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
-  </a>
-              
+              <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+              {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
+              </a>              
             </header>	
             <figcaption class="gallery-caption">
               <div class="entry-summary" id="{{ image.caption }}">
@@ -154,27 +157,16 @@ images:
             </figcaption>
           </figure>
         </div>	
-
-
-      {% increment i %}
-
+      {% assign i = i | plus:1 %}
       {% if i == secondcolumnstart %}
       </div>
-    
       {% elsif i == thirdcolumnstart %}
       </div>
-    
-      
       {% elsif i == totimages %}
       </div>
       {% else %}
-
       {% endif %}
-
-      {% endfor %}
-
-
-        
+      {% endfor %}        
 			  </div>
       </div> 
 		</div><!-- END .wrapper -->
