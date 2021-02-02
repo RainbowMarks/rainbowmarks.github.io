@@ -112,54 +112,48 @@ images:
       <div class="container">
         <div class="d-flex flex-column justify-content-center">
   
-{% 
-  assign i = 0 
+        {% assign i = 0 %}
   
-  assign totimages = page.images.size
+        {% assign totimages = page.images.size %}
   
-  assign modval = totimages | modulo: 3 
+        {% assign modval = totimages | modulo: 3  %}
+        
+        {% assign columncount = totimages | divide: 3 %}
+        {% assign secondcolumnstart = columncount | plus: modval %}
+        {% assign thirdcolumnstart = firstcolcount | plus: columncount %}
+        
+        {% for image in page.images %}  		
 
-  assign columncount = totimages | divide: 3
-  
-  assign secondcolumnstart = columncount | plus: modval
-  
-  assign thirdcolumnstart = firstcolcount | plus: columncount
+        {% if i == 0 %}
+        <div class="d-flex flex-column">
+        {% elsif i == secondcolumnstart %}
+        </div>
+        <div class="d-flex flex-column">
+        {% elsif i == thirdcolumnstart %}
+        </div>
+        <div class="d-flex flex-column">
+        {% else %}
 
-%}
-
-
-{% for image in page.images %}  		
-
-  {% if i == 0 %}
-  <div class="d-flex flex-column">
-  {% elsif i == secondcolumnstart %}
-  </div>
-  <div class="d-flex flex-column">
-  {% elsif i == thirdcolumnstart %}
-  </div>
-  <div class="d-flex flex-column">
-  {% else %}
-
-  {% endif %}
+        {% endif %}
 
 
-      <div class="p-0">
-				<figure class="img-fluid">
-					<header class="gallery-icon">
+        <div class="p-0">
+          <figure class="img-fluid">
+            <header class="gallery-icon">
 
-<a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-{% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
-</a>
-						
-					</header>	
-					<figcaption class="gallery-caption">
-						<div class="entry-summary" id="{{ image.caption }}">
-							<h3>{{image.caption}}</h3>
-							<p>{{image.copyright}}</p>
-						</div>
-					</figcaption>
-				</figure>
-      </div>	
+  <a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+  {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}
+  </a>
+              
+            </header>	
+            <figcaption class="gallery-caption">
+              <div class="entry-summary" id="{{ image.caption }}">
+                <h3>{{image.caption}}</h3>
+                <p>{{image.copyright}}</p>
+              </div>
+            </figcaption>
+          </figure>
+        </div>	
 
       {% assign i = i plus: 1 %}
 
