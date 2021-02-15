@@ -5,16 +5,17 @@
     <description>Website for Rainbow Marks Photography</description>
     <link>https://rainbowmarks.com//</link>
     <atom:link href="https://rainbowmarks.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Feb 2021 06:42:38 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2021 06:42:38 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2021 20:16:19 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2021 20:16:19 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>2021 Presidents Day Jamboree</title>
-        <description>&lt;p&gt;On Friday February 12th, we went with the Chesterfield Falcons to the Kirkwood Ice Rink to take part in the 2021 President's Day Jamboree.&lt;/p&gt;
+        <description>&lt;p&gt;Over President's Day Weekend we went with the Chesterfield Falcons to the Kirkwood Ice Rink to take part in the 2021 President's Day Jamboree, as well as a pair of games in Webster Groves&lt;/p&gt;
 
 &lt;p&gt;Check out some of the photos from their games.&lt;/p&gt;
 
+&lt;h2&gt;2/12/2021&lt;/h2&gt;
 
 
 
@@ -2356,6 +2357,47 @@
 		  &lt;/div&gt;
 		  
 		          
+&lt;/div&gt;
+
+	
+	
+	&lt;!-- include image popups --&gt;
+	&lt;script src=&quot;/js/jquery.magnific-popup.js&quot;&gt;&lt;/script&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		  $(document).ready(function($) {
+			$('a.popup').magnificPopup({
+			  type: 'image',
+		  gallery:{
+			 enabled:true,
+			 navigateByImgClick: true,
+			 preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		   },
+		  image: {
+			 titleSrc: function(item) {
+				 return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+				}
+			}
+			  // other options
+		  });
+	});
+		&lt;/script&gt;
+	
+
+
+&lt;h2&gt;2/14/2021&lt;/h2&gt;
+
+
+
+&lt;div class=&quot;d-flex flex-wrap justify-content-center&quot;&gt;
+	  
+			
+			
+			
+			
+			
+			
+			
+			        
 &lt;/div&gt;
 
 	

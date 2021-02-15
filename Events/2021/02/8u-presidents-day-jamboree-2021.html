@@ -178,12 +178,14 @@
 				<div class="row">
 					<div class="col">
 						<p>
-							On Friday February 12th, we went with the Chesterfield Falcons to
-							the Kirkwood Ice Rink to take part in the 2021 President's Day
-							Jamboree.
+							Over President's Day Weekend we went with the Chesterfield Falcons
+							to the Kirkwood Ice Rink to take part in the 2021 President's Day
+							Jamboree, as well as a pair of games in Webster Groves
 						</p>
 
 						<p>Check out some of the photos from their games.</p>
+
+						<h2>2/12/2021</h2>
 
 						<div class="d-flex flex-wrap justify-content-center">
 							<div class="d-flex flex-column">
@@ -3718,6 +3720,35 @@
 								</div>
 							</div>
 						</div>
+
+						<!-- include image popups -->
+						<script src="/js/jquery.magnific-popup.js"></script>
+						<script type="text/javascript">
+							$(document).ready(function ($) {
+								$("a.popup").magnificPopup({
+									type: "image",
+									gallery: {
+										enabled: true,
+										navigateByImgClick: true,
+										preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+									},
+									image: {
+										titleSrc: function (item) {
+											return (
+												item.el.attr("title") +
+												"&nbsp;" +
+												item.el.attr("data-caption")
+											);
+										},
+									},
+									// other options
+								});
+							});
+						</script>
+
+						<h2>2/14/2021</h2>
+
+						<div class="d-flex flex-wrap justify-content-center"></div>
 
 						<!-- include image popups -->
 						<script src="/js/jquery.magnific-popup.js"></script>
