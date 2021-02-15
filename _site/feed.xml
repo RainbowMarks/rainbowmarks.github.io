@@ -5,16 +5,17 @@
     <description>Website for Rainbow Marks Photography</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Feb 2021 00:39:34 -0600</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2021 00:39:34 -0600</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2021 14:35:04 -0600</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2021 14:35:04 -0600</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>2021 Presidents Day Jamboree</title>
-        <description>&lt;p&gt;On Friday February 12th, we went with the Chesterfield Falcons to the Kirkwood Ice Rink to take part in the 2021 President's Day Jamboree.&lt;/p&gt;
+        <description>&lt;p&gt;Over President's Day Weekend we went with the Chesterfield Falcons to the Kirkwood Ice Rink to take part in the 2021 President's Day Jamboree, as well as a pair of games in Webster Groves&lt;/p&gt;
 
 &lt;p&gt;Check out some of the photos from their games.&lt;/p&gt;
 
+&lt;h2&gt;2/12/2021&lt;/h2&gt;
 
 
 
@@ -2339,6 +2340,1349 @@
   &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/FalconsBlue1-86-200-7512d58e2.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/FalconsBlue1-86-400-7512d58e2.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/FalconsBlue1-86-600-7512d58e2.webp 600w&quot; type=&quot;image/webp&quot;&gt;
   &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/FalconsBlue1-86-200-7512d58e2.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/FalconsBlue1-86-400-7512d58e2.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/FalconsBlue1-86-600-7512d58e2.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
   &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/FalconsBlue1-86-600-7512d58e2.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  &lt;/div&gt;
+		  
+		          
+&lt;/div&gt;
+
+	
+	
+	&lt;!-- include image popups --&gt;
+	&lt;script src=&quot;/js/jquery.magnific-popup.js&quot;&gt;&lt;/script&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+		  $(document).ready(function($) {
+			$('a.popup').magnificPopup({
+			  type: 'image',
+		  gallery:{
+			 enabled:true,
+			 navigateByImgClick: true,
+			 preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		   },
+		  image: {
+			 titleSrc: function(item) {
+				 return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+				}
+			}
+			  // other options
+		  });
+	});
+		&lt;/script&gt;
+	
+
+
+&lt;h2&gt;2/14/2021&lt;/h2&gt;
+
+
+
+&lt;div class=&quot;d-flex flex-wrap justify-content-center&quot;&gt;
+	  
+			
+			
+			
+			
+			
+			
+			
+			  		
+			
+			&lt;div class=&quot;d-flex flex-column&quot;&gt;
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-1600-6e6e07b68.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-200-6e6e07b68.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-400-6e6e07b68.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-600-6e6e07b68.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-200-6e6e07b68.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-400-6e6e07b68.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-600-6e6e07b68.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-1-600-6e6e07b68.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-1600-5e5fdef2c.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-200-5e5fdef2c.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-400-5e5fdef2c.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-600-5e5fdef2c.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-200-5e5fdef2c.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-400-5e5fdef2c.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-600-5e5fdef2c.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-2-600-5e5fdef2c.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-1600-72ce5d9d2.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-200-72ce5d9d2.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-400-72ce5d9d2.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-600-72ce5d9d2.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-200-72ce5d9d2.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-400-72ce5d9d2.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-600-72ce5d9d2.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-3-600-72ce5d9d2.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-1600-d06542a28.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-200-d06542a28.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-400-d06542a28.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-600-d06542a28.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-200-d06542a28.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-400-d06542a28.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-600-d06542a28.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-4-600-d06542a28.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-1600-44c208c2c.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-200-44c208c2c.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-400-44c208c2c.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-600-44c208c2c.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-200-44c208c2c.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-400-44c208c2c.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-600-44c208c2c.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-5-600-44c208c2c.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-1600-9c161975c.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-200-9c161975c.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-400-9c161975c.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-600-9c161975c.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-200-9c161975c.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-400-9c161975c.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-600-9c161975c.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-6-600-9c161975c.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-1600-06940dac0.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-200-06940dac0.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-400-06940dac0.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-600-06940dac0.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-200-06940dac0.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-400-06940dac0.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-600-06940dac0.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-7-600-06940dac0.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-1600-322b3c677.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-200-322b3c677.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-400-322b3c677.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-600-322b3c677.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-200-322b3c677.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-400-322b3c677.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-600-322b3c677.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-8-600-322b3c677.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-1600-efa4f83c1.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-200-efa4f83c1.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-400-efa4f83c1.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-600-efa4f83c1.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-200-efa4f83c1.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-400-efa4f83c1.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-600-efa4f83c1.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-9-600-efa4f83c1.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-1600-dfe5396df.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-200-dfe5396df.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-400-dfe5396df.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-600-dfe5396df.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-200-dfe5396df.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-400-dfe5396df.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-600-dfe5396df.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-10-600-dfe5396df.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-1600-1614951a4.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-200-1614951a4.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-400-1614951a4.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-600-1614951a4.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-200-1614951a4.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-400-1614951a4.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-600-1614951a4.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-11-600-1614951a4.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-1600-2dc7e89ab.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-200-2dc7e89ab.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-400-2dc7e89ab.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-600-2dc7e89ab.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-200-2dc7e89ab.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-400-2dc7e89ab.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-600-2dc7e89ab.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-12-600-2dc7e89ab.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-1600-8681e7982.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-200-8681e7982.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-400-8681e7982.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-600-8681e7982.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-200-8681e7982.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-400-8681e7982.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-600-8681e7982.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-13-600-8681e7982.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-1600-c7daf8154.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-200-c7daf8154.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-400-c7daf8154.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-600-c7daf8154.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-200-c7daf8154.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-400-c7daf8154.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-600-c7daf8154.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-14-600-c7daf8154.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-1600-aaccf929a.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-200-aaccf929a.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-400-aaccf929a.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-600-aaccf929a.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-200-aaccf929a.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-400-aaccf929a.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-600-aaccf929a.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-15-600-aaccf929a.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-1600-16e9ed2ff.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-200-16e9ed2ff.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-400-16e9ed2ff.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-600-16e9ed2ff.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-200-16e9ed2ff.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-400-16e9ed2ff.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-600-16e9ed2ff.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-16-600-16e9ed2ff.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  &lt;/div&gt;
+		  
+		    		
+			       
+			&lt;div class=&quot;d-flex flex-column&quot;&gt;
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-1600-804a844fc.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-200-804a844fc.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-400-804a844fc.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-600-804a844fc.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-200-804a844fc.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-400-804a844fc.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-600-804a844fc.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-17-600-804a844fc.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-1600-86c58b244.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-200-86c58b244.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-400-86c58b244.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-600-86c58b244.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-200-86c58b244.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-400-86c58b244.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-600-86c58b244.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-18-600-86c58b244.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-1600-30bea5518.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-200-30bea5518.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-400-30bea5518.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-600-30bea5518.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-200-30bea5518.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-400-30bea5518.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-600-30bea5518.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-19-600-30bea5518.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-1600-d4e373fff.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-200-d4e373fff.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-400-d4e373fff.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-600-d4e373fff.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-200-d4e373fff.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-400-d4e373fff.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-600-d4e373fff.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-20-600-d4e373fff.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-1600-0864bf938.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-200-0864bf938.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-400-0864bf938.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-600-0864bf938.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-200-0864bf938.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-400-0864bf938.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-600-0864bf938.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-21-600-0864bf938.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-1600-f1f70ab28.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-200-f1f70ab28.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-400-f1f70ab28.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-600-f1f70ab28.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-200-f1f70ab28.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-400-f1f70ab28.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-600-f1f70ab28.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-22-600-f1f70ab28.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-1600-68d137579.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-200-68d137579.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-400-68d137579.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-600-68d137579.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-200-68d137579.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-400-68d137579.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-600-68d137579.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-23-600-68d137579.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-1600-318e1c70f.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-200-318e1c70f.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-400-318e1c70f.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-600-318e1c70f.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-200-318e1c70f.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-400-318e1c70f.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-600-318e1c70f.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-24-600-318e1c70f.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-1600-3d52092f8.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-200-3d52092f8.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-400-3d52092f8.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-600-3d52092f8.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-200-3d52092f8.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-400-3d52092f8.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-600-3d52092f8.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-25-600-3d52092f8.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-1600-cbeb66bc6.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-200-cbeb66bc6.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-400-cbeb66bc6.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-600-cbeb66bc6.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-200-cbeb66bc6.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-400-cbeb66bc6.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-600-cbeb66bc6.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-26-600-cbeb66bc6.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-1600-98a120fdc.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-200-98a120fdc.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-400-98a120fdc.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-600-98a120fdc.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-200-98a120fdc.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-400-98a120fdc.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-600-98a120fdc.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-27-600-98a120fdc.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-1600-9d0bb3abc.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-200-9d0bb3abc.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-400-9d0bb3abc.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-600-9d0bb3abc.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-200-9d0bb3abc.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-400-9d0bb3abc.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-600-9d0bb3abc.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-28-600-9d0bb3abc.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-1600-c395b396b.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-200-c395b396b.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-400-c395b396b.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-600-c395b396b.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-200-c395b396b.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-400-c395b396b.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-600-c395b396b.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-29-600-c395b396b.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-1600-3bc5bd2eb.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-200-3bc5bd2eb.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-400-3bc5bd2eb.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-600-3bc5bd2eb.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-200-3bc5bd2eb.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-400-3bc5bd2eb.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-600-3bc5bd2eb.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-30-600-3bc5bd2eb.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-1600-87229220e.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-200-87229220e.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-400-87229220e.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-600-87229220e.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-200-87229220e.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-400-87229220e.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-600-87229220e.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-31-600-87229220e.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-1600-be0fc3cdd.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-200-be0fc3cdd.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-400-be0fc3cdd.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-600-be0fc3cdd.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-200-be0fc3cdd.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-400-be0fc3cdd.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-600-be0fc3cdd.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-32-600-be0fc3cdd.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  &lt;/div&gt;
+		  
+		    		
+			
+			&lt;div class=&quot;d-flex flex-column&quot;&gt;
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-1600-015d9c674.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-200-015d9c674.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-400-015d9c674.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-600-015d9c674.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-200-015d9c674.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-400-015d9c674.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-600-015d9c674.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-33-600-015d9c674.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-1600-b09d20984.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-200-b09d20984.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-400-b09d20984.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-600-b09d20984.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-200-b09d20984.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-400-b09d20984.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-600-b09d20984.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-34-600-b09d20984.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-1600-62db42dd3.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-200-62db42dd3.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-400-62db42dd3.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-600-62db42dd3.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-200-62db42dd3.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-400-62db42dd3.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-600-62db42dd3.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-35-600-62db42dd3.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-1600-58a5eb6f8.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-200-58a5eb6f8.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-400-58a5eb6f8.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-600-58a5eb6f8.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-200-58a5eb6f8.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-400-58a5eb6f8.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-600-58a5eb6f8.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-36-600-58a5eb6f8.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-1600-050e50792.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-200-050e50792.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-400-050e50792.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-600-050e50792.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-200-050e50792.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-400-050e50792.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-600-050e50792.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-37-600-050e50792.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-1600-01ccfb879.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-200-01ccfb879.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-400-01ccfb879.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-600-01ccfb879.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-200-01ccfb879.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-400-01ccfb879.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-600-01ccfb879.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-38-600-01ccfb879.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-1600-93b16976a.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-200-93b16976a.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-400-93b16976a.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-600-93b16976a.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-200-93b16976a.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-400-93b16976a.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-600-93b16976a.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-39-600-93b16976a.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-1600-1afd188e0.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-200-1afd188e0.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-400-1afd188e0.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-600-1afd188e0.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-200-1afd188e0.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-400-1afd188e0.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-600-1afd188e0.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-40-600-1afd188e0.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-1600-798f3a5e3.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-200-798f3a5e3.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-400-798f3a5e3.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-600-798f3a5e3.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-200-798f3a5e3.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-400-798f3a5e3.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-600-798f3a5e3.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-41-600-798f3a5e3.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-1600-43a3042ff.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-200-43a3042ff.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-400-43a3042ff.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-600-43a3042ff.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-200-43a3042ff.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-400-43a3042ff.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-600-43a3042ff.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-42-600-43a3042ff.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-1600-8eb81f4bb.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-200-8eb81f4bb.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-400-8eb81f4bb.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-600-8eb81f4bb.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-200-8eb81f4bb.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-400-8eb81f4bb.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-600-8eb81f4bb.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-43-600-8eb81f4bb.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-1600-3a29aa618.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-200-3a29aa618.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-400-3a29aa618.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-600-3a29aa618.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-200-3a29aa618.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-400-3a29aa618.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-600-3a29aa618.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-44-600-3a29aa618.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-1600-2f5b59e5b.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-200-2f5b59e5b.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-400-2f5b59e5b.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-600-2f5b59e5b.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-200-2f5b59e5b.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-400-2f5b59e5b.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-600-2f5b59e5b.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-45-600-2f5b59e5b.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-1600-4bc24904d.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-200-4bc24904d.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-400-4bc24904d.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-600-4bc24904d.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-200-4bc24904d.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-400-4bc24904d.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-600-4bc24904d.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-46-600-4bc24904d.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-1600-5503dcddc.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-200-5503dcddc.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-400-5503dcddc.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-600-5503dcddc.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-200-5503dcddc.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-400-5503dcddc.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-600-5503dcddc.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-47-600-5503dcddc.jpg&quot;&gt;
+&lt;/picture&gt;
+
+				  &lt;/a&gt;              
+				&lt;/header&gt;	
+				&lt;figcaption class=&quot;gallery-caption&quot;&gt;
+				  &lt;div class=&quot;entry-summary&quot; id=&quot;&quot;&gt;
+					&lt;h3&gt;&lt;/h3&gt;
+					&lt;p&gt;&lt;/p&gt;
+				  &lt;/div&gt;
+				&lt;/figcaption&gt;
+			  &lt;/figure&gt;
+			&lt;/div&gt;	
+		  
+		  
+		  
+		    		
+			
+			
+	
+			&lt;div class=&quot;p-0&quot;&gt;
+			  &lt;figure class=&quot;gallery-item&quot;&gt;
+				&lt;header class=&quot;gallery-icon&quot;&gt;
+				  &lt;a href=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-1600-63f9617d3.jpg&quot; class=&quot;popup&quot; title=&quot;&quot; data-caption=&quot;&quot;&gt;
+				  &lt;picture&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-200-63f9617d3.webp 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-400-63f9617d3.webp 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-600-63f9617d3.webp 600w&quot; type=&quot;image/webp&quot;&gt;
+  &lt;source srcset=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-200-63f9617d3.jpg 200w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-400-63f9617d3.jpg 400w, /generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-600-63f9617d3.jpg 600w&quot; type=&quot;image/jpeg&quot;&gt;
+  &lt;img src=&quot;/generated/img/posts/2021-presidents-day-jamboree/2-14-2021-48-600-63f9617d3.jpg&quot;&gt;
 &lt;/picture&gt;
 
 				  &lt;/a&gt;              
