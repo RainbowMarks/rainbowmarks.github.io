@@ -5,7 +5,7 @@ subtitle: "Mite Hockey Jamboree in St. Louis President's Day Weekend"
 active: "blog"
 image:
     feature: "/img/posts/2-12-2021.jpg"
-date: '2021-02-15T15:12:54+00:00'
+date: '2021-02-14T15:12:54+00:00'
 permalink: "/Events/2021/02/8u-presidents-day-jamboree-2021"
 header-img: "/img/posts/2-12-2021.jpg"
 comments: "true"

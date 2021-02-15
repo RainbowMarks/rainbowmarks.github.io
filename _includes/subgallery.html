@@ -4,25 +4,31 @@
   {% assign gallery = page.gallery %}
 {% endif %}
 
-<div class="gallery masonry-gallery">
-  {% for img in gallery %}
+      <!-- Gallery __-->
+      <div class="container">
+		<div class="row">
+			
+			{% for img in gallery %}
 
-  <figure class="gallery-item">
-
-	<header class="gallery-icon">
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ img.image_path }}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ img.image_path }}"></a>
-						
-	</header>	
-		
-   <figcaption class="gallery-caption">
-		<div class="entry-summary" id="{{ img.image-caption }}">
-				<h3>{{img.image-caption}}</h3>
-					<p>{{img.image-copyright}}</p>
-						</div>
-					</figcaption>
-				</figure>
-
-  {% endfor %}
+	<div class="col-md-4 p-0">
+			   <figure class="gallery-item">
+					 <figure class="effect-selena">
+				<header class="gallery-icon">
+					<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
+					{% picture portthumb {{ image.image_path }} --alt {{ image.gallery-name }} %}
+					</a>
+				</header>	
+				<figcaption class="gallery-caption">
+					<div class="entry-summary">
+						<h3>{{image.image-caption}}</h3>
+						<p>{{image.image-copyright}}</p>
+					</div>
+				</figcaption>
+				   </figure>
+			</figure>
+  </div>
+{% endfor %}		
+			
+		</div>
 </div>
+
