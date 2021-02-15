@@ -69,6 +69,7 @@
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
 
 
@@ -88,7 +89,7 @@ style="margin-right:1em; z-index: 1;">
     <!--
     Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav ml-auto" style="margin-right:1em; text-shadow: -.025em -.025em 0 rgba(0, 133, 161, 0.75), .025em -.025em 0 rgba(0, 133, 161, 0.75), -.025em .025em 0 rgba(0, 133, 161, 0.75), .025em .025em 0 rgba(0, 133, 161, 0.75);">   
+        <ul class="nav navbar-nav ml-auto">   
             <li class="nav-item"><a href="/portfolio/" class="nav-link">PORTFOLIO</a>
             </li>     
             <li class="active nav-item"><a href="/blog/" class="nav-link">BLOG</a>
@@ -135,26 +136,38 @@ style="margin-right:1em; z-index: 1;">
   <div class="container">
     <div class="row">
       <div class="col">
-      <p>In June 2018 we went down to visit our friends from the High Roller monster truck at the Big Foot Open House in Pacific, Missouri. Check out some of those photos!</p>
+        <p>In June 2018 we went down to visit our friends from the High Roller monster truck at the Big Foot Open House in Pacific, Missouri. Check out some of those photos!</p>
 
 <p>&nbsp;</p>
 
 <div class="d-flex justify-content-center"><a data-flickr-embed="true" data-footer="true" data-header="true" href="https://www.flickr.com/photos/chammond/albums/72157696973934472" title="BigFoot Open House 2018"><img alt="BigFoot Open House 2018" height="427" src="https://live.staticflickr.com/1817/43968261152_c2f4620aa7_z.jpg" width="640" /></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
-      <br>
-      <br>
-      <br>
+        <br>
+        <br>
+        <br>
 
 
-      <div class="post-author text-center">                       
+        <div class="post-author text-center">                       
 	        <img src="/img/ChrisHammond_sq_200.jpg" alt="ChrisHammond's photo" itemprop="image" class="post-avatar img-circle img-responsive"/>    
 	    <h4>By <span itemprop="name" class="fn"><a href="/about/" title="About ChrisHammond" itemprop="url">ChrisHammond</a></span></h4>
 	    <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;font-size:.75em;">photography website for Rainbow Marks Photography</div>
 </div>
-      <hr class="small">
-      
+        <hr class="small">
+        
 
-      
+        <br>
+
+        <ul class="d-flex justify-content-between pager">
+          
+          
+          <li class="pager-button btn btn-outline-primary">
+            <a href="/Events/2019/09/The-Grove-Criterium-2018" data-toggle="tooltip"
+              data-placement="top" title="The Grove Criterium 2018">Next Post &rarr;</a>
+          </li>
+          
+        </ul>
+
+        
 <div id="disqus_thread"></div>
 <script>
         var disqus_config = function () {
@@ -174,18 +187,7 @@ style="margin-right:1em; z-index: 1;">
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 
-      <br>
-
-      <ul class="pager">
-        
-        
-        <li class="next">
-          <a href="/Events/2019/09/The-Grove-Criterium-2018" data-toggle="tooltip"
-            data-placement="top" title="The Grove Criterium 2018">Next Post &rarr;</a>
-        </li>
-        
-      </ul>
-    </div>
+      </div>
     </div>
   </div>
 </article>
@@ -193,8 +195,6 @@ style="margin-right:1em; z-index: 1;">
 <br>
 
 <hr class="medium">
-
-
 
 <!-- Custom Theme JavaScript -->
 <script src="/js/main.min.js "></script>
@@ -219,6 +219,7 @@ style="margin-right:1em; z-index: 1;">
     });
   });
 </script>
+
 
     <!-- Footer -->
 <footer>
