@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Purchase Rainbow Marks Art"
+title: "Purchasing Rainbow Marks Photoraphy"
 description: "Learn more about purchasing our work"
 active: purchase
 header-img: "img/journal/NeowiseComet7-18-2020-5.jpg"
