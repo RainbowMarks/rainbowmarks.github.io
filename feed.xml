@@ -2,23 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rainbow Marks Photography</title>
-    <description>Website for Rainbow Marks Photography</description>
+    <description>Rainbow Marks Photography, Wildwood, Missouri</description>
     <link>https://rainbowmarks.com/</link>
     <atom:link href="https://rainbowmarks.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 03 May 2021 13:26:59 +0000</pubDate>
-    <lastBuildDate>Mon, 03 May 2021 13:26:59 +0000</lastBuildDate>
+    <pubDate>Mon, 03 May 2021 13:44:17 +0000</pubDate>
+    <lastBuildDate>Mon, 03 May 2021 13:44:17 +0000</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>2021 St. Louis Autocross Photos</title>
-        <description>&lt;p&gt;The 2021 Autocross Season is off to a great start here in St. Louis, below you will find photos from the events: &lt;/p&gt;
+        <description>&lt;p&gt;The 2021 Autocross Season is off to a great start here in St. Louis, below you will find photos from the events. Click on the dates below to quickly navigate to a specific event, otherwise you can start scrolling. &lt;/p&gt;
+&lt;style&gt;
+    .datelist{
+        list-style: none;
+    }
+    .datelist li{
+        float:left;
+        margin: 0 30px;
+        
+    }
+    .datelist li a{
+        font-weight:bold;
+    }
+&lt;/style&gt;
 
-&lt;ul&gt;
+&lt;ul class=&quot;datelist&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;#April11&quot;&gt;April 11th, 2021&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;#May2&quot;&gt;May 2nd, 2021&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-
 
 &lt;a name=&quot;April11&quot; &gt;&lt;/a&gt;
 &lt;h2&gt;April 11, 2021&lt;/h2&gt;
@@ -33,7 +44,6 @@
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157718914758054&quot; title=&quot;4-11-2021 Heat 2&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51113358285_2261fa1dbd_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;4-11-2021 Heat 2&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;/p&gt;
 
-
 &lt;a name=&quot;May2&quot;&gt;&lt;/a&gt;
 &lt;h2&gt;May 2, 2021&lt;/h2&gt;
 
@@ -42,13 +52,10 @@
 &lt;p&gt;
     &lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157719081794914&quot; title=&quot;St. louis Autocross 5-2-2021 Heat 2&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51154137041_65cce6ac75_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;St. louis Autocross 5-2-2021 Heat 2&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;/p&gt;
-
 &lt;h3&gt;Heat 3&lt;/h3&gt;
-
 &lt;p&gt;
     &lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157719136115875&quot; title=&quot;St. Louis Autocross 5-2-2021 Heat 3&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51154725363_1638b48171_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;St. Louis Autocross 5-2-2021 Heat 3&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;/p&gt;
-
 &lt;p&gt;St. Louis Autocross Photos by Rainbow Marks Photography. If you are interested in purchasing any of these photos please visit our &lt;a href=&quot;/purchase/&quot;&gt;Purchase page&lt;/a&gt; for more information. &lt;/p&gt;</description>
         <pubDate>Tue, 13 Apr 2021 10:12:54 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/04/st-louis-region-autocross-photos-2021</link>
