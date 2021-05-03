@@ -53,12 +53,16 @@
 <lastmod>2020-07-15T12:21:49-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Events/2020/10/st-louis-region-autocross-photos</loc>
-<lastmod>2020-10-12T10:12:54-05:00</lastmod>
+<loc>http://localhost:4000/blog/st-louis-region-autocross-photos/</loc>
+<lastmod>2020-10-12T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/Events/2021/02/8u-presidents-day-jamboree-2021</loc>
 <lastmod>2021-02-14T18:12:54-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Events/2021/04/st-louis-region-autocross-photos-2021</loc>
+<lastmod>2021-04-13T05:12:54-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/category/cat01/</loc>
@@ -125,5 +129,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page4/</loc>
 </url>
 </urlset>

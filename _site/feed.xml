@@ -2,12 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rainbow Marks Photography</title>
-    <description>Website for Rainbow Marks Photography</description>
+    <description>Rainbow Marks Photography, Wildwood, Missouri</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Feb 2021 14:35:04 -0600</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2021 14:35:04 -0600</lastBuildDate>
+    <pubDate>Mon, 03 May 2021 08:51:50 -0500</pubDate>
+    <lastBuildDate>Mon, 03 May 2021 08:51:50 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>2021 St. Louis Autocross Photos</title>
+        <description>&lt;p&gt;The 2021 Autocross Season is off to a great start here in St. Louis, below you will find photos from the events. Click on the dates below to quickly navigate to a specific event, otherwise you can start scrolling. &lt;/p&gt;
+&lt;style&gt;
+    .datelist{
+        list-style: none;
+        clear:right;
+        display:inline-block;
+    }
+    .datelist li{
+        float:left;
+        margin: 0 30px;
+        
+    }
+    .datelist li a{
+        font-weight:bold;
+    }
+&lt;/style&gt;
+
+&lt;ul class=&quot;datelist&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;#April11&quot;&gt;April 11th, 2021&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#May2&quot;&gt;May 2nd, 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;a name=&quot;April11&quot; &gt;&lt;/a&gt;
+&lt;h2&gt;April 11, 2021&lt;/h2&gt;
+
+&lt;h3&gt;Heat 1&lt;/h3&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157718915542233&quot; title=&quot;4-11-2021 Heat 1&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51112154999_6405ee1b4c_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;4-11-2021 Heat 1&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Heat 2&lt;/h3&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157718914758054&quot; title=&quot;4-11-2021 Heat 2&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51113358285_2261fa1dbd_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;4-11-2021 Heat 2&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;a name=&quot;May2&quot;&gt;&lt;/a&gt;
+&lt;h2&gt;May 2, 2021&lt;/h2&gt;
+
+&lt;h3&gt;Heat 2&lt;/h3&gt;
+
+&lt;p&gt;
+    &lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157719081794914&quot; title=&quot;St. louis Autocross 5-2-2021 Heat 2&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51154137041_65cce6ac75_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;St. louis Autocross 5-2-2021 Heat 2&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;h3&gt;Heat 3&lt;/h3&gt;
+&lt;p&gt;
+    &lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157719136115875&quot; title=&quot;St. Louis Autocross 5-2-2021 Heat 3&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51154725363_1638b48171_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;St. Louis Autocross 5-2-2021 Heat 3&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;St. Louis Autocross Photos by Rainbow Marks Photography. If you are interested in purchasing any of these photos please visit our &lt;a href=&quot;/purchase/&quot;&gt;Purchase page&lt;/a&gt; for more information. &lt;/p&gt;</description>
+        <pubDate>Tue, 13 Apr 2021 05:12:54 -0500</pubDate>
+        <link>http://localhost:4000/Events/2021/04/st-louis-region-autocross-photos-2021</link>
+        <guid isPermaLink="true">http://localhost:4000/Events/2021/04/st-louis-region-autocross-photos-2021</guid>
+        
+        
+      </item>
     
       <item>
         <title>2021 Presidents Day Jamboree</title>
@@ -2383,6 +2440,8 @@
 		&lt;/script&gt;
 	
 
+&lt;br /&gt;
+&lt;br /&gt;
 
 &lt;h2&gt;2/14/2021&lt;/h2&gt;
 
@@ -3734,8 +3793,22 @@
       </item>
     
       <item>
-        <title>2020 St. Louis Region Autocross Photos</title>
-        <description>&lt;p&gt;With a limited number of National events for the 2020 season, local autocross became the focus for many drivers
+        <title>St Louis Region Autocross Photos</title>
+        <description>
+---
+layout: &quot;post&quot;
+title: &quot;2020 St. Louis Region Autocross Photos&quot;
+subtitle: &quot;Autocross photos from the 2020 Season&quot;
+active: &quot;blog&quot;
+image:
+    feature: &quot;/img/posts/MartySmoke-1.jpg&quot;
+date: '2020-10-12T15:12:54+00:00'
+permalink: &quot;/Events/2020/10/st-louis-region-autocross-photos&quot;
+header-img: &quot;/img/posts/MartySmoke-1.jpg&quot;
+comments: &quot;true&quot;
+---
+
+&lt;p&gt;With a limited number of National events for the 2020 season, local autocross became the focus for many drivers
     around the country. In St. Louis we&amp;#39;ve had 8 of 9 events.&amp;nbsp;&lt;/p&gt;
 
 
@@ -3780,10 +3853,17 @@
         title=&quot;St. Louis Region Autocross 10-10-2020 Heat 3&quot;&gt;&lt;img alt=&quot;St. Louis Region Autocross 10-10-2020 Heat 3&quot;
             height=&quot;600&quot; src=&quot;https://live.staticflickr.com/65535/50450667413_e2442d0e2e_c.jpg&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;
     &lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;October 24th, 2020&lt;/h2&gt;
+&lt;p&gt;
+    &lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157716609015033&quot; title=&quot;Event 9 Heat 2&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/50528939842_5190e581cd_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;Event 9 Heat 2&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157716606555747&quot; title=&quot;Event 9 Heat 3&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/50527100677_c4adea1397_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;Event 9 Heat 3&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
 &lt;/p&gt;</description>
-        <pubDate>Mon, 12 Oct 2020 10:12:54 -0500</pubDate>
-        <link>http://localhost:4000/Events/2020/10/st-louis-region-autocross-photos</link>
-        <guid isPermaLink="true">http://localhost:4000/Events/2020/10/st-louis-region-autocross-photos</guid>
+        <pubDate>Mon, 12 Oct 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/st-louis-region-autocross-photos/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/st-louis-region-autocross-photos/</guid>
         
         
       </item>
@@ -4103,18 +4183,6 @@
         <pubDate>Thu, 26 Sep 2019 11:53:37 -0500</pubDate>
         <link>http://localhost:4000/Events/2019/09/Scarecrow-Joe-Sky-Music-Lounge</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2019/09/Scarecrow-Joe-Sky-Music-Lounge</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Photopalooza 2018 - Sip &amp; Shoot</title>
-        <description>&lt;p&gt;November 8th, 2018 RainbowMarks took part in the Creve Coeuer Camera Photopalooza Sip &amp;amp; Shoot out at Smartt Field in St. Charles, MO.&lt;/p&gt;
-&lt;p&gt;This was the first time we&amp;#39;ve had the opportunity to shoot with models, and it was a blast! &lt;a href=&quot;https://www.flickr.com/photos/chammond/sets/72157675438276398&quot; target=&quot;_blank&quot;&gt;Check out some of the 62 photos&lt;/a&gt;!&lt;/p&gt;&lt;div class=&quot;d-flex justify-content-center&quot;&gt;&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; data-header=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157675438276398&quot; title=&quot;Sip and Shoot 2018&quot;&gt;&lt;img alt=&quot;Sip and Shoot 2018&quot; height=&quot;800&quot; src=&quot;https://live.staticflickr.com/4876/30852005347_d869ace201_c.jpg&quot; width=&quot;533&quot; /&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
-</description>
-        <pubDate>Thu, 26 Sep 2019 11:47:25 -0500</pubDate>
-        <link>http://localhost:4000/Events/2019/09/Photopalooza-2018-Sip-Shoot</link>
-        <guid isPermaLink="true">http://localhost:4000/Events/2019/09/Photopalooza-2018-Sip-Shoot</guid>
         
         
       </item>
