@@ -10,11 +10,11 @@ redirect_from:
 
 If you're interested in purchasing some of our work reach out and let us know. We currently don't have an e-commerce option here on the website, but can gladly get you squared away via PayPal or Venmo.
 
-Individual Photo: $35
+Individual Photo: $25
 
 All photos from one individual at an event: $60
 
 Copyright: Purchasing our photos will get you a non-watermarked photo for personal use. Commercial use options are available on a case by case basis.
 
-Reach out to me via my personal [contact page](https://chrishammond.com/Contact).
+Reach out to me via my personal [contact page](https://chrishammond.com/Contact), we'll ask you details about event and individual so we can determine which photo(s) you want.
 
