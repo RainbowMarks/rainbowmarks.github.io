@@ -11,11 +11,8 @@
 
 	<header class="gallery-icon">
 
-
-<a href="{% picture direct {{ image.image_path }} %}" class="popup" title="{{ image.image-caption }}" data-caption="{{ image.image-copyright }}">
-	{% picture portthumb {{ image.image_path }} --alt {{ image.image-caption }} %}
-	</a>   
-						
+<a href="{% picture direct {{ img.image_path }} %}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}">
+	{% picture portthumb {{ img.image_path }} %}
 	</header>	
 		
    <figcaption class="gallery-caption">

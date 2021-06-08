@@ -84,7 +84,8 @@ sitemap:
 
 #jekyll_picture_tag
 
-picture:
-  suppress_warnings: true
-  fast_build: true
-  
+# picture:
+#   suppress_warnings: false
+#   fast_build: false
+#   input: img
+#   output: generated
