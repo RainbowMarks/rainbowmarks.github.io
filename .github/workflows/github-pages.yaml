@@ -26,6 +26,19 @@ jobs:
         run: |
           wget http://mirrors.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
           sudo apt install ./libffi6_3.2.1-8_amd64.deb
+
+- name: Install libvips42
+        run: |
+          wget http://archive.ubuntu.com/ubuntu/pool/universe/v/vips/libvips42_8.9.1-2_amd64.deb
+          sudo apt install ./libvips42_8.9.1-2_amd64.deb
+
+
+      - name: Install libvips-tools
+        run: |
+          wget http://archive.ubuntu.com/ubuntu/pool/universe/v/vips/libvips-tools_8.9.1-2_amd64.deb
+          sudo apt install ./libvips-tools_8.9.1-2_amd64.deb
+
+
 #          identify -version
 #          sudo apt update
 #          sudo apt install imagemagick
