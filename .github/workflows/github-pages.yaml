@@ -27,11 +27,10 @@ jobs:
           wget http://mirrors.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
           sudo apt install ./libffi6_3.2.1-8_amd64.deb
 
-- name: Install libvips42
+      - name: Install libvips42
         run: |
           wget http://archive.ubuntu.com/ubuntu/pool/universe/v/vips/libvips42_8.9.1-2_amd64.deb
           sudo apt install ./libvips42_8.9.1-2_amd64.deb
-
 
       - name: Install libvips-tools
         run: |
