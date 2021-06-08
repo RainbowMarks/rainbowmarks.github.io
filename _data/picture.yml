@@ -8,14 +8,14 @@ presets:
 
   direct:
     markup: direct_url
-    formats: [webp,original]
+    formats: [original]
     widths: [200, 400, 800, 1600, 2000]
     fallback_width: 1600
 
   direct200:
     # markup: direct_url
     link_source: false # wrap images in a link to the original source image.
-    formats: [webp, original] # Must be an array, and order matters.
+    formats: [ original] # Must be an array, and order matters.
     widths: [200, 400, 800, 1600, 2000] # Must be an array.
     size: 400px
 
@@ -25,18 +25,18 @@ presets:
 
   blogcrop:
     crop: '16:9' # remoted crop for now 
-    formats: [webp, original]
+    formats: [ original]
     widths: [200, 400, 800, 1600, 2000]
     link_source: false
     
   hpslider:
-    formats: [webp, original]
+    formats: [ original]
     widths: [400, 1600, 2000]
     fallback_width: 1600
     link_source: false
 
   portthumb:  
-    formats: [webp, original]
+    formats: [ original]
     widths: [200, 400, 600]
     link_source: false
     fallback_width: 600
