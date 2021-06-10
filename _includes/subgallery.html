@@ -26,3 +26,12 @@
 
   {% endfor %}
 </div>
+
+<script language="javascript" type="text/javascript">
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  console.log('Popup changed',  $.magnificPopup.instance.index);
+
+	});
+</script>

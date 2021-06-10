@@ -1867,6 +1867,14 @@ style="margin-right:1em; z-index: 1;">
   
 </div>
 
+<script language="javascript" type="text/javascript">
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  console.log('Popup changed',  $.magnificPopup.instance.index);
+
+	});
+</script>
 
 <br />
 <br />
@@ -2838,6 +2846,14 @@ style="margin-right:1em; z-index: 1;">
   
 </div>
 
+<script language="javascript" type="text/javascript">
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  console.log('Popup changed',  $.magnificPopup.instance.index);
+
+	});
+</script>
 
         <br>
         <br>
