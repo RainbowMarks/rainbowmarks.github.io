@@ -568,7 +568,9 @@
 								var loc = window.location.href.indexOf("rbmphoto=");
 								if (loc > 0) {
 									//console.log('Found It',  window.location.href.substring(loc));
-									var index = window.location.href.substring(loc + 9);
+									var index = window.location.href
+										.substring(loc + 9)
+										.split("&")[0];
 									//console.log('Found Index',  index);
 									document.getElementsByClassName("popup")[index].click();
 								}
