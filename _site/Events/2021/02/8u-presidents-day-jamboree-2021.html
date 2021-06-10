@@ -1905,7 +1905,7 @@ style="margin-right:1em; z-index: 1;">
 		if(loc>0)
 		{
 			//console.log('Found It',  window.location.href.substring(loc));
-			var index = window.location.href.substring(loc+9)
+			var index = window.location.href.substring(loc+9).split("&")[0];
 			//console.log('Found Index',  index);
 			document.getElementsByClassName('popup')[index].click();
 		}
@@ -2921,7 +2921,7 @@ style="margin-right:1em; z-index: 1;">
 		if(loc>0)
 		{
 			//console.log('Found It',  window.location.href.substring(loc));
-			var index = window.location.href.substring(loc+9)
+			var index = window.location.href.substring(loc+9).split("&")[0];
 			//console.log('Found Index',  index);
 			document.getElementsByClassName('popup')[index].click();
 		}
