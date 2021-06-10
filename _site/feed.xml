@@ -5,8 +5,8 @@
     <description>Rainbow Marks Photography, Wildwood, Missouri</description>
     <link>https://rainbowmarks.com/</link>
     <atom:link href="https://rainbowmarks.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Jun 2021 22:32:38 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Jun 2021 22:32:38 -0500</lastBuildDate>
+    <pubDate>Wed, 09 Jun 2021 23:51:19 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Jun 2021 23:51:19 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -5104,8 +5104,45 @@
 	
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
 
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
 	});
 &lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 08:05:00 -0500</pubDate>
@@ -5351,8 +5388,45 @@
 	
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
 
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
 	});
 &lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 08:04:00 -0500</pubDate>
@@ -11558,8 +11632,45 @@
 	
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
 
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
 	});
 &lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 08:02:00 -0500</pubDate>
@@ -15384,8 +15495,45 @@
 	
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
 
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
 	});
 &lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 08:00:00 -0500</pubDate>
@@ -17189,8 +17337,45 @@
 	
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
 
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
 	});
 &lt;/script&gt;
 
@@ -18168,8 +18353,45 @@
 	
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
 
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
 	});
 &lt;/script&gt;
 </description>

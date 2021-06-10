@@ -122,7 +122,7 @@ style="margin-right:1em; z-index: 1;">
 
             
             <i class="fa fa-clock-o"></i>&nbsp;
-            73 minute read
+            74 minute read
 
           </span>
 
@@ -5229,8 +5229,45 @@ style="margin-right:1em; z-index: 1;">
 	
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
-	  console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState("object or string", "Title", originalUrl + "?rbmphoto=" + $.magnificPopup.instance.index);
+	});
 
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( "ready!" );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf("rbmphoto=")
+		if(loc>0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
 	});
 </script>
         <br>
