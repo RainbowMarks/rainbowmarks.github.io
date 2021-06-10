@@ -5,8 +5,8 @@
     <description>Rainbow Marks Photography, Wildwood, Missouri</description>
     <link>https://rainbowmarks.com/</link>
     <atom:link href="https://rainbowmarks.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Jun 2021 19:47:12 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Jun 2021 19:47:12 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Jun 2021 04:54:20 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Jun 2021 04:54:20 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -5099,7 +5099,52 @@
 
   
 &lt;/div&gt;
-</description>
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
+	});
+&lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 13:05:00 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-night-shots</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-night-shots</guid>
@@ -5338,7 +5383,52 @@
 
   
 &lt;/div&gt;
-</description>
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
+	});
+&lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 13:04:00 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-finish-line</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-finish-line</guid>
@@ -11537,7 +11627,52 @@
 
   
 &lt;/div&gt;
-</description>
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
+	});
+&lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 13:02:00 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-west-of-americus</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-west-of-americus</guid>
@@ -15355,7 +15490,52 @@
 
   
 &lt;/div&gt;
-</description>
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
+	});
+&lt;/script&gt;</description>
         <pubDate>Mon, 07 Jun 2021 13:00:00 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-alma</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-alma</guid>
@@ -17153,6 +17333,51 @@
   
 &lt;/div&gt;
 
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
+	});
+&lt;/script&gt;
 
 &lt;br /&gt;
 &lt;br /&gt;
@@ -18124,6 +18349,51 @@
   
 &lt;/div&gt;
 
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  window.history.pushState(&quot;object or string&quot;, &quot;Title&quot;, originalUrl + &quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		if(loc&gt;0)
+		{
+			//console.log('Found It',  window.location.href.substring(loc));
+			var index = window.location.href.substring(loc+9)
+			//console.log('Found Index',  index);
+			document.getElementsByClassName('popup')[index].click();
+		}
+		
+	});
+&lt;/script&gt;
 </description>
         <pubDate>Mon, 15 Feb 2021 00:12:54 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/02/8u-presidents-day-jamboree-2021</link>
