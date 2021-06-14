@@ -1,16 +1,4 @@
----
-layout: "post"
-title: "2021 Unbound Gravel 200 West of Americus"
-subtitle: "About 2 miles west of Americus, KS"
-active: "blog"
-image:
-    feature: "/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-275.jpg"
-date: "2021-06-07T13:02:00+00:00"
-permalink: "/Events/2021/06/unbound-gravel-west-of-americus"
-header-img: "/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-275.jpg"
-comments: "true"
-galleryfile: gallery6-5-2021-1
-gallery1: 
+gallery:
   - image_path: /img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-1.jpg
     image-caption: 2021 Unbound Gravel West of Americus
     image-copyright: © RainbowMarks.com
@@ -938,10 +926,3 @@ gallery1:
   - image_path: /img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-309.jpg
     image-caption: 2021 Unbound Gravel West of Americus
     image-copyright: © RainbowMarks.com
----
-
-<p>The 2021 Unbound Gravel 200 about 2 miles west of Americus Kansas. Mostly 100 riders, but some shots of the 200's top 5 men coming through as well as an XL rider or two. We were only there about an hour, I think between 3 and 4pm.</p>
-
-<p>If you're interested in purchasing photos please <a href="/purchase">visit our Purchase page for more info</a>.</p>
-
-{% include subgallery.html id="gallery1" %}
