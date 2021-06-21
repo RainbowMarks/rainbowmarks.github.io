@@ -27,18 +27,21 @@ module GalleryPages
         #puts "pre-folder+gallery loop"
         site.data["gallery"].each do |gallery|
           @galleryname = gallery[0]
+          @posturl = gallery[1]
 
-          puts "Working on : " +  @galleryname
-          gallery[1].each do |galleryarray|
-            
-            galleryarray[1].each do |image|
+          #puts "Working on : " +  @galleryname
+          #puts "Working on posturl : " +  gallery[1]["posturl"].to_s
+          #puts "Working on gallery : " +  gallery[1]["gallery"].to_s
+          gallery[1]["gallery"].each do |image|
+            #puts "Working on galleryarray : " +  galleryarray.to_s
+            #galleryarray[1].each do |image|
               #puts image['image_path']
               #puts image['image-caption']
               #puts image['image-copyright']
               #puts 'Generate page' + image['image_path']
-              site.pages << GalleryImagePage.new(site, "galleries/" + @galleryname, image['image_path'], image['image-caption'],image['image-copyright'])
+              site.pages << GalleryImagePage.new(site, "galleries/" + @galleryname, image['image_path'], image['image-caption'],image['image-copyright'], gallery[1]["posturl"].to_s, image['image-id'])
               
-            end
+            #end
           
           end 
         end 
@@ -54,18 +57,19 @@ module GalleryPages
   
     # Subclass of `Jekyll::Page` with custom method definitions.
     class GalleryImagePage < Jekyll::Page
-      def initialize(site, urlpath, imgpath, caption, copyright)
+      def initialize(site, urlpath, imgpath, caption, copyright, posturl, imageid)
         @site = site             # the current site instance.
         @base = site.source      # path to the source directory.
         @dir  = urlpath         # the directory the page will reside in.
   
         arrUrl = imgpath.split('.')
+        
         @basename = arrUrl[arrUrl.length-2].split("/").last
         # All pages have the same filename, so define attributes straight away.
         
         @ext      = '.html'      # the extension.
-        
-        # puts 'Basename + ext: ' + @basename + @ext
+        #puts 'Dir: ' + @dir
+        #puts 'Basename + ext: ' + @basename + @ext
         # Initialize data hash with a key pointing to all posts under current category.
         # This allows accessing the list in a template via `page.linked_docs`.
         @data = {
@@ -73,7 +77,7 @@ module GalleryPages
           'image-caption' => caption,
           'image-copyright' => copyright, 
           'header-img' => imgpath, 
-          'permalink' => @dir + '/' + @basename + @ext
+          'posturl' => posturl + "?rbmphoto=" + imageid.to_s
         }
   
         # Look up front matter defaults scoped to type `categories`, if given key
@@ -86,9 +90,10 @@ module GalleryPages
       # Placeholders that are used in constructing page URL.
       def url_placeholders
         {
-          :category   => @dir,
-          :basename   => @basename + @ext,
+          :path   => @dir,
+          :basename   => @basename,
           :output_ext => @ext,
+          
         }
       end
     end

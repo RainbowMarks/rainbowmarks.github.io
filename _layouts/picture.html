@@ -11,8 +11,8 @@ layout: photodefault
 
     <header class="gallery-icon">
   
-      <a href="{% picture direct {{ page.image_path }} %}" class="popup"  title="{{ page.image-caption }}" data-caption="{{ img.image-copyright }}">
-        {% picture portthumb {{ page.image_path }} %}
+      <a href="{% picture direct {{ page.image_path }} %}" class="popup"  title="{{ page.image-caption }}" data-caption="{{ page.image-copyright }}">
+        {% picture portthumb {{ page.image_path }}  --alt {{ page.image-caption }}  %}
       </a>
     </header>	
       
