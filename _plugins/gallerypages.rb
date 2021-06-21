@@ -61,6 +61,8 @@ module GalleryPages
         @site = site             # the current site instance.
         @base = site.source      # path to the source directory.
         @dir  = urlpath         # the directory the page will reside in.
+
+        @imageid = imageid-1
   
         arrUrl = imgpath.split('.')
         
@@ -77,7 +79,7 @@ module GalleryPages
           'image-caption' => caption,
           'image-copyright' => copyright, 
           'header-img' => imgpath, 
-          'posturl' => posturl + "?rbmphoto=" + imageid.to_s
+          'posturl' => posturl + "?rbmphoto=" + @imageid.to_s
         }
   
         # Look up front matter defaults scoped to type `categories`, if given key
