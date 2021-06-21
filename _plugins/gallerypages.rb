@@ -79,7 +79,10 @@ module GalleryPages
           'image-caption' => caption,
           'image-copyright' => copyright, 
           'header-img' => imgpath, 
-          'posturl' => posturl + "?rbmphoto=" + @imageid.to_s
+          'posturl' => posturl + "?rbmphoto=" + @imageid.to_s,
+          'title' => caption,
+          'description' => caption,
+
         }
   
         # Look up front matter defaults scoped to type `categories`, if given key

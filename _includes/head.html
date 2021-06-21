@@ -5,6 +5,11 @@
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:image" content="{{ site.url }}{{ page.header-img }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    
+
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html' }}">
 
