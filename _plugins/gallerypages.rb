@@ -32,15 +32,12 @@ module GalleryPages
           #puts "Working on : " +  @galleryname
           #puts "Working on posturl : " +  gallery[1]["posturl"].to_s
           #puts "Working on gallery : " +  gallery[1]["gallery"].to_s
+          @imagecount = 0
           gallery[1]["gallery"].each do |image|
-            #puts "Working on galleryarray : " +  galleryarray.to_s
-            #galleryarray[1].each do |image|
-              #puts image['image_path']
-              #puts image['image-caption']
-              #puts image['image-copyright']
-              #puts 'Generate page' + image['image_path']
-              site.pages << GalleryImagePage.new(site, "galleries/" + @galleryname, image['image_path'], image['image-caption'],image['image-copyright'], gallery[1]["posturl"].to_s, image['image-id'])
-              
+            
+
+              site.pages << GalleryImagePage.new(site, "galleries/" + @galleryname, image['image_path'], image['image-caption'],image['image-copyright'], gallery[1]["posturl"].to_s, @imagecount, @galleryname)
+              @imagecount = @imagecount +1 
             #end
           
           end 
@@ -57,12 +54,12 @@ module GalleryPages
   
     # Subclass of `Jekyll::Page` with custom method definitions.
     class GalleryImagePage < Jekyll::Page
-      def initialize(site, urlpath, imgpath, caption, copyright, posturl, imageid)
+      def initialize(site, urlpath, imgpath, caption, copyright, posturl, imageid, galleryname)
         @site = site             # the current site instance.
         @base = site.source      # path to the source directory.
         @dir  = urlpath         # the directory the page will reside in.
 
-        @imageid = imageid-1
+        @imageid = imageid
   
         arrUrl = imgpath.split('.')
         
@@ -79,7 +76,7 @@ module GalleryPages
           'image-caption' => caption,
           'image-copyright' => copyright, 
           'header-img' => imgpath, 
-          'posturl' => posturl + "?rbmphoto=" + @imageid.to_s,
+          'posturl' => posturl + "?rbmphoto=" + @imageid.to_s + "&galleryname=" + galleryname.to_s,
           'title' => caption,
           'description' => caption,
 
