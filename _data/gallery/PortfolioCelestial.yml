@@ -1,0 +1,46 @@
+gallery: 
+ - image_path: /img/portfolio/06/stars-1.jpg
+   image-caption: Moon in a blue sky
+   mfp-title: Moon in a blue sky
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-2.jpg
+   image-caption: Milky Way over Missouri Sky
+   mfp-title: Milky Way over Missouri Sky
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-3.jpg
+   image-caption: Full Moon
+   mfp-title: Full Moon
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-4.jpg
+   image-caption: Milky Way over Missouri Sky
+   mfp-title: Milky Way over Missouri Sky
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-5.jpg
+   image-caption: 2017 Lunar Eclipse Sun Spots
+   mfp-title: 2017 Lunar Eclipse Sun Spots
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-6.jpg
+   image-caption: 2017 Lunar Eclipse
+   mfp-title: 2017 Lunar Eclipse
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-7.jpg
+   image-caption: 2017 Lunar Eclipse
+   mfp-title: 2017 Lunar Eclipse
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-8.jpg
+   image-caption: 2017 Lunar Eclipse
+   mfp-title: 2017 Lunar Eclipse
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-9.jpg
+   image-caption: Neowise Comit
+   mfp-title: Neowise Comit
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-10.jpg
+   image-caption: Neowise Comit
+   mfp-title: Neowise Comit
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/06/stars-11.jpg
+   image-caption: Neowise Comit
+   mfp-title: Neowise Comit
+   image-copyright: © RainbowMarks.com
+posturl: "/portfolio/06"

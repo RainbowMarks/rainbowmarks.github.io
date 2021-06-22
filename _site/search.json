@@ -205,7 +205,7 @@
         "tags"     : "",
         "url"      : "/portfolio/03/",
         "date"     : "",
-        "content"   : "<section id=\"content\" role=\"main\">\n  <div class=\"wrapper\">\n<br><br>\n    <h2>{{page.album-title}}</h2>\n    <!-- Gallery __-->\n    <div class=\"container\">\n      <div class=\"d-flex flex-wrap justify-content-center\">\n\n      {% assign i = 0 %}\n      {% assign totimages = page.images.size %}\n      {% assign modval = totimages | modulo: 3  %}\n      {% assign columncount = totimages | divided_by: 3 %}\n      \n      {% if modval > 0 %}\n        {% assign secondcolumnstart = columncount | plus: 1 %}\n\n        {% if modval == 2 %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n          {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}\n        {% else %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n        {% endif %}\n\n      {% else %}\n        {% assign secondcolumnstart = columncount %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n      {% endif %}\n      \n      {% for image in page.images %}  \t\t\n      {% if i == 0 %}\n      <div class=\"d-flex flex-column\">\n      {% elsif i == secondcolumnstart %}       \n      <div class=\"d-flex flex-column\">\n      {% elsif i == thirdcolumnstart %}\n      <div class=\"d-flex flex-column\">\n      {% else %}\n      {% endif %}\n\n      <div class=\"p-0\">\n        <figure class=\"gallery-item\">\n          <header class=\"gallery-icon\">\n            <a href=\"{% picture direct {{ image.image_path }} %}\" class=\"popup\" title=\"{{ image.caption }}\" data-caption=\"{{ image.copyright }}\">\n            {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}\n            </a>              \n          </header>\t\n          <figcaption class=\"gallery-caption\">\n            <div class=\"entry-summary\" id=\"{{ image.caption }}\">\n              <h3>{{image.caption}}</h3>\n              <p>{{image.copyright}}</p>\n            </div>\n          </figcaption>\n        </figure>\n      </div>\t\n    {% assign i = i | plus:1 %}\n    {% if i == secondcolumnstart %}\n    </div>\n    {% elsif i == thirdcolumnstart %}\n    </div>\n    {% elsif i == totimages %}\n    </div>\n    {% else %}\n    {% endif %}\n    {% endfor %}        \n      </div>\n    </div> \n  </div><!-- END .wrapper -->\n</section>\n\n\n<!-- include image popups -->\n<script src=\"{{ site.baseurl }}/js/jquery.magnific-popup.js\"></script>\n  <script type=\"text/javascript\">\n    $(document).ready(function($) {\n      $('a.popup').magnificPopup({\n        type: 'image',\n  gallery:{\n       enabled:true,\n       navigateByImgClick: true,\n       preload: [0,1] // Will preload 0 - before current, and 1 after the current image\n     },\n    image: {\n       titleSrc: function(item) {\n           return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');\n          }\n      }\n        // other options\n    });\n});\n  </script>\n"
+        "content"   : "<p>Air Show Photography</p>\n\n{% include subgallery.html id=\"PortfolioAirShows\" %}"
      
    } ,
   
@@ -216,7 +216,7 @@
         "tags"     : "",
         "url"      : "/portfolio/04/",
         "date"     : "",
-        "content"   : "<section id=\"content\" role=\"main\">\n  <div class=\"wrapper\">\n<br><br>\n    <h2>{{page.album-title}}</h2>\n    <!-- Gallery __-->\n    <div class=\"container\">\n      <div class=\"d-flex flex-wrap justify-content-center\">\n\n      {% assign i = 0 %}\n      {% assign totimages = page.images.size %}\n      {% assign modval = totimages | modulo: 3  %}\n      {% assign columncount = totimages | divided_by: 3 %}\n      \n      {% if modval > 0 %}\n        {% assign secondcolumnstart = columncount | plus: 1 %}\n\n        {% if modval == 2 %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n          {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}\n        {% else %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n        {% endif %}\n\n      {% else %}\n        {% assign secondcolumnstart = columncount %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n      {% endif %}\n      \n      {% for image in page.images %}  \t\t\n      {% if i == 0 %}\n      <div class=\"d-flex flex-column\">\n      {% elsif i == secondcolumnstart %}       \n      <div class=\"d-flex flex-column\">\n      {% elsif i == thirdcolumnstart %}\n      <div class=\"d-flex flex-column\">\n      {% else %}\n      {% endif %}\n\n      <div class=\"p-0\">\n        <figure class=\"gallery-item\">\n          <header class=\"gallery-icon\">\n            <a href=\"{% picture direct {{ image.image_path }} %}\" class=\"popup\" title=\"{{ image.caption }}\" data-caption=\"{{ image.copyright }}\">\n            {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}\n            </a>              \n          </header>\t\n          <figcaption class=\"gallery-caption\">\n            <div class=\"entry-summary\" id=\"{{ image.caption }}\">\n              <h3>{{image.caption}}</h3>\n              <p>{{image.copyright}}</p>\n            </div>\n          </figcaption>\n        </figure>\n      </div>\t\n    {% assign i = i | plus:1 %}\n    {% if i == secondcolumnstart %}\n    </div>\n    {% elsif i == thirdcolumnstart %}\n    </div>\n    {% elsif i == totimages %}\n    </div>\n    {% else %}\n    {% endif %}\n    {% endfor %}        \n      </div>\n    </div> \n  </div><!-- END .wrapper -->\n</section>\n\n\n<!-- include image popups -->\n<script src=\"{{ site.baseurl }}/js/jquery.magnific-popup.js\"></script>\n  <script type=\"text/javascript\">\n    $(document).ready(function($) {\n      $('a.popup').magnificPopup({\n        type: 'image',\n  gallery:{\n       enabled:true,\n       navigateByImgClick: true,\n       preload: [0,1] // Will preload 0 - before current, and 1 after the current image\n     },\n    image: {\n       titleSrc: function(item) {\n           return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');\n          }\n      }\n        // other options\n    });\n});\n  </script>\n"
+        "content"   : "<p>Where the name comes from.</p>\n\n{% include subgallery.html id=\"PortfolioRainbows\" %}"
      
    } ,
   
@@ -227,7 +227,7 @@
         "tags"     : "",
         "url"      : "/portfolio/05/",
         "date"     : "",
-        "content"   : "<section id=\"content\" role=\"main\">\n  <div class=\"wrapper\">\n<br><br>\n    <h2>{{page.album-title}}</h2>\n    <!-- Gallery __-->\n    <div class=\"container\">\n      <div class=\"d-flex flex-wrap justify-content-center\">\n\n      {% assign i = 0 %}\n      {% assign totimages = page.images.size %}\n      {% assign modval = totimages | modulo: 3  %}\n      {% assign columncount = totimages | divided_by: 3 %}\n      \n      {% if modval > 0 %}\n        {% assign secondcolumnstart = columncount | plus: 1 %}\n\n        {% if modval == 2 %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n          {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}\n        {% else %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n        {% endif %}\n\n      {% else %}\n        {% assign secondcolumnstart = columncount %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n      {% endif %}\n      \n      {% for image in page.images %}  \t\t\n      {% if i == 0 %}\n      <div class=\"d-flex flex-column\">\n      {% elsif i == secondcolumnstart %}       \n      <div class=\"d-flex flex-column\">\n      {% elsif i == thirdcolumnstart %}\n      <div class=\"d-flex flex-column\">\n      {% else %}\n      {% endif %}\n\n      <div class=\"p-0\">\n        <figure class=\"gallery-item\">\n          <header class=\"gallery-icon\">\n            <a href=\"{% picture direct {{ image.image_path }} %}\" class=\"popup\" title=\"{{ image.caption }}\" data-caption=\"{{ image.copyright }}\">\n            {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}\n            </a>              \n          </header>\t\n          <figcaption class=\"gallery-caption\">\n            <div class=\"entry-summary\" id=\"{{ image.caption }}\">\n              <h3>{{image.caption}}</h3>\n              <p>{{image.copyright}}</p>\n            </div>\n          </figcaption>\n        </figure>\n      </div>\t\n    {% assign i = i | plus:1 %}\n    {% if i == secondcolumnstart %}\n    </div>\n    {% elsif i == thirdcolumnstart %}\n    </div>\n    {% elsif i == totimages %}\n    </div>\n    {% else %}\n    {% endif %}\n    {% endfor %}        \n      </div>\n    </div> \n  </div><!-- END .wrapper -->\n</section>\n\n\n<!-- include image popups -->\n<script src=\"{{ site.baseurl }}/js/jquery.magnific-popup.js\"></script>\n  <script type=\"text/javascript\">\n    $(document).ready(function($) {\n      $('a.popup').magnificPopup({\n        type: 'image',\n  gallery:{\n       enabled:true,\n       navigateByImgClick: true,\n       preload: [0,1] // Will preload 0 - before current, and 1 after the current image\n     },\n    image: {\n       titleSrc: function(item) {\n           return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');\n          }\n      }\n        // other options\n    });\n});\n  </script>\n"
+        "content"   : "<p>I actually started getting serious about Photography because of another hobby of mine, cars.</p>\n\n{% include subgallery.html id=\"PortfolioCars\" %}"
      
    } ,
   
@@ -238,7 +238,7 @@
         "tags"     : "",
         "url"      : "/portfolio/01/",
         "date"     : "",
-        "content"   : "\t<section id=\"content\" role=\"main\">\n\t\t<div class=\"wrapper\">\n\t<br><br>\n\t\t\t<h2>{{page.album-title}}</h2>\n\t\t\t<!-- Gallery __-->\n      <div class=\"container\">\n        <div class=\"d-flex flex-wrap justify-content-center\">\n  \n        {% assign i = 0 %}\n        {% assign totimages = page.images.size %}\n        {% assign modval = totimages | modulo: 3  %}\n        {% assign columncount = totimages | divided_by: 3 %}\n        \n        {% if modval > 0 %}\n          {% assign secondcolumnstart = columncount | plus: 1 %}\n\n          {% if modval == 2 %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n            {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}\n          {% else %}\n            {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n          {% endif %}\n\n        {% else %}\n          {% assign secondcolumnstart = columncount %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n        {% endif %}\n        \n        {% for image in page.images %}  \t\t\n        {% if i == 0 %}\n        <div class=\"d-flex flex-column\">\n        {% elsif i == secondcolumnstart %}       \n        <div class=\"d-flex flex-column\">\n        {% elsif i == thirdcolumnstart %}\n        <div class=\"d-flex flex-column\">\n        {% else %}\n        {% endif %}\n\n        <div class=\"p-0\">\n          <figure class=\"gallery-item\">\n            <header class=\"gallery-icon\">\n              <a href=\"{% picture direct {{ image.image_path }} %}\" class=\"popup\" title=\"{{ image.caption }}\" data-caption=\"{{ image.copyright }}\">\n              {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}\n              </a>              \n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\" id=\"{{ image.caption }}\">\n                <h3>{{image.caption}}</h3>\n                <p>{{image.copyright}}</p>\n              </div>\n            </figcaption>\n          </figure>\n        </div>\t\n      {% assign i = i | plus:1 %}\n      {% if i == secondcolumnstart %}\n      </div>\n      {% elsif i == thirdcolumnstart %}\n      </div>\n      {% elsif i == totimages %}\n      </div>\n      {% else %}\n      {% endif %}\n      {% endfor %}        \n\t\t\t  </div>\n      </div> \n\t\t</div><!-- END .wrapper -->\n\t</section>\n\n\n<!-- include image popups -->\n<script src=\"{{ site.baseurl }}/js/jquery.magnific-popup.js\"></script>\n    <script type=\"text/javascript\">\n      $(document).ready(function($) {\n        $('a.popup').magnificPopup({\n          type: 'image',\n\t  gallery:{\n         enabled:true,\n         navigateByImgClick: true,\n         preload: [0,1] // Will preload 0 - before current, and 1 after the current image\n       },\n      image: {\n         titleSrc: function(item) {\n             return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');\n            }\n        }\n          // other options\n      });\n});\n    </script>\n"
+        "content"   : "<p>Photos from various CrossFit Events, including the 2019 CrossFit Games</p>\n\n{% include subgallery.html id=\"PortfolioCrossFit\" %}"
      
    } ,
   
@@ -249,7 +249,7 @@
         "tags"     : "",
         "url"      : "/portfolio/07/",
         "date"     : "",
-        "content"   : "<section id=\"content\" role=\"main\">\n  <div class=\"wrapper\">\n<br><br>\n    <h2>{{page.album-title}}</h2>\n    <!-- Gallery __-->\n    <div class=\"container\">\n      <div class=\"d-flex flex-wrap justify-content-center\">\n\n      {% assign i = 0 %}\n      {% assign totimages = page.images.size %}\n      {% assign modval = totimages | modulo: 3  %}\n      {% assign columncount = totimages | divided_by: 3 %}\n      \n      {% if modval > 0 %}\n        {% assign secondcolumnstart = columncount | plus: 1 %}\n\n        {% if modval == 2 %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n          {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}\n        {% else %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n        {% endif %}\n\n      {% else %}\n        {% assign secondcolumnstart = columncount %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n      {% endif %}\n      \n      {% for image in page.images %}  \t\t\n      {% if i == 0 %}\n      <div class=\"d-flex flex-column\">\n      {% elsif i == secondcolumnstart %}       \n      <div class=\"d-flex flex-column\">\n      {% elsif i == thirdcolumnstart %}\n      <div class=\"d-flex flex-column\">\n      {% else %}\n      {% endif %}\n\n      <div class=\"p-0\">\n        <figure class=\"gallery-item\">\n          <header class=\"gallery-icon\">\n            <a href=\"{% picture direct {{ image.image_path }} %}\" class=\"popup\" title=\"{{ image.caption }}\" data-caption=\"{{ image.copyright }}\">\n            {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}\n            </a>              \n          </header>\t\n          <figcaption class=\"gallery-caption\">\n            <div class=\"entry-summary\" id=\"{{ image.caption }}\">\n              <h3>{{image.caption}}</h3>\n              <p>{{image.copyright}}</p>\n            </div>\n          </figcaption>\n        </figure>\n      </div>\t\n    {% assign i = i | plus:1 %}\n    {% if i == secondcolumnstart %}\n    </div>\n    {% elsif i == thirdcolumnstart %}\n    </div>\n    {% elsif i == totimages %}\n    </div>\n    {% else %}\n    {% endif %}\n    {% endfor %}        \n      </div>\n    </div> \n  </div><!-- END .wrapper -->\n</section>\n\n\n<!-- include image popups -->\n<script src=\"{{ site.baseurl }}/js/jquery.magnific-popup.js\"></script>\n  <script type=\"text/javascript\">\n    $(document).ready(function($) {\n      $('a.popup').magnificPopup({\n        type: 'image',\n  gallery:{\n       enabled:true,\n       navigateByImgClick: true,\n       preload: [0,1] // Will preload 0 - before current, and 1 after the current image\n     },\n    image: {\n       titleSrc: function(item) {\n           return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');\n          }\n      }\n        // other options\n    });\n});\n  </script>\n"
+        "content"   : "<p>Landscape Photography</p>\n\n{% include subgallery.html id=\"PortfolioLandscapes\" %}"
      
    } ,
   
@@ -260,7 +260,7 @@
         "tags"     : "",
         "url"      : "/portfolio/02/",
         "date"     : "",
-        "content"   : "<section id=\"content\" role=\"main\">\n  <div class=\"wrapper\">\n<br><br>\n    <h2>{{page.album-title}}</h2>\n    <!-- Gallery __-->\n    <div class=\"container\">\n      <div class=\"d-flex flex-wrap justify-content-center\">\n\n      {% assign i = 0 %}\n      {% assign totimages = page.images.size %}\n      {% assign modval = totimages | modulo: 3  %}\n      {% assign columncount = totimages | divided_by: 3 %}\n      \n      {% if modval > 0 %}\n        {% assign secondcolumnstart = columncount | plus: 1 %}\n\n        {% if modval == 2 %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n          {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}\n        {% else %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n        {% endif %}\n\n      {% else %}\n        {% assign secondcolumnstart = columncount %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n      {% endif %}\n      \n      {% for image in page.images %}  \t\t\n      {% if i == 0 %}\n      <div class=\"d-flex flex-column\">\n      {% elsif i == secondcolumnstart %}       \n      <div class=\"d-flex flex-column\">\n      {% elsif i == thirdcolumnstart %}\n      <div class=\"d-flex flex-column\">\n      {% else %}\n      {% endif %}\n\n      <div class=\"p-0\">\n        <figure class=\"gallery-item\">\n          <header class=\"gallery-icon\">\n            <a href=\"{% picture direct {{ image.image_path }} %}\" class=\"popup\" title=\"{{ image.caption }}\" data-caption=\"{{ image.copyright }}\">\n            {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}\n            </a>              \n          </header>\t\n          <figcaption class=\"gallery-caption\">\n            <div class=\"entry-summary\" id=\"{{ image.caption }}\">\n              <h3>{{image.caption}}</h3>\n              <p>{{image.copyright}}</p>\n            </div>\n          </figcaption>\n        </figure>\n      </div>\t\n    {% assign i = i | plus:1 %}\n    {% if i == secondcolumnstart %}\n    </div>\n    {% elsif i == thirdcolumnstart %}\n    </div>\n    {% elsif i == totimages %}\n    </div>\n    {% else %}\n    {% endif %}\n    {% endfor %}        \n      </div>\n    </div> \n  </div><!-- END .wrapper -->\n</section>\n\n\n<!-- include image popups -->\n<script src=\"{{ site.baseurl }}/js/jquery.magnific-popup.js\"></script>\n  <script type=\"text/javascript\">\n    $(document).ready(function($) {\n      $('a.popup').magnificPopup({\n        type: 'image',\n  gallery:{\n       enabled:true,\n       navigateByImgClick: true,\n       preload: [0,1] // Will preload 0 - before current, and 1 after the current image\n     },\n    image: {\n       titleSrc: function(item) {\n           return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');\n          }\n      }\n        // other options\n    });\n});\n  </script>\n"
+        "content"   : "<p>Photos from Yosemite National Park</p>\n\n{% include subgallery.html id=\"PortfolioYosemite\" %}"
      
    } ,
   
@@ -271,7 +271,7 @@
         "tags"     : "",
         "url"      : "/portfolio/06/",
         "date"     : "",
-        "content"   : "<section id=\"content\" role=\"main\">\n  <div class=\"wrapper\">\n<br><br>\n    <h2>{{page.album-title}}</h2>\n    <!-- Gallery __-->\n    <div class=\"container\">\n      <div class=\"d-flex flex-wrap justify-content-center\">\n\n      {% assign i = 0 %}\n      {% assign totimages = page.images.size %}\n      {% assign modval = totimages | modulo: 3  %}\n      {% assign columncount = totimages | divided_by: 3 %}\n      \n      {% if modval > 0 %}\n        {% assign secondcolumnstart = columncount | plus: 1 %}\n\n        {% if modval == 2 %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n          {% assign thirdcolumnstart = thirdcolumnstart | plus: 1 %}\n        {% else %}\n          {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n        {% endif %}\n\n      {% else %}\n        {% assign secondcolumnstart = columncount %}\n        {% assign thirdcolumnstart = secondcolumnstart | plus: columncount %}\n      {% endif %}\n      \n      {% for image in page.images %}  \t\t\n      {% if i == 0 %}\n      <div class=\"d-flex flex-column\">\n      {% elsif i == secondcolumnstart %}       \n      <div class=\"d-flex flex-column\">\n      {% elsif i == thirdcolumnstart %}\n      <div class=\"d-flex flex-column\">\n      {% else %}\n      {% endif %}\n\n      <div class=\"p-0\">\n        <figure class=\"gallery-item\">\n          <header class=\"gallery-icon\">\n            <a href=\"{% picture direct {{ image.image_path }} %}\" class=\"popup\" title=\"{{ image.caption }}\" data-caption=\"{{ image.copyright }}\">\n            {% picture portthumb {{ image.image_path }} --alt {{ image.caption }} %}\n            </a>              \n          </header>\t\n          <figcaption class=\"gallery-caption\">\n            <div class=\"entry-summary\" id=\"{{ image.caption }}\">\n              <h3>{{image.caption}}</h3>\n              <p>{{image.copyright}}</p>\n            </div>\n          </figcaption>\n        </figure>\n      </div>\t\n    {% assign i = i | plus:1 %}\n    {% if i == secondcolumnstart %}\n    </div>\n    {% elsif i == thirdcolumnstart %}\n    </div>\n    {% elsif i == totimages %}\n    </div>\n    {% else %}\n    {% endif %}\n    {% endfor %}        \n      </div>\n    </div> \n  </div><!-- END .wrapper -->\n</section>\n\n\n<!-- include image popups -->\n<script src=\"{{ site.baseurl }}/js/jquery.magnific-popup.js\"></script>\n  <script type=\"text/javascript\">\n    $(document).ready(function($) {\n      $('a.popup').magnificPopup({\n        type: 'image',\n  gallery:{\n       enabled:true,\n       navigateByImgClick: true,\n       preload: [0,1] // Will preload 0 - before current, and 1 after the current image\n     },\n    image: {\n       titleSrc: function(item) {\n           return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');\n          }\n      }\n        // other options\n    });\n});\n  </script>\n"
+        "content"   : "<p>Way out there</p>\n\n{% include subgallery.html id=\"PortfolioCelestial\" %}"
      
    } ,
   
@@ -282,7 +282,7 @@
         "tags"     : "",
         "url"      : "/portfolio/",
         "date"     : "",
-        "content"   : "\t<section id=\"content\" role=\"main\">\n\t\t<div class=\"wrapper\">\n\t\n\t\t\t<h2>{{page.title}}</h2>\n\t\t\t\n      <!-- Gallery __-->\n      <div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t\n{% for image in page.images %}  \t\n\n        <div class=\"col-md-4 p-0\">\n\t               <figure class=\"gallery-item\">\n                         <figure class=\"effect-selena\">\n\t\t\t\t\t<header class=\"gallery-icon\">\n\t\t       \n<a href=\"{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}\">\n{% picture portthumb {{ image.image_path }} --alt {{ image.gallery-name }} %}\n</a>\n\n\t\t\t\t\t</header>\t\n\t\t\t\t\t<figcaption class=\"gallery-caption\">\n\t\t\t\t\t\t<div class=\"entry-summary\">\n\t\t\t\t\t\t\t<h3>{{image.gallery-name}}</h3>\n\t\t\t\t\t\t\t<p>{{image.gallery-date}}</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</figcaption>\n                       </figure>\n\t\t\t\t</figure>\n      </div>\n{% endfor %}\t\t\n\t\t\t\t\n\t\t\t</div>\n    </div>\n\t\t</div><!-- END .wrapper -->\n\t</section>\n\n\n<br>"
+        "content"   : "\t<section id=\"content\" role=\"main\">\n\t\t<div class=\"wrapper\">\n\t\n\t\t\t<h2>{{page.title}}</h2>\n\t\t\t\n      <!-- Gallery __-->\n      <div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t\n{% for image in page.images %}  \t\n\n        <div class=\"col-md-4 p-0\">\n\t               <figure class=\"gallery-item\">\n                         <figure class=\"effect-selena\">\n\t\t\t\t\t<header class=\"gallery-icon\">\n\t\t       \n<a href=\"{{ image.gallery-folder }}\">\n{% picture portthumb {{ image.image_path }} --alt {{ image.gallery-name }} %}\n</a>\n\n\t\t\t\t\t</header>\t\n\t\t\t\t\t<figcaption class=\"gallery-caption\">\n\t\t\t\t\t\t<div class=\"entry-summary\">\n\t\t\t\t\t\t\t<h3>{{image.gallery-name}}</h3>\n\t\t\t\t\t\t\t<p>{{image.gallery-date}}</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</figcaption>\n                       </figure>\n\t\t\t\t</figure>\n      </div>\n{% endfor %}\t\t\n\t\t\t\t\n\t\t\t</div>\n    </div>\n\t\t</div><!-- END .wrapper -->\n\t</section>\n\n\n<br>"
      
    } ,
   
@@ -937,6 +937,941 @@
   
    {
      
+        "title"    : "Sydney Opera House Double Rainbow",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioRainbows/rainbows-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Golden Gate Bridge Rainbow",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioRainbows/rainbows-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Golden Gate Bridge Rainbow",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioRainbows/rainbows-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Echo Bluff State Park Lodge with Rainbow",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioRainbows/rainbows-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-16 in Colorado",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Sunset Air Show",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Blue Angels Crisscrossing the Sky",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "B-2 Bomber",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Blue Angels in a Diamond over Missouri Bluffs",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Blue Angel",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Blue Angels to the Moon",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Aircraft Propeller",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "A-10 Engine",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Propeller",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "C-17 from Travis AFB",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "P-51 Mustang",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbird Taking Off",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds in Diamond",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-15/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-16/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds in Diamond",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-17/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds with smoke",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-18/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds with smoke black and white",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-19/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds with smoke",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-20/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds with smoke",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-21/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds burst",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-22/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Air Force Thunderbirds crisscross",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-23/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Black and white aircraft landing",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-24/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-16 with moon in background",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-25/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Royal Air Force Red Arrows",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-26/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Royal Air Force Red Arrows",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-27/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-22 over trees",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-28/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-29/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-30/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-31/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels in diamond",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-32/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels in diamond",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-33/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-18 cloud burst",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-34/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-18 cloud burst",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-35/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Aircraft inlet",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-36/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Royal Air Force Red Arrows",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-37/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Royal Air Force Red Arrows",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-38/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Royal Air Force Red Arrows",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-39/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-22",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-40/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-22 cloud burst",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-41/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-22 cloud burst",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-42/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "F-22 with P-51 Mustang",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-43/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels over building",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-44/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels in diamond making a pass",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-45/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels in diamond making a pass",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-46/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels in diamond making a pass over a wing",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-47/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels making a pass",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-48/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "US Navy Blue Angels sun burst",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioAirShows/Airshow-49/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Noah Ohlsen 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mat Frazer 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Natalie Hammond CrossFit Competition Lake Of The Ozarks",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Ava CrossFit Competition St. Louis",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Ed at Heartland Of America CrossFit Competition",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Katrin Davidsdottir 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mat Fraser 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mat fraser 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tia-Claire 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Bethany Shadburne 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-15/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tia-Claire 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-16/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Bethany Shadburne 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-17/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Noah Ohlsen 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-18/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mat Fraser and Noah Ohlsen 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-19/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Noah Ohlsen 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-20/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Katrin Davidsdottir 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-21/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Katrin Davidsdottir 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-22/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Annie Thorisdottir 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-23/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Bethany Shadburne 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-24/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Chandler Smith 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-25/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-26/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-27/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-28/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Katrin Davidsdottir 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-29/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jamie Greene 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-30/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mat Fraser 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-31/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mat Fraser 2019 CrossFit Games",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCrossFit/crossfit-32/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
         "title"    : "2021 Unbound Gravel Finish Line Shots",
         "category" : "",
         "tags"     : "",
@@ -1051,6 +1986,391 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/UnboundGravelFinishLine/FinishLine-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Moon in a blue sky",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Milky Way over Missouri Sky",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Full Moon",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Milky Way over Missouri Sky",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2017 Lunar Eclipse Sun Spots",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2017 Lunar Eclipse",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2017 Lunar Eclipse",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2017 Lunar Eclipse",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Neowise Comit",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Neowise Comit",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Neowise Comit",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCelestial/stars-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Echo Bluff State Park, Missouri",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Flat Tops Wilderness Area, Colorado",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Trapper&#39;s Lake Lodge Flat Tops Wilderness, Colorado",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Horsetooth Resevoir, Colorado",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Colorado Snow",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Colorado Mountains",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Colorado Mountains",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Colorado Mountains",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioLandscapes/landscapes-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Merced River in Yosemite Valley",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Half Dome from Yosemite Valley",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Half Dome",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Half Dome from Glacier Point",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Yosemite Valley from Glacier Point",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Sequoia in Yosemite",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Yosemite Valley",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Milky Way over Yosemite",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Black and White of Half Dome at night over Yosemite Valley",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-9/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "The Moon Rising with Half Dome",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-10/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Black and White of El Capitain and Yosemite Valley",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-11/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Half Dome from Yosemite Valley at Night",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-12/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Half Dome at Night",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-13/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Half Dome black and white",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-14/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tenaya Lake Yosemite National Park",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-15/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Yosemite Falls",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioYosemite/yosemite-16/",
         "date"     : "",
         "content"   : null
      
@@ -7486,6 +8806,72 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-190/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Formula Jr Autocross - Kid Karts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCars/cars-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Formula Jr Autocross - Father Watches",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCars/cars-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Renault Autocross Car",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCars/cars-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "B Modified Autocross Car",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCars/cars-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "B Street Prepared Mazda Miata in Lincoln Nebraska",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCars/cars-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "2016 Scion FR-S",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/PortfolioCars/cars-6/",
         "date"     : "",
         "content"   : null
      

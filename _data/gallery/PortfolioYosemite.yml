@@ -1,0 +1,52 @@
+gallery: 
+ - image_path: /img/portfolio/02/yosemite-1.jpg
+   image-caption: Merced River in Yosemite Valley
+   mfp-title: Merced River in Yosemite Valley
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-2.jpg
+   image-caption: Half Dome from Yosemite Valley
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-3.jpg
+   image-caption: Half Dome
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-4.jpg
+   image-caption: Half Dome from Glacier Point
+   mfp-title: Half Dome from Glacier Point
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-5.jpg
+   image-caption: Yosemite Valley from Glacier Point
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-6.jpg
+   image-caption: Sequoia in Yosemite
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-7.jpg
+   image-caption: Yosemite Valley
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-8.jpg
+   image-caption: Milky Way over Yosemite
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-9.jpg
+   image-caption: Black and White of Half Dome at night over Yosemite Valley
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-10.jpg
+   image-caption: The Moon Rising with Half Dome 
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-11.jpg
+   image-caption: Black and White of El Capitain and Yosemite Valley
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-12.jpg
+   image-caption: Half Dome from Yosemite Valley at Night
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-13.jpg
+   image-caption: Half Dome at Night
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-14.jpg
+   image-caption: Half Dome black and white 
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-15.jpg
+   image-caption: Tenaya Lake Yosemite National Park
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/02/yosemite-16.jpg
+   image-caption: Yosemite Falls
+   image-copyright: © RainbowMarks.com
+posturl: "/portfolio/02"

@@ -1,0 +1,34 @@
+gallery: 
+ - image_path: /img/portfolio/07/landscapes-1.jpg
+   image-caption: Echo Bluff State Park, Missouri
+   mfp-title: Echo Bluff State Park, Missouri
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-2.jpg
+   image-caption: Flat Tops Wilderness Area, Colorado
+   mfp-title: Flat Tops Wilderness Area, Colorado
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-3.jpg
+   image-caption: Trapper's Lake Lodge Flat Tops Wilderness, Colorado
+   mfp-title: Trapper's Lake Lodge Flat Tops Wilderness, Colorado
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-4.jpg
+   image-caption: Horsetooth Resevoir, Colorado
+   mfp-title: Horsetooth Resevoir, Colorado
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-5.jpg
+   image-caption: Colorado Snow
+   mfp-title: Colorado Snow
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-6.jpg
+   image-caption: Colorado Mountains
+   mfp-title: Colorado Mountains
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-7.jpg
+   image-caption: Colorado Mountains
+   mfp-title: Colorado Mountains
+   image-copyright: © RainbowMarks.com
+ - image_path: /img/portfolio/07/landscapes-8.jpg
+   image-caption: Colorado Mountains
+   mfp-title: Colorado Mountains
+   image-copyright: © RainbowMarks.com
+posturl: "/portfolio/07"
