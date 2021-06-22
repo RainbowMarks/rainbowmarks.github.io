@@ -38,7 +38,7 @@ comments:
 # Internal nav
 nav:
   - PORTFOLIO: "/portfolio/"  
-  - BLOG: "/blog/"
+  - EVENTS + BLOG: "/blog/"
   - PURCHASE: "/purchase/"
   - ABOUT: "/about/"
   
@@ -57,7 +57,7 @@ port:             	 4000
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num/"
 permalink: "/blog/:title/"
 categories_path: "/blog/category/"
