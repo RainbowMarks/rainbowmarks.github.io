@@ -30,18 +30,18 @@ redirect_from:
                 {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
                 {% endif %}
                 <p class="post-title"
-                  style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; margin-left: 1em;">
-                  &#9658; {{ post.title }}
+                  style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+                  {{ post.title }}
                 </p>
               </a>
               {% if post.subtitle %}
               <p class="post-subtitle"
-                style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; margin-left: 1em;">
+                style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
                 {{ post.subtitle }}</p>
               {% endif %}
 
               <p class="post-meta"
-                style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;">
+                style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
                 Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
             </div>
 

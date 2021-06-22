@@ -228,13 +228,15 @@ hr.small {
 }
 .post-preview > a > .post-title {
   font-size: 30px;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding:0px;
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
+  padding:0px;
 }
 .post-preview > .post-meta {
   color: #808080;
@@ -435,3 +437,7 @@ body {
   background-color: transparent;
 }
 .p-0 .gallery-item figure{margin:0;}
+
+.img-responsive{
+  margin:0em;
+}
