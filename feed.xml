@@ -5,8 +5,8 @@
     <description>Rainbow Marks Photography, Wildwood, Missouri</description>
     <link>https://rainbowmarks.com/</link>
     <atom:link href="https://rainbowmarks.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 22 Jun 2021 14:04:00 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Jun 2021 14:04:00 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jun 2021 14:48:29 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jun 2021 14:48:29 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -20373,22 +20373,8 @@
       </item>
     
       <item>
-        <title>St Louis Region Autocross Photos</title>
-        <description>
----
-layout: &quot;post&quot;
-title: &quot;2020 St. Louis Region Autocross Photos&quot;
-subtitle: &quot;Autocross photos from the 2020 Season&quot;
-active: &quot;blog&quot;
-image:
-    feature: &quot;/img/posts/MartySmoke-1.jpg&quot;
-date: '2020-10-12T15:12:54+00:00'
-permalink: &quot;/Events/2020/10/st-louis-region-autocross-photos&quot;
-header-img: &quot;/img/posts/MartySmoke-1.jpg&quot;
-comments: &quot;true&quot;
----
-
-&lt;p&gt;With a limited number of National events for the 2020 season, local autocross became the focus for many drivers
+        <title>2020 St. Louis Region Autocross Photos</title>
+        <description>&lt;p&gt;With a limited number of National events for the 2020 season, local autocross became the focus for many drivers
     around the country. In St. Louis we&amp;#39;ve had 8 of 9 events.&amp;nbsp;&lt;/p&gt;
 
 
@@ -20441,9 +20427,9 @@ comments: &quot;true&quot;
     &lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/chammond/albums/72157716606555747&quot; title=&quot;Event 9 Heat 3&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/50527100677_c4adea1397_h.jpg&quot; width=&quot;1200&quot; height=&quot;1600&quot; alt=&quot;Event 9 Heat 3&quot;&gt;&lt;/a&gt;&lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 &lt;/p&gt;</description>
-        <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-        <link>https://rainbowmarks.com/blog/st-louis-region-autocross-photos/</link>
-        <guid isPermaLink="true">https://rainbowmarks.com/blog/st-louis-region-autocross-photos/</guid>
+        <pubDate>Mon, 12 Oct 2020 15:12:54 +0000</pubDate>
+        <link>https://rainbowmarks.com/Events/2020/10/st-louis-region-autocross-photos</link>
+        <guid isPermaLink="true">https://rainbowmarks.com/Events/2020/10/st-louis-region-autocross-photos</guid>
         
         
       </item>
