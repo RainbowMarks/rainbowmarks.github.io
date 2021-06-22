@@ -55,11 +55,11 @@
     } ,
   
     {
-      "title"    : "St Louis Region Autocross Photos",
+      "title"    : "2020 St. Louis Region Autocross Photos",
       "category" : "",
       "tags"     : "",
-      "url"      : "/blog/st-louis-region-autocross-photos/",
-      "date"     : "2020-10-12 00:00:00 -0500",
+      "url"      : "/Events/2020/10/st-louis-region-autocross-photos",
+      "date"     : "2020-10-12 10:12:54 -0500",
       "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
     } ,
   
