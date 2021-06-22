@@ -181,7 +181,7 @@
 										<figure class="gallery-item">
 											<figure class="effect-selena">
 												<header class="gallery-icon">
-													<a href="https://rainbowmarks.com/portfolio/01/">
+													<a href="/portfolio/01/">
 														<img
 															src="/generated/img/portfolio/covers/alb01-600-99634e332.jpg"
 															alt="2019 CrossFit Games"
@@ -207,7 +207,7 @@
 										<figure class="gallery-item">
 											<figure class="effect-selena">
 												<header class="gallery-icon">
-													<a href="https://rainbowmarks.com/portfolio/02/">
+													<a href="/portfolio/02/">
 														<img
 															src="/generated/img/portfolio/covers/alb02-600-b75bda75a.jpg"
 															alt="Yosemite"
@@ -233,7 +233,7 @@
 										<figure class="gallery-item">
 											<figure class="effect-selena">
 												<header class="gallery-icon">
-													<a href="https://rainbowmarks.com/portfolio/03/">
+													<a href="/portfolio/03/">
 														<img
 															src="/generated/img/portfolio/covers/alb03-600-85613b44c.jpg"
 															alt="Air Shows"
@@ -259,7 +259,7 @@
 										<figure class="gallery-item">
 											<figure class="effect-selena">
 												<header class="gallery-icon">
-													<a href="https://rainbowmarks.com/portfolio/04/">
+													<a href="/portfolio/04/">
 														<img
 															src="/generated/img/portfolio/covers/alb04-600-10fe76519.jpg"
 															alt="Rainbows"
@@ -285,7 +285,7 @@
 										<figure class="gallery-item">
 											<figure class="effect-selena">
 												<header class="gallery-icon">
-													<a href="https://rainbowmarks.com/portfolio/05/">
+													<a href="/portfolio/05/">
 														<img
 															src="/generated/img/portfolio/covers/alb05-600-67a156de8.jpg"
 															alt="Car Photos"
@@ -311,7 +311,7 @@
 										<figure class="gallery-item">
 											<figure class="effect-selena">
 												<header class="gallery-icon">
-													<a href="https://rainbowmarks.com/portfolio/06/">
+													<a href="/portfolio/06/">
 														<img
 															src="/generated/img/portfolio/covers/alb06-600-c9a12b31c.jpg"
 															alt="Celestial Bodies"
@@ -337,7 +337,7 @@
 										<figure class="gallery-item">
 											<figure class="effect-selena">
 												<header class="gallery-icon">
-													<a href="https://rainbowmarks.com/portfolio/07/">
+													<a href="/portfolio/07/">
 														<img
 															src="/generated/img/portfolio/covers/alb07-600-5ec1c6f4d.jpg"
 															alt="Landscape Photography"
@@ -368,6 +368,31 @@
 				</div>
 			</div>
 		</div>
+		<!-- Custom Theme JavaScript -->
+		<script src="/js/main.min.js "></script>
+		<!-- include image popups -->
+		<script src="/js/jquery.magnific-popup.js"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function ($) {
+				$("a.popup").magnificPopup({
+					type: "image",
+					gallery: {
+						enabled: true,
+						navigateByImgClick: true,
+						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+					},
+					image: {
+						titleSrc: function (item) {
+							return (
+								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
+							);
+						},
+					},
+					// other options
+				});
+			});
+		</script>
 
 		<!-- Footer -->
 		<footer>
