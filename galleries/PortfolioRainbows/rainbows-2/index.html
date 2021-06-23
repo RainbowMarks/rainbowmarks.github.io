@@ -120,17 +120,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/portfolio/04/rainbows-2-1600-98916cf8c.jpg"
-						class="popup"
 						title="Golden Gate Bridge Rainbow"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/portfolio/04/rainbows-2-600-98916cf8c.jpg"
+							src="/generated/img/portfolio/04/rainbows-2-800-98916cf8c.jpg"
 							alt="Golden Gate Bridge Rainbow"
 							srcset="
-								/generated/img/portfolio/04/rainbows-2-200-98916cf8c.jpg 200w,
-								/generated/img/portfolio/04/rainbows-2-400-98916cf8c.jpg 400w,
-								/generated/img/portfolio/04/rainbows-2-600-98916cf8c.jpg 600w
+								/generated/img/portfolio/04/rainbows-2-200-98916cf8c.jpg   200w,
+								/generated/img/portfolio/04/rainbows-2-400-98916cf8c.jpg   400w,
+								/generated/img/portfolio/04/rainbows-2-800-98916cf8c.jpg   800w,
+								/generated/img/portfolio/04/rainbows-2-1600-98916cf8c.jpg 1600w,
+								/generated/img/portfolio/04/rainbows-2-2000-98916cf8c.jpg 2000w
 							"
 						/>
 					</a>
@@ -144,31 +145,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

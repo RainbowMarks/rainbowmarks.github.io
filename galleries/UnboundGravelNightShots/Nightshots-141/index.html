@@ -128,17 +128,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-1600-99b37ef44.jpg"
-						class="popup"
 						title="2021 Unbound Gravel 20.5 Miles from the Finish"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-600-99b37ef44.jpg"
+							src="/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-800-99b37ef44.jpg"
 							alt="2021 Unbound Gravel 20.5 Miles from the Finish"
 							srcset="
-								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-200-99b37ef44.jpg 200w,
-								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-400-99b37ef44.jpg 400w,
-								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-600-99b37ef44.jpg 600w
+								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-200-99b37ef44.jpg   200w,
+								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-400-99b37ef44.jpg   400w,
+								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-800-99b37ef44.jpg   800w,
+								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-1600-99b37ef44.jpg 1600w,
+								/generated/img/posts/UnboundGravel/Nightshots/Nightshots-141-2000-99b37ef44.jpg 2000w
 							"
 						/>
 					</a>
@@ -152,31 +153,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

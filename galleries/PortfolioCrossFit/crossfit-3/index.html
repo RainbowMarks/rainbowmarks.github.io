@@ -120,17 +120,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/portfolio/01/crossfit-3-1600-7958d4acb.jpg"
-						class="popup"
 						title="2019 CrossFit Games"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/portfolio/01/crossfit-3-600-7958d4acb.jpg"
+							src="/generated/img/portfolio/01/crossfit-3-800-7958d4acb.jpg"
 							alt="2019 CrossFit Games"
 							srcset="
-								/generated/img/portfolio/01/crossfit-3-200-7958d4acb.jpg 200w,
-								/generated/img/portfolio/01/crossfit-3-400-7958d4acb.jpg 400w,
-								/generated/img/portfolio/01/crossfit-3-600-7958d4acb.jpg 600w
+								/generated/img/portfolio/01/crossfit-3-200-7958d4acb.jpg   200w,
+								/generated/img/portfolio/01/crossfit-3-400-7958d4acb.jpg   400w,
+								/generated/img/portfolio/01/crossfit-3-800-7958d4acb.jpg   800w,
+								/generated/img/portfolio/01/crossfit-3-1600-7958d4acb.jpg 1600w,
+								/generated/img/portfolio/01/crossfit-3-2000-7958d4acb.jpg 2000w
 							"
 						/>
 					</a>
@@ -144,31 +145,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

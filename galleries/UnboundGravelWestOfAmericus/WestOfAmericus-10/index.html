@@ -125,17 +125,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-1600-cccfb6b5e.jpg"
-						class="popup"
 						title="2021 Unbound Gravel West of Americus"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-600-cccfb6b5e.jpg"
+							src="/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-800-cccfb6b5e.jpg"
 							alt="2021 Unbound Gravel West of Americus"
 							srcset="
-								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-200-cccfb6b5e.jpg 200w,
-								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-400-cccfb6b5e.jpg 400w,
-								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-600-cccfb6b5e.jpg 600w
+								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-200-cccfb6b5e.jpg   200w,
+								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-400-cccfb6b5e.jpg   400w,
+								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-800-cccfb6b5e.jpg   800w,
+								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-1600-cccfb6b5e.jpg 1600w,
+								/generated/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-10-2000-cccfb6b5e.jpg 2000w
 							"
 						/>
 					</a>
@@ -149,31 +150,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

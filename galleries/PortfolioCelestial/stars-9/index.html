@@ -120,17 +120,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/portfolio/06/stars-9-1600-72a6d5e68.jpg"
-						class="popup"
 						title="Neowise Comit"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/portfolio/06/stars-9-600-72a6d5e68.jpg"
+							src="/generated/img/portfolio/06/stars-9-800-72a6d5e68.jpg"
 							alt="Neowise Comit"
 							srcset="
-								/generated/img/portfolio/06/stars-9-200-72a6d5e68.jpg 200w,
-								/generated/img/portfolio/06/stars-9-400-72a6d5e68.jpg 400w,
-								/generated/img/portfolio/06/stars-9-600-72a6d5e68.jpg 600w
+								/generated/img/portfolio/06/stars-9-200-72a6d5e68.jpg   200w,
+								/generated/img/portfolio/06/stars-9-400-72a6d5e68.jpg   400w,
+								/generated/img/portfolio/06/stars-9-800-72a6d5e68.jpg   800w,
+								/generated/img/portfolio/06/stars-9-1600-72a6d5e68.jpg 1600w,
+								/generated/img/portfolio/06/stars-9-2000-72a6d5e68.jpg 2000w
 							"
 						/>
 					</a>
@@ -144,31 +145,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

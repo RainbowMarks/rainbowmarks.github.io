@@ -120,17 +120,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/portfolio/02/yosemite-8-1600-f5d13a793.jpg"
-						class="popup"
 						title="Milky Way over Yosemite"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/portfolio/02/yosemite-8-600-f5d13a793.jpg"
+							src="/generated/img/portfolio/02/yosemite-8-800-f5d13a793.jpg"
 							alt="Milky Way over Yosemite"
 							srcset="
-								/generated/img/portfolio/02/yosemite-8-200-f5d13a793.jpg 200w,
-								/generated/img/portfolio/02/yosemite-8-400-f5d13a793.jpg 400w,
-								/generated/img/portfolio/02/yosemite-8-600-f5d13a793.jpg 600w
+								/generated/img/portfolio/02/yosemite-8-200-f5d13a793.jpg   200w,
+								/generated/img/portfolio/02/yosemite-8-400-f5d13a793.jpg   400w,
+								/generated/img/portfolio/02/yosemite-8-800-f5d13a793.jpg   800w,
+								/generated/img/portfolio/02/yosemite-8-1600-f5d13a793.jpg 1600w,
+								/generated/img/portfolio/02/yosemite-8-2000-f5d13a793.jpg 2000w
 							"
 						/>
 					</a>
@@ -144,31 +145,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

@@ -120,17 +120,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/portfolio/01/crossfit-18-1600-479aea0aa.jpg"
-						class="popup"
 						title="Noah Ohlsen 2019 CrossFit Games"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/portfolio/01/crossfit-18-600-479aea0aa.jpg"
+							src="/generated/img/portfolio/01/crossfit-18-800-479aea0aa.jpg"
 							alt="Noah Ohlsen 2019 CrossFit Games"
 							srcset="
-								/generated/img/portfolio/01/crossfit-18-200-479aea0aa.jpg 200w,
-								/generated/img/portfolio/01/crossfit-18-400-479aea0aa.jpg 400w,
-								/generated/img/portfolio/01/crossfit-18-600-479aea0aa.jpg 600w
+								/generated/img/portfolio/01/crossfit-18-200-479aea0aa.jpg   200w,
+								/generated/img/portfolio/01/crossfit-18-400-479aea0aa.jpg   400w,
+								/generated/img/portfolio/01/crossfit-18-800-479aea0aa.jpg   800w,
+								/generated/img/portfolio/01/crossfit-18-1600-479aea0aa.jpg 1600w,
+								/generated/img/portfolio/01/crossfit-18-2000-479aea0aa.jpg 2000w
 							"
 						/>
 					</a>
@@ -144,31 +145,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

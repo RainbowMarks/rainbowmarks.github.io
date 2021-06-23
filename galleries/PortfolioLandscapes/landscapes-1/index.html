@@ -120,17 +120,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/portfolio/07/landscapes-1-1600-c923147c4.jpg"
-						class="popup"
 						title="Echo Bluff State Park, Missouri"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/portfolio/07/landscapes-1-600-c923147c4.jpg"
+							src="/generated/img/portfolio/07/landscapes-1-800-c923147c4.jpg"
 							alt="Echo Bluff State Park, Missouri"
 							srcset="
-								/generated/img/portfolio/07/landscapes-1-200-c923147c4.jpg 200w,
-								/generated/img/portfolio/07/landscapes-1-400-c923147c4.jpg 400w,
-								/generated/img/portfolio/07/landscapes-1-600-c923147c4.jpg 600w
+								/generated/img/portfolio/07/landscapes-1-200-c923147c4.jpg   200w,
+								/generated/img/portfolio/07/landscapes-1-400-c923147c4.jpg   400w,
+								/generated/img/portfolio/07/landscapes-1-800-c923147c4.jpg   800w,
+								/generated/img/portfolio/07/landscapes-1-1600-c923147c4.jpg 1600w,
+								/generated/img/portfolio/07/landscapes-1-2000-c923147c4.jpg 2000w
 							"
 						/>
 					</a>
@@ -144,31 +145,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>

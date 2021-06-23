@@ -123,17 +123,18 @@
 				<header class="gallery-icon">
 					<a
 						href="/generated/img/portfolio/03/Airshow-18-1600-f43032617.jpg"
-						class="popup"
 						title="Air Force Thunderbirds with smoke"
 						data-caption="© RainbowMarks.com"
 					>
 						<img
-							src="/generated/img/portfolio/03/Airshow-18-600-f43032617.jpg"
+							src="/generated/img/portfolio/03/Airshow-18-800-f43032617.jpg"
 							alt="Air Force Thunderbirds with smoke"
 							srcset="
-								/generated/img/portfolio/03/Airshow-18-200-f43032617.jpg 200w,
-								/generated/img/portfolio/03/Airshow-18-400-f43032617.jpg 400w,
-								/generated/img/portfolio/03/Airshow-18-600-f43032617.jpg 600w
+								/generated/img/portfolio/03/Airshow-18-200-f43032617.jpg   200w,
+								/generated/img/portfolio/03/Airshow-18-400-f43032617.jpg   400w,
+								/generated/img/portfolio/03/Airshow-18-800-f43032617.jpg   800w,
+								/generated/img/portfolio/03/Airshow-18-1600-f43032617.jpg 1600w,
+								/generated/img/portfolio/03/Airshow-18-2000-f43032617.jpg 2000w
 							"
 						/>
 					</a>
@@ -147,31 +148,5 @@
 				</figcaption>
 			</figure>
 		</article>
-
-		<!-- Custom Theme JavaScript -->
-		<script src="/js/main.min.js "></script>
-		<!-- include image popups -->
-		<script src="/js/jquery.magnific-popup.js"></script>
-
-		<script type="text/javascript">
-			$(document).ready(function ($) {
-				$("a.popup").magnificPopup({
-					type: "image",
-					gallery: {
-						enabled: true,
-						navigateByImgClick: true,
-						preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
-					},
-					image: {
-						titleSrc: function (item) {
-							return (
-								item.el.attr("title") + "&nbsp;" + item.el.attr("data-caption")
-							);
-						},
-					},
-					// other options
-				});
-			});
-		</script>
 	</body>
 </html>
