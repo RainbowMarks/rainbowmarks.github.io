@@ -173,8 +173,6 @@
 					<div class="gallery masonry-gallery" id="PortfolioCelestial">
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-1-1483-1d460a8e8.jpg"
 									class="popup"
@@ -204,8 +202,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-2-1600-36f7a1dfb.jpg"
 									class="popup"
@@ -235,8 +231,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-3-1600-24e33e8e0.jpg"
 									class="popup"
@@ -266,8 +260,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-4-1600-f6396f033.jpg"
 									class="popup"
@@ -297,8 +289,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-5-1600-ba5098b7d.jpg"
 									class="popup"
@@ -328,8 +318,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-6-1600-20637279e.jpg"
 									class="popup"
@@ -359,8 +347,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-7-1600-d883fda05.jpg"
 									class="popup"
@@ -390,8 +376,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-8-1600-424591ece.jpg"
 									class="popup"
@@ -421,8 +405,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-9-1600-72a6d5e68.jpg"
 									class="popup"
@@ -452,8 +434,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-10-1600-7c1a8e72b.jpg"
 									class="popup"
@@ -483,8 +463,6 @@
 
 						<figure class="gallery-item">
 							<header class="gallery-icon">
-								<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
-
 								<a
 									href="/generated/img/portfolio/06/stars-11-1600-8ce8d1ab1.jpg"
 									class="popup"
@@ -514,19 +492,19 @@
 					</div>
 
 					<script language="javascript" type="text/javascript">
+						var pageUrl = "/";
 						//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 						$(".popup").on("mfpChange", function (e /*, params */) {
-							//console.log('Popup changed',  $.magnificPopup.instance.index);
-							//console.log('Popup instance',  $.magnificPopup.instance);
-							//load the URL with index as a &param
 							originalUrl = window.location.href.split("?")[0];
-							//load the image if the page loads and a param is passed
-
 							var newUrl = $.magnificPopup.instance.currItem.el.attr(
 								"data-url"
 							);
 							var newTitle = $.magnificPopup.instance.currItem.el.attr("title");
 							window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+						});
+
+						$(".popup").on("mfpClose", function (e /*, params */) {
+							window.history.replaceState({}, "", pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
 						});
 
 						$(document).ready(function ($) {
@@ -552,43 +530,23 @@
 
 						//check if the url contains a photo
 						$(document).ready(function ($) {
-							// console.log( "ready!" );
-
-							//console.log('Page Load',  window.location.href.split('?')[1]);
 							var galleryNameLoc = window.location.href.indexOf("galleryname=");
 							if (galleryNameLoc > 0) {
-								//console.log('Found Index',  index);
 								var gindex = window.location.href
 									.substring(galleryNameLoc + 12)
 									.split("&")[0];
-								//console.log('G Index:', gindex);
-								//console.log('Item:',$('#' + gindex));
 								var galleryObj = $("#" + gindex);
 								var loc = window.location.href.indexOf("rbmphoto=");
 
 								if (loc > 0) {
-									//console.log('Found It',  window.location.href.substring(loc));
 									var index = window.location.href
 										.substring(loc + 9)
 										.split("&")[0];
-									//console.log('Found Index',  index);
-									//lookup the image on the page if there are multiple galleries
-
 									$("#" + gindex)
 										.find(".popup")
 										[index].click();
 								}
 							}
-							//var loc = window.location.href.indexOf("rbmphoto=")
-							//if(loc<0)
-							//{
-							//	//console.log('Found It',  window.location.href.substring(loc));
-							//	var index = window.location.href.substring(loc+9).split("&")[0];
-							//	//console.log('Found Index',  index);
-							//	//lookup the image on the page if there are multiple galleries
-
-							//	document.getElementsByClassName('popup')[index].click();
-							//}
 						});
 					</script>
 				</div>
