@@ -5,8 +5,8 @@
     <description>Rainbow Marks Photography, Wildwood, Missouri</description>
     <link>https://rainbowmarks.com/</link>
     <atom:link href="https://rainbowmarks.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Jul 2021 15:39:43 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Jul 2021 15:39:43 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jul 2021 15:55:06 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Jul 2021 15:55:06 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -7575,6 +7575,10 @@
         <link>https://rainbowmarks.com/Events/2021/07/July-8-2021-Dirt-Crits</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/07/July-8-2021-Dirt-Crits</guid>
         
+        <category>bicycle</category>
+        
+        <category>event</category>
+        
         
       </item>
     
@@ -12725,6 +12729,12 @@
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-night-shots</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-night-shots</guid>
         
+        <category>bicycle</category>
+        
+        <category>event</category>
+        
+        <category>unbound</category>
+        
         
       </item>
     
@@ -13015,6 +13025,12 @@
         <pubDate>Mon, 07 Jun 2021 13:04:00 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-finish-line</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-finish-line</guid>
+        
+        <category>bicycle</category>
+        
+        <category>event</category>
+        
+        <category>unbound</category>
         
         
       </item>
@@ -19267,6 +19283,12 @@
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-west-of-americus</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-west-of-americus</guid>
         
+        <category>bicycle</category>
+        
+        <category>event</category>
+        
+        <category>unbound</category>
+        
         
       </item>
     
@@ -23137,6 +23159,12 @@
         <link>https://rainbowmarks.com/Events/2021/06/unbound-gravel-alma</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/06/unbound-gravel-alma</guid>
         
+        <category>bicycle</category>
+        
+        <category>event</category>
+        
+        <category>unbound</category>
+        
         
       </item>
     
@@ -23193,6 +23221,10 @@
         <pubDate>Tue, 13 Apr 2021 10:12:54 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2021/04/st-louis-region-autocross-photos-2021</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/04/st-louis-region-autocross-photos-2021</guid>
+        
+        <category>autocross</category>
+        
+        <category>event</category>
         
         
       </item>
@@ -26010,6 +26042,10 @@
         <link>https://rainbowmarks.com/Events/2021/02/8u-presidents-day-jamboree-2021</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2021/02/8u-presidents-day-jamboree-2021</guid>
         
+        <category>hockey</category>
+        
+        <category>event</category>
+        
         
       </item>
     
@@ -26071,6 +26107,10 @@
         <pubDate>Mon, 12 Oct 2020 15:12:54 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2020/10/st-louis-region-autocross-photos</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2020/10/st-louis-region-autocross-photos</guid>
+        
+        <category>autocross</category>
+        
+        <category>event</category>
         
         
       </item>
@@ -26306,6 +26346,10 @@
         <pubDate>Sun, 29 Dec 2019 22:50:26 +0000</pubDate>
         <link>https://rainbowmarks.com/Events/2019/12/chesterfield-hockey-6u-inaugural-holiday-classic</link>
         <guid isPermaLink="true">https://rainbowmarks.com/Events/2019/12/chesterfield-hockey-6u-inaugural-holiday-classic</guid>
+        
+        <category>hockey</category>
+        
+        <category>event</category>
         
         
       </item>
