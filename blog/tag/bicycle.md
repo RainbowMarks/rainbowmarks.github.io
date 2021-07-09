@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_tag"
-tag: "tag03"
-permalink: "/blog/tag/tag03/"
+tag: "bicycle"
+permalink: "/blog/tag/bicycle/"
 header-img: "img/archive-bg.jpg"
 ---
