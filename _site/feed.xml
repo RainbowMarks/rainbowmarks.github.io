@@ -5,8 +5,8 @@
     <description>Rainbow Marks Photography, Wildwood, Missouri</description>
     <link>https://rainbowmarks.com/</link>
     <atom:link href="https://rainbowmarks.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Jul 2021 08:20:46 -0500</pubDate>
-    <lastBuildDate>Fri, 09 Jul 2021 08:20:46 -0500</lastBuildDate>
+    <pubDate>Fri, 09 Jul 2021 08:26:22 -0500</pubDate>
+    <lastBuildDate>Fri, 09 Jul 2021 08:26:22 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -7520,7 +7520,7 @@
 &lt;/div&gt;
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	var pageUrl = &quot;//Events/2021/07/July-8-2021-Dirt-Crits&quot;;
+	var pageUrl = &quot;/Events/2021/07/July-8-2021-Dirt-Crits&quot;;
 //	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
 	  originalUrl = window.location.href.split('?')[0];
@@ -7530,7 +7530,6 @@
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  alert('close');
 	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	});
 
@@ -12683,7 +12682,6 @@
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  alert('close');
 	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	});
 
@@ -12975,7 +12973,6 @@
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  alert('close');
 	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	});
 
@@ -19227,7 +19224,6 @@
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  alert('close');
 	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	});
 
@@ -23098,7 +23094,6 @@
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  alert('close');
 	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	});
 
@@ -24948,7 +24943,6 @@
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  alert('close');
 	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	});
 
@@ -25972,7 +25966,6 @@
 	});
 
 	$('.popup').on('mfpClose', function(e /*, params */) {	  
-	  alert('close');
 	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	});
 
