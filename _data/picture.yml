@@ -37,6 +37,6 @@ presets:
 
   portthumb:  
     formats: [ original]
-    widths: [200, 400, 600]
+    widths: [200, 400]
     link_source: false
-    fallback_width: 600
+    fallback_width: 400
