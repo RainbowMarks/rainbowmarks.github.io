@@ -589,6 +589,11 @@ MagnificPopup.prototype = {
 			if(!item.src) {
 				item.src = item.el.attr('href');
 			}
+
+			item.price = item.el.attr('data-price');
+			item.filename = item.el.attr('data-filename');
+			item.thumb = item.el.attr('data-thumb');
+
 		}
 
 		item.type = type || mfp.st.type || 'inline';
@@ -1132,11 +1137,17 @@ $.magnificPopup.registerModule('image', {
 		markup: '<div class="mfp-figure">'+
 					'<div class="mfp-close"></div>'+
 					'<figure>'+
-						'<div class="mfp-img"></div>'+
+						'<div class="mfp-img item_image"></div>'+
 						'<figcaption>'+
 							'<div class="mfp-bottom-bar">'+
-								'<div class="mfp-title"></div>'+
-								'<div class="mfp-counter"></div>'+
+								'<div class="simpleCart_shelfItem"><div class="mfp-title"></div>'+
+									'<div class="mfp-counter"></div>'+
+									'<div class="item_price mfp-price"></div>'+
+									'<div class="item_name mfp-filename"></div>'+
+									'<div class="item_image mfp-thumb"></div>'+
+									'<div class="item_add" href="javascript:;"> Add to Cart </div>'+
+								'</div>'+
+
 							'</div>'+
 						'</figcaption>'+
 					'</figure>'+
@@ -1680,7 +1691,9 @@ $.magnificPopup.registerModule('gallery', {
 
 		tPrev: 'Previous (Left arrow key)',
 		tNext: 'Next (Right arrow key)',
-		tCounter: '%curr% of %total%'
+		tCounter: '%curr% of %total%',
+		tPrice: '$%price%'
+		
 	},
 
 	proto: {
@@ -1724,6 +1737,9 @@ $.magnificPopup.registerModule('gallery', {
 			_mfpOn(MARKUP_PARSE_EVENT+ns, function(e, element, values, item) {
 				var l = mfp.items.length;
 				values.counter = l > 1 ? _replaceCurrTotal(gSt.tCounter, item.index, l) : '';
+				values.price = l > 1 ? gSt.tPrice.replace(/%price%/gi,item.price).replace(' ','') : '';
+				values.thumb =  item.thumb;
+				values.filename = item.filename;
 			});
 
 			_mfpOn('BuildControls' + ns, function() {
