@@ -361,6 +361,7 @@ img.mfp-img {
   color: #F3F3F3;
   word-wrap: break-word;
   padding-right: 36px;
+  display:none;
 
 }
 .item_add{
@@ -372,8 +373,10 @@ img.mfp-img {
   line-height: 18px;
   white-space: nowrap;
   cursor: pointer;
+  display:none;
 }
 .item-image img {
   width:150px;
 }
 .mfp-thumb{display:none;}
+#btnCart{display:none;}
