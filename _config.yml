@@ -33,7 +33,7 @@ owner:
 comments:
   provider: false # disqus
   disqus:
-    short_name: "rainbowmarks"
+    short_name: # "rainbowmarks"
 
 # Internal nav
 nav:

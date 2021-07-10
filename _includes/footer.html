@@ -74,6 +74,9 @@
 
 
 
+<!-- include shopping cart -->
+<script src="{{ site.baseurl }}/js/simplecart.min.js"></script>
+
 <!-- include Masonry -->
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script> 
 <!-- include mousewheel plugins -->
@@ -95,3 +98,12 @@
 
 <!-- include custom script -->
 <script src="{{ site.baseurl }}/js/scripts.js"></script>
+
+<script>
+    simpleCart({
+		checkout: { 
+			type: "PayPal" , 
+			email: "paypal@christoc.com" 
+		}
+	});	
+</script>

@@ -350,3 +350,19 @@ img.mfp-img {
   .mfp-container {
     padding-left: 6px;
     padding-right: 6px; } }
+
+
+/* custom for simplecart */
+
+.item_name {display:none;}
+.item_price {}
+.item_add{
+  position: absolute;
+  top: 25px;
+  right: 0;
+  color: #FFF;
+  font-size: 16px;
+  line-height: 20px;
+  white-space: nowrap;
+  cursor: pointer;
+}

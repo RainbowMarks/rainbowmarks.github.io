@@ -103,7 +103,9 @@ style="margin-right:1em; z-index: 1;">
             <li class="nav-item"><a href="/purchase/" class="nav-link">PURCHASE</a>
             </li>     
             <li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a>
-            </li>  </ul>
+            </li>  
+            <li class="nav-item"><a href="javascript:;" class="simpleCart_checkout">CART</a></li>
+        </ul>
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->
@@ -143,7 +145,10 @@ style="margin-right:1em; z-index: 1;">
     <div class="row">
       <div class="col">
         <p>November 8th, 2018 RainbowMarks took part in the Creve Coeuer Camera Photopalooza Sip &amp; Shoot out at Smartt Field in St. Charles, MO.</p>
-<p>This was the first time we&#39;ve had the opportunity to shoot with models, and it was a blast! <a href="https://www.flickr.com/photos/chammond/sets/72157675438276398" target="_blank">Check out some of the 62 photos</a>!</p><div class="d-flex justify-content-center"><a data-flickr-embed="true" data-footer="true" data-header="true" href="https://www.flickr.com/photos/chammond/albums/72157675438276398" title="Sip and Shoot 2018"><img alt="Sip and Shoot 2018" height="800" src="https://live.staticflickr.com/4876/30852005347_d869ace201_c.jpg" width="533" /></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+
+<p>This was the first time we've had the opportunity to shoot with models, and it was a blast! <a href="https://www.flickr.com/photos/chammond/sets/72157675438276398" target="_blank">Check out some of the 62 photos</a>!</p>
+
+<div class="d-flex justify-content-center"><a data-flickr-embed="true" data-footer="true" data-header="true" href="https://www.flickr.com/photos/chammond/albums/72157675438276398" title="Sip and Shoot 2018"><img alt="Sip and Shoot 2018" height="800" src="https://live.staticflickr.com/4876/30852005347_d869ace201_c.jpg" width="533" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
 
         <br>
         <br>
@@ -176,24 +181,6 @@ style="margin-right:1em; z-index: 1;">
         </ul>
 
         
-<div id="disqus_thread"></div>
-<script>
-        var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//rainbowmarks.disqus.com/embed.js';  // IMPORTANT: Replace 'yourproject' with your forum shortname!
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
 
       </div>
     </div>
@@ -305,6 +292,9 @@ style="margin-right:1em; z-index: 1;">
 
 
 
+<!-- include shopping cart -->
+<script src="/js/simplecart.min.js"></script>
+
 <!-- include Masonry -->
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script> 
 <!-- include mousewheel plugins -->
@@ -326,6 +316,15 @@ style="margin-right:1em; z-index: 1;">
 
 <!-- include custom script -->
 <script src="/js/scripts.js"></script>
+
+<script>
+    simpleCart({
+		checkout: { 
+			type: "PayPal" , 
+			email: "paypal@christoc.com" 
+		}
+	});	
+</script>
 
     <script>
 //** jQuery Scroll to Top Control script- (c) 

@@ -14,7 +14,19 @@
 
 	<header class="gallery-icon">
 		{% assign filename = img.image_path | split: "/" | last | split: "." | first %}
-		<a href="{% picture direct {{ img.image_path }} %}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}" data-url="/galleries/{{ galleryname }}/{{ filename }}/ ">
+
+		{% if img.image-price %}
+			{% assign price=img.image-price %}
+		{% else %}	
+			{% assign price=25.00 %}
+		{% endif %}
+
+		<a href="{% picture direct {{ img.image_path }} %}" class="popup"  title="{{ img.image-caption }}" 
+			data-caption="{{ img.image-copyright }}" 
+			data-url="/galleries/{{ galleryname }}/{{ filename }}/"
+			data-filename="{{ filename }}"
+			data-price=" {{ price }} "
+			>
 			{% picture portthumb {{ img.image_path }} --alt {{ img.image-caption }} %}
 		</a>
 	</header>	
@@ -23,6 +35,7 @@
 		<div class="entry-summary" id="{{ img.image-caption }}">
 				<h3>{{img.image-caption}}</h3>
 					<p>{{img.image-copyright}}</p>
+					
 		</div>
 	</figcaption>
   </figure>
@@ -79,4 +92,8 @@
 		}
 		
 	});
+
+	
+
+
 </script>

@@ -103,7 +103,9 @@ style="margin-right:1em; z-index: 1;">
             <li class="nav-item"><a href="/purchase/" class="nav-link">PURCHASE</a>
             </li>     
             <li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a>
-            </li>  </ul>
+            </li>  
+            <li class="nav-item"><a href="javascript:;" class="simpleCart_checkout">CART</a></li>
+        </ul>
     </div>
     <!-- /.navbar-collapse -->
     <!-- /.container -->
@@ -156,8 +158,6 @@ style="margin-right:1em; z-index: 1;">
     <a href="#event" style="text-decoration:none;"> event </a> &nbsp;&nbsp;
     
     <a href="#hockey" style="text-decoration:none;"> hockey </a> &nbsp;&nbsp;
-    
-    <a href="#photopalooza" style="text-decoration:none;"> photopalooza </a> &nbsp;&nbsp;
     
     <a href="#unbound" style="text-decoration:none;"> unbound </a> &nbsp;&nbsp;
     
@@ -774,9 +774,6 @@ style="margin-right:1em; z-index: 1;">
       &#9676; <small>26 Sep 2019</small> &#9676;
 
       
-      <a href="/blog/tag/photopalooza/" style="text-decoration:none;"><i class="fa fa-tags"
-          style="color:#fff;"></i>&nbsp;photopalooza</a>
-      
       <a href="/blog/tag/event/" style="text-decoration:none;"><i class="fa fa-tags"
           style="color:#fff;"></i>&nbsp;event</a>
       
@@ -933,68 +930,6 @@ style="margin-right:1em; z-index: 1;">
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  </div>
-  
-  <h2 id="photopalooza" style="text-decoration:none;">photopalooza</h2>
-  <div class="category-list">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <h3>
-      <a href="/Events/2019/09/Photopalooza-2018-Sip-Shoot" style="text-decoration:none;">
-        Photopalooza 2018 - Sip & Shoot
-      </a>
-      &#9676; <small>26 Sep 2019</small> &#9676;
-
-      
-      <a href="/blog/tag/photopalooza/" style="text-decoration:none;"><i class="fa fa-tags"
-          style="color:#fff;"></i>&nbsp;photopalooza</a>
-      
-      <a href="/blog/tag/event/" style="text-decoration:none;"><i class="fa fa-tags"
-          style="color:#fff;"></i>&nbsp;event</a>
-      
-    </h3>
     
     
     
@@ -1235,6 +1170,9 @@ style="margin-right:1em; z-index: 1;">
 
 
 
+<!-- include shopping cart -->
+<script src="/js/simplecart.min.js"></script>
+
 <!-- include Masonry -->
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script> 
 <!-- include mousewheel plugins -->
@@ -1256,6 +1194,15 @@ style="margin-right:1em; z-index: 1;">
 
 <!-- include custom script -->
 <script src="/js/scripts.js"></script>
+
+<script>
+    simpleCart({
+		checkout: { 
+			type: "PayPal" , 
+			email: "paypal@christoc.com" 
+		}
+	});	
+</script>
 
     <script>
 //** jQuery Scroll to Top Control script- (c) 
