@@ -9,7 +9,9 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.description }}" />
     
-
+ 
+    {% assign cacheBust = site.time | date:'?v=%s' %}
+    
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html' }}">
 
@@ -27,7 +29,7 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/css/galleries.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ '/css/magnificpopup.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/css/magnificpopup.css' | prepend: site.baseurl | append: cacheBust }}">
     <link href="{{ site.baseurl }}/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/journal.css" media="screen" />
 
