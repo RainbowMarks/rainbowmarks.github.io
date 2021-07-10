@@ -355,14 +355,21 @@ img.mfp-img {
 /* custom for simplecart */
 
 .item_name {display:none;}
-.item_price {}
+.item_price {
+  text-align: left;
+  line-height: 18px;
+  color: #F3F3F3;
+  word-wrap: break-word;
+  padding-right: 36px;
+
+}
 .item_add{
   position: absolute;
   top: 25px;
   right: 0;
   color: #FFF;
   font-size: 16px;
-  line-height: 20px;
+  line-height: 18px;
   white-space: nowrap;
   cursor: pointer;
 }
