@@ -13,11 +13,10 @@ presets:
     fallback_width: 1600
 
   direct200:
-    # markup: direct_url
-    link_source: false # wrap images in a link to the original source image.
+    markup: direct_url
     formats: [ original] # Must be an array, and order matters.
-    widths: [200, 400, 800, 1600, 2000] # Must be an array.
-    size: 400px
+    widths: [200] # Must be an array.
+    size: 200
 
   directsrc:
     markup: naked_srcset
@@ -40,3 +39,5 @@ presets:
     widths: [200, 400]
     link_source: false
     fallback_width: 400
+
+    

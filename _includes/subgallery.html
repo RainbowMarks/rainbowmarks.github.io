@@ -26,6 +26,7 @@
 			data-url="/galleries/{{ galleryname }}/{{ filename }}/"
 			data-filename="{{ filename }}"
 			data-price=" {{ price }} "
+			data-thumb="{% picture direct200 {{ img.image_path }}  %}"
 			>
 			{% picture portthumb {{ img.image_path }} --alt {{ img.image-caption }} %}
 		</a>

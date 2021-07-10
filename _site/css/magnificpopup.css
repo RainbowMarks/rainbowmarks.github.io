@@ -109,7 +109,7 @@ button.mfp-arrow {
   overflow: visible;
   cursor: pointer;
   background: transparent;
-cursor: pointer; 
+  cursor: pointer; 
   border: 0;
   -webkit-appearance: none;
   display: block;
@@ -366,3 +366,7 @@ img.mfp-img {
   white-space: nowrap;
   cursor: pointer;
 }
+.item-image img {
+  width:150px;
+}
+.mfp-thumb{display:none;}
