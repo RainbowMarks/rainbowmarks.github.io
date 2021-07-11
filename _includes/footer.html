@@ -125,4 +125,9 @@
     ],
     cartStyle: "table"
   });
+
+  simpleCart.bind('afterAdd', function( item ){
+    alert( "Photo added to cart!");
+  });
+
 </script>
