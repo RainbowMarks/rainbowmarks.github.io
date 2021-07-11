@@ -18,7 +18,7 @@
 		{% if img.image-price %}
 			{% assign price=img.image-price %}
 		{% else %}	
-			{% assign price=25.00 %}
+			{% assign price='25.00' %}
 		{% endif %}
 
 		<a href="{% picture direct {{ img.image_path }} %}" class="popup"  title="{{ img.image-caption }}" 

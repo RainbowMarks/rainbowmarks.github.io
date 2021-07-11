@@ -12,7 +12,9 @@
     <meta property="og:title" content="Cars" />
     <meta property="og:description" content="Automotive photography" />
     
-
+ 
+    
+    
     <meta name="description" content="Rainbow Marks Photography, Wildwood, Missouri">
     <link rel="canonical" href="https://rainbowmarks.com/portfolio/05/">
 
@@ -30,7 +32,7 @@
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1625979166">
     <link href="/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -104,7 +106,7 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a>
             </li>  
-            <li class="nav-item"><button id="btnCart">CART</button></li>
+            <li class="nav-item"><a id="btnCart" href="#" class="nav-link">Cart (<div class="simpleCart_quantity"></div>)</a></li>
         </ul>
     </div>
     <!-- /.navbar-collapse -->
@@ -150,7 +152,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioCars/cars-1/"
 			data-filename="cars-1"
-			data-price=" 25.0 "
+			data-price="25.00"
 			data-thumb="/generated/img/portfolio/05/cars-1-800-93599fb1e.jpg"
 			>
 			<img src="/generated/img/portfolio/05/cars-1-400-93599fb1e.jpg" alt="Formula Jr Autocross - Kid Karts" srcset="/generated/img/portfolio/05/cars-1-200-93599fb1e.jpg 200w, /generated/img/portfolio/05/cars-1-400-93599fb1e.jpg 400w">
@@ -180,7 +182,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioCars/cars-2/"
 			data-filename="cars-2"
-			data-price=" 25.0 "
+			data-price="25.00"
 			data-thumb="/generated/img/portfolio/05/cars-2-800-770d11241.jpg"
 			>
 			<img src="/generated/img/portfolio/05/cars-2-400-770d11241.jpg" alt="Formula Jr Autocross - Father Watches" srcset="/generated/img/portfolio/05/cars-2-200-770d11241.jpg 200w, /generated/img/portfolio/05/cars-2-400-770d11241.jpg 400w">
@@ -210,7 +212,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioCars/cars-3/"
 			data-filename="cars-3"
-			data-price=" 25.0 "
+			data-price="25.00"
 			data-thumb="/generated/img/portfolio/05/cars-3-800-21527034e.jpg"
 			>
 			<img src="/generated/img/portfolio/05/cars-3-400-21527034e.jpg" alt="Renault Autocross Car" srcset="/generated/img/portfolio/05/cars-3-200-21527034e.jpg 200w, /generated/img/portfolio/05/cars-3-400-21527034e.jpg 400w">
@@ -240,7 +242,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioCars/cars-4/"
 			data-filename="cars-4"
-			data-price=" 25.0 "
+			data-price="25.00"
 			data-thumb="/generated/img/portfolio/05/cars-4-800-a3ded7678.jpg"
 			>
 			<img src="/generated/img/portfolio/05/cars-4-400-a3ded7678.jpg" alt="B Modified Autocross Car" srcset="/generated/img/portfolio/05/cars-4-200-a3ded7678.jpg 200w, /generated/img/portfolio/05/cars-4-400-a3ded7678.jpg 400w">
@@ -270,7 +272,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioCars/cars-5/"
 			data-filename="cars-5"
-			data-price=" 25.0 "
+			data-price="25.00"
 			data-thumb="/generated/img/portfolio/05/cars-5-800-82831c0d8.jpg"
 			>
 			<img src="/generated/img/portfolio/05/cars-5-400-82831c0d8.jpg" alt="B Street Prepared Mazda Miata in Lincoln Nebraska" srcset="/generated/img/portfolio/05/cars-5-200-82831c0d8.jpg 200w, /generated/img/portfolio/05/cars-5-400-82831c0d8.jpg 400w">
@@ -300,7 +302,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioCars/cars-6/"
 			data-filename="cars-6"
-			data-price=" 25.0 "
+			data-price="25.00"
 			data-thumb="/generated/img/portfolio/05/cars-6-800-c2440e425.jpg"
 			>
 			<img src="/generated/img/portfolio/05/cars-6-400-c2440e425.jpg" alt="2016 Scion FR-S" srcset="/generated/img/portfolio/05/cars-6-200-c2440e425.jpg 200w, /generated/img/portfolio/05/cars-6-400-c2440e425.jpg 400w">
@@ -411,11 +413,13 @@ style="margin-right:1em; z-index: 1;">
         <h2>Shopping Cart</h2>
         <div class="simpleCart_items"></div>
         
-        Quantity: <div class="simpleCart_quantity"></div>
+        
         Total: <div class="simpleCart_grandTotal"></div>
 
-        <a href="javascript:;" class="simpleCart_checkout"></a>
-        <a href="javascript:;" class="simpleCart_empty"></a>
+        <a href="javascript:;" class="simpleCart_checkout btn btn-primary">Checkout</a>
+
+
+        <a href="javascript:;" class="simpleCart_empty btn btn-default">Remove All Items From Cart</a>
 
     </div>
   
@@ -595,7 +599,9 @@ style="margin-right:1em; z-index: 1;">
     simpleCart({
 		checkout: { 
 			type: "PayPal" , 
-			email: "paypal@christoc.com" 
+			email: "paypal@christoc.com",
+            success: "/purchase/thanks/",
+            //#sandbox: true,
 		},
         
     cartColumns: [

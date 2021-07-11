@@ -12,7 +12,9 @@
     <meta property="og:title" content="Rainbows" />
     <meta property="og:description" content="Photos with Rainbows" />
     
-
+ 
+    
+    
     <meta name="description" content="Rainbow Marks Photography, Wildwood, Missouri">
     <link rel="canonical" href="https://rainbowmarks.com/portfolio/04/">
 
@@ -30,7 +32,7 @@
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1625979166">
     <link href="/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -104,7 +106,7 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a>
             </li>  
-            <li class="nav-item"><button id="btnCart">CART</button></li>
+            <li class="nav-item"><a id="btnCart" href="#" class="nav-link">Cart (<div class="simpleCart_quantity"></div>)</a></li>
         </ul>
     </div>
     <!-- /.navbar-collapse -->
@@ -150,7 +152,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioRainbows/rainbows-1/"
 			data-filename="rainbows-1"
-			data-price=" 25.0 "
+			data-price="350.00"
 			data-thumb="/generated/img/portfolio/04/rainbows-1-800-9c92b8fbb.jpg"
 			>
 			<img src="/generated/img/portfolio/04/rainbows-1-400-9c92b8fbb.jpg" alt="Sydney Opera House Double Rainbow" srcset="/generated/img/portfolio/04/rainbows-1-200-9c92b8fbb.jpg 200w, /generated/img/portfolio/04/rainbows-1-400-9c92b8fbb.jpg 400w">
@@ -180,7 +182,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioRainbows/rainbows-2/"
 			data-filename="rainbows-2"
-			data-price=" 25.0 "
+			data-price="350.00"
 			data-thumb="/generated/img/portfolio/04/rainbows-2-800-98916cf8c.jpg"
 			>
 			<img src="/generated/img/portfolio/04/rainbows-2-400-98916cf8c.jpg" alt="Golden Gate Bridge Rainbow" srcset="/generated/img/portfolio/04/rainbows-2-200-98916cf8c.jpg 200w, /generated/img/portfolio/04/rainbows-2-400-98916cf8c.jpg 400w">
@@ -210,7 +212,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.com" 
 			data-url="/galleries/PortfolioRainbows/rainbows-3/"
 			data-filename="rainbows-3"
-			data-price=" 25.0 "
+			data-price="350.00"
 			data-thumb="/generated/img/portfolio/04/rainbows-3-800-47e174b0b.jpg"
 			>
 			<img src="/generated/img/portfolio/04/rainbows-3-400-47e174b0b.jpg" alt="Golden Gate Bridge Rainbow" srcset="/generated/img/portfolio/04/rainbows-3-200-47e174b0b.jpg 200w, /generated/img/portfolio/04/rainbows-3-400-47e174b0b.jpg 400w">
@@ -240,7 +242,7 @@ style="margin-right:1em; z-index: 1;">
 			data-caption="© RainbowMarks.cominbowMarks.com" 
 			data-url="/galleries/PortfolioRainbows/rainbows-4/"
 			data-filename="rainbows-4"
-			data-price=" 25.0 "
+			data-price="350.00"
 			data-thumb="/generated/img/portfolio/04/rainbows-4-800-5451c5328.jpg"
 			>
 			<img src="/generated/img/portfolio/04/rainbows-4-400-5451c5328.jpg" alt="Echo Bluff State Park Lodge with Rainbow" srcset="/generated/img/portfolio/04/rainbows-4-200-5451c5328.jpg 200w, /generated/img/portfolio/04/rainbows-4-400-5451c5328.jpg 400w">
@@ -351,11 +353,13 @@ style="margin-right:1em; z-index: 1;">
         <h2>Shopping Cart</h2>
         <div class="simpleCart_items"></div>
         
-        Quantity: <div class="simpleCart_quantity"></div>
+        
         Total: <div class="simpleCart_grandTotal"></div>
 
-        <a href="javascript:;" class="simpleCart_checkout"></a>
-        <a href="javascript:;" class="simpleCart_empty"></a>
+        <a href="javascript:;" class="simpleCart_checkout btn btn-primary">Checkout</a>
+
+
+        <a href="javascript:;" class="simpleCart_empty btn btn-default">Remove All Items From Cart</a>
 
     </div>
   
@@ -535,7 +539,9 @@ style="margin-right:1em; z-index: 1;">
     simpleCart({
 		checkout: { 
 			type: "PayPal" , 
-			email: "paypal@christoc.com" 
+			email: "paypal@christoc.com",
+            success: "/purchase/thanks/",
+            //#sandbox: true,
 		},
         
     cartColumns: [

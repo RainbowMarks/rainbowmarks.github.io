@@ -118,7 +118,7 @@ body.gallerythumbsrevealed .position-absolute { -webkit-transform: translate3d(0
 /* Popup image */
 body.mfp-zoom-out-cur #header, body.mfp-zoom-out-cur #content, body.mfp-zoom-out-cur #sidebar {  -webkit-filter: blur(2px); -moz-filter: blur(2px); -o-filter: blur(2px); -ms-filter: blur(2px); filter: blur(2px); }
 .mfp-bg { background: #F7F6F5; opacity: 0.7; }
-.mfp-figure:after { box-shadow: none; border: 8px solid rgba(255,255,255,0.8); }
+.mfp-figure:after { box-shadow: none; border: 0px solid rgba(255,255,255,0.8); }
 img.mfp-img { padding: 0; } 
 .mfp-counter { color: #F7F6F5; background: #222; padding: 0.5em 1em; margin-right: -2em;
  -webkit-clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%); 

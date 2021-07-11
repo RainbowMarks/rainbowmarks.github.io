@@ -12,7 +12,9 @@
     <meta property="og:title" content="Purchasing Rainbow Marks Photoraphy" />
     <meta property="og:description" content="Learn more about purchasing our work" />
     
-
+ 
+    
+    
     <meta name="description" content="Rainbow Marks Photography, Wildwood, Missouri">
     <link rel="canonical" href="https://rainbowmarks.com/purchase/">
 
@@ -30,7 +32,7 @@
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1625979166">
     <link href="/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -104,7 +106,7 @@ style="margin-right:1em; z-index: 1;">
             </li>     
             <li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a>
             </li>  
-            <li class="nav-item"><button id="btnCart">CART</button></li>
+            <li class="nav-item"><a id="btnCart" href="#" class="nav-link">Cart (<div class="simpleCart_quantity"></div>)</a></li>
         </ul>
     </div>
     <!-- /.navbar-collapse -->
@@ -130,15 +132,15 @@ style="margin-right:1em; z-index: 1;">
 <div class="container">
 	<div class="row">
         <div class="col-lg-12">
-            <p>If you’re interested in purchasing some of our work reach out and let us know. We currently don’t have an e-commerce option here on the website, but can gladly get you squared away via PayPal or Venmo.</p>
+            <p>To purchase a high resolution digital copy of a photo click on the ‘Add To Cart” button when viewing the larger version of a photo in one of the galleries. You can do this for one, or multiple photos, pricing varies by event/gallery.</p>
 
-<p>Individual Photo: $25</p>
+<p>Once you’ve selected the photo(s) you want to purchase, click the CART link in the top right corner of the page. You will be able to “check out” with PayPal.</p>
 
-<p>All photos from one individual at an event: $60</p>
+<p>Once we receive payment, please give us 2-3 days to get the high resolution photos (jpg files will be provided) together for you, you will receive an email from Chris with details on how to download the high res shot(s).</p>
 
-<p>Copyright: Purchasing our photos will get you a non-watermarked photo for personal use. Commercial use options are available on a case by case basis.</p>
+<p><em>Copyright:</em> Purchasing our photos will get you a non-watermarked photo for personal use. Commercial use options are available on a case by case basis.</p>
 
-<p>Reach out to me via my personal <a href="https://chrishammond.com/Contact">contact page</a>, we’ll ask you details about event and individual so we can determine which photo(s) you want.</p>
+<p>If you have any trouble or questions, please feel free to reach out to me via my personal <a href="https://chrishammond.com/Contact">contact page</a>, we’ll ask you details about event and individual so we can determine which photo(s) you want.</p>
 
 
         </div>
@@ -178,11 +180,13 @@ style="margin-right:1em; z-index: 1;">
         <h2>Shopping Cart</h2>
         <div class="simpleCart_items"></div>
         
-        Quantity: <div class="simpleCart_quantity"></div>
+        
         Total: <div class="simpleCart_grandTotal"></div>
 
-        <a href="javascript:;" class="simpleCart_checkout"></a>
-        <a href="javascript:;" class="simpleCart_empty"></a>
+        <a href="javascript:;" class="simpleCart_checkout btn btn-primary">Checkout</a>
+
+
+        <a href="javascript:;" class="simpleCart_empty btn btn-default">Remove All Items From Cart</a>
 
     </div>
   
@@ -362,7 +366,9 @@ style="margin-right:1em; z-index: 1;">
     simpleCart({
 		checkout: { 
 			type: "PayPal" , 
-			email: "paypal@christoc.com" 
+			email: "paypal@christoc.com",
+            success: "/purchase/thanks/",
+            //#sandbox: true,
 		},
         
     cartColumns: [

@@ -103,7 +103,9 @@
     simpleCart({
 		checkout: { 
 			type: "PayPal" , 
-			email: "paypal@christoc.com" 
+			email: "paypal@christoc.com",
+            success: "/purchase/thanks/",
+            //#sandbox: true,
 		},
         
     cartColumns: [

@@ -250,7 +250,7 @@ img.mfp-img {
   display: block;
   line-height: 0;
   box-sizing: border-box;
-  padding: 40px 0 40px;
+  padding: 40px 0 60px;
   margin: 0 auto; }
 
 /* The shadow behind the image */
@@ -268,7 +268,7 @@ img.mfp-img {
     height: auto;
     z-index: -1;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-    background: #444; }
+    background: transparent; }
   .mfp-figure small {
     color: #BDBDBD;
     display: block;
@@ -278,7 +278,7 @@ img.mfp-img {
     margin: 0; }
 
 .mfp-bottom-bar {
-  margin-top: -36px;
+  margin-top: -56px;
   position: absolute;
   top: 100%;
   left: 0;
@@ -287,7 +287,7 @@ img.mfp-img {
 
 .mfp-title {
   text-align: left;
-  line-height: 18px;
+  line-height: 20px;
   color: #F3F3F3;
   word-wrap: break-word;
   padding-right: 36px; }
@@ -352,21 +352,3 @@ img.mfp-img {
     padding-right: 6px; } }
 
 
-/* custom for simplecart */
-
-.item_name {display:none;}
-.item_price {}
-.item_add{
-  position: absolute;
-  top: 25px;
-  right: 0;
-  color: #FFF;
-  font-size: 16px;
-  line-height: 20px;
-  white-space: nowrap;
-  cursor: pointer;
-}
-.item-image img {
-  width:150px;
-}
-.mfp-thumb{display:none;}

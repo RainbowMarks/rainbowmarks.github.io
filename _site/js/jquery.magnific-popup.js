@@ -1142,10 +1142,9 @@ $.magnificPopup.registerModule('image', {
 							'<div class="mfp-bottom-bar">'+
 								'<div class="simpleCart_shelfItem"><div class="mfp-title"></div>'+
 									'<div class="mfp-counter"></div>'+
-									'<div class="item_price mfp-price"></div>'+
 									'<div class="item_name mfp-filename"></div>'+
 									'<div class="item_image mfp-thumb"></div>'+
-									'<div class="item_add" href="javascript:;"> Add to Cart </div>'+
+									'<div class="item_add btn btn-primary btn-sm btn-rounded" href="javascript:;">Add to Cart (<div class="item_price mfp-price"></div>)</div>'+
 								'</div>'+
 
 							'</div>'+
