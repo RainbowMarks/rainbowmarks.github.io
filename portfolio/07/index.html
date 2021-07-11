@@ -36,7 +36,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625943808" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625979491" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -138,7 +138,13 @@
 						<a href="/purchase/" class="nav-link">PURCHASE</a>
 					</li>
 					<li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a></li>
-					<li class="nav-item"><button id="btnCart"></button></li>
+					<li class="nav-item">
+						<a id="btnCart" href="#" class="nav-link"
+							>Cart (
+							<div class="simpleCart_quantity"></div>
+							)</a
+						>
+					</li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
@@ -181,7 +187,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-1/"
 									data-filename="landscapes-1"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-1-800-c923147c4.jpg"
 								>
 									<img
@@ -212,7 +218,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-2/"
 									data-filename="landscapes-2"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-2-800-5cc6a2cf3.jpg"
 								>
 									<img
@@ -246,7 +252,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-3/"
 									data-filename="landscapes-3"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-3-800-df82f1ac7.jpg"
 								>
 									<img
@@ -280,7 +286,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-4/"
 									data-filename="landscapes-4"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-4-800-5f3609e2c.jpg"
 								>
 									<img
@@ -311,7 +317,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-5/"
 									data-filename="landscapes-5"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-5-800-d7d3bdb4e.jpg"
 								>
 									<img
@@ -342,7 +348,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-6/"
 									data-filename="landscapes-6"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-6-800-88e60ee6f.jpg"
 								>
 									<img
@@ -373,7 +379,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-7/"
 									data-filename="landscapes-7"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-7-800-1e096c2a8.jpg"
 								>
 									<img
@@ -404,7 +410,7 @@
 									data-caption="© RainbowMarks.com"
 									data-url="/galleries/PortfolioLandscapes/landscapes-8/"
 									data-filename="landscapes-8"
-									data-price="25.0"
+									data-price="25.00"
 									data-thumb="/generated/img/portfolio/07/landscapes-8-800-636b2ea68.jpg"
 								>
 									<img
@@ -524,8 +530,13 @@
 				Total:
 				<div class="simpleCart_grandTotal"></div>
 
-				<a href="javascript:;" class="simpleCart_checkout">Checkout</a>
-				<a href="javascript:;" class="simpleCart_empty">Remove All</a>
+				<a href="javascript:;" class="simpleCart_checkout btn btn-primary"
+					>Checkout</a
+				>
+
+				<a href="javascript:;" class="simpleCart_empty btn btn-default"
+					>Remove All Items From Cart</a
+				>
 			</div>
 		</div>
 
@@ -715,6 +726,8 @@
 				checkout: {
 					type: "PayPal",
 					email: "paypal@christoc.com",
+					success: "/purchase/thanks/",
+					//#sandbox: true,
 				},
 
 				cartColumns: [

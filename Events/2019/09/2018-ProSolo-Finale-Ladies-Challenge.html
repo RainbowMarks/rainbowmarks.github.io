@@ -47,7 +47,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625943808" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625979491" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -149,7 +149,13 @@
 						<a href="/purchase/" class="nav-link">PURCHASE</a>
 					</li>
 					<li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a></li>
-					<li class="nav-item"><button id="btnCart"></button></li>
+					<li class="nav-item">
+						<a id="btnCart" href="#" class="nav-link"
+							>Cart (
+							<div class="simpleCart_quantity"></div>
+							)</a
+						>
+					</li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
@@ -328,8 +334,13 @@
 				Total:
 				<div class="simpleCart_grandTotal"></div>
 
-				<a href="javascript:;" class="simpleCart_checkout">Checkout</a>
-				<a href="javascript:;" class="simpleCart_empty">Remove All</a>
+				<a href="javascript:;" class="simpleCart_checkout btn btn-primary"
+					>Checkout</a
+				>
+
+				<a href="javascript:;" class="simpleCart_empty btn btn-default"
+					>Remove All Items From Cart</a
+				>
 			</div>
 		</div>
 
@@ -519,6 +530,8 @@
 				checkout: {
 					type: "PayPal",
 					email: "paypal@christoc.com",
+					success: "/purchase/thanks/",
+					//#sandbox: true,
 				},
 
 				cartColumns: [

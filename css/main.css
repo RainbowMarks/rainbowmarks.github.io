@@ -21,9 +21,10 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #760824;
+  color: #fff;
   transition: color .4s;
-  text-decorarion: none;
+  text-decoration: none;
+  font-weight:bold;
 }
 a:hover,
 a:focus {
@@ -342,7 +343,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 800;
   letter-spacing: 1px;
   border-radius: 0;
-  padding: 15px 25px;
+/*  padding: 15px 25px; */
 }
 .btn-lg {
   font-size: 16px;
@@ -440,4 +441,37 @@ body {
 
 .img-responsive{
   margin:0em;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,.9);
+}
+
+/* custom for simplecart */
+
+.item_name {display:none;}
+.item_price {
+  text-align: left;
+  color: #F3F3F3;
+  word-wrap: normal;
+  display:inline;
+}
+
+.item_add{
+  /* position: absolute; */
+  line-height: 18px;
+  white-space: nowrap;
+  cursor: pointer;
+  
+}
+.item-image img {
+  width:150px;
+}
+.mfp-thumb{display:none;}
+
+.simpleCart_quantity{display:inline;}
+
+/* override simplecart table text color */
+.table {
+  color: #fff;
 }

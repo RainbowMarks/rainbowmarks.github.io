@@ -33,7 +33,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625943808" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625979491" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -135,7 +135,13 @@
 						<a href="/purchase/" class="nav-link">PURCHASE</a>
 					</li>
 					<li class="nav-item"><a href="/about/" class="nav-link">ABOUT</a></li>
-					<li class="nav-item"><button id="btnCart"></button></li>
+					<li class="nav-item">
+						<a id="btnCart" href="#" class="nav-link"
+							>Cart (
+							<div class="simpleCart_quantity"></div>
+							)</a
+						>
+					</li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
@@ -145,8 +151,6 @@
 		<!-- MAIN CONTENT SECTION  _____________________________________________-->
 		<section id="content" role="main">
 			<div class="wrapper">
-				<!-- WYSIWYG -->
-
 				<div class="position-absolute">
 					<h2 class="big no-margin"><strong>RainbowMarks.com</strong></h2>
 					<h2>Photography</h2>
@@ -210,7 +214,6 @@
 						</header>
 					</figure>
 				</div>
-				<!-- END WYSIWYG -->
 			</div>
 			<!-- END .wrapper -->
 		</section>
@@ -273,6 +276,36 @@
 				</li>
 			</ul>
 		</div>
+
+		<script src="/js/simplecart.min.js"></script>
+		<script>
+			simpleCart({
+				checkout: {
+					type: "PayPal",
+					email: "paypal@christoc.com",
+					success: "/purchase/thanks/",
+					//#sandbox: true,
+				},
+
+				cartColumns: [
+					//{view:'image' , attr:'thumb', label: false},
+					{
+						view: function (item, column) {
+							return "<img src='" + item.get("image") + "'class='cartimage'>";
+						},
+						attr: "image",
+					},
+
+					{ attr: "price", label: "Price", view: "currency" },
+
+					{ attr: "quantity", label: "Qty" },
+
+					{ attr: "total", label: "SubTotal", view: "currency" },
+					{ view: "remove", text: "Remove", label: false },
+				],
+				cartStyle: "table",
+			});
+		</script>
 
 		<!-- Footer -->
 		<footer>
@@ -392,6 +425,8 @@
 				checkout: {
 					type: "PayPal",
 					email: "paypal@christoc.com",
+					success: "/purchase/thanks/",
+					//#sandbox: true,
 				},
 
 				cartColumns: [

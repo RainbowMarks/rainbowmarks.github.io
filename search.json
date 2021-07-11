@@ -340,7 +340,7 @@
         "tags"     : "",
         "url"      : "/purchase/",
         "date"     : "",
-        "content"   : "If you're interested in purchasing some of our work reach out and let us know. We currently don't have an e-commerce option here on the website, but can gladly get you squared away via PayPal or Venmo.\n\nIndividual Photo: $25\n\nAll photos from one individual at an event: $60\n\nCopyright: Purchasing our photos will get you a non-watermarked photo for personal use. Commercial use options are available on a case by case basis.\n\nReach out to me via my personal [contact page](https://chrishammond.com/Contact), we'll ask you details about event and individual so we can determine which photo(s) you want.\n\n"
+        "content"   : "To purchase a high resolution digital copy of a photo click on the 'Add To Cart\" button when viewing the larger version of a photo in one of the galleries. You can do this for one, or multiple photos, pricing varies by event/gallery.\n\nOnce you've selected the photo(s) you want to purchase, click the CART link in the top right corner of the page. You will be able to \"check out\" with PayPal.\n\nOnce we receive payment, please give us 2-3 days to get the high resolution photos (jpg files will be provided) together for you, you will receive an email from Chris with details on how to download the high res shot(s).\n\n*Copyright:* Purchasing our photos will get you a non-watermarked photo for personal use. Commercial use options are available on a case by case basis.\n\nIf you have any trouble or questions, please feel free to reach out to me via my personal [contact page](https://chrishammond.com/Contact), we'll ask you details about event and individual so we can determine which photo(s) you want.\n\n"
      
    } ,
   
@@ -378,6 +378,17 @@
    } ,
   
    {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Thank you for Purchasing from Rainbow Marks Photoraphy",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/purchase/thanks/",
+        "date"     : "",
+        "content"   : "# Thank You For Purchasing\n\nA very big thank you for purchasing from Rainbow Marks Photography.\n\nAll orders are reviewed and processed by Chris Hammond. Please allow 2-3 days for delivery of your digital order.\n\nIf you have any questions please don't hestitate to reach out [contact page](https://chrishammond.com/Contact)\n\n<script>\n  $(document).ready(function ($) {\n      simpleCart.empty();\n  });\n</script>"
      
    } ,
   
@@ -14968,7 +14979,7 @@
   
    {
      
-        "title"    : "Blue Angel",
+        "title"    : "Blue Angel #5 in Flight",
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/PortfolioAirShows/Airshow-6/",
