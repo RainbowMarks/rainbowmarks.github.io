@@ -12,8 +12,8 @@ header-img: "/img/posts/UnboundGravel/FinishLine/FinishLine-7.jpg"
 tags: [bicycle,event,unbound]
 ---
 
-<p>The 2021 Unbound Gravel 200 Finish Line Shots, we weren't around the finish long unfortunately. </p>
+The 2021 Unbound Gravel 200 Finish Line Shots, we weren't around the finish long unfortunately. 
 
-<p>If you're interested in purchasing photos please <a href="/purchase">visit our Purchase page for more info</a>.</p>
+{% include purchaseinfo.html %}
 
 {% include subgallery.html id="UnboundGravelFinishLine" %}

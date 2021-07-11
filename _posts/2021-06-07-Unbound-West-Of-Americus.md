@@ -12,8 +12,7 @@ header-img: "/img/posts/UnboundGravel/WestOfAmericus/WestOfAmericus-275.jpg"
 tags: [bicycle,event,unbound]
 ---
 
-<p>The 2021 Unbound Gravel 200 about 2 miles west of Americus Kansas. Mostly 100 riders, but some shots of the 200's top 5 men coming through as well as an XL rider or two. We were only there about an hour, I think between 3 and 4pm.</p>
+The 2021 Unbound Gravel 200 about 2 miles west of Americus Kansas. Mostly 100 riders, but some shots of the 200's top 5 men coming through as well as an XL rider or two. We were only there about an hour, I think between 3 and 4pm.
 
-<p>If you're interested in purchasing photos please <a href="/purchase">visit our Purchase page for more info</a>.</p>
-
+{% include purchaseinfo.html %}
 {% include subgallery.html id="UnboundGravelWestOfAmericus" %}

@@ -12,7 +12,8 @@ header-img: "/img/posts/UnboundGravel/AlmaCheckPoint/AlmaCheckPoint-5.jpg"
 tags: [bicycle,event,unbound]
 ---
 
-<p>The 2021 Unbound Gravel 200 Alma Checkpoint #1, Around mile 66. </p>
-<p>If you're interested in purchasing photos please <a href="/purchase">visit our Purchase page for more info</a>.</p>
+The 2021 Unbound Gravel 200 Alma Checkpoint #1, Around mile 66.
+
+{% include purchaseinfo.html %}
 
 {% include subgallery.html id="UnboundGravelAlmaCheckPoint" %}

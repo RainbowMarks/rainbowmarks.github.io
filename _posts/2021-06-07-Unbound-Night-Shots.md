@@ -12,7 +12,8 @@ header-img: "/img/posts/UnboundGravel/Nightshots/Nightshots-225.jpg"
 tags: [bicycle,event,unbound]
 ---
 
-<p>The 2021 Unbound Gravel 200 about 2 miles 20.5 Miles from the Finish. Mostly 200 riders, with some XLs sprinkled in. </p>
-<p>If you're interested in purchasing photos please <a href="/purchase">visit our Purchase page for more info</a>.</p>
+The 2021 Unbound Gravel 200 about 2 miles 20.5 Miles from the Finish. Mostly 200 riders, with some XLs sprinkled in.
+
+{% include purchaseinfo.html %}
 
 {% include subgallery.html id="UnboundGravelNightShots" %}
