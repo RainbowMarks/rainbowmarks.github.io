@@ -1,4 +1,4 @@
-<div id="myModal" class="modal">
+<div id="cartModal" class="modal">
 
     <!-- Modal content -->
     <div class="modal-content">
@@ -61,7 +61,7 @@
 
 <script>
         // Get the modal
-    var modal = document.getElementById("myModal");
+    var modal = document.getElementById("cartModal");
 
     // Get the button that opens the modal
     var btn = document.getElementById("btnCart");
@@ -72,6 +72,7 @@
     // When the user clicks on the button, open the modal
     btn.onclick = function() {
     modal.style.display = "block";
+    modal.style.zIndex = "10000";
     }
 
     // When the user clicks on <span> (x), close the modal

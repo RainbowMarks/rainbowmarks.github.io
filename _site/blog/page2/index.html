@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1626015320">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1626017095">
     <link href="/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -534,7 +534,7 @@ style="margin-right:1em; z-index: 1;">
 
 
 
-    <div id="myModal" class="modal">
+    <div id="cartModal" class="modal">
 
     <!-- Modal content -->
     <div class="modal-content">
@@ -597,7 +597,7 @@ style="margin-right:1em; z-index: 1;">
 
 <script>
         // Get the modal
-    var modal = document.getElementById("myModal");
+    var modal = document.getElementById("cartModal");
 
     // Get the button that opens the modal
     var btn = document.getElementById("btnCart");
@@ -608,6 +608,7 @@ style="margin-right:1em; z-index: 1;">
     // When the user clicks on the button, open the modal
     btn.onclick = function() {
     modal.style.display = "block";
+    modal.style.zIndex = "10000";
     }
 
     // When the user clicks on <span> (x), close the modal
@@ -752,7 +753,11 @@ style="margin-right:1em; z-index: 1;">
   });
 
   simpleCart.bind('afterAdd', function( item ){
-    alert( "Photo added to cart!");
+    //alert( "Photo added to cart!");
+
+    var btn = document.getElementById("btnCart");
+    btn.onclick();
+
   });
 
 </script>
