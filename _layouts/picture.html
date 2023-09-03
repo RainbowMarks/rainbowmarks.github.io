@@ -1,0 +1,28 @@
+---
+layout: photodefault
+---
+
+{% assign post = page %}
+
+<article>
+
+  <!-- Post Content -->
+  <figure class="gallery-item">
+
+    <header class="gallery-icon">
+  
+      <a href="{% picture direct {{ page.image_path }} %}" title="{{ page.image-caption }}" data-caption="{{ page.image-copyright }}">
+        {% picture default {{ page.image_path }}  --alt {{ page.image-caption }}  %}
+      </a>
+    </header>	
+      
+     <figcaption class="gallery-caption">
+      <div class="entry-summary" id="{{ img.image-caption }}">
+          <h3>{{page.image-caption}}</h3>
+          <p>{{page.image-copyright}}</p>
+      </div>
+    </figcaption>
+    </figure>
+  
+</article>
+

@@ -1,0 +1,62 @@
+---
+layout: page
+title: "2023 Missouri River 340 Photos"
+description: "Photo Packages for the MR340"
+active: mr340
+header-img: "img/posts/2023/MR340/mr340-1.jpg"
+redirect_from: 
+ - "mr340/2023"
+ - "mr340/2023/"
+ - "mr340"
+ - "MR340"
+---
+<div class="row">
+  <div class="col-md-12">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-8">
+    <p>A big thank you to everyone for making me feel so welcome at my first #MR340 this year! It was one to remember for sure. I've processed and uploaded all the photos! They have also all been tagged with Boat number where I was able to identify. That should make it easier to use the Search feature on the site to search for your boar number</p>
+    <ul>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Check-In-DayF/Check-In-Day" target="_blank">Check In Day 7/31/2023</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Race-Start/Solo-Start">Start - Solos</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Race-Start/Group-Start">Start - Groups</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Napoleon" target="_blank">Napoleon</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Waverly" target="_blank">Waverly</a></li>      
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Glasgow" target="_blank">Glasgow</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Boonville-105pm-to-128pm">Boonville (1:05pm-1:28pm)</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Hermann">Hermann (Boat 1300)</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/New-Haven">New Haven (Boat 1300)</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Finish-Line-Party">Finish Line Party</a></li>
+      <li><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340/Fun">Fun AI Photos</a></li>
+    </ul>
+    <p>If you pre-purchased our check-in day special, multiple emails have gone out with instructions and information (from christoc@christoc.com).</p>
+  </div>
+  <div class="col-md-4">
+    <h2>View and download photos!</h2>
+    <a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">View Galleries</a>
+
+  <h3>Photo Pricing</h3>
+    <p>Individual Photos can be purchased via the gallery links above. Individual photos are $15 each for high resolution (typically 40+ megapixels) digital download, though some photos maybe lower resolution as we process/crop them.</p>
+    <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc).</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h2>Missouri River Relief</h2>
+    <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will be donating 5% of profits all transactions (from 7/31/2023-8/31/2023) to <br /><a href="https://riverrelief.org/" target="_blank"><img src="/img/MRR-logo-color-WEB-200px.png" border="0"><br />Missouri River Relief</a>.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <h2>Pre-Event Photo Packages </h2>
+    <p>On July 31st, at the check in day, you could purchase a photo package which will include 5 high resolution digital photo downloads, taken of your boat/team for a price of $50 (you will get emailed a unique coupon code for $75 credit for high resolution digital downloads on our Gallery site). Pre-event pricing was available until 10:00pm on July 31st, 2023. </p>
+    <p>Pre-event pricing is no longer available, but you can still purchase individual photos via the links above.</p>
+    <h3>Pre-Purchase Refunds</h3>
+    <p>2023 was a tough year, taking a week off work and only getting to shoot 2 days of photos with the race ending early, please consider all options other than a refund.</p>
+    <p>If I didn't end up getting more than 5 photos of you/crew/boat and you can't find $75 worth of items to purchase on the site, you can <a href="https://www.chrishammond.com/contact" target="_blank">reach out for a refund before 8/31/2023</a>.</p>
+  </div>
+</div>

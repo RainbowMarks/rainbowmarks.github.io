@@ -1,0 +1,122 @@
+---
+layout: home
+main-title: "RainbowMarks"
+subtitle: "Photography"
+description: 'Wildwood, Missouri <br/> Photographer: <a href="https://www.chrishammond.com" target="_blank">Chris Hammond</a>'
+header-img: /img/slider/home01.jpg
+images:
+ - image_path: /img/slider/home05.jpg
+   gallery-folder: /portfolio/05/
+   alt-tag: "Grand Canyon Black and White"
+ - image_path: /img/slider/home01.jpg
+   gallery-folder: /portfolio/01/
+   alt-tag: "Rainbows"
+ - image_path: /img/slider/home02.jpg
+   gallery-folder: /portfolio/02/
+   alt-tag: "Cars and Buildings"
+ - image_path: /img/slider/home03.jpg
+   gallery-folder: /portfolio/03/
+   alt-tag: "Air Shows"
+ - image_path: /img/slider/home04.jpg
+   gallery-folder: /portfolio/04/
+   alt-tag: "Rally in the 100 Acre Wood"
+
+type: ItemPage
+
+---
+<!-- MAIN CONTENT SECTION  _____________________________________________-->
+<section id="content" role="main">
+  <div class="wrapper">
+    <div class="row bottom-absolute">
+      <div class="col-md-6 homepagetitle">
+        <div class="d-none d-lg-block"  style="margin-left:.5em;">
+          <h1 class="extrabig no-margin">{{ page.main-title }}</h1>
+          <h2>{{ page.subtitle }}</h2>
+          <div class="entry-summary">
+            <p><strong>{{ page.description }}</strong></p>
+          </div><br />
+        </div>
+      </div>
+      <div class="col-md-6" style="height:60rem;">
+        <section class="featured-posts h-100"  >
+          <div class=" row">
+            <div class="section-title col-12">
+                <h2><span>Recent Events</span></h2>
+            </div>
+          </div>
+          <div class="row ">
+            <div class="col-12">
+              {% for post in site.posts %}    
+                  {% if post.featured == true %}    
+                      {% include featuredbox.html %}
+                  {% endif %}
+              {% endfor %}    
+              </div>
+            </div>              
+        </section>
+      </div>
+    </div>
+    <div class="gallery fullscreen-gallery kenburns-gallery">   
+      <canvas id="kenburns"></canvas>
+
+      {% for image in page.images %}
+
+      <figure class="gallery-item">
+        <header class="gallery-icon">
+
+          <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">{% picture hpslider {{ image.image_path }} --img sizes="100vw" --alt {{ image.alt-tag }} %} </a>
+
+        </header>
+      </figure>
+
+      {% endfor %}
+    </div>    
+  </div><!-- END .wrapper -->
+
+</section>
+
+<div id="footer" role="contentinfo">
+  <ul class="soc-icons">
+
+    {% if site.facebook_username %}
+    <li>
+      <a href="https://facebook.com/{{ site.facebook_username }}" style="color:#dddddd;" target="_blank" title="Facebook">
+        <i class="fa fa-facebook"></i>
+
+      </a>
+    </li>
+    {% endif %}
+    {% if site.twitter_username %}
+    <li>
+      <a href="https://twitter.com/{{ site.twitter_username }}" style="color:#dddddd;" target="_blank" title="Twitter">
+        <i class="fa fa-twitter"></i>
+
+      </a>
+    </li>
+    {% endif %}
+    {% if site.instagram_username %}
+    <li>
+      <a href="https://instagram.com/{{ site.instagram_username }}" style="color:#dddddd;" target="_blank" title="Instagram">
+        <i class="fa fa-instagram"></i>
+
+      </a>
+    </li>
+    {% endif %}
+    {% if site.flickr_username %}
+    <li>
+      <a href="https://flickr.com/photos/{{ site.flickr_username }}" style="color:#dddddd;" target="_blank" title="Flickr">
+        <i class="fa fa-flickr"></i>
+
+      </a>
+    </li>
+    {% endif %}
+    <li>
+      <a href="mailto:{{ site.email }}" style="color:#dddddd;" target="_blank" title="Email">
+        <i class="fa fa-envelope-o"></i>
+      </a>
+    </li>
+
+
+  </ul>
+</div>
+

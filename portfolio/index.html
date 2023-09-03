@@ -1,0 +1,86 @@
+---
+layout: page
+title: "PORTFOLIO"
+description: "Photo Collection"
+keywords: "Photography, Portfolio"
+active: portfolio
+header-img: "/img/slider/home03.jpg"
+images:
+ - image_path: /img/portfolio/covers/alb01.jpg
+   gallery-folder: /portfolio/01/
+   gallery-name: 2019 CrossFit Games 
+   gallery-date: August 2019
+ - image_path: /img/portfolio/covers/alb02.jpg
+   gallery-folder: /portfolio/02/
+   gallery-name: Yosemite
+   gallery-date: July 2017
+ - image_path: /img/portfolio/covers/alb03.jpg
+   gallery-folder: /portfolio/03/
+   gallery-name: Air Shows
+   gallery-date: Cool airplanes!
+ - image_path: /img/portfolio/covers/alb04.jpg
+   gallery-folder: /portfolio/04/
+   gallery-name: Rainbows
+   gallery-date: How it all started
+ - image_path: /img/portfolio/covers/alb05.jpg
+   gallery-folder: /portfolio/05/
+   gallery-name: Car Photos
+   gallery-date: Mixing hobbies!
+ - image_path: /img/portfolio/covers/alb06.jpg
+   gallery-folder: /portfolio/06/
+   gallery-name: Celestial Bodies
+   gallery-date: Mostly from the dark
+ - image_path: /img/portfolio/covers/alb07.jpg
+   gallery-folder: /portfolio/07/
+   gallery-name: Landscape Photography
+   gallery-date: Cool looking places
+---
+ 
+	<section id="content" role="main">
+		<div class="wrapper">
+	
+			<h2>{{page.title}}</h2>
+			
+      <!-- Gallery __-->
+      <div class="container">
+        
+        <div class="row">
+          <div class="col-12">
+            <p>
+              Below you will find a collection of curated photos as our portfolio, be sure to <a href="/blog/">check out our Blog for all the various Event photos we've taken throughout the years</a>.
+            </p>
+          </div>
+        </div>
+
+  			<div class="row">
+				
+{% for image in page.images %}  	
+
+          <div class="col-md-4 p-0">
+                  <figure class="gallery-item">
+                          <figure class="effect-selena">
+            <header class="gallery-icon">
+		       
+<a href="{{ image.gallery-folder }}">
+{% picture portthumb {{ image.image_path }} --alt {{ image.gallery-name }} %}
+</a>
+
+            </header>	
+            <figcaption class="gallery-caption">
+              <div class="entry-summary">
+                <h3>{{image.gallery-name}}</h3>
+                <p>{{image.gallery-date}}</p>
+              </div>
+            </figcaption>
+                        </figure>
+          </figure>
+      </div>
+{% endfor %}		
+				
+			</div>
+    </div>
+		</div><!-- END .wrapper -->
+	</section>
+
+
+<br>

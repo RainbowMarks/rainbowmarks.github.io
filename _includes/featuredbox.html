@@ -1,0 +1,30 @@
+<!-- begin post -->
+{% assign author = site.authors[post.author] %}
+<div class="">
+    <div class="listfeaturedtag h-100">
+        <div class="row h-100">
+            <div class="col-12">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="wrapthumbnail">
+                                <h2 class="card-title">
+                                    <a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                                </h2>
+    
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    {% if post.image.feature %}
+                                        {% picture blogcrop {{ post.image.feature }} class="featured-box-img-cover lazyimg"  --alt {{ post.title }} %}
+                                    {% else %}
+                                        <!-- do something here -->
+                                    {% endif %}
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->

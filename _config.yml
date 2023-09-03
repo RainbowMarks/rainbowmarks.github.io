@@ -1,0 +1,103 @@
+# Site settings
+title: RainbowMarks Photography
+email: "rainbowmarks@christoc.com"
+description: "RainbowMarks Photography, Wildwood, Missouri"
+url: https://rainbowmarks.com
+baseurl: 
+facebook_username: "rainbowmarksphoto"
+twitter_username: "rainbowmarks"
+instagram_username: "RainbowLandMarks"
+github_username:
+deviantart_username: 
+flickr_username: "chammond"
+discus_shortname: "rainbowmarks"
+share: false
+google_analytics: G-6V585TFXGW # UA-69145-51
+
+data_dir: _data
+
+# Owner/author information
+owner:
+  name: Chris Hammond
+  avatar: 2022_ChrisHammond_200.jpg
+  favicon: favicon.ico
+  info: RainbowMarks Photography based out of Wildwood, MO. Specializing in automotive, sports, events, action, landscapes and of course Rainbows. 
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
+# Set 'provider' to false to turn commenting off globally.
+#Set 'provider: false' to disable comments globally.
+# Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
+#
+comments:
+  provider: false # disqus
+  disqus:
+    short_name: # "rainbowmarks"
+
+# Internal nav
+nav:
+  - MR340: "/mr340/2023"
+  - BLOG: "/blog/"
+  - GALLERIES: "https://photos.rainbowmarks.com/"  
+  - EVENTS: "/events/"
+ # - PURCHASE: "/purchase/"
+  - ABOUT: "/about/"
+  
+
+# All translation keys
+translations:
+ # 404.html
+  permalink: "/404.html"
+
+# Server
+destination: ./_site
+port: 4000
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+paginate_path: "/blog/page:num/"
+permalink: "/blog/:title/"
+categories_path: "/blog/category/"
+tags_path: "/blog/tag/"
+# Plugins
+plugins:
+ - jekyll-paginate
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md",vendor]
+
+
+# SiteMap
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/blog/"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+
+
+#jekyll_picture_tag
+
+picture:
+  suppress_warnings: true
+  fast_build: false
+
+# gallery page generation
+defaults:
+  - scope:
+      type: galleryimage  # select all galleryimage pages
+    values:
+      layout: picture
+
+exclude:
+  - /img/portfolio/*
+  - /img/posts/*
+  - /img/slider/*
+  - /img/journal/*

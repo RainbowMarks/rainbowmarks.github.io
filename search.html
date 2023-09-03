@@ -1,0 +1,78 @@
+---
+layout: page
+title: Search
+description: "What are you looking for?"
+header-img: "img/archive-bg.jpg"
+permalink: /search/
+---
+
+
+<style type="text/css">
+            
+      #search-input {
+        display: inline-block;
+        color: #008989;
+        background-color: #12161d;
+        border-color: #223333;
+        padding: .5em;
+        width: 100%;
+        font-size: 0.8em;
+      }
+        
+         #search-input:focus {
+        display: inline-block;
+        color: #ddd;
+        background-color: #12161d;
+        border-color: #223333;
+        border-width: thick;
+        border-style: outset;
+        box-shadow: -1px 1px 5px 5px #008989;
+        outline: 0;
+        width: 100%;
+        font-size: 0.8em;
+              }
+
+    </style>
+
+<!-- Html Elements for Search -->
+<input type="text" id="search-input" placeholder="Enter keywords...">
+<ul id="results-container" style="list-style-type: none;"></ul>    
+
+<!-- Script pointing to super-search.js -->
+<script src="{{ site.baseurl }}/js/super-search.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: true,
+        exclude: ['Welcome']
+      })
+    </script>
+
+
+<style>
+.site-tag a {
+    display: inline-block;
+    margin-right: 12px;
+}
+</style>
+
+
+<br>
+
+
+<style>
+.site-category a {
+    display: inline-block;
+    margin-right: 12px;
+}
+</style>
+
+
+

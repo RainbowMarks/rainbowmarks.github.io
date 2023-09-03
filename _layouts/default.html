@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+        
+        {% if page.url=="/portfolio/" %} 
+    <body class="gallery">
+        {% elsif page.url=="/blog/" %}
+    <body class="journal">
+            {% else %}
+    <body>
+            {% endif %}
+
+
+        {% include nav.html %}
+
+        {{ content }}
+
+        
+        {% include footer.html %}
+
+        {% include Scroll_to_Top.html %}
+
+    </body>
+
+</html>

@@ -1,0 +1,105 @@
+{% if include.id %}
+  {% assign gallery = page.gallery[include.id] %}
+  {% assign galleryname = include.id %}
+{% else %}
+  {% assign gallery = page.gallery %}
+{% endif %}
+
+<div class="gallery masonry-gallery" id="{{ galleryname }}">
+  {% for img in gallery %}
+
+  <figure class="gallery-item">
+
+	<header class="gallery-icon">
+
+		<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
+		{% assign filename = img.image_path | split: "/" | last | split: "." | first %}
+		<a href="{% picture direct {{ img.image_path }} %}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}" data-url="/galleries/{{ galleryname }}/{{ filename }}/ ">
+			{% picture portthumb {{ img.image_path }} --alt {{ img.image-caption }} %}
+		</a>
+	</header>	
+		
+   <figcaption class="gallery-caption">
+		<div class="entry-summary" id="{{ img.image-caption }}">
+				<h3>{{img.image-caption}}</h3>
+					<p>{{img.image-copyright}}</p>
+		</div>
+	</figcaption>
+  </figure>
+
+  {% endfor %}
+</div>
+
+<script language="javascript" type="text/javascript">
+	var pageUrl = "{{site.baseurl}}/{{page.permalink}}";
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  originalUrl = window.location.href.split('?')[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+	  
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( "ready!" );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf("galleryname=")
+		if(galleryNameLoc>0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split("&")[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf("rbmphoto=")
+
+			if(loc>0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split("&")[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf("rbmphoto=")
+		//if(loc<0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split("&")[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+</script>
