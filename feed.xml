@@ -5,8 +5,8 @@
     <description>RainbowMarks Photography, Wildwood, Missouri</description>
     <link>https://rainbowmarks.com/</link>
     <atom:link href="https://rainbowmarks.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Sep 2023 23:38:17 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Sep 2023 23:38:17 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2023 14:47:01 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2023 14:47:01 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -512,24 +512,24 @@
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
 	var pageUrl = &quot;/Events/2023/08/MR340/&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+//	_mfpOn(&apos;BeforeChange&apos;, function(e, prevType, newType) {alert(&apos;change&apos;); });
+	$(&apos;.popup&apos;).on(&apos;mfpChange&apos;, function(e /*, params */) {
+	  originalUrl = window.location.href.split(&apos;?&apos;)[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr(&apos;data-url&apos;);
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr(&apos;title&apos;)
 	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
+	$(&apos;.popup&apos;).on(&apos;mfpClose&apos;, function(e /*, params */) {
 	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, &apos;&apos;, pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
+    $(&apos;a.popup&apos;).magnificPopup({
+      type: &apos;image&apos;,
       gallery: {
         enabled: true,
         navigateByImgClick: true,
@@ -537,7 +537,7 @@
       },
       image: {
         titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+          return item.el.attr(&apos;title&apos;) + &apos;&amp;nbsp;&apos; + item.el.attr(&apos;data-caption&apos;);
         }
       }
       // other options
@@ -548,37 +548,37 @@
 	$( document ).ready(function($) {
 		// console.log( &quot;ready!&quot; );
 
-		//console.log('Page Load',  window.location.href.split('?')[1]);
+		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
 		{
-			//console.log('Found Index',  index);
+			//console.log(&apos;Found Index&apos;,  index);
 			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
+			//console.log(&apos;G Index:&apos;, gindex);
+			//console.log(&apos;Item:&apos;,$(&apos;#&apos; + gindex));
+			var galleryObj = $(&apos;#&apos; + gindex);
 			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 
 			if(loc&gt;0)
 			{
-				//console.log('Found It',  window.location.href.substring(loc));
+				//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
+				//console.log(&apos;Found Index&apos;,  index);
 				//lookup the image on the page if there are multiple galleries
 				
-				$('#' + gindex).find('.popup')[index].click();
+				$(&apos;#&apos; + gindex).find(&apos;.popup&apos;)[index].click();
 			}
 					
 		}
 		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 		//if(loc&lt;0)
 		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
+		//	//console.log(&apos;Found Index&apos;,  index);
 		//	//lookup the image on the page if there are multiple galleries
 			
-		//	document.getElementsByClassName('popup')[index].click();
+		//	document.getElementsByClassName(&apos;popup&apos;)[index].click();
 		//}
 		
 	});
@@ -861,24 +861,24 @@
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
 	var pageUrl = &quot;/Events/2023/07/Freedom100/&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+//	_mfpOn(&apos;BeforeChange&apos;, function(e, prevType, newType) {alert(&apos;change&apos;); });
+	$(&apos;.popup&apos;).on(&apos;mfpChange&apos;, function(e /*, params */) {
+	  originalUrl = window.location.href.split(&apos;?&apos;)[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr(&apos;data-url&apos;);
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr(&apos;title&apos;)
 	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
+	$(&apos;.popup&apos;).on(&apos;mfpClose&apos;, function(e /*, params */) {
 	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, &apos;&apos;, pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
+    $(&apos;a.popup&apos;).magnificPopup({
+      type: &apos;image&apos;,
       gallery: {
         enabled: true,
         navigateByImgClick: true,
@@ -886,7 +886,7 @@
       },
       image: {
         titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+          return item.el.attr(&apos;title&apos;) + &apos;&amp;nbsp;&apos; + item.el.attr(&apos;data-caption&apos;);
         }
       }
       // other options
@@ -897,37 +897,37 @@
 	$( document ).ready(function($) {
 		// console.log( &quot;ready!&quot; );
 
-		//console.log('Page Load',  window.location.href.split('?')[1]);
+		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
 		{
-			//console.log('Found Index',  index);
+			//console.log(&apos;Found Index&apos;,  index);
 			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
+			//console.log(&apos;G Index:&apos;, gindex);
+			//console.log(&apos;Item:&apos;,$(&apos;#&apos; + gindex));
+			var galleryObj = $(&apos;#&apos; + gindex);
 			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 
 			if(loc&gt;0)
 			{
-				//console.log('Found It',  window.location.href.substring(loc));
+				//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
+				//console.log(&apos;Found Index&apos;,  index);
 				//lookup the image on the page if there are multiple galleries
 				
-				$('#' + gindex).find('.popup')[index].click();
+				$(&apos;#&apos; + gindex).find(&apos;.popup&apos;)[index].click();
 			}
 					
 		}
 		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 		//if(loc&lt;0)
 		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
+		//	//console.log(&apos;Found Index&apos;,  index);
 		//	//lookup the image on the page if there are multiple galleries
 			
-		//	document.getElementsByClassName('popup')[index].click();
+		//	document.getElementsByClassName(&apos;popup&apos;)[index].click();
 		//}
 		
 	});
@@ -1204,24 +1204,24 @@
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
 	var pageUrl = &quot;/Events/2023/06/ScottAFBAirShow/&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+//	_mfpOn(&apos;BeforeChange&apos;, function(e, prevType, newType) {alert(&apos;change&apos;); });
+	$(&apos;.popup&apos;).on(&apos;mfpChange&apos;, function(e /*, params */) {
+	  originalUrl = window.location.href.split(&apos;?&apos;)[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr(&apos;data-url&apos;);
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr(&apos;title&apos;)
 	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
+	$(&apos;.popup&apos;).on(&apos;mfpClose&apos;, function(e /*, params */) {
 	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, &apos;&apos;, pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
+    $(&apos;a.popup&apos;).magnificPopup({
+      type: &apos;image&apos;,
       gallery: {
         enabled: true,
         navigateByImgClick: true,
@@ -1229,7 +1229,7 @@
       },
       image: {
         titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+          return item.el.attr(&apos;title&apos;) + &apos;&amp;nbsp;&apos; + item.el.attr(&apos;data-caption&apos;);
         }
       }
       // other options
@@ -1240,37 +1240,37 @@
 	$( document ).ready(function($) {
 		// console.log( &quot;ready!&quot; );
 
-		//console.log('Page Load',  window.location.href.split('?')[1]);
+		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
 		{
-			//console.log('Found Index',  index);
+			//console.log(&apos;Found Index&apos;,  index);
 			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
+			//console.log(&apos;G Index:&apos;, gindex);
+			//console.log(&apos;Item:&apos;,$(&apos;#&apos; + gindex));
+			var galleryObj = $(&apos;#&apos; + gindex);
 			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 
 			if(loc&gt;0)
 			{
-				//console.log('Found It',  window.location.href.substring(loc));
+				//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
+				//console.log(&apos;Found Index&apos;,  index);
 				//lookup the image on the page if there are multiple galleries
 				
-				$('#' + gindex).find('.popup')[index].click();
+				$(&apos;#&apos; + gindex).find(&apos;.popup&apos;)[index].click();
 			}
 					
 		}
 		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 		//if(loc&lt;0)
 		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
+		//	//console.log(&apos;Found Index&apos;,  index);
 		//	//lookup the image on the page if there are multiple galleries
 			
-		//	document.getElementsByClassName('popup')[index].click();
+		//	document.getElementsByClassName(&apos;popup&apos;)[index].click();
 		//}
 		
 	});
@@ -1527,24 +1527,24 @@
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
 	var pageUrl = &quot;/Events/2023/06/EnjoyIllinois300/&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+//	_mfpOn(&apos;BeforeChange&apos;, function(e, prevType, newType) {alert(&apos;change&apos;); });
+	$(&apos;.popup&apos;).on(&apos;mfpChange&apos;, function(e /*, params */) {
+	  originalUrl = window.location.href.split(&apos;?&apos;)[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr(&apos;data-url&apos;);
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr(&apos;title&apos;)
 	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
+	$(&apos;.popup&apos;).on(&apos;mfpClose&apos;, function(e /*, params */) {
 	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, &apos;&apos;, pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
+    $(&apos;a.popup&apos;).magnificPopup({
+      type: &apos;image&apos;,
       gallery: {
         enabled: true,
         navigateByImgClick: true,
@@ -1552,7 +1552,7 @@
       },
       image: {
         titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+          return item.el.attr(&apos;title&apos;) + &apos;&amp;nbsp;&apos; + item.el.attr(&apos;data-caption&apos;);
         }
       }
       // other options
@@ -1563,37 +1563,37 @@
 	$( document ).ready(function($) {
 		// console.log( &quot;ready!&quot; );
 
-		//console.log('Page Load',  window.location.href.split('?')[1]);
+		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
 		{
-			//console.log('Found Index',  index);
+			//console.log(&apos;Found Index&apos;,  index);
 			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
+			//console.log(&apos;G Index:&apos;, gindex);
+			//console.log(&apos;Item:&apos;,$(&apos;#&apos; + gindex));
+			var galleryObj = $(&apos;#&apos; + gindex);
 			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 
 			if(loc&gt;0)
 			{
-				//console.log('Found It',  window.location.href.substring(loc));
+				//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
+				//console.log(&apos;Found Index&apos;,  index);
 				//lookup the image on the page if there are multiple galleries
 				
-				$('#' + gindex).find('.popup')[index].click();
+				$(&apos;#&apos; + gindex).find(&apos;.popup&apos;)[index].click();
 			}
 					
 		}
 		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 		//if(loc&lt;0)
 		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
+		//	//console.log(&apos;Found Index&apos;,  index);
 		//	//lookup the image on the page if there are multiple galleries
 			
-		//	document.getElementsByClassName('popup')[index].click();
+		//	document.getElementsByClassName(&apos;popup&apos;)[index].click();
 		//}
 		
 	});
@@ -1890,24 +1890,24 @@
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
 	var pageUrl = &quot;/Events/2023/05/StLouisBikeRacePhotography/&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+//	_mfpOn(&apos;BeforeChange&apos;, function(e, prevType, newType) {alert(&apos;change&apos;); });
+	$(&apos;.popup&apos;).on(&apos;mfpChange&apos;, function(e /*, params */) {
+	  originalUrl = window.location.href.split(&apos;?&apos;)[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr(&apos;data-url&apos;);
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr(&apos;title&apos;)
 	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
+	$(&apos;.popup&apos;).on(&apos;mfpClose&apos;, function(e /*, params */) {
 	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, &apos;&apos;, pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
+    $(&apos;a.popup&apos;).magnificPopup({
+      type: &apos;image&apos;,
       gallery: {
         enabled: true,
         navigateByImgClick: true,
@@ -1915,7 +1915,7 @@
       },
       image: {
         titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+          return item.el.attr(&apos;title&apos;) + &apos;&amp;nbsp;&apos; + item.el.attr(&apos;data-caption&apos;);
         }
       }
       // other options
@@ -1926,37 +1926,37 @@
 	$( document ).ready(function($) {
 		// console.log( &quot;ready!&quot; );
 
-		//console.log('Page Load',  window.location.href.split('?')[1]);
+		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
 		{
-			//console.log('Found Index',  index);
+			//console.log(&apos;Found Index&apos;,  index);
 			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
+			//console.log(&apos;G Index:&apos;, gindex);
+			//console.log(&apos;Item:&apos;,$(&apos;#&apos; + gindex));
+			var galleryObj = $(&apos;#&apos; + gindex);
 			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 
 			if(loc&gt;0)
 			{
-				//console.log('Found It',  window.location.href.substring(loc));
+				//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
+				//console.log(&apos;Found Index&apos;,  index);
 				//lookup the image on the page if there are multiple galleries
 				
-				$('#' + gindex).find('.popup')[index].click();
+				$(&apos;#&apos; + gindex).find(&apos;.popup&apos;)[index].click();
 			}
 					
 		}
 		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 		//if(loc&lt;0)
 		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
+		//	//console.log(&apos;Found Index&apos;,  index);
 		//	//lookup the image on the page if there are multiple galleries
 			
-		//	document.getElementsByClassName('popup')[index].click();
+		//	document.getElementsByClassName(&apos;popup&apos;)[index].click();
 		//}
 		
 	});
@@ -2122,24 +2122,24 @@
 
 &lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
 	var pageUrl = &quot;/Events/2023/05/StLouisHockeyPhotography/&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+//	_mfpOn(&apos;BeforeChange&apos;, function(e, prevType, newType) {alert(&apos;change&apos;); });
+	$(&apos;.popup&apos;).on(&apos;mfpChange&apos;, function(e /*, params */) {
+	  originalUrl = window.location.href.split(&apos;?&apos;)[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr(&apos;data-url&apos;);
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr(&apos;title&apos;)
 	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
+	$(&apos;.popup&apos;).on(&apos;mfpClose&apos;, function(e /*, params */) {
 	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  window.history.replaceState({}, &apos;&apos;, pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
 	  
 	});
 
 	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
+    $(&apos;a.popup&apos;).magnificPopup({
+      type: &apos;image&apos;,
       gallery: {
         enabled: true,
         navigateByImgClick: true,
@@ -2147,7 +2147,7 @@
       },
       image: {
         titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+          return item.el.attr(&apos;title&apos;) + &apos;&amp;nbsp;&apos; + item.el.attr(&apos;data-caption&apos;);
         }
       }
       // other options
@@ -2158,37 +2158,37 @@
 	$( document ).ready(function($) {
 		// console.log( &quot;ready!&quot; );
 
-		//console.log('Page Load',  window.location.href.split('?')[1]);
+		//console.log(&apos;Page Load&apos;,  window.location.href.split(&apos;?&apos;)[1]);
 		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
 		if(galleryNameLoc&gt;0)
 		{
-			//console.log('Found Index',  index);
+			//console.log(&apos;Found Index&apos;,  index);
 			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
+			//console.log(&apos;G Index:&apos;, gindex);
+			//console.log(&apos;Item:&apos;,$(&apos;#&apos; + gindex));
+			var galleryObj = $(&apos;#&apos; + gindex);
 			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 
 			if(loc&gt;0)
 			{
-				//console.log('Found It',  window.location.href.substring(loc));
+				//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
+				//console.log(&apos;Found Index&apos;,  index);
 				//lookup the image on the page if there are multiple galleries
 				
-				$('#' + gindex).find('.popup')[index].click();
+				$(&apos;#&apos; + gindex).find(&apos;.popup&apos;)[index].click();
 			}
 					
 		}
 		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
 		//if(loc&lt;0)
 		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	//console.log(&apos;Found It&apos;,  window.location.href.substring(loc));
 		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
+		//	//console.log(&apos;Found Index&apos;,  index);
 		//	//lookup the image on the page if there are multiple galleries
 			
-		//	document.getElementsByClassName('popup')[index].click();
+		//	document.getElementsByClassName(&apos;popup&apos;)[index].click();
 		//}
 		
 	});
