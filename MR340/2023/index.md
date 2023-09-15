@@ -55,7 +55,6 @@ redirect_from:
     <h2>Pre-Event Photo Packages </h2>
     <p>Pre-event pricing was available until 10:00pm on July 31st, 2023. Purchasers received a $75 store credit for $50. Multiple emails have gone out to those who purchased this package.</p>
     <h3>Pre-Purchase Refunds</h3>
-    <p>2023 was a tough year, taking a week off work and only getting to shoot 2 days of photos with the race ending early, please consider all options other than a refund.</p>
-    <p>If I didn't end up getting more than 4 photos of you/crew/boat and you can't find $75 worth of items to purchase on the site, you can <a href="https://www.chrishammond.com/contact" target="_blank">reach out for a refund before 8/31/2023</a>.</p>
+    <p>The refund request window ended 8/31/2023.</p>
   </div>
 </div>
