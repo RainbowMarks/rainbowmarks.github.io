@@ -55,6 +55,6 @@ redirect_from:
     <h2>Pre-Event Photo Packages </h2>
     <p>Pre-event pricing was available until 10:00pm on July 31st, 2023. Purchasers received a $75 store credit for $50. Multiple emails have gone out to those who purchased this package.</p>
     <h3>Pre-Purchase Refunds</h3>
-    <p>The refund request window ended 8/31/2023.</p>
+    <p>The refund request window ended 8/31/2023. Please use your $75 store credit to download digital photos or order physical prints.</p>
   </div>
 </div>
