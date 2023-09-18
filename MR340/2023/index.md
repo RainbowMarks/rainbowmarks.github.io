@@ -17,7 +17,7 @@ redirect_from:
 
 <div class="row">
   <div class="col-md-8">
-    <p>A big thank you to everyone for making me feel so welcome at my first #MR340 this year! It was one to remember for sure. I've processed and uploaded all the photos! They have also all been tagged with Boat number where I was able to identify. That should make it easier to use the [Search feature on the site to search for your boat number](https://rainbowmarks.smugmug.com/search)</p>
+    <p>A big thank you to everyone for making me feel so welcome at my first #MR340 this year! It was one to remember for sure. I've processed and uploaded all the photos! They have also all been tagged with Boat number where I was able to identify. That should make it easier to use the <a href="https://rainbowmarks.smugmug.com/search">Search feature on the site to search for your boat number</a></p>
 
   </div>
   <div class="col-md-4">
