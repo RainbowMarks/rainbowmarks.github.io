@@ -11,8 +11,9 @@ permalink: "Events/2023/08/PHOTOMARK/"
 tags: [event, race, paddle, boat, MR340, river, Missouri]
 featured: false
 includegallery: false
-
 ---
+## PhotoMark.co will go into hybernation on 9/30/2023. Get your MR340 photos with the logo before then!
+
 A few weeks before the 2023 MR340 I posted in the Facebook group asking if people wanted the MR340 logo overlaid on the photos from the event. The response was mixed, probably around 50/50, with some people wanting it, and others preferring not to have it.
 
 I err'd on the side of not including the logo on the photos that were made available for purchase from the event, but had every intention of figuring out a way to allow the people who wanted the logo, to add the logo, post purchase.
