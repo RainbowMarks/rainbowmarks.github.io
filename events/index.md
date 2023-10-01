@@ -46,8 +46,7 @@ At RainbowMarks Photography we thoroughly enjoy getting out and shooting events.
 <div class="row">
   <div class="col-12">
   <h2>Custom Event Watermarks</h2>
-  <p>With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.</p>
-  <a href="https://photomark.co" class="btn btn-primary">Check It Out</a>
+  <p>With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.</p>  
   </div>
 </div>
 
