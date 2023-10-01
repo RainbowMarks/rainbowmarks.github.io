@@ -75,7 +75,7 @@ We have experience shooting events of all sizes and types. Some, but not all, of
     </ul>
     <h3>Bicycle Events</h3>
     <ul>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Gravel Races</></li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Gravel Races</a></li>
       <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Cyclocross Races</a></li>
       <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Mountain Bike Races</a></li>
       <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Road Races</a></li>
