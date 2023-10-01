@@ -4,29 +4,44 @@ title: "Capturing the Spirit of CrossFit Competitions"
 subtitle: "Have us shoot your next CrossFit competition or event!"
 active: "blog"
 image:
-  feature: "/img/posts/2023/CrossFit/crossfit-1.jpg"
-date: '2023-10-02T09:20:00+00:00'
-header-img: "/img/posts/2023/CrossFit/crossfit-1.jpg"
+  feature: "/img/posts/2023/CrossFit/CrossFit-1.jpg"
+date: '2023-10-01T09:00:00+00:00'
+header-img: "/img/posts/2023/CrossFit/CrossFit-1.jpg"
 
 permalink: "Events/2023/10/CrossFitPhotography/"
-tags: [event, crossfit]
+tags: [event, CrossFit]
 featured: false
 
 gallery:
   CrossFitPhotography:
-  - image_path: /img/posts/2023/CrossFit/crossfit-1.jpg
+  - image_path: /img/posts/2023/CrossFit/CrossFit-1.jpg
     image-caption: St. Louis CrossFit Photos
     image-copyright: Copyright 2023 RainbowMarks.com
-  - image_path: /img/posts/2023/CrossFit/crossfit-2.jpg
+  - image_path: /img/posts/2023/CrossFit/CrossFit-2.jpg
     image-caption: St. Louis CrossFit Photos
     image-copyright: Copyright 2023 RainbowMarks.com
-  - image_path: /img/posts/2023/CrossFit/crossfit-3.jpg
+  - image_path: /img/posts/2023/CrossFit/CrossFit-3.jpg
     image-caption: St. Louis CrossFit Photos
     image-copyright: Copyright 2023 RainbowMarks.com
-  - image_path: /img/posts/2023/CrossFit/crossfit-4.jpg
+  - image_path: /img/posts/2023/CrossFit/CrossFit-4.jpg
     image-caption: St. Louis CrossFit Photos
     image-copyright: Copyright 2023 RainbowMarks.com
-  - image_path: /img/posts/2023/CrossFit/crossfit-5.jpg
+  - image_path: /img/posts/2023/CrossFit/CrossFit-5.jpg
+    image-caption: St. Louis CrossFit Photos
+    image-copyright: Copyright 2023 RainbowMarks.com
+  - image_path: /img/posts/2023/CrossFit/CrossFit-6.jpg
+    image-caption: St. Louis CrossFit Photos
+    image-copyright: Copyright 2023 RainbowMarks.com
+  - image_path: /img/posts/2023/CrossFit/CrossFit-7.jpg
+    image-caption: St. Louis CrossFit Photos
+    image-copyright: Copyright 2023 RainbowMarks.com
+  - image_path: /img/posts/2023/CrossFit/CrossFit-8.jpg
+    image-caption: St. Louis CrossFit Photos
+    image-copyright: Copyright 2023 RainbowMarks.com
+  - image_path: /img/posts/2023/CrossFit/CrossFit-9.jpg
+    image-caption: St. Louis CrossFit Photos
+    image-copyright: Copyright 2023 RainbowMarks.com
+  - image_path: /img/posts/2023/CrossFit/CrossFit-10.jpg
     image-caption: St. Louis CrossFit Photos
     image-copyright: Copyright 2023 RainbowMarks.com
 ---

@@ -76,15 +76,11 @@ We have experience shooting events of all sizes and types. Some, but not all, of
     </ul>
     <h3>Bicycle Events</h3>
     <ul>
-      <li>
-      
-      [Gravel Races](https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/)
-      
-      </li>
-      <li>[Cyclocross Races](https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/)</li>
-      <li>[Mountain Bike Races](https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/)</li>
-      <li>[Road Races](https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/)</li>
-      <li>[Crits (criteriums)](https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/)</li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Gravel Races</></li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Cyclocross Races</a></li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Mountain Bike Races</a></li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Road Races</a></li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Crits (criteriums)</a></li>
     </ul>
   </div>
   <div class="col-6">
@@ -107,8 +103,8 @@ We have experience shooting events of all sizes and types. Some, but not all, of
     <h3>Youth Sports</h3>
     <ul>
       <li>Baseball</li>
-      <li>[Ice Hockey](https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/)</li>
-      <li>[Roller Hockey](https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/)</li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/">Ice Hockey</a></li>
+      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/">Roller Hockey</a></li>
       <li>Gymnastics</li>
       <li>Team Photos</li>
       <li>Individual Photos</li>
