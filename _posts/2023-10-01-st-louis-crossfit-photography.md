@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Capturing the Spirit of CrossFit Competitions"
-subtitle: "Have us shoot your next CrossFit competition or event!"
+title: "Capturing the Spirit of CrossFit Competitions in St. Louis"
+subtitle: "Have us photograph your next CrossFit competition or event!"
 active: "blog"
 image:
   feature: "/img/posts/2023/CrossFit/CrossFit-1.jpg"
@@ -59,7 +59,7 @@ RainbowMarks was honored to have been present at the epicenter of the CrossFit w
 
 ## Local Legends
 
-While international events like the CrossFit Games remain a highlight, our heart beats close to home. We've been a prominent part of multiple events in and around **St. Louis** and have traversed across **Missouri** to bring the magic of CrossFit competitions to life. We understand the local ethos, the vibrant community spirit, and the undying commitment of athletes. That's why we are a favorite amongst event organizers and participants alike.
+While international events like the CrossFit Games remain a highlight, our heart beats close to home. We've been a prominent part of multiple events in and around **St. Louis** and have traversed across **Missouri** and **Illinois** to bring the magic of CrossFit competitions to life. We understand the local ethos, the vibrant community spirit, and the undying commitment of athletes. That's why we are a favorite amongst event organizers and participants alike.
 
 ## Why Choose RainbowMarks?
 
@@ -75,16 +75,8 @@ While international events like the CrossFit Games remain a highlight, our heart
 
 Whether you're an event organizer, a CrossFit athlete, or a fan, we invite you to experience the world through our lens. Let RainbowMarks Photography be the bridge between your event and unforgettable memories.
 
-For inquiries, bookings, or to view our expansive portfolio, [**Contact Us**](#) today.
+For inquiries, bookings, or to simply ask a question, [**Contact Us**](https://www.chrishammond.com/Contact) today.
 
 Remember, with RainbowMarks, every shot is not just a photo; it’s an emotion, a memory, a legacy.
 
-*“Where every snapshot tells a story!”*
-
-
 [Book Today](https://www.chrishammond.com/Contact)
-
-[See some of the thousands of Hockey Photos we have taken over the years](https://photos.rainbowmarks.com/search#q=hockey)
-
-
-
