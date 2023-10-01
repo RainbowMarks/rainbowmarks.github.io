@@ -53,7 +53,11 @@ gallery:
 ---
 As a seasoned photographer specializing in dynamic sports coverage in the bustling city of St. Louis, there's a particular subject that never ceases to spark excitement in my camera lens and my creative soul: bicycle race photography. For over 20 years I have had the honor of immersing myself in the whir of wheels and the spirited determination of racers, capturing these intense moments and converting them into breathtaking bike racing photos.
 
+[Book Today](https://www.chrishammond.com/Contact)
+
 Cycling races, with their incredible blend of speed, endurance, and strategy, provide a dramatic canvas for stunning photography. My journey as a photographer is not merely about capturing cyclists in motion, but about creating a compelling narrative of human resilience and the pulsating energy of the competition.
+
+{% include subgallery.html id="StLouisBikesPhotography" %}
 
 ## The Art of Bicycle Race Photography
 In the vast field of sports photography, bike race photos are distinguished by their dynamic nature and the compelling stories they tell. The sight of cyclists, clad in vibrant colors, pedaling furiously, and jostling for position, delivers a thrilling spectacle that is a joy to capture. From the intense concentration of a solo breakaway to the synchronized rhythm of a peloton, each photograph tells its own story.
@@ -78,5 +82,4 @@ So whether you're a racer, a supporter, or an event organizer, I invite you to e
 Together, we can immortalize the power, the passion, and the thrill of cycling races, one photo at a time.
 [Book Today](https://www.chrishammond.com/Contact)
 
-{% include subgallery.html id="StLouisBikesPhotography" %}
 

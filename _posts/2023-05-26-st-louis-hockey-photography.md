@@ -34,7 +34,11 @@ gallery:
 ---
 As an experienced sports photographer in the vibrant city of St. Louis, there's one subject that has always captured my attention, and that of my camera lens, like no other: St. Louis hockey. I have had the privilege to experience the heart-pounding, ice-skating action from behind my camera, capturing the intensity of every game and transforming them into captivating St. Louis hockey photos.
 
+[Book Today](https://www.chrishammond.com/Contact)
+
 Hockey, being the heartbeat of this incredible city, provides a captivating display of athleticism and emotion, an ideal subject for a passionate photographer like me. However, a St. Louis hockey game is not merely about capturing shots of athletes, but a compelling narrative of human endeavor and the spirit of the community.
+
+{% include subgallery.html id="StLouisHockeyPhotography" %}
 
 ## The Thrill of St. Louis Hockey Photos
 In the realm of sports photography, St. Louis hockey photos stand out for their dynamism and emotion. The sight of players in their full regalia, battling it out on the ice, delivers an adrenaline rush that's hard to replicate. It is this passion that I aim to capture in every photo. The heated exchanges, the tense face-offs, and the exuberant goal celebrations, each snapshot tells a unique story.
@@ -63,5 +67,4 @@ Together, we can immortalize the intensity, the passion, and the spirit of St. L
 [See some of the thousands of Hockey Photos we have taken over the years](https://photos.rainbowmarks.com/search#q=hockey)
 
 
-{% include subgallery.html id="StLouisHockeyPhotography" %}
 

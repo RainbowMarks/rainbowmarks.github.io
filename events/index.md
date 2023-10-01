@@ -31,7 +31,7 @@ At RainbowMarks Photography we thoroughly enjoy getting out and shooting events.
     <h2>Event Photography Packages</h2>
     <p>We customize our packages for each event, so we can tailor our services for the specific needs of your event.</p>
     <p>You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.</p>
-    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href="https://www.chrishammond.com/Contact" class="btn btn-primary">please reach out and get more information</a>.</p>
+    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href="https://www.chrishammond.com/Contact" class="btn btn-primary">please reach out and get more information</a></p>
   </div>
   <div class="col-6"> 
     <h2>Event Organizer Specials</h2>
@@ -103,8 +103,8 @@ We have experience shooting events of all sizes and types. Some, but not all, of
     <h3>Youth Sports</h3>
     <ul>
       <li>Baseball</li>
-      <li>Ice Hockey</li>
-      <li>Roller Hockey</li>
+      <li>[Ice Hockey](https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/)</li>
+      <li>[Roller Hockey](https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/)</li>
       <li>Gymnastics</li>
       <li>Team Photos</li>
       <li>Individual Photos</li>
