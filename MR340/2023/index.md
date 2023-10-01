@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "2023 Missouri River 340 Photos"
-description: "Photo Packages for the MR340"
+title: "MR340 - 2023 Missouri River 340 Photos"
+description: "Photos from the 2023 edition of the MR340"
 active: mr340
 header-img: "img/posts/2023/MR340/mr340-1.jpg"
 redirect_from: 
@@ -23,13 +23,15 @@ redirect_from:
   <div class="col-md-4">
     <h2>View and download photos!</h2>
     <a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">View Galleries</a>
-
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
   <h3>Photo Pricing</h3>
     <p>Individual Photos can be purchased via the gallery links above. Individual photos are $15 each for high resolution (typically 40+ megapixels) digital download, though some photos maybe lower resolution as we process/crop them.</p>
     <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc).</p>
   </div>
 </div>
-
 <div class="row">
   <div class="col-md-6">
     <h2>Missouri River Relief</h2>
@@ -40,7 +42,7 @@ redirect_from:
 <div class="row">
   <div class="col-12">
     <h2>Pre-Event Photo Packages </h2>
-    <p>Pre-event pricing was available until 10:00pm on July 31st, 2023. Purchasers received a $75 store credit for $50. Multiple emails have gone out to those who purchased this package.</p>
+    <p>Pre-event pricing was available until 10:00pm on July 31st, 2023. Purchasers received a $75 store credit for $50. Multiple emails have gone out to those who purchased this package. If you lost your code please feel free to reach out for assistance.</p>
     <h3>Pre-Purchase Refunds</h3>
     <p>The refund request window ended 8/31/2023. Please use your $75 store credit to download digital photos or order physical prints.</p>
   </div>
