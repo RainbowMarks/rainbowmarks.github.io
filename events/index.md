@@ -55,6 +55,15 @@ We have experience shooting events of all sizes and types. Some, but not all, of
 
 <div class="row">
   <div class="col-6">
+  <h3>Youth Sports</h3>
+    <ul>
+      <li>Baseball</li>
+      <li><a href="https://rainbowmarks.com/events/hockey/">Ice Hockey</a></li>
+      <li><a href="https://rainbowmarks.com/events/hockey/">Roller Hockey</a></li>
+      <li>Gymnastics</li>
+      <li>Team Photos</li>
+      <li>Individual Photos</li>
+    </ul>
     <h3>Automotive Events</h3>
     <ul>
       <li>Car Shows</li>
@@ -66,13 +75,7 @@ We have experience shooting events of all sizes and types. Some, but not all, of
       <li>NASCAR</li>
       <li>Indy Car</li>
     </ul>
-        <h3>Music Events</h3>
-    <ul>
-      <li>Concerts</li>
-      <li>Lounge Events</li>
-      <li>Band Competitions</li>
-      <li>Bar Shows</li>
-    </ul>
+    
     <h3>Bicycle Events</h3>
     <ul>
       <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Gravel Races</a></li>
@@ -99,14 +102,12 @@ We have experience shooting events of all sizes and types. Some, but not all, of
       <li>Multi-day long distance races</li>
       <li>One day races</li>
     </ul>
-    <h3>Youth Sports</h3>
+        <h3>Music Events</h3>
     <ul>
-      <li>Baseball</li>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/">Ice Hockey</a></li>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisHockeyPhotography/">Roller Hockey</a></li>
-      <li>Gymnastics</li>
-      <li>Team Photos</li>
-      <li>Individual Photos</li>
+      <li>Concerts</li>
+      <li>Lounge Events</li>
+      <li>Band Competitions</li>
+      <li>Bar Shows</li>
     </ul>
   </div>
 </div>
