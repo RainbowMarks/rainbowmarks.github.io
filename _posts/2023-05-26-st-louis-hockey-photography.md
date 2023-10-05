@@ -32,6 +32,8 @@ gallery:
     image-caption: St. Louis Hockey Photos
     image-copyright: Copyright 2023 RainbowMarks.com
 ---
+Updated October 2023: [Check Out Our One Game Hockey Photo Package](https://rainbowmarks.com/events/hockey/)
+
 As an experienced sports photographer in the vibrant city of St. Louis, there's one subject that has always captured my attention, and that of my camera lens, like no other: St. Louis hockey. I have had the privilege to experience the heart-pounding, ice-skating action from behind my camera, capturing the intensity of every game and transforming them into captivating St. Louis hockey photos.
 
 [Book Today](https://www.chrishammond.com/Contact)
