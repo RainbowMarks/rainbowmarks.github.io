@@ -15,9 +15,9 @@ Capture every slapshot, every goal, and every triumphant cheer. Let the passion 
 
 * 📌 **Comprehensive Coverage**: We ensure no moment goes unnoticed. From the first puck drop to the final whistle, our photographer will be there, capturing the essence of the game.
 
-* 📌 **Price**: A flat fee of **$225** gets you extensive coverage of the entire game.
+* 📌 **Price**: A flat fee of **$225** gets you extensive coverage of the entire game. Split the fee up among all the parents!
 
-* 📌 **High-Quality Digital Downloads**: Our state-of-the-art equipment ensures each photograph is crisp, clear, and vibrant. The best action shots and candid moments will be available for download from our premium online gallery. Downloads are included for the $225 fee.
+* 📌 **High-Quality Digital Downloads**: Our state-of-the-art equipment ensures each photograph is crisp, clear, and vibrant. The best action shots and candid moments will be available for download from our premium online gallery. Downloads are included for the $225 fee. [View some of our previous Hockey photos](https://photos.rainbowmarks.com/search#q=hockey&c=photos&i=0)
 
 * 📌 **Expert Post-Processing**: Our work doesn't end when the game does. We carefully process each image to bring out the best colors, lighting, and details.
 
