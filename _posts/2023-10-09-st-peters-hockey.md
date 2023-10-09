@@ -48,7 +48,7 @@ gallery:
 
 In an electrifying matchup between St. Peters Hockey and Chesterfield Falcons, fans were treated to a display of talent, grit, and determination from both squads. 
 
-The game was set into motion with St. Peters taking an early lead, ending the first period 4-2. Despite the initial advantage, Chesterfield's standout player, Suda, demonstrated his skill, accounting for three of the team’s initial goals, including one in the second period. This brought the score to 5-3 in favor of St. Peters as they headed into the final period.
+The game was set into motion with St. Peters taking an early lead, ending the first period 4-2. Despite the initial advantage, Chesterfield's standout player, Suda, demonstrated his skill, accounting for all three of the team’s initial goals, including one in the second period. This brought the score to 5-3 in favor of St. Peters as they headed into the final period.
 
 As the third period wound down, tension reached its peak. Chesterfield, showing their never-say-die spirit, managed to pull the score within one, trailing 6-5. In a tactical move, Chesterfield decided to pull their goalie, allowing an extra skater onto the ice. This strategy is commonly used to increase offensive pressure in hopes of equalizing the score. However, due to an oversight by the referees who mistakenly believed Chesterfield had too many players on the ice, a potential game-tying scoring opportunity was thwarted. This error in judgment shifted the momentum, hindering Chesterfield's chances of leveling the game.
 
