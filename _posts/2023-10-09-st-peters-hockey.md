@@ -56,4 +56,4 @@ Despite their best efforts, the Chesterfield Falcons were unable to recapture th
 
 {% include subgallery.html id="StPetersIceHockeyPhotos" %}
 
-Interested in having your team's ice hockey game photographed? [Read more about our Ice Hockey Photo packages](https://rainbowmarks.com/events/hockey/).
+Interested in having your team's ice hockey game photographed? [Read more about our Ice Hockey Photo packages](/events/hockey/).

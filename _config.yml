@@ -36,9 +36,9 @@ comments:
 
 # Internal nav
 nav:
-  - MR340: "/mr340/2023"
+ # - MR340: "/mr340/2023"
   - BLOG: "/blog/"
-  - GALLERIES: "https://photos.rainbowmarks.com/"  
+  - GALLERIES: "https://photos.rainbowmarks.com/"
   - EVENTS: "/events/"
  # - PURCHASE: "/purchase/"
   - ABOUT: "/about/"
@@ -81,13 +81,11 @@ sitemap:
     change_frequency_name: "change_frequency"
     priority_name: "priority"
 
-
-
 #jekyll_picture_tag
 
 picture:
   suppress_warnings: true
-  fast_build: false
+  fast_build: true
 
 # gallery page generation
 defaults:
