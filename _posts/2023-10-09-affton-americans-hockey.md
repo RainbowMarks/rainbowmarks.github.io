@@ -52,11 +52,8 @@ gallery:
 In an exciting clash between the Affton Americans and the Chesterfield Falcons, the Falcons soared to victory, securing their first win of the season.
 
 **Game Details**:
-
 - **Teams**: Affton Americans (Home) vs. Chesterfield Falcons (Visiting)
-
 - **Final Score**: Affton Americans 2 - 5 Chesterfield Falcons
-
 - **Scoring by Periods**:
   * 1st Period: Affton Americans 0 - Chesterfield Falcons 2
   * 2nd Period: Affton Americans 2 - Chesterfield Falcons 2
