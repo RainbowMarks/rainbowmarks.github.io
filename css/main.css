@@ -493,3 +493,7 @@ ul.pager {list-style: none;}
     padding-right: .75rem;
     padding-left: .75rem;
 }
+
+.nav-item{
+  padding: 0 15px;
+}
