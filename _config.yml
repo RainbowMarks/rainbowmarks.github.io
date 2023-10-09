@@ -86,6 +86,8 @@ sitemap:
 picture:
   suppress_warnings: true
   fast_build: true
+  # source: img/
+  output: generated/
 
 # gallery page generation
 defaults:
