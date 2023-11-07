@@ -60,7 +60,7 @@ The Chesterfield Falcons 10U-A1 team showcased their talent and determination at
 In the tournament's opening game held at the Ice Box, the Falcons asserted their dominance early on. **Daniel Hammond** spearheaded the charge with the opening goal, setting the tone for the rest of the game. Although the official scoreboard showcased an impressive 8-0 win, sources say the Falcons had notched up at least 12 goals! **Braxton Vatterott** was particularly scintillating, with a hattrick under his belt. Adding another feather to their cap, **Miles McCarthy** recorded his first shutout of the season.
 
 ## Game 2: Chesterfield Falcons vs. Joliet Jaguars
-Saturday morning's clash with the Joliet Jaguars Squirt 1 team on the "Lefty Smith" rink proved to be a challenging one for the Falcons. The Jaguars’ strategy of utilizing breakaways put them in the driver’s seat, ultimately clinching a 5-2 victory. Despite the loss, the Falcons learned valuable lessons in teamwork and resilience.
+Saturday morning's clash with the Joliet Jaguars Squirt 1 team on the "Lefty Smith" rink proved to be a challenging one for the Falcons. The Jaguars’ strategy of utilizing breakaways put them in the driver’s seat, ultimately clinching a 7-3 victory. Despite the loss, the Falcons learned valuable lessons in teamwork and resilience.
 
 {% include subgallery.html id="LeprechaunLashoutPhotos" %}
 
