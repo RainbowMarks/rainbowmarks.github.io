@@ -8,7 +8,6 @@ header-img: "/img/HockeyEvents-1.jpg"
 type: website
 ---
 Capture every slapshot, every goal, and every triumphant cheer. Let the passion of the game and the spirit of young talent shine through in stunning, professionally shot photographs.
-
 ---
 
 ### **What Our Service Offers:**
@@ -24,6 +23,8 @@ Capture every slapshot, every goal, and every triumphant cheer. Let the passion 
 * 📌 **Discounted Prints**: Turn memories into tangible keepsakes. Order premium quality prints directly from our online gallery at exclusive discounted rates, perfect for framing or gifting.
 
 * 📌 **Online Gallery**: A public (or private) and easy-to-navigate gallery will be set up for you, making viewing, sharing, and downloading a breeze.
+
+* 📌 **Hundreds of Photos**: During a standard 1 hour game we will shot nearly one thousand photos. Afterwards we will go through and pick out the best ones to be posted online for download. Typically this will be 2-300 photos that you can choose from.
 
 * 📌 **Personal Usage Rights**: All images come with rights for personal use. Share them, print them, and cherish them forever.
 
