@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "🏒 St. Louis Kids Hockey Game Photography by RainbowMarks Photography 📸"
+title: "🏒 St. Louis Youth Hockey Game Photography by RainbowMarks Photography 📸"
 description: "Have us shoot your Hockey game around the St. Louis Region!"
-keywords: "Photographer, Photography, Saint Louis, St. Louis, STL, Hockey"
+keywords: "Photographer, Photography, Saint Louis, St. Louis, STL, Hockey, Games, Youth Hockey"
 active: "events"
 header-img: "/img/HockeyEvents-1.jpg"
 type: website
 ---
+
 Capture every slapshot, every goal, and every triumphant cheer. Let the passion of the game and the spirit of young talent shine through in stunning, professionally shot photographs.
+
 ---
 
 ### **What Our Service Offers:**
