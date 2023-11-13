@@ -17,14 +17,14 @@ We took a trip to Old Kinderhook for the Synergy Pond Hockey Tournament down the
 
 Photos are organized by day and available for purchase (digital download $10 per high resolution shot, all photos are 43 megapixels before any cropping)
 
-## [Click for Friday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook-172022)
+## [Click for Friday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook/Old-Kinderhook-172022/)
 
 <iframe src="https://photos.rainbowmarks.com/frame/slideshow?key=N9F6Qc&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
 
-## [Click for Saturday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook-182022)
+## [Click for Saturday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook/Old-Kinderhook-182022)
 <iframe src="https://photos.rainbowmarks.com/frame/slideshow?key=km2JZD&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
 
-## [Click for Sunday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook-192022)
+## [Click for Sunday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook/Old-Kinderhook-192022/)
 <iframe src="https://photos.rainbowmarks.com/frame/slideshow?key=NxPpkt&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
 
 

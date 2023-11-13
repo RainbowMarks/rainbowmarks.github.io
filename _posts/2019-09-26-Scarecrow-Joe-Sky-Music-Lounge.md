@@ -14,4 +14,4 @@ RainbowMarks was asked to shoot our first music show on February 23rd, 2019 at t
 
 <a href="https://www.flickr.com/photos/chammond/albums/72157711073984386" target="_blank">Check out the 81 photos from the show</a>!
 
-<div class="d-flex justify-content-center"><a data-flickr-embed="true" data-footer="true" data-header="true" href="https://www.flickr.com/photos/chammond/albums/72157711073984386" title="Scarecrow Joe @ Sky Music Lounge"><img alt="Scarecrow Joe @ Sky Music Lounge" height="533" src="https://live.staticflickr.com/65535/48799092898_e7316ab4ea_c.jpg" width="800" /></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+<div class="d-flex justify-content-center"><a data-flickr-embed="true" data-footer="true" data-header="true" href="https://www.flickr.com/photos/chammond/albums/72157711073984386" title="Scarecrow Joe @ Sky Music Lounge"><img alt="Scarecrow Joe @ Sky Music Lounge" height="533" src="https://live.staticflickr.com/65535/48799092898_e7316ab4ea_c.jpg" width="800" /></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
