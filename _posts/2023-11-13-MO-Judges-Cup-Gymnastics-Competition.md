@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "MO Judges Cup Gymnastics - November 10, 2023"
-subtitle: "Olympia Ellisville Excel Silver"
+subtitle: "Olympia Ellisville Xcel Silver"
 active: "blog"
 image:
   feature: "/img/posts/2023/Gymnastics/MoJudgesCup-1.jpg"
@@ -15,7 +15,7 @@ includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Gymnastics/MO-Judges-Cup-2023
 ---
 
-Photos from Olympia Ellisville Excel Silver competing at the MO Judges Cup 2023 Gymnastics Competition at the Olympia Manchester facilities.
+Photos from Olympia Ellisville Xcel Silver competing at the MO Judges Cup 2023 Gymnastics Competition at the Olympia Manchester facilities.
 
 [Click here to View the Full Gallery and / Purchase Photos](https://photos.rainbowmarks.com/2023/Gymnastics/MO-Judges-Cup-2023)
 
