@@ -6,9 +6,6 @@ active: mr340
 header-img: "img/posts/2023/MR340/mr340-1.jpg"
 redirect_from: 
  - "mr340/2023"
- - "mr340/2023/"
- - "mr340"
- - "MR340"
 ---
 <div class="row">
   <div class="col-md-12">
