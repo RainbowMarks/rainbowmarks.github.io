@@ -4,6 +4,8 @@ title: "About"
 description: "More about RainbowMarks Photography"
 active: about
 header-img: "img/slider/home03.jpg"
+image:
+  feature: "img/slider/home03.jpg"
 ---
 <img src="{% picture direct200 img/MidSouthHeadshot-1.jpg %}" align="right" alt="Chris Hammond of RainbowMarks Photography" />RainbowMarks Photography is one of the homes of <a href="https://www.chrishammond.com" target="_blank">Chris Hammond</a>. The name RainbowMarks comes from Rainbow Landmarks, one of the great (if I do say so myself) photos was the shot above of the Sydney Opera House on a trip to Australia in 2012.
 
