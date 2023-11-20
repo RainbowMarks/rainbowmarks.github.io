@@ -247,6 +247,11 @@ hr.small {
   margin-bottom: 0px;
   padding: 0 10px;
 }
+
+.post-preview p .post-subtitle {
+  padding: 0 10px;
+}
+
 .post-preview > .post-meta {
   color: #808080;
   font-size: 18px;
