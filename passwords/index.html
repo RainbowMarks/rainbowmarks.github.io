@@ -61,7 +61,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1699910301" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1700501303" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -130,222 +130,242 @@
 			<!-- /.navbar-collapse -->
 			<!-- /.container -->
 		</nav>
-
-		<!-- Page Header -->
-		<header
-			class="intro-header"
-			style="
-				background-image: url('/generated/img/posts/2021/MWME/Overall-1-1600-2c709e864.jpg');
-			"
-		>
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
-						<div class="site-heading">
-							<h1>Gallery Password Page</h1>
-							<hr class="small" />
-							<span class="subheading">Get the download password</span>
+		<div class="site-content">
+			<!-- Page Header -->
+			<header class="intro-header">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+							<div class="site-heading">
+								<h1>Gallery Password Page</h1>
+								<hr class="small" />
+								<span class="subheading">Get the download password</span>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</header>
+			</header>
 
-		<!-- Main Content -->
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<div class="style-1">
-						<h1>Get the Download password</h1>
-						<i
-							>Come back here in the future if we have password locked
-							galleries.</i
-						>
-					</div>
-					<form id="target" enctype="application/json">
-						<ul class="form-style-1">
-							<li>
-								First and Last Name: <span class="required">*</span><br /><input
-									type="text"
-									name="name"
-								/>
-							</li>
-							<li>
-								Email: <span class="required">*</span><br /><input
-									type="text"
-									name="email"
-								/>
-								<input
-									type="hidden"
-									name="subject"
-									value="MWME Password request"
-								/>
-								<input
-									type="hidden"
-									name="message"
-									value="MWME Password request message: "
-								/>
-							</li>
-							<li>
-								<br />
-								<!--  <input type="submit" value="Give me the password!"/>-->
-							</li>
+			<!-- Main Content -->
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="style-1">
+							<h1>Get the Download password</h1>
+							<i
+								>Come back here in the future if we have password locked
+								galleries.</i
+							>
+						</div>
+						<form id="target" enctype="application/json">
+							<ul class="form-style-1">
+								<li>
+									First and Last Name: <span class="required">*</span
+									><br /><input type="text" name="name" />
+								</li>
+								<li>
+									Email: <span class="required">*</span><br /><input
+										type="text"
+										name="email"
+									/>
+									<input
+										type="hidden"
+										name="subject"
+										value="MWME Password request"
+									/>
+									<input
+										type="hidden"
+										name="message"
+										value="MWME Password request message: "
+									/>
+								</li>
+								<li>
+									<br />
+									<!--  <input type="submit" value="Give me the password!"/>-->
+								</li>
 
-							<li>
-								<div id="contactFormStatus"></div>
+								<li>
+									<div id="contactFormStatus"></div>
 
-								<div id="password" style="display: none">
-									The Password to download photos is <strong>MWME21</strong
-									><br />
-									<a
-										href="https://photos.rainbowmarks.com/2021/2021-Midwest-Masters-Experience"
-										>Browse the Photo Galleries</a
-									>!
-								</div>
-							</li>
-						</ul>
-					</form>
+									<div id="password" style="display: none">
+										The Password to download photos is <strong>MWME21</strong
+										><br />
+										<a
+											href="https://photos.rainbowmarks.com/2021/2021-Midwest-Masters-Experience"
+											>Browse the Photo Galleries</a
+										>!
+									</div>
+								</li>
+							</ul>
+						</form>
 
-					<script type="text/javascript">
-						var url =
-							"https://webformsfunction-dev-as.azurewebsites.net/api/ContactPostMessage?code=otZYXN062YhzzHHIk9XKBbAuawOOon/4vTEmsDZbW7u3XlO/78QtsQ==";
-						$("form").on("submit", function (event) {
-							event.preventDefault();
+						<script type="text/javascript">
+							var url =
+								"https://webformsfunction-dev-as.azurewebsites.net/api/ContactPostMessage?code=otZYXN062YhzzHHIk9XKBbAuawOOon/4vTEmsDZbW7u3XlO/78QtsQ==";
+							$("form").on("submit", function (event) {
+								event.preventDefault();
 
-							var jsonData = JSON.stringify($(this).serializeObject());
-							console.log(jsonData);
-							$("#target :input").prop("disabled", true);
+								var jsonData = JSON.stringify($(this).serializeObject());
+								console.log(jsonData);
+								$("#target :input").prop("disabled", true);
 
-							$.ajax({
-								type: "POST",
-								url: url,
-								data: jsonData,
-								dataType: "text",
-								headers: { "Content-Type": "application/json" },
-								success: function (respData) {
-									$("#password").show();
-									$("#contactFormStatus")
-										.html(respData)
-										.css({ color: "green", "font-size": "100%" });
-									$("#target :input").prop("disabled", true);
-								},
-								error: function (jqXHR) {
-									$("#contactFormStatus")
-										.html(jqXHR.responseText)
-										.css({ color: "red", "font-size": "110%" });
-									$("#target :input").prop("disabled", false);
-									$("#password").hide();
-								},
+								$.ajax({
+									type: "POST",
+									url: url,
+									data: jsonData,
+									dataType: "text",
+									headers: { "Content-Type": "application/json" },
+									success: function (respData) {
+										$("#password").show();
+										$("#contactFormStatus")
+											.html(respData)
+											.css({ color: "green", "font-size": "100%" });
+										$("#target :input").prop("disabled", true);
+									},
+									error: function (jqXHR) {
+										$("#contactFormStatus")
+											.html(jqXHR.responseText)
+											.css({ color: "red", "font-size": "110%" });
+										$("#target :input").prop("disabled", false);
+										$("#password").hide();
+									},
+								});
 							});
-						});
-					</script>
+						</script>
 
-					<style type="text/css">
-						.style-1 {
-							margin: 10px auto;
-							max-width: 600px;
-							padding: 20px 12px 10px 20px;
-						}
+						<style type="text/css">
+							.style-1 {
+								margin: 10px auto;
+								max-width: 600px;
+								padding: 20px 12px 10px 20px;
+							}
 
-						.form-style-1 {
-							margin: 10px auto;
-							max-width: 400px;
-							padding: 20px 12px 10px 20px;
-						}
+							.form-style-1 {
+								margin: 10px auto;
+								max-width: 400px;
+								padding: 20px 12px 10px 20px;
+							}
 
-						.form-style-1 li {
-							padding: 0;
-							display: block;
-							list-style: none;
-							margin: 10px 0 0 0;
-						}
+							.form-style-1 li {
+								padding: 0;
+								display: block;
+								list-style: none;
+								margin: 10px 0 0 0;
+							}
 
-						.form-style-1 label {
-							margin: 0 0 3px 0;
-							padding: 0px;
-							display: block;
-							font-weight: bold;
-						}
+							.form-style-1 label {
+								margin: 0 0 3px 0;
+								padding: 0px;
+								display: block;
+								font-weight: bold;
+							}
 
-						.form-style-1 input[type="text"],
-						.form-style-1 input[type="date"],
-						.form-style-1 input[type="datetime"],
-						.form-style-1 input[type="number"],
-						.form-style-1 input[type="search"],
-						.form-style-1 input[type="time"],
-						.form-style-1 input[type="url"],
-						.form-style-1 input[type="email"],
-						textarea,
-						select {
-							box-sizing: border-box;
-							-webkit-box-sizing: border-box;
-							-moz-box-sizing: border-box;
-							border: 1px solid #bebebe;
-							padding: 7px;
-							margin: 0px;
-							-webkit-transition: all 0.3s ease-in-out;
-							-moz-transition: all 0.3s ease-in-out;
-							-ms-transition: all 0.3s ease-in-out;
-							-o-transition: all 0.3s ease-in-out;
-							outline: none;
-						}
+							.form-style-1 input[type="text"],
+							.form-style-1 input[type="date"],
+							.form-style-1 input[type="datetime"],
+							.form-style-1 input[type="number"],
+							.form-style-1 input[type="search"],
+							.form-style-1 input[type="time"],
+							.form-style-1 input[type="url"],
+							.form-style-1 input[type="email"],
+							textarea,
+							select {
+								box-sizing: border-box;
+								-webkit-box-sizing: border-box;
+								-moz-box-sizing: border-box;
+								border: 1px solid #bebebe;
+								padding: 7px;
+								margin: 0px;
+								-webkit-transition: all 0.3s ease-in-out;
+								-moz-transition: all 0.3s ease-in-out;
+								-ms-transition: all 0.3s ease-in-out;
+								-o-transition: all 0.3s ease-in-out;
+								outline: none;
+							}
 
-						.form-style-1 input[type="text"]:focus,
-						.form-style-1 input[type="date"]:focus,
-						.form-style-1 input[type="datetime"]:focus,
-						.form-style-1 input[type="number"]:focus,
-						.form-style-1 input[type="search"]:focus,
-						.form-style-1 input[type="time"]:focus,
-						.form-style-1 input[type="url"]:focus,
-						.form-style-1 input[type="email"]:focus,
-						.form-style-1 textarea:focus,
-						.form-style-1 select:focus {
-							-moz-box-shadow: 0 0 8px #88d5e9;
-							-webkit-box-shadow: 0 0 8px #88d5e9;
-							box-shadow: 0 0 8px #88d5e9;
-							border: 1px solid #88d5e9;
-						}
+							.form-style-1 input[type="text"]:focus,
+							.form-style-1 input[type="date"]:focus,
+							.form-style-1 input[type="datetime"]:focus,
+							.form-style-1 input[type="number"]:focus,
+							.form-style-1 input[type="search"]:focus,
+							.form-style-1 input[type="time"]:focus,
+							.form-style-1 input[type="url"]:focus,
+							.form-style-1 input[type="email"]:focus,
+							.form-style-1 textarea:focus,
+							.form-style-1 select:focus {
+								-moz-box-shadow: 0 0 8px #88d5e9;
+								-webkit-box-shadow: 0 0 8px #88d5e9;
+								box-shadow: 0 0 8px #88d5e9;
+								border: 1px solid #88d5e9;
+							}
 
-						.form-style-1 .field-divided {
-							width: 49%;
-						}
+							.form-style-1 .field-divided {
+								width: 49%;
+							}
 
-						.form-style-1 .field-long {
-							width: 100%;
-						}
+							.form-style-1 .field-long {
+								width: 100%;
+							}
 
-						.form-style-1 .field-select {
-							width: 100%;
-						}
+							.form-style-1 .field-select {
+								width: 100%;
+							}
 
-						.form-style-1 .field-textarea {
-							height: 100px;
-						}
+							.form-style-1 .field-textarea {
+								height: 100px;
+							}
 
-						.form-style-1 input[type="submit"],
-						.form-style-1 input[type="button"] {
-							background: #4b99ad;
-							padding: 8px 15px 8px 15px;
-							border: none;
-							color: #fff;
-						}
+							.form-style-1 input[type="submit"],
+							.form-style-1 input[type="button"] {
+								background: #4b99ad;
+								padding: 8px 15px 8px 15px;
+								border: none;
+								color: #fff;
+							}
 
-						.form-style-1 input[type="submit"]:hover,
-						.form-style-1 input[type="button"]:hover {
-							background: #4691a4;
-							box-shadow: none;
-							-moz-box-shadow: none;
-							-webkit-box-shadow: none;
-						}
+							.form-style-1 input[type="submit"]:hover,
+							.form-style-1 input[type="button"]:hover {
+								background: #4691a4;
+								box-shadow: none;
+								-moz-box-shadow: none;
+								-webkit-box-shadow: none;
+							}
 
-						.form-style-1 .required {
-							color: red;
-						}
-					</style>
+							.form-style-1 .required {
+								color: red;
+							}
+						</style>
+					</div>
 				</div>
 			</div>
-		</div>
+			<!-- Custom Theme JavaScript -->
+			<script src="/js/main.min.js "></script>
+			<!-- include image popups -->
+			<script src="/js/jquery.magnific-popup.js"></script>
 
+			<script type="text/javascript">
+				$(document).ready(function ($) {
+					$("a.popup").magnificPopup({
+						type: "image",
+						gallery: {
+							enabled: true,
+							navigateByImgClick: true,
+							preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+						},
+						image: {
+							titleSrc: function (item) {
+								return (
+									item.el.attr("title") +
+									"&nbsp;" +
+									item.el.attr("data-caption")
+								);
+							},
+						},
+						// other options
+					});
+				});
+			</script>
+		</div>
 		<!-- Footer -->
 		<footer>
 			<div class="container">

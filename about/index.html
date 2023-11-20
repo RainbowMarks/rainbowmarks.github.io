@@ -65,7 +65,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1699910301" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1700501303" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -134,77 +134,99 @@
 			<!-- /.navbar-collapse -->
 			<!-- /.container -->
 		</nav>
-
-		<!-- Page Header -->
-		<header
-			class="intro-header"
-			style="
-				background-image: url('/generated/img/slider/home03-1600-779278883.jpg');
-			"
-		>
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
-						<div class="site-heading">
-							<h1>About</h1>
-							<hr class="small" />
-							<span class="subheading"
-								>More about RainbowMarks Photography</span
-							>
+		<div class="site-content">
+			<!-- Page Header -->
+			<header class="intro-header">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+							<div class="site-heading">
+								<h1>About</h1>
+								<hr class="small" />
+								<span class="subheading"
+									>More about RainbowMarks Photography</span
+								>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</header>
+			</header>
 
-		<!-- Main Content -->
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<p>
-						<img
-							src="/generated/img/MidSouthHeadshot-1-375-f9f4151b7.jpg"
-							align="right"
-							alt="Chris Hammond of RainbowMarks Photography"
-						/>RainbowMarks Photography is one of the homes of
-						<a href="https://www.chrishammond.com" target="_blank"
-							>Chris Hammond</a
-						>. The name RainbowMarks comes from Rainbow Landmarks, one of the
-						great (if I do say so myself) photos was the shot above of the
-						Sydney Opera House on a trip to Australia in 2012.
-					</p>
+			<!-- Main Content -->
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<p>
+							<img
+								src="/generated/img/MidSouthHeadshot-1-375-f9f4151b7.jpg"
+								align="right"
+								alt="Chris Hammond of RainbowMarks Photography"
+							/>RainbowMarks Photography is one of the homes of
+							<a href="https://www.chrishammond.com" target="_blank"
+								>Chris Hammond</a
+							>. The name RainbowMarks comes from Rainbow Landmarks, one of the
+							great (if I do say so myself) photos was the shot above of the
+							Sydney Opera House on a trip to Australia in 2012.
+						</p>
 
-					<p>
-						The double rainbow presented itself over the harbor and I couldn’t
-						resist running around to get the perfect angle on the Opera House. A
-						couple of years later, while visiting San Francisco, I happened to
-						catch a rainbow over the Golden Gate Bridge.
-					</p>
+						<p>
+							The double rainbow presented itself over the harbor and I couldn’t
+							resist running around to get the perfect angle on the Opera House.
+							A couple of years later, while visiting San Francisco, I happened
+							to catch a rainbow over the Golden Gate Bridge.
+						</p>
 
-					<p>
-						The combination of these two events and the works produced gave us
-						the name to use for our photography business.
-					</p>
+						<p>
+							The combination of these two events and the works produced gave us
+							the name to use for our photography business.
+						</p>
 
-					<p>
-						Do you have an event (bike, car, running, crossfit) that you would
-						like me to attend?
-						<a href="https://www.chrishammond.com/Contact"
-							>Feel free to reach out and see if schedules align</a
-						>.
-					</p>
+						<p>
+							Do you have an event (bike, car, running, crossfit) that you would
+							like me to attend?
+							<a href="https://www.chrishammond.com/Contact"
+								>Feel free to reach out and see if schedules align</a
+							>.
+						</p>
 
-					<p>I hope you enjoy my work!</p>
+						<p>I hope you enjoy my work!</p>
 
-					<p>
-						<a href="/purchase/"
-							>Click here for information on purchasing photos</a
-						>
-					</p>
+						<p>
+							<a href="/purchase/"
+								>Click here for information on purchasing photos</a
+							>
+						</p>
+					</div>
 				</div>
 			</div>
-		</div>
+			<!-- Custom Theme JavaScript -->
+			<script src="/js/main.min.js "></script>
+			<!-- include image popups -->
+			<script src="/js/jquery.magnific-popup.js"></script>
 
+			<script type="text/javascript">
+				$(document).ready(function ($) {
+					$("a.popup").magnificPopup({
+						type: "image",
+						gallery: {
+							enabled: true,
+							navigateByImgClick: true,
+							preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+						},
+						image: {
+							titleSrc: function (item) {
+								return (
+									item.el.attr("title") +
+									"&nbsp;" +
+									item.el.attr("data-caption")
+								);
+							},
+						},
+						// other options
+					});
+				});
+			</script>
+		</div>
 		<!-- Footer -->
 		<footer>
 			<div class="container">
