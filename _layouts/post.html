@@ -44,7 +44,13 @@ layout: default
   </div>
 
   <div class="row">
+
+    {% if post.gallery or page.includegallery %}
     <div class="col col-md-9">
+    {% else %}
+    <div class="col col-md-12">
+    {% endif %}
+
     {{ content }}
     <br>
     <br>
@@ -68,10 +74,12 @@ layout: default
 
 
     </div>
-  {% if post.gallery %}
+  {% if post.gallery or page.includegallery %}
     
     <div class="col-md-3">
-    
+    {% if page.includegallery  %}
+    {% include gallerylink.html %}
+    {% endif %}
     {% for gallery in post.gallery %}
     {% assign gallery_id = gallery[0] %}
     {% include subgallery.html id=gallery_id %}
