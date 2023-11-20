@@ -55,5 +55,3 @@ We have shots from the start, at Katfish Katy's and then the finish line. Apolog
 Click the link below to access all the galleries with purchase options.
 
 [Photos Available to View and Purchase](https://photos.rainbowmarks.com/2023/Watersports/The-Freedom-Race-100)
-
-{% include subgallery.html id="FreedomRace100" %}

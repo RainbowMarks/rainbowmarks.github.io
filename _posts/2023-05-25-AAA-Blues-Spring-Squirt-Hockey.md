@@ -64,7 +64,5 @@ My son has had the pleasure of playing with the AAA St. Louis Blues spring hocke
 
 As their season wraps up here are some photos from their 5/23/2023 game against Team 4 (Orange).
 
-{% include subgallery.html id="AAAStLouisBluesSpring" %}
-
 [All the photos from games I shot can be found here](https://photos.rainbowmarks.com/2023/Hockey/Spring-AAA-Blues-10U).
 

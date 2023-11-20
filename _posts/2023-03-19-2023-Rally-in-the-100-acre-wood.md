@@ -57,5 +57,5 @@ I took almost 8k photos and have posted the best ones for your viewing pleasure.
   </div>
 </div>
 
-{% include subgallery.html id="2023RallyInThe100AcreWood" %}
+
 

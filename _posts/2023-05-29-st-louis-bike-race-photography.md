@@ -57,8 +57,6 @@ As a seasoned photographer specializing in dynamic sports coverage in the bustli
 
 Cycling races, with their incredible blend of speed, endurance, and strategy, provide a dramatic canvas for stunning photography. My journey as a photographer is not merely about capturing cyclists in motion, but about creating a compelling narrative of human resilience and the pulsating energy of the competition.
 
-{% include subgallery.html id="StLouisBikesPhotography" %}
-
 ## The Art of Bicycle Race Photography
 In the vast field of sports photography, bike race photos are distinguished by their dynamic nature and the compelling stories they tell. The sight of cyclists, clad in vibrant colors, pedaling furiously, and jostling for position, delivers a thrilling spectacle that is a joy to capture. From the intense concentration of a solo breakaway to the synchronized rhythm of a peloton, each photograph tells its own story.
 

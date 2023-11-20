@@ -73,6 +73,5 @@ Congratulations to the Chesterfield Falcons for achieving their first victory of
 
 [View the full gallery with 160+ photos](https://photos.rainbowmarks.com/2023/Hockey/23-24-Falcons-10U-A1/10-8-2023-vs-Affton-Americans)
 
-{% include subgallery.html id="AfftonAmericansIceHockeyPhotos" %}
 
 Interested in having your team's ice hockey game photographed? [Read more about our Ice Hockey Photo packages](/events/hockey/).

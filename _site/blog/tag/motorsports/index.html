@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
+<head>
         <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6V585TFXGW"></script>
     <script>
@@ -45,7 +45,7 @@
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1699909779">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1700501083">
     <link href="/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -58,13 +58,12 @@
     
     
 </head>
-        
-        
-    <body>
-            
+  
+  
+<body>
+    
 
-
-        <!-- Navigation -->
+  <!-- Navigation -->
 <nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md"
 style="margin-right:1em; z-index: 4;">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -87,28 +86,27 @@ style="margin-right:1em; z-index: 4;">
     <!-- /.navbar-collapse -->
     <!-- /.container -->
 </nav>
-
-        <!-- Page Header -->
-<header class="intro-header" style="background-image: url('/generated/img/posts/2023/NascarEnjoyIllinois300sm/NascarEnjoyIllinois300-5-1600-1f8b61b2d.jpg')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1>Tags - Motorsports Photos
-                        </h1>
-                    <hr class="small">
-                    <span class="subheading"></span>
-                </div>
-            </div>
+  <div class="site-content">
+    <!-- Page Header -->
+<header class="intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="site-heading">
+          <h1>Tags - Motorsports Photos</h1>
+          <hr class="small">
+          <span class="subheading"></span>
         </div>
+      </div>
     </div>
+  </div>
 </header>
 
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-        <div class="col-lg-12">
-            <h1>motorsports</h1>
+    <div class="col-lg-12">
+      <h1>motorsports</h1>
 
 <div id="post-content">
     
@@ -194,13 +192,35 @@ style="margin-right:1em; z-index: 4;">
         
     
 </div>
-        </div>
+    </div>
 	</div>
 </div>
+<!-- Custom Theme JavaScript -->
+<script src="/js/main.min.js "></script>
+<!-- include image popups -->
+<script src="/js/jquery.magnific-popup.js"></script>
 
+<script type="text/javascript">
+  $(document).ready(function ($) {
+  $('a.popup').magnificPopup({
+    type: 'image',
+    gallery: {
+    enabled: true,
+    navigateByImgClick: true,
+    preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+    },
+    image: {
+    titleSrc: function (item) {
+      return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+    }
+    }
+    // other options
+  });
+  });
+</script>
 
-        
-        <!-- Footer -->
+  </div>
+  <!-- Footer -->
 <footer>
     <div class="container">
         <div class="row">
@@ -338,7 +358,7 @@ style="margin-right:1em; z-index: 4;">
 
 
 
-        <script>
+  <script>
 //** jQuery Scroll to Top Control script- (c) 
 //** v1.1 (April 7th, 10')
 //** 1) Adds ability to scroll to an absolute position (from top of page) or specific element on the page instead.
@@ -422,6 +442,7 @@ mainobj.togglecontrol()
 scrolltotop.init()
 </script>
 
-    </body>
+  
 
+</body>
 </html>

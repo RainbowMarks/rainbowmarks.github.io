@@ -4,20 +4,18 @@
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
-
+<h2>Photo Gallery</h2>
 <div class="gallery masonry-gallery" id="{{ galleryname }}">
-  {% for img in gallery %}
-
+  {% for img in gallery[1] %}
   <figure class="gallery-item">
-
 	<header class="gallery-icon">
-
-		<!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 -->
 		{% assign filename = img.image_path | split: "/" | last | split: "." | first %}
-		<a href="{% picture direct {{ img.image_path }} %}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}" data-url="/galleries/{{ galleryname }}/{{ filename }}/ ">
-			{% picture portthumb {{ img.image_path }} --alt {{ img.image-caption }} %}
+		{% if img.image_path %}
+		<a href='{% picture direct "{{ img.image_path }}" %}' class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}" data-url="/galleries/{{ galleryname }}/{{ filename }}/ ">
+			{% picture portthumb "{{ img.image_path }}" --alt {{ img.image-caption }} %}
 		</a>
-	</header>	
+		{% endif %}
+	</header>		
 		
    <figcaption class="gallery-caption">
 		<div class="entry-summary" id="{{ img.image-caption }}">
@@ -41,10 +39,8 @@
 	  
 	});
 
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
+	$('.popup').on('mfpClose', function(e /*, params */) {	  
 	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
-	  
 	});
 
 	$(document).ready(function ($) {
@@ -66,8 +62,6 @@
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		// console.log( "ready!" );
-
 		//console.log('Page Load',  window.location.href.split('?')[1]);
 		var galleryNameLoc = window.location.href.indexOf("galleryname=")
 		if(galleryNameLoc>0)
@@ -84,22 +78,9 @@
 				//console.log('Found It',  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split("&")[0];
 				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
+				//lookup the image on the page if there are multiple galleries		
 				$('#' + gindex).find('.popup')[index].click();
 			}
-					
-		}
-		//var loc = window.location.href.indexOf("rbmphoto=")
-		//if(loc<0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split("&")[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
+		}		
 	});
 </script>

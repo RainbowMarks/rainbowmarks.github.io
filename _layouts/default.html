@@ -1,26 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    {% include head.html %}
-        
-        {% if page.url=="/portfolio/" %} 
-    <body class="gallery">
-        {% elsif page.url=="/blog/" %}
-    <body class="journal">
-            {% else %}
-    <body>
-            {% endif %}
+{% include head.html %}
+  
+  {% if page.url=="/portfolio/" %} 
+<body class="gallery">
+  {% elsif page.url=="/blog/" %}
+<body class="journal">
+    {% else %}
+<body>
+    {% endif %}
+
+  {% include nav.html %}
+  <div class="site-content">
+    {{ content }}
+  </div>
+  {% include footer.html %}
+
+  {% include Scroll_to_Top.html %}
+
+  {% if page.image.feature %}
+  <style>
+    body::after {
+      content:"";
+      background-size:cover;
+      background-repeat: no-repeat;
+      background-position:center;
+      height:100vh;
+      background-image:url({{ site.url }}{% if page.image.feature %}{% picture direct {{ page.image.feature }} %}{% else %}{{ site.header-img }}{% endif %});
+      opacity: 0.25;
+      top: 0;
+      left: 0;
+      bottom:0;
+      right:0;
+      position:absolute;
+      z-index:-1;
+      position:fixed;
+    }
 
 
-        {% include nav.html %}
+</style>
+  {% endif %}
 
-        {{ content }}
-
-        
-        {% include footer.html %}
-
-        {% include Scroll_to_Top.html %}
-
-    </body>
-
+</body>
 </html>

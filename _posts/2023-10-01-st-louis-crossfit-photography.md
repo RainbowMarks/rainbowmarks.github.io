@@ -55,8 +55,6 @@ Our commitment to perfection is evident in every snap we take. Over the years, R
 
 RainbowMarks was honored to have been present at the epicenter of the CrossFit world - the **CrossFit Games in 2019**. Our lenses caught the grit, the sweat, the tears, and the euphoria. It's one thing to witness these moments live, but through our pictures, we make them timeless. The dynamism of every lift, jump, and sprint was immortalized in our frames, creating memories that participants and fans can cherish forever.
 
-{% include subgallery.html id="CrossFitPhotography" %}
-
 ## Local Legends
 
 While international events like the CrossFit Games remain a highlight, our heart beats close to home. We've been a prominent part of multiple events in and around **St. Louis** and have traversed across **Missouri** and **Illinois** to bring the magic of CrossFit competitions to life. We understand the local ethos, the vibrant community spirit, and the undying commitment of athletes. That's why we are a favorite amongst event organizers and participants alike.

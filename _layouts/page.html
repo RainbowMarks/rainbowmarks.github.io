@@ -2,27 +2,48 @@
 layout: default
 ---
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('{% if page.header-img %}{% picture direct {{ page.header-img }} %}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1>{% if page.title %}{{ page.title }}
-                        {% elsif page.tag %}Tags: {{ page.tag }}
-                        {% else %}{{ site.title }}{% endif %}</h1>
-                    <hr class="small">
-                    <span class="subheading">{{ page.description }}</span>
-                </div>
-            </div>
+<header class="intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="site-heading">
+          <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+          <hr class="small">
+          <span class="subheading">{{ page.description }}</span>
         </div>
+      </div>
     </div>
+  </div>
 </header>
 
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-        <div class="col-lg-12">
-            {{ content }}
-        </div>
+    <div class="col-lg-12">
+      {{ content }}
+    </div>
 	</div>
 </div>
+<!-- Custom Theme JavaScript -->
+<script src="{{ site.baseurl }}/js/main.min.js "></script>
+<!-- include image popups -->
+<script src="{{ site.baseurl }}/js/jquery.magnific-popup.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function ($) {
+  $('a.popup').magnificPopup({
+    type: 'image',
+    gallery: {
+    enabled: true,
+    navigateByImgClick: true,
+    preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+    },
+    image: {
+    titleSrc: function (item) {
+      return item.el.attr('title') + '&nbsp;' + item.el.attr('data-caption');
+    }
+    }
+    // other options
+  });
+  });
+</script>

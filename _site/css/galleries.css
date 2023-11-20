@@ -133,8 +133,8 @@ img.mfp-img { padding: 0; }
 .mfp-container button.mfp-arrow-left::before, .mfp-container button.mfp-arrow-left::after { display: none; }
 
 
-     /*galleries adapted*/
-	.masonry-gallery .gallery-item { width: 30% !important; }
+   /*galleries adapted*/
+	.masonry-gallery .gallery-item { width: 98% !important; }
 		
 @media screen and (max-height: 480px) {
 	/*header smaller space*/

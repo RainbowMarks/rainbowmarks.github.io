@@ -45,8 +45,6 @@ gallery:
 ---
 Recently I had my eyes opened up to the wonder of the Samsung Frame TV. If you have a Frame TV you can use it as a picture frame, either pulling in art work from Samsung (with a monthly subscription) or by providing your own digital files for use as display pieces on the device.
 
-{% include subgallery.html id="GrandCanyonBWJanuary2023" %}
-
 I am starting to provide custom photography for the Samsung Frame TV, and I am starting with my Grand Canyon Black and White photos from a trip in January 2023.
 
 You can see some of the photos in the gallery here on this page, if you are interested in buying the photos for display in your own Samsung Frame TV I have setup an Etsy shop where you can purchase and download the properly sized images.

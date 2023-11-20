@@ -25,24 +25,11 @@ type: ItemPage
 ---
 <!-- MAIN CONTENT SECTION  _____________________________________________-->
 <section id="content" role="main">
-  <div class="wrapper">
-    <div class="row bottom-absolute">
-      <div class="col-md-6 homepagetitle">
-        <div class="d-none d-lg-block"  style="margin-left:.5em;">
-          <h1 class="extrabig no-margin">{{ page.main-title }}</h1>
-          <h2>{{ page.subtitle }}</h2>
-          <div class="entry-summary">
-            <p><strong>{{ page.description }}</strong></p>
-          </div><br />
-        </div>
-      </div>
-      <div class="col-md-6" style="height:60rem;">
-        <section class="featured-posts h-100"  >
-          <div class=" row">
-            <div class="section-title col-12">
-                <h2><span>Recent Events</span></h2>
-            </div>
-          </div>
+  <div class="wrapper container">
+    <div class="row">
+      
+      <div class="col-md-12">
+        <section class="featured-posts"  >
           <div class="row ">
             <div class="col-12">
               {% for post in site.posts %}    
@@ -51,7 +38,7 @@ type: ItemPage
                   {% endif %}
               {% endfor %}    
               </div>
-            </div>              
+            </div>              {% include subgallery.html id="PortfolioCelestial" %}{% include subgallery.html id="PortfolioCelestial" %}
         </section>
       </div>
     </div>

@@ -82,7 +82,6 @@ This was my first time with the MR340, and I had a blast! Like other events I ha
 
 I did my best to get a photo of every boat that I could, and tried to get multiple. I most likely missed a few, for that I apologize! 
 
-{% include subgallery.html id="MR340" %}
 
 The photos are organized into folders and galleries based on Locations (Check In Day, Start, Napoleon, Waverly, Glasgow, Boonville, Hermann, New Haven, Finish Line Party) and then depending on how many photos I took at a location, also organized into galleries based on windows of time. If you don't know exactly when you passed through a check point/paddle stop, look at RaceOwl for your splits, then you can check the gallery for that location/time and find the photos of your boat, it is possible you'll find photos in two time slots depending on how your splits worked out.
 

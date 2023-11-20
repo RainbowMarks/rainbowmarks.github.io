@@ -62,8 +62,6 @@ In the tournament's opening game held at the Ice Box, the Falcons asserted their
 ## Game 2: Chesterfield Falcons vs. Joliet Jaguars
 Saturday morning's clash with the Joliet Jaguars Squirt 1 team on the "Lefty Smith" rink proved to be a challenging one for the Falcons. The Jaguars’ strategy of utilizing breakaways put them in the driver’s seat, ultimately clinching a 7-3 victory. Despite the loss, the Falcons learned valuable lessons in teamwork and resilience.
 
-{% include subgallery.html id="LeprechaunLashoutPhotos" %}
-
 ## Game 3: Chesterfield Falcons vs. Fox Motors Hockey Club
 Bouncing back from the morning's setback, the Falcons were in splendid form against the Fox Motors Hockey Club on Notre Dame’s Olympic rink. Securing a comfortable 5-2 victory, the win was a testament to the team's fighting spirit. Although they conceded two late goals, the Falcons' performance ensured their place in the championship showdown. The victory was made even sweeter with a memorable team photo session at the Compton Family Ice Arena.
 

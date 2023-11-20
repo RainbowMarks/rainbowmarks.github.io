@@ -39,8 +39,6 @@ gallery:
 
 Photos from the Lafayette High School Varsity Baseball game against Marquette in the Class 6 District 2 playoffs on May 17th, 2023
 
-{% include subgallery.html id="LafayetteMarquette51723" %}
-
 Lafayette took the win 3-1 over the Mustangs and will playing Eureka at 1pm on 5/18/2023.
 
 Photos are available for purchase digitally without watermarks or via various print mediums (also without watermarks)

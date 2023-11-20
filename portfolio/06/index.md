@@ -10,4 +10,3 @@ redirect_to: https://photos.rainbowmarks.com/Celestial-Portfolio/
 ---
 <p>Way out there</p>
 
-{% include subgallery.html id="PortfolioCelestial" %}

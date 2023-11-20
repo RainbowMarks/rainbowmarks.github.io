@@ -25,6 +25,4 @@ Sad news in the automotive world today. Ken Block has passed away from a snowmob
 
 Here are a couple of shots of Ken back at the 100 Acre Wood in March 2022.
 
-{% include subgallery.html id="2023KenBlock" %}
-
 [View more 2022 100 Acre Wood Rally photos here](/Events/2022/03/100AW).

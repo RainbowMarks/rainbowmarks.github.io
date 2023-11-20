@@ -5,6 +5,8 @@ description: "Have us shoot your events around the St. Louis Region!"
 keywords: "Photographer, Photography, Saint Louis, St. Louis, STL, Event, Event Photos, Races, Bike Race, Car Race, Car Racing, Automotive"
 active: "events"
 header-img: "/img/Events-3.jpg"
+image:
+  feature: "/img/Events-3.jpg"
 redirect_from: 
   - "Events"
 type: website
@@ -58,8 +60,8 @@ We have experience shooting events of all sizes and types. Some, but not all, of
   <h3>Youth Sports</h3>
     <ul>
       <li>Baseball</li>
-      <li><a href="https://rainbowmarks.com/events/hockey/">Ice Hockey</a></li>
-      <li><a href="https://rainbowmarks.com/events/hockey/">Roller Hockey</a></li>
+      <li><a href="/events/hockey/">Ice Hockey</a></li>
+      <li><a href="/events/hockey/">Roller Hockey</a></li>
       <li>Gymnastics</li>
       <li>Team Photos</li>
       <li>Individual Photos</li>
@@ -78,11 +80,11 @@ We have experience shooting events of all sizes and types. Some, but not all, of
     
     <h3>Bicycle Events</h3>
     <ul>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Gravel Races</a></li>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Cyclocross Races</a></li>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Mountain Bike Races</a></li>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Road Races</a></li>
-      <li><a href="https://rainbowmarks.com/Events/2023/05/StLouisBikeRacePhotography/">Crits (criteriums)</a></li>
+      <li><a href="/Events/2023/05/StLouisBikeRacePhotography/">Gravel Races</a></li>
+      <li><a href="/Events/2023/05/StLouisBikeRacePhotography/">Cyclocross Races</a></li>
+      <li><a href="/Events/2023/05/StLouisBikeRacePhotography/">Mountain Bike Races</a></li>
+      <li><a href="/Events/2023/05/StLouisBikeRacePhotography/">Road Races</a></li>
+      <li><a href="/Events/2023/05/StLouisBikeRacePhotography/">Crits (criteriums)</a></li>
     </ul>
   </div>
   <div class="col-6">

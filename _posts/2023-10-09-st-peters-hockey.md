@@ -61,6 +61,4 @@ Despite their best efforts, the Chesterfield Falcons were unable to recapture th
 
 [View the full gallery with 170+ photos](https://photos.rainbowmarks.com/2023/Hockey/23-24-Falcons-10U-A1/10-7-2023-vs-St-Peters)
 
-{% include subgallery.html id="StPetersIceHockeyPhotos" %}
-
 Interested in having your team's ice hockey game photographed? [Read more about our Ice Hockey Photo packages](/events/hockey/).

@@ -50,8 +50,6 @@ As a photographer, there are few things more exhilarating than the opportunity t
 ## A Feast for the Senses
 From the moment I set foot on the sprawling grounds of Scott Air Force Base, the air was filled with excitement and anticipation. The buzzing atmosphere and the distant rumble of engines signaled that something extraordinary was about to unfold. As a photographer, I was ready to document the impressive displays of power, skill, and teamwork that awaited.
 
-{% include subgallery.html id="2023ScottAFBAirShow" %}
-
 [100+ Photos Available to View and Purchase](https://photos.rainbowmarks.com/2023/Aircraft/2023-Scott-Air-Force-Base-Air-Show/)
 
 ## Capturing the Essence of Flight
