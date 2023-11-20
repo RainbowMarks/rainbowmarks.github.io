@@ -245,7 +245,7 @@ hr.small {
   margin: 0;
   font-weight: 300;
   margin-bottom: 0px;
-  padding:0px;
+  padding: 0 10px;
 }
 .post-preview > .post-meta {
   color: #808080;
