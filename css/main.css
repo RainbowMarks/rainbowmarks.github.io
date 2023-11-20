@@ -481,7 +481,7 @@ card
 
 .featured-posts{
   
-  overflow-y:scroll;
+  overflow-y:auto;
   overflow-x:hidden;
   margin-top:4.5em;
   
