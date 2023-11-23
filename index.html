@@ -26,8 +26,7 @@ type: ItemPage
 <!-- MAIN CONTENT SECTION  _____________________________________________-->
 <section id="content" role="main">
   <div class="wrapper container">
-    <div class="row">
-      
+    <div class="row">      
       <div class="col-md-12">
         <section class="featured-posts"  >
           <div class="row ">
@@ -42,25 +41,25 @@ type: ItemPage
         </section>
       </div>
     </div>
-    <div class="gallery fullscreen-gallery kenburns-gallery">   
-      <canvas id="kenburns"></canvas>
-
-      {% for image in page.images %}
-
-      <figure class="gallery-item">
-        <header class="gallery-icon">
-
-          <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">{% picture hpslider {{ image.image_path }} --img sizes="100vw" --alt {{ image.alt-tag }} %} </a>
-
-        </header>
-      </figure>
-
-      {% endfor %}
-    </div>    
+      
   </div><!-- END .wrapper -->
 
 </section>
+<div class="gallery fullscreen-gallery kenburns-gallery">   
+  <canvas id="kenburns"></canvas>
 
+  {% for image in page.images %}
+
+  <figure class="gallery-item">
+    <header class="gallery-icon">
+
+      <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">{% picture hpslider {{ image.image_path }} --img sizes="100vw" --alt {{ image.alt-tag }} %} </a>
+
+    </header>
+  </figure>
+
+  {% endfor %}
+</div>  
 <div id="footer" role="contentinfo">
   <ul class="soc-icons">
 

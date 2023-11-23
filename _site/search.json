@@ -764,17 +764,6 @@
   
    {
      
-        "title"    : "PORTFOLIO",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/portfolio/",
-        "date"     : "",
-        "content"   : "\t<section id=\"content\" role=\"main\">\n\t\t<div class=\"wrapper\">\n\t\n\t\t\t<h2>PORTFOLIO</h2>\n\t\t\t\n      <!-- Gallery __-->\n      <div class=\"container\">\n        \n        <div class=\"row\">\n          <div class=\"col-12\">\n            <p>\n              Below you will find a collection of curated photos as our portfolio, be sure to <a href=\"/blog/\">check out our Blog for all the various Event photos we've taken throughout the years</a>.\n            </p>\n          </div>\n        </div>\n\n  \t\t\t<div class=\"row\">\n\t\t\t\t\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/01/\">\n<img src=\"/generated/img/portfolio/covers/alb01-400-99634e332.jpg\" alt=\"2019 CrossFit Games\" srcset=\"/generated/img/portfolio/covers/alb01-200-99634e332.jpg 200w, /generated/img/portfolio/covers/alb01-400-99634e332.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>2019 CrossFit Games</h3>\n                <p>August 2019</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/02/\">\n<img src=\"/generated/img/portfolio/covers/alb02-400-b75bda75a.jpg\" alt=\"Yosemite\" srcset=\"/generated/img/portfolio/covers/alb02-200-b75bda75a.jpg 200w, /generated/img/portfolio/covers/alb02-400-b75bda75a.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Yosemite</h3>\n                <p>July 2017</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/03/\">\n<img src=\"/generated/img/portfolio/covers/alb03-400-85613b44c.jpg\" alt=\"Air Shows\" srcset=\"/generated/img/portfolio/covers/alb03-200-85613b44c.jpg 200w, /generated/img/portfolio/covers/alb03-400-85613b44c.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Air Shows</h3>\n                <p>Cool airplanes!</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/04/\">\n<img src=\"/generated/img/portfolio/covers/alb04-400-10fe76519.jpg\" alt=\"Rainbows\" srcset=\"/generated/img/portfolio/covers/alb04-200-10fe76519.jpg 200w, /generated/img/portfolio/covers/alb04-400-10fe76519.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Rainbows</h3>\n                <p>How it all started</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/05/\">\n<img src=\"/generated/img/portfolio/covers/alb05-400-67a156de8.jpg\" alt=\"Car Photos\" srcset=\"/generated/img/portfolio/covers/alb05-200-67a156de8.jpg 200w, /generated/img/portfolio/covers/alb05-400-67a156de8.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Car Photos</h3>\n                <p>Mixing hobbies!</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/06/\">\n<img src=\"/generated/img/portfolio/covers/alb06-400-c9a12b31c.jpg\" alt=\"Celestial Bodies\" srcset=\"/generated/img/portfolio/covers/alb06-200-c9a12b31c.jpg 200w, /generated/img/portfolio/covers/alb06-400-c9a12b31c.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Celestial Bodies</h3>\n                <p>Mostly from the dark</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/07/\">\n<img src=\"/generated/img/portfolio/covers/alb07-400-5ec1c6f4d.jpg\" alt=\"Landscape Photography\" srcset=\"/generated/img/portfolio/covers/alb07-200-5ec1c6f4d.jpg 200w, /generated/img/portfolio/covers/alb07-400-5ec1c6f4d.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Landscape Photography</h3>\n                <p>Cool looking places</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n\t\t\n\t\t\t\t\n\t\t\t</div>\n    </div>\n\t\t</div><!-- END .wrapper -->\n\t</section>\n\n\n<br>"
-     
-   } ,
-  
-   {
-     
         "title"    : "tags",
         "category" : "",
         "tags"     : "",
@@ -808,16 +797,38 @@
   
    {
      
+        "title"    : "PORTFOLIO",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/",
+        "date"     : "",
+        "content"   : "\t<section id=\"content\" role=\"main\">\n\t\t<div class=\"wrapper\">\n\t\n\t\t\t<h2>PORTFOLIO</h2>\n\t\t\t\n      <!-- Gallery __-->\n      <div class=\"container\">\n        \n        <div class=\"row\">\n          <div class=\"col-12\">\n            <p>\n              Below you will find a collection of curated photos as our portfolio, be sure to <a href=\"/blog/\">check out our Blog for all the various Event photos we've taken throughout the years</a>.\n            </p>\n          </div>\n        </div>\n\n  \t\t\t<div class=\"row\">\n\t\t\t\t\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/01/\">\n<img src=\"/generated/img/portfolio/covers/alb01-400-99634e332.jpg\" alt=\"2019 CrossFit Games\" srcset=\"/generated/img/portfolio/covers/alb01-200-99634e332.jpg 200w, /generated/img/portfolio/covers/alb01-400-99634e332.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>2019 CrossFit Games</h3>\n                <p>August 2019</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/02/\">\n<img src=\"/generated/img/portfolio/covers/alb02-400-b75bda75a.jpg\" alt=\"Yosemite\" srcset=\"/generated/img/portfolio/covers/alb02-200-b75bda75a.jpg 200w, /generated/img/portfolio/covers/alb02-400-b75bda75a.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Yosemite</h3>\n                <p>July 2017</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/03/\">\n<img src=\"/generated/img/portfolio/covers/alb03-400-85613b44c.jpg\" alt=\"Air Shows\" srcset=\"/generated/img/portfolio/covers/alb03-200-85613b44c.jpg 200w, /generated/img/portfolio/covers/alb03-400-85613b44c.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Air Shows</h3>\n                <p>Cool airplanes!</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/04/\">\n<img src=\"/generated/img/portfolio/covers/alb04-400-10fe76519.jpg\" alt=\"Rainbows\" srcset=\"/generated/img/portfolio/covers/alb04-200-10fe76519.jpg 200w, /generated/img/portfolio/covers/alb04-400-10fe76519.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Rainbows</h3>\n                <p>How it all started</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/05/\">\n<img src=\"/generated/img/portfolio/covers/alb05-400-67a156de8.jpg\" alt=\"Car Photos\" srcset=\"/generated/img/portfolio/covers/alb05-200-67a156de8.jpg 200w, /generated/img/portfolio/covers/alb05-400-67a156de8.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Car Photos</h3>\n                <p>Mixing hobbies!</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/06/\">\n<img src=\"/generated/img/portfolio/covers/alb06-400-c9a12b31c.jpg\" alt=\"Celestial Bodies\" srcset=\"/generated/img/portfolio/covers/alb06-200-c9a12b31c.jpg 200w, /generated/img/portfolio/covers/alb06-400-c9a12b31c.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Celestial Bodies</h3>\n                <p>Mostly from the dark</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n  \t\n\n          <div class=\"col-md-4 p-0\">\n                  <figure class=\"gallery-item\">\n                          <figure class=\"effect-selena\">\n            <header class=\"gallery-icon\">\n\t\t       \n<a href=\"/portfolio/07/\">\n<img src=\"/generated/img/portfolio/covers/alb07-400-5ec1c6f4d.jpg\" alt=\"Landscape Photography\" srcset=\"/generated/img/portfolio/covers/alb07-200-5ec1c6f4d.jpg 200w, /generated/img/portfolio/covers/alb07-400-5ec1c6f4d.jpg 400w\">\n\n</a>\n\n            </header>\t\n            <figcaption class=\"gallery-caption\">\n              <div class=\"entry-summary\">\n                <h3>Landscape Photography</h3>\n                <p>Cool looking places</p>\n              </div>\n            </figcaption>\n                        </figure>\n          </figure>\n      </div>\n\t\t\n\t\t\t\t\n\t\t\t</div>\n    </div>\n\t\t</div><!-- END .wrapper -->\n\t</section>\n\n\n<br>"
+     
    } ,
   
    {
      
-        "title"    : "MR340 - 2023 Missouri River 340 Photos",
+   } ,
+  
+   {
+     
+        "title"    : "Purchasing RainbowMarks Photography",
         "category" : "",
         "tags"     : "",
-        "url"      : "/MR340/2023/",
+        "url"      : "/purchase/",
         "date"     : "",
-        "content"   : "<div class=\"row\">\n  <div class=\"col-md-12\">\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-md-8\">\n    <p>A big thank you to everyone for making me feel so welcome at my first #MR340 this year! It was one to remember for sure. I've processed and uploaded all the photos! They have also all been tagged with Boat number where I was able to identify. That should make it easier to use the <a href=\"https://rainbowmarks.smugmug.com/search\">Search feature on the site to search for your boat number</a></p>\n\n  </div>\n  <div class=\"col-md-4\">\n    <h2>View and download photos!</h2>\n    <a href=\"https://photos.rainbowmarks.com/2023/Watersports/MR340\">View Galleries</a>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-12\">\n  <h3>Photo Pricing</h3>\n    <p>Individual Photos can be purchased via the gallery links above. Individual photos are $15 each for high resolution (typically 40+ megapixels) digital download, though some photos maybe lower resolution as we process/crop them.</p>\n    <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc).</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-6\">\n    <h2>Missouri River Relief</h2>\n    <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will be donating 5% of profits all transactions (from 7/31/2023-8/31/2023) to <br /><a href=\"https://riverrelief.org/\" target=\"_blank\"><img src=\"/img/MRR-logo-color-WEB-200px.png\" border=\"0\" /><br />Missouri River Relief</a>.</p>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-12\">\n    <h2>Pre-Event Photo Packages </h2>\n    <p>Pre-event pricing was available until 10:00pm on July 31st, 2023. Purchasers received a $75 store credit for $50. Multiple emails have gone out to those who purchased this package. If you lost your code please feel free to reach out for assistance.</p>\n    <h3>Pre-Purchase Refunds</h3>\n    <p>The refund request window ended 8/31/2023. Please use your $75 store credit to download digital photos or order physical prints.</p>\n  </div>\n</div>\n"
+        "content"   : "<p>We have purchaseable photos available on our <a href=\"https://photos.rainbowmarks.com\">Galleries page</a>. Prices will vary by event and gallery.</p>\n\n<p><em>Copyright:</em> Purchasing our photos will get you a photoo for personal use. Commercial use options are available on a case by case basis, please feel free to reach out to us before purchase if you have any questions.</p>\n\n<p>If you have any trouble or questions, please feel free to reach out to me via my personal <a href=\"https://chrishammond.com/Contact\">contact page</a>, we’ll ask you details about event and individual so we can determine which photo(s) you want.</p>\n\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Terms",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/terms/",
+        "date"     : "",
+        "content"   : "<p>Terms of Service and Privacy Policy MAYBE coming soon.</p>\n"
      
    } ,
   
@@ -834,23 +845,34 @@
   
    {
      
-        "title"    : "CrossFit Photography",
+        "title"    : "MR340 - 2023 Missouri River 340 Photos",
         "category" : "",
         "tags"     : "",
-        "url"      : "/portfolio/01/",
+        "url"      : "/MR340/2023/",
         "date"     : "",
-        "content"   : "\n"
+        "content"   : "<div class=\"row\">\n  <div class=\"col-md-12\">\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-md-8\">\n    <p>A big thank you to everyone for making me feel so welcome at my first #MR340 this year! It was one to remember for sure. I've processed and uploaded all the photos! They have also all been tagged with Boat number where I was able to identify. That should make it easier to use the <a href=\"https://rainbowmarks.smugmug.com/search\">Search feature on the site to search for your boat number</a></p>\n\n  </div>\n  <div class=\"col-md-4\">\n    <h2>View and download photos!</h2>\n    <a href=\"https://photos.rainbowmarks.com/2023/Watersports/MR340\">View Galleries</a>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-12\">\n  <h3>Photo Pricing</h3>\n    <p>Individual Photos can be purchased via the gallery links above. Individual photos are $15 each for high resolution (typically 40+ megapixels) digital download, though some photos maybe lower resolution as we process/crop them.</p>\n    <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc).</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-6\">\n    <h2>Missouri River Relief</h2>\n    <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will be donating 5% of profits all transactions (from 7/31/2023-8/31/2023) to <br /><a href=\"https://riverrelief.org/\" target=\"_blank\"><img src=\"/img/MRR-logo-color-WEB-200px.png\" border=\"0\" /><br />Missouri River Relief</a>.</p>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-12\">\n    <h2>Pre-Event Photo Packages </h2>\n    <p>Pre-event pricing was available until 10:00pm on July 31st, 2023. Purchasers received a $75 store credit for $50. Multiple emails have gone out to those who purchased this package. If you lost your code please feel free to reach out for assistance.</p>\n    <h3>Pre-Purchase Refunds</h3>\n    <p>The refund request window ended 8/31/2023. Please use your $75 store credit to download digital photos or order physical prints.</p>\n  </div>\n</div>\n"
      
    } ,
   
    {
      
-        "title"    : "Landscapes",
+        "title"    : "St. Louis Missouri Event Photographer / Photography",
         "category" : "",
         "tags"     : "",
-        "url"      : "/portfolio/07/",
+        "url"      : "/events/",
         "date"     : "",
-        "content"   : "\n"
+        "content"   : "<p>At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.</p>\n\n<div class=\"row\">\n  <div class=\"col-4\">\n    <a href=\"https://rainbowmarks.com/blog/\"><img src=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg\" srcset=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-200-843b7935f.jpg 200w, /generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg 400w\" />\n\n    </a>\n  </div>\n  <div class=\"col-8\">\n  <h2>Recent Events</h2>\n    <ul>\n         \n          <li><a href=\"/Events/2023/11/MoJudgesCup\">MO Judges Cup Gymnastics - November 10, 2023</a> </li>          \n          \n          <li><a href=\"/Events/2023/11/leprechaunlashout/\">Chesterfield Falcons 10U-A1 Shine at the Leprechaun Lashout Tournament</a> </li>          \n          \n          <li><a href=\"/Events/2023/10/AfftonAmericansIceHockeyPhotos/\">Affton Americans Youth Ice Hockey Photos - 10U-A1 10-8-2023</a> </li>          \n          \n          <li><a href=\"/Events/2023/10/StPetersIceHockeyPhotos/\">St. Peters Youth Ice Hockey Photos - 10U-A1 10-7-2023</a> </li>          \n          \n          <li><a href=\"/Events/2023/10/CrossFitPhotography/\">Capturing the Spirit of CrossFit Competitions in St. Louis</a> </li>          \n          \n    </ul>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n    <h2>Event Photography Packages</h2>\n    <p>We customize our packages for each event, so we can tailor our services for the specific needs of your event.</p>\n    <p>You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.</p>\n    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">please reach out and get more information</a></p>\n  </div>\n  <div class=\"col-6\"> \n    <h2>Event Organizer Specials</h2>\n    <p>Custom packages for your event(s)? <strong>We can do that!</strong> </p>\n    <p>Do you want to give out digital copies to all entrants? <strong>We can do that!</strong> </p>\n    <p>Do you want to include a physical print with each entry? <strong>We can do that!</strong> </p>\n    <p>Do you want to be hands off and let us run with your event photos? <strong>We can do that!</strong> </p>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-12\">\n  <h2>Custom Event Watermarks</h2>\n  <p>With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.</p>  \n  </div>\n</div>\n\n<h2 id=\"types-of-events\">Types Of Events</h2>\n<p>We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, <a href=\"https://www.chrishammond.com/Contact\">don’t hesitate to reach out and ask</a>.</p>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n  <h3>Youth Sports</h3>\n    <ul>\n      <li>Baseball</li>\n      <li><a href=\"/events/hockey/\">Ice Hockey</a></li>\n      <li><a href=\"/events/hockey/\">Roller Hockey</a></li>\n      <li>Gymnastics</li>\n      <li>Team Photos</li>\n      <li>Individual Photos</li>\n    </ul>\n    <h3>Automotive Events</h3>\n    <ul>\n      <li>Car Shows</li>\n      <li>Automotive Races</li>\n      <li>Monster Trucks</li>\n      <li>Rally Races</li>\n      <li>Road Races</li>\n      <li>Autocross</li>\n      <li>NASCAR</li>\n      <li>Indy Car</li>\n    </ul>\n    \n    <h3>Bicycle Events</h3>\n    <ul>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Gravel Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Cyclocross Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Mountain Bike Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Road Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Crits (criteriums)</a></li>\n    </ul>\n  </div>\n  <div class=\"col-6\">\n    <h3>CrossFit Events</h3>\n    <ul>\n      <li>CrossFit Games</li>\n      <li>Team Competitions</li>\n      <li>Individual Competitions</li>\n    </ul>\n    <h3>Running Events</h3>\n    <ul>\n      <li>Trail Runs</li>\n      <li>Ultra-Marathons</li>\n    </ul>\n    <h3>Watersports</h3>\n    <ul>\n      <li>Multi-day long distance races</li>\n      <li>One day races</li>\n    </ul>\n        <h3>Music Events</h3>\n    <ul>\n      <li>Concerts</li>\n      <li>Lounge Events</li>\n      <li>Band Competitions</li>\n      <li>Bar Shows</li>\n    </ul>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-12\">\n    <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">Get More Info</a>\n  </div>\n</div>\n\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "PhotoMark.CO - Photo Marking and Sharing for Events",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/photomark/",
+        "date"     : "",
+        "content"   : "<p>PhotoMark.co is a photo marking and sharing service for events. We provide a simple way for event organizers to share photos with participants. We also provide a way for participants to search for their photos by bib number or other criteria.</p>\n\n<p>The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.</p>\n\n<ul>\n  <li>Chris Hammond RainbowMarks.com</li>\n</ul>\n\n"
      
    } ,
   
@@ -860,28 +882,6 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/portfolio/04/",
-        "date"     : "",
-        "content"   : "\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Yosemite National Park",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/portfolio/02/",
-        "date"     : "",
-        "content"   : "\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Cars",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/portfolio/05/",
         "date"     : "",
         "content"   : "\n"
      
@@ -900,6 +900,39 @@
   
    {
      
+        "title"    : "Cars",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/05/",
+        "date"     : "",
+        "content"   : "\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Yosemite National Park",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/02/",
+        "date"     : "",
+        "content"   : "\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Landscapes",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/07/",
+        "date"     : "",
+        "content"   : "\n"
+     
+   } ,
+  
+   {
+     
         "title"    : "Air Show Photos",
         "category" : "",
         "tags"     : "",
@@ -911,45 +944,12 @@
   
    {
      
-        "title"    : "Terms",
+        "title"    : "CrossFit Photography",
         "category" : "",
         "tags"     : "",
-        "url"      : "/terms/",
+        "url"      : "/portfolio/01/",
         "date"     : "",
-        "content"   : "<p>Terms of Service and Privacy Policy MAYBE coming soon.</p>\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "St. Louis Missouri Event Photographer / Photography",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/events/",
-        "date"     : "",
-        "content"   : "<p>At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.</p>\n\n<div class=\"row\">\n  <div class=\"col-4\">\n    <a href=\"https://rainbowmarks.com/blog/\"><img src=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg\" srcset=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-200-843b7935f.jpg 200w, /generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg 400w\" />\n\n    </a>\n  </div>\n  <div class=\"col-8\">\n  <h2>Recent Events</h2>\n    <ul>\n         \n          <li><a href=\"/Events/2023/11/MoJudgesCup\">MO Judges Cup Gymnastics - November 10, 2023</a> </li>          \n          \n          <li><a href=\"/Events/2023/11/leprechaunlashout/\">Chesterfield Falcons 10U-A1 Shine at the Leprechaun Lashout Tournament</a> </li>          \n          \n          <li><a href=\"/Events/2023/10/AfftonAmericansIceHockeyPhotos/\">Affton Americans Youth Ice Hockey Photos - 10U-A1 10-8-2023</a> </li>          \n          \n          <li><a href=\"/Events/2023/10/StPetersIceHockeyPhotos/\">St. Peters Youth Ice Hockey Photos - 10U-A1 10-7-2023</a> </li>          \n          \n          <li><a href=\"/Events/2023/10/CrossFitPhotography/\">Capturing the Spirit of CrossFit Competitions in St. Louis</a> </li>          \n          \n    </ul>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n    <h2>Event Photography Packages</h2>\n    <p>We customize our packages for each event, so we can tailor our services for the specific needs of your event.</p>\n    <p>You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.</p>\n    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">please reach out and get more information</a></p>\n  </div>\n  <div class=\"col-6\"> \n    <h2>Event Organizer Specials</h2>\n    <p>Custom packages for your event(s)? <strong>We can do that!</strong> </p>\n    <p>Do you want to give out digital copies to all entrants? <strong>We can do that!</strong> </p>\n    <p>Do you want to include a physical print with each entry? <strong>We can do that!</strong> </p>\n    <p>Do you want to be hands off and let us run with your event photos? <strong>We can do that!</strong> </p>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-12\">\n  <h2>Custom Event Watermarks</h2>\n  <p>With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.</p>  \n  </div>\n</div>\n\n<h2 id=\"types-of-events\">Types Of Events</h2>\n<p>We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, <a href=\"https://www.chrishammond.com/Contact\">don’t hesitate to reach out and ask</a>.</p>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n  <h3>Youth Sports</h3>\n    <ul>\n      <li>Baseball</li>\n      <li><a href=\"/events/hockey/\">Ice Hockey</a></li>\n      <li><a href=\"/events/hockey/\">Roller Hockey</a></li>\n      <li>Gymnastics</li>\n      <li>Team Photos</li>\n      <li>Individual Photos</li>\n    </ul>\n    <h3>Automotive Events</h3>\n    <ul>\n      <li>Car Shows</li>\n      <li>Automotive Races</li>\n      <li>Monster Trucks</li>\n      <li>Rally Races</li>\n      <li>Road Races</li>\n      <li>Autocross</li>\n      <li>NASCAR</li>\n      <li>Indy Car</li>\n    </ul>\n    \n    <h3>Bicycle Events</h3>\n    <ul>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Gravel Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Cyclocross Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Mountain Bike Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Road Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Crits (criteriums)</a></li>\n    </ul>\n  </div>\n  <div class=\"col-6\">\n    <h3>CrossFit Events</h3>\n    <ul>\n      <li>CrossFit Games</li>\n      <li>Team Competitions</li>\n      <li>Individual Competitions</li>\n    </ul>\n    <h3>Running Events</h3>\n    <ul>\n      <li>Trail Runs</li>\n      <li>Ultra-Marathons</li>\n    </ul>\n    <h3>Watersports</h3>\n    <ul>\n      <li>Multi-day long distance races</li>\n      <li>One day races</li>\n    </ul>\n        <h3>Music Events</h3>\n    <ul>\n      <li>Concerts</li>\n      <li>Lounge Events</li>\n      <li>Band Competitions</li>\n      <li>Bar Shows</li>\n    </ul>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-12\">\n    <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">Get More Info</a>\n  </div>\n</div>\n\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Purchasing RainbowMarks Photography",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/purchase/",
-        "date"     : "",
-        "content"   : "<p>We have purchaseable photos available on our <a href=\"https://photos.rainbowmarks.com\">Galleries page</a>. Prices will vary by event and gallery.</p>\n\n<p><em>Copyright:</em> Purchasing our photos will get you a photoo for personal use. Commercial use options are available on a case by case basis, please feel free to reach out to us before purchase if you have any questions.</p>\n\n<p>If you have any trouble or questions, please feel free to reach out to me via my personal <a href=\"https://chrishammond.com/Contact\">contact page</a>, we’ll ask you details about event and individual so we can determine which photo(s) you want.</p>\n\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "PhotoMark.CO - Photo Marking and Sharing for Events",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/photomark/",
-        "date"     : "",
-        "content"   : "<p>PhotoMark.co is a photo marking and sharing service for events. We provide a simple way for event organizers to share photos with participants. We also provide a way for participants to search for their photos by bib number or other criteria.</p>\n\n<p>The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.</p>\n\n<ul>\n  <li>Chris Hammond RainbowMarks.com</li>\n</ul>\n\n"
+        "content"   : "\n"
      
    } ,
   
