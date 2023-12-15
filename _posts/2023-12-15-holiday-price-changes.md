@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "New Pricing! 30% off most physical items!"
-subtitle: "New pricing going forward"
+subtitle: "Changes for 2024"
 active: "blog"
 image:
   feature: "/img/posts/2023/Christmas2014/Christmas2014-1.jpg"

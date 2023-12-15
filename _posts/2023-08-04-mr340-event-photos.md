@@ -10,7 +10,7 @@ header-img: "/img/posts/2023/MR340/Blog-1.jpg"
 
 permalink: "Events/2023/08/MR340/"
 tags: [event, race, paddle, boat, MR340, river, Missouri]
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Watersports/MR340
 
