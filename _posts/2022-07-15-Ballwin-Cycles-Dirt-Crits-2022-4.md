@@ -16,7 +16,7 @@ featured: false
 
 Ballwin Cycles Dirt Crits from 2 Timing Guys, second event down in Valley Park on July 14th, 2022
 
-You can download free high resolution photos without watermarks courtesy of 2 Timing Guys, or you can also order prints:
+You can purchase digital downloads without watermarks, or you can also order prints:
 
 [Download/Purchase Photos](https://photos.rainbowmarks.com/2022/Bikes/2022-Ballwin-Cycles-Dirt-Crits/July-14-2022)
 

@@ -24,9 +24,6 @@ For this event, the digital downloads are free, but you need a password to acces
 
 [View the Galleries Here](https://photos.rainbowmarks.com/2021/2021-Midwest-Masters-Experience)
 
-## Password To Download
-I'm trying something new out here, in order to access the digital downloads you need a password, [you can get one by filling out the form here](/passwords), once you provide your email address you will be provided the password that allows you to download the files. When viewing the galleries you can choose the Download option next to a photo to download the high resolution version of that photo without any watermarks.
-
 {% picture /img/posts/2021/MWME/Overall-2.jpg %}
 
 ## Photo Size

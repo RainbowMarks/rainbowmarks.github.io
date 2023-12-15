@@ -27,7 +27,7 @@ Use the "search" on my Gallery site to more easily find your photos by Bib numbe
 
 I had a blast out there and appreciate all the feedback I've had on photos posted. 
 
-You can purchase a high quality (43 megapixel) digital download of my shots via the links above. 
+You can purchase a   digital download of my shots via the links above. 
 
 Thanks, see you on the trails!
 

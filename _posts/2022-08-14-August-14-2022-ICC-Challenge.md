@@ -25,7 +25,7 @@ Here is a slideshow of the photos, but you'll have an easier time viewing the ph
 
 I had a blast out there and appreciate all the feedback I've had on photos posted. 
 
-You can purchase a high quality (43 megapixel) digital download of my shots via the links above. 
+You can purchase a   digital download of my shots via the links above. 
 
 Thanks, see you on the trails!
 

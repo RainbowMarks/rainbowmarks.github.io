@@ -28,7 +28,7 @@ I tried to get a shot of every competitor, I am pretty sure I missed a couple th
 ### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-4.jpg %}" /> Before and After Shots](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-Pre-Race)
 
 
-You can purchase a high quality (43 megapixel) digital download of my shots via the links above. 
+You can purchase a   digital download of my shots via the links above. 
 
 Thanks, see you on the trails!
 

@@ -25,14 +25,14 @@ redirect_from:
 <div class="row">
   <div class="col-md-12">
   <h3>Photo Pricing</h3>
-    <p>Individual Photos can be purchased via the gallery links above. Individual photos are $15 each for high resolution (typically 40+ megapixels) digital download, though some photos maybe lower resolution as we process/crop them.</p>
+    <p>Individual Photos can be purchased via the gallery links above. Individual photos are $10 each for digital download.</p>
     <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc).</p>
   </div>
 </div>
 <div class="row">
   <div class="col-md-6">
     <h2>Missouri River Relief</h2>
-    <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will be donating 5% of profits all transactions (from 7/31/2023-8/31/2023) to <br /><a href="https://riverrelief.org/" target="_blank"><img src="/img/MRR-logo-color-WEB-200px.png" border="0"><br />Missouri River Relief</a>.</p>
+    <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography donated over $250 from transactions to <br /><a href="https://riverrelief.org/" target="_blank"><img src="/img/MRR-logo-color-WEB-200px.png" border="0"><br />Missouri River Relief</a>.</p>
   </div>
 </div>
 

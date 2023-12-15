@@ -17,7 +17,7 @@ Ballwin Cycles Dirt Crits from 2 Timing Guys, second event down in Valley Park o
 
 [You can find these on our Facebook page](https://www.facebook.com/media/set/?set=a.2656612074472302&type=3)
 
-You can purchase high resolution photos without watermarks here:
+You can purchase digital downloads of photos without watermarks here:
 
 [Purchase Photos](https://photos.rainbowmarks.com/2022/Bikes/2022-Ballwin-Cycles-Dirt-Crits/June-30-2022)
 

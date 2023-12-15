@@ -15,7 +15,7 @@ featured: false
 
 We took a trip to Old Kinderhook for the Synergy Pond Hockey Tournament down there this weekend, I took a number of games (all the games Chesterfield played, plus a couple of others).
 
-Photos are organized by day and available for purchase (digital download $10 per high resolution shot, all photos are 43 megapixels before any cropping)
+Photos are organized by day and available for purchase (digital download $10 per shot)
 
 ## [Click for Friday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook/Old-Kinderhook-172022/)
 
