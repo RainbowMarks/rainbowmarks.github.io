@@ -15,12 +15,12 @@ galleryurl:
 description: "Going into 2024 we've updated our pricing! Lowered our physical prints by up to 30%!"
 keywords: "RainbowMarks Photography, photography deals, event photography sale, photography discount codes, professional photo prints, digital photo downloads, exclusive photography offers, 2023 event highlights, photography specials, holiday"
 ---
-Coming into 2024 we're making some changes! We've reduced our pricing for physical items (prints, frames, metal, acrylic, canvas, mugs, etc) by up to 30%! 
+Coming into 2024, we're making some changes! We've reduced our pricing for physical items (prints, frames, metal, acrylic, canvas, mugs, etc.) by up to 30%! We plan to keep these prices for the foreseeable future!
 
-## Get ordering!
+## Get Ordering!
 You can find all our photos from the last couple of years available for purchase at [https://photos.rainbowmarks.com/](https://photos.rainbowmarks.com/).
 
 ## New Digital Pricing and Offering 
-Also new going forward, we're offering a lower resolution digital download that you can use on social media for $10. At this time we will no longer be offering high resolution digital downloads of our work except for special occassions and prepaid events. 
+We're offering a lower-resolution digital download that you can use on social media for $10. At this time, we will no longer be offering high-resolution digital downloads of our work except for special occasions and prepaid events. 
 
-We hope you enjoy our work and we look forward to seeing you at an event soon!
+We hope you enjoy our work, and we look forward to seeing you at an event soon!
