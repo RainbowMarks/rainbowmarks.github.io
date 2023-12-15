@@ -24,3 +24,8 @@ You can find all our photos from the last couple of years available for purchase
 We're offering a lower-resolution digital download that you can use on social media for $10. At this time, we will no longer be offering high-resolution digital downloads of our work except for special occasions and prepaid events. 
 
 We hope you enjoy our work, and we look forward to seeing you at an event soon!
+
+## Planning an event in 2024?
+We're booking now for 2024! [Contact us](https://www.chrishammond.com/Contact) today! Reach out early and get discounted event pricing!
+
+```
