@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "New Pricing! 30% off most physical items!"
+title: "New Pricing! 30% reduction in price on most physical items!"
 subtitle: "Changes for 2024"
 
 active: "blog"
