@@ -4,6 +4,8 @@ title: "MR340 - 2023 Missouri River 340 Photos"
 description: "Photos from the 2023 edition of the MR340"
 active: mr340
 header-img: "img/posts/2023/MR340/mr340-1.jpg"
+image:
+  feature: "img/posts/2023/MR340/mr340-1.jpg"
 redirect_from: 
  - "mr340/2023"
 ---

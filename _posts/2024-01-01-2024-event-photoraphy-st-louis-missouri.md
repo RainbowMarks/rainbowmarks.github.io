@@ -30,7 +30,6 @@ Our cameras are adept at capturing the spirit of these dynamic events, and we’
 ## Specialized Sports Event Photography
 
 At RainbowMarks Photography, we understand the dynamics of various sports. That's why we offer specialized photography services for:
-
 - Baseball
 - Football
 - Hockey
