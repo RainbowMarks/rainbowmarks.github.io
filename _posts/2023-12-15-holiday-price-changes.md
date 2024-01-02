@@ -10,7 +10,7 @@ date: '2023-11-23T08:15:00+00:00'
 header-img: "/img/posts/2023/Christmas2014/Christmas2014-1.jpg"
 permalink: "Events/2023/12/HolidayPrices"
 tags: [sale, holiday, christmas, prints, physical, digital]
-featured: true
+featured: false
 includegallery: false
 galleryurl: 
 description: "Discover RainbowMarks Photography's special offers for 2024! Enjoy 30% off on a variety of physical items including prints, frames, and more. Explore our new digital download options for social media, perfect for capturing your special moments. Book your 2024 event now and benefit from early booking discounts. Quality photography meets affordability!"
