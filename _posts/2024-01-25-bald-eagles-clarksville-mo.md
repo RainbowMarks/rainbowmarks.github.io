@@ -41,7 +41,7 @@ gallery:
   - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-8.jpg
     image-caption: Bald Eagles in Winfield, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-8.jpg
+  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-9.jpg
     image-caption: Bald Eagle over Clarence Cannon National Wildlife Refuge in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024//Wildlife/BaldEagles/Birds2024.jpg
