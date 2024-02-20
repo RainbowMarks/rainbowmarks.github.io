@@ -16,7 +16,7 @@ Capture every slapshot, every goal, and every triumphant cheer right here in St.
 
 ### 2024 Blue Note Cup Games in St. Louis
 
-Are you ready for the 2024 Blue Note Cup? Ensure your game is covered by St. Louis's premier hockey photography service. Schedule ASAP to guarantee our presence at your game(s)!
+Are you ready for the 2024 Blue Note Cup? Ensure your game is covered by St. Louis's premier hockey photography service. Schedule ASAP to secure our presence at your game(s)!
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/rainbowmarks/2024bluenotecup" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
