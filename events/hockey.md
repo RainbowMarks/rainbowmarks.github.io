@@ -10,42 +10,58 @@ image:
 type: website
 ---
 
-Capture every slapshot, every goal, and every triumphant cheer. Let the passion of the game and the spirit of young talent shine through in stunning, professionally shot photographs.
+Capture every slapshot, every goal, and every triumphant cheer right here in St. Louis. Let the passion of the game and the spirit of young talent shine through in stunning, professionally shot photographs by RainbowMarks.com, your local St. Louis hockey photography experts.
 
 ---
 
-### **What Our Service Offers:**
+### 2024 Blue Note Cup Games in St. Louis
 
-* 📌 **Comprehensive Coverage**: We ensure no moment goes unnoticed. From the first puck drop to the final whistle, our photographer will be there, capturing the essence of the game.
+Are you ready for the 2024 Blue Note Cup? Ensure your game is covered by St. Louis's premier hockey photography service. Schedule ASAP to guarantee our presence at your games!
 
-* 📌 **Price**: A flat fee of **$225** gets you extensive coverage of the entire game. Split the fee up among all the parents!
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/rainbowmarks/2024bluenotecup" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
-* 📌 **High-Quality Digital Downloads**: Our state-of-the-art equipment ensures each photograph is crisp, clear, and vibrant. The best action shots and candid moments will be available for download from our premium online gallery. Downloads are included for the $225 fee. [View some of our previous Hockey photos](https://photos.rainbowmarks.com/search#q=hockey&c=photos&i=0)
+### **What Our St. Louis Service Offers:**
 
-* 📌 **Expert Post-Processing**: Our work doesn't end when the game does. We carefully process each image to bring out the best colors, lighting, and details.
+* 📌 **Local Expertise**: Specializing in capturing the intensity and excitement of St. Louis hockey games, we know exactly where to be to catch the perfect shot.
 
-* 📌 **Discounted Prints**: Turn memories into tangible keepsakes. Order premium quality prints directly from our online gallery at exclusive discounted rates, perfect for framing or gifting.
+* 📌 **Comprehensive Coverage**: From the first puck drop to the final whistle, our photographer will be there, capturing the essence of the game with a keen eye for the action that makes St. Louis hockey unique.
 
-* 📌 **Online Gallery**: A public (or private) and easy-to-navigate gallery will be set up for you, making viewing, sharing, and downloading a breeze.
+* 📌 **Competitive Pricing**: For just **$225**, receive extensive coverage of your entire game. This fee can be shared among team parents to make capturing these memories even more accessible.
 
-* 📌 **Hundreds of Photos**: During a standard 1 hour game we will shot nearly one thousand photos. Afterwards we will go through and pick out the best ones to be posted online for download. Typically this will be 2-300 photos that you can choose from.
+* 📌 **High-Quality Digital Downloads**: Utilizing state-of-the-art equipment, we ensure each photograph is crisp, clear, and vibrant. Relive the best action shots and candid moments through our premium online gallery, with downloads included in the fee. [View some of our previous St. Louis hockey photos](https://photos.rainbowmarks.com/search#q=hockey&c=photos&i=0)
 
-* 📌 **Personal Usage Rights**: All images come with rights for personal use. Share them, print them, and cherish them forever.
+* 📌 **Expert Post-Processing**: We meticulously process each image to highlight the best of St. Louis hockey's colors, lighting, and details.
 
----
+* 📌 **Discounted Prints for St. Louis Fans**: Turn your memories into tangible keepsakes with premium quality prints, available at exclusive discounted rates for the St. Louis hockey community.
 
-### **Tailored Packages for the Season 🎁**
+* 📌 **Personalized Online Gallery**: Choose between a public or private gallery, designed for easy navigation, viewing, sharing, and downloading.
 
-Are there multiple games or an entire season you wish to immortalize? We've got special packages designed just for that. Capture the growth, the skills, and the camaraderie as the season progresses. Contact us for custom multi-game package details and pricing.
+* 📌 **Extensive Photo Selection**: Expect to choose from 200-300 of the best photos from nearly a thousand shots taken during a standard 1-hour game.
 
----
-
-### 📆 **Don't Miss Out – Availability is Limited!**
-
-Kids grow up fast, and these moments are fleeting. Ensure you have the best memories of their hockey journey. Due to our commitment to quality and personalized service, our slots fill up quickly. Book now to avoid disappointment!
-
-[**Schedule Your Game Today**](https://www.chrishammond.com/contact)
+* 📌 **Personal Usage Rights**: Enjoy the freedom to share, print, and cherish your images forever with rights for personal use.
 
 ---
 
-Thank you for considering RainbowMarks Photography. We're not just about taking pictures; we're about preserving memories. Let's create a lasting legacy of your child's sporting journey together.
+### **Seasonal Packages Tailored for St. Louis Hockey 🎁**
+
+Looking to capture the entire season's journey? We offer special packages designed to document the growth, skills, and camaraderie of your team throughout the season. Contact us for details on custom multi-game packages and pricing, tailored for the St. Louis hockey community.
+
+---
+
+### 📆 **Secure Your Spot – St. Louis Slots Fill Up Fast!**
+
+Children grow up quickly, and the moments on the ice are fleeting. Secure the best memories of their hockey journey with St. Louis's favorite photography service. Our commitment to quality and personalized service means our slots fill up quickly. Book now to avoid disappointment!
+
+[**Schedule Your St. Louis Hockey Game Today**]
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/rainbowmarks/2024bluenotecup" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+---
+
+Thank you for considering RainbowMarks Photography for your St. Louis hockey photography needs. We're not just about taking pictures; we're about capturing the heart of St. Louis hockey and preserving memories. Let's create a lasting legacy of your child's sporting journey together.
