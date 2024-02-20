@@ -16,7 +16,7 @@ Capture every slapshot, every goal, and every triumphant cheer right here in St.
 
 ### 2024 Blue Note Cup Games in St. Louis
 
-Are you ready for the 2024 Blue Note Cup? Ensure your game is covered by St. Louis's premier hockey photography service. Schedule ASAP to guarantee our presence at your games!
+Are you ready for the 2024 Blue Note Cup? Ensure your game is covered by St. Louis's premier hockey photography service. Schedule ASAP to guarantee our presence at your game(s)!
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/rainbowmarks/2024bluenotecup" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
@@ -41,12 +41,6 @@ Are you ready for the 2024 Blue Note Cup? Ensure your game is covered by St. Lou
 * 📌 **Extensive Photo Selection**: Expect to choose from 200-300 of the best photos from nearly a thousand shots taken during a standard 1-hour game.
 
 * 📌 **Personal Usage Rights**: Enjoy the freedom to share, print, and cherish your images forever with rights for personal use.
-
----
-
-### **Seasonal Packages Tailored for St. Louis Hockey 🎁**
-
-Looking to capture the entire season's journey? We offer special packages designed to document the growth, skills, and camaraderie of your team throughout the season. Contact us for details on custom multi-game packages and pricing, tailored for the St. Louis hockey community.
 
 ---
 
