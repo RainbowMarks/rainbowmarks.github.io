@@ -5,7 +5,7 @@ subtitle: "Book your games today!"
 active: "blog"
 image:
   feature: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.png"
-date: '2024-02-29T10:30:00+00:00'
+date: '2024-02-29T09:30:00+00:00'
 header-img: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.png"
 permalink: "Events/2024/02/BlueNoteCupPhotography"
 tags: [ hockey]
