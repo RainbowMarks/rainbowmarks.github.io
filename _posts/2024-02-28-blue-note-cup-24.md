@@ -21,7 +21,7 @@ At RainbowMarks Photography, we're thrilled to announce our exclusive photograph
 
 ### **Exclusive Offer: $225/Game**
 
-For just $225, secure a spot on our shooting schedule and ensure your game is captured through our lenses with precision and creativity. But that's not all - your booking grants you:
+(Must book by 3/1/2024) For just $225, secure a spot on our shooting schedule and ensure your game is captured through our lenses with precision and creativity. But that's not all - your booking grants you:
 
 - **Professionally Processed Photos:** After the game, access and download the high-quality, professionally processed images of your game directly from our website. 
 - **10% Off Physical Prints:** Dive into your game's photo gallery online and order physical prints to keep those memories tangible. Enjoy a 10% discount on every print, turning moments into lasting mementos.
@@ -34,7 +34,7 @@ For just $225, secure a spot on our shooting schedule and ensure your game is ca
 
 ### **Booking Is Essential!**
 
-Remember, to ensure we cover your game and concentrate on your team, **advance booking is necessary**. Spots fill up fast, especially for an event as anticipated as the Blue Note Cup 2024.
+Remember, to ensure we cover your game and concentrate on your team, **advance booking is necessary**. Spots fill up fast, especially for an event as anticipated as the Blue Note Cup 2024. Any bookings after 3/1/2024 are $300/game. 
 
 ### **Capture the Moment, Relive the Glory**
 
