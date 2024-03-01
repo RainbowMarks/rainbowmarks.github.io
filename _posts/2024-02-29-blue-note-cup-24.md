@@ -4,12 +4,12 @@ title: "Capture the Essence of Victory with RainbowMarks Photography at the Blue
 subtitle: "Book your games today!"
 active: "blog"
 image:
-  feature: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.png"
+  feature: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.jpg"
 date: '2024-02-28T10:30:00+00:00'
-header-img: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.png"
+header-img: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.jpg"
 permalink: "Events/2024/02/BlueNoteCupPhotography"
 tags: [ hockey ]
-featured: false
+featured: true
 includegallery: false
 galleryurl: 
 description: "Custom hockey photography for the Blue Note Cup"
