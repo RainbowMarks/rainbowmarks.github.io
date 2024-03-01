@@ -12,8 +12,8 @@ tags: [ hockey]
 featured: true
 includegallery: false
 galleryurl: 
-description: ""
-keywords: "Missouri, Ice Hockey, Blue Note CUp"
+description: "Custom hockey photography for the Blue Note Cup"
+keywords: "Missouri, Ice Hockey, Blue Note Cup"
 
 ---
 
