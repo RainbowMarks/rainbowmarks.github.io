@@ -4,9 +4,9 @@ title: "NASA PACE Falcon 9 Rocket Launch"
 subtitle: "Up close and personal"
 active: "blog"
 image:
-  feature: "/img/posts/2024/space/nasapace/PACELaunch-8.jpg"
-date: '2024-03-01T00:30:00+00:00'
-header-img: "/img/posts/2024/space/nasapace/PACELaunch-8.jpg"
+  feature: "/img/posts/2024/space/nasapace/PACELaunch-3.jpg"
+date: '2024-03-01T09:30:00+00:00'
+header-img: "/img/posts/2024/space/nasapace/PACELaunch-3.jpg"
 permalink: "Events/2024/03/NASAPACELaunch"
 tags: [ space, rocket, launch] 
 featured: true
@@ -51,9 +51,9 @@ This was not a publicly accessible launch, and I'm not sure why, but my assumpti
 
 Where did I watch the launch? I was fortunate enough to be invited to join a couple of remote family members who live and even work on the Cape, so I got special access. The morning started out with a quick tour of Mission Control, yes, Mission Control for the launch! There are actually two different rooms for MC, one for the active launch, and one for anything else going on or tours, so we got to walk through the empty mission control room and look into the active room. With Falcon 9 launches, the number of people in mission control is pretty minimal, which was surprising to see considering what was occurring.
 
-{% picture /img/posts/2024/space/nasapace/MissionControl-1.jpg --alt Mission Control at Morrell Operations Center with Me! %}
+{% picture /img/posts/2024/space/nasapace/MissionControl-2.jpg --alt Mission Control at Morrell Operations Center with Me! %}
 
-{% picture /img/posts/2024/space/nasapace/MissionControl-1.jpg --alt Mission Control at Morrell Operations Center %}
+{% picture /img/posts/2024/space/nasapace/MissionControl-3.jpg --alt Mission Control at Morrell Operations Center %}
 
 What was the best part about the Mission Control tour? The laugh I got in the bathroom! Check out this sign. If the people who are launching rockets into space can't even hit the toilet, how are they going to land on Mars? (sorry, I couldn't resist)
 

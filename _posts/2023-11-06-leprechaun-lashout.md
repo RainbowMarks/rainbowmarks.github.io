@@ -9,7 +9,7 @@ date: '2023-11-06T09:00:00+00:00'
 header-img: "/img/posts/2023/Hockey/LeprechaunLashout/LeprechaunLashout-1.jpg"
 permalink: "Events/2023/11/leprechaunlashout/"
 tags: [event, hockey]
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Hockey/23-24-Falcons-10U-A1/Leprechaun-Lashout
 
