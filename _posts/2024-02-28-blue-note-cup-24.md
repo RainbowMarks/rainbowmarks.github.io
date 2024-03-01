@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Capture the Essence of Victory with RainbowMarks Photography at the Blue Note Cup 2024! Blue Note Cup 2024 - Game Photos"
+title: "2024 Blue Note Cup Photos"
 subtitle: "Book your games today!"
 active: "blog"
 image:
