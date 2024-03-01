@@ -1,4 +1,4 @@
-<!-- begin post -->
+
 {% assign author = site.authors[post.author] %}
 <div class="featuredcard">
     <div class="listfeaturedtag">
@@ -13,7 +13,6 @@
                             {% if post.image.feature %}
                                 {% picture blogcrop {{ post.image.feature }} class="featured-box-img-cover lazyimg"  --alt {{ post.title }} %}
                             {% else %}
-                                <!-- do something here -->
                             {% endif %}
                         </a>
                     </div>
@@ -22,4 +21,3 @@
         </div>
     </div>
 </div>
-<!-- end post -->

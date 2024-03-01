@@ -9,7 +9,7 @@ date: '2024-01-22T09:00:00+00:00'
 header-img: "/img/posts/2024/Hockey/January20thWeekend/January20thWeekend-1.jpg"
 permalink: "Events/2024/01/January20thHockey"
 tags: [events, hockey, games]
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Hockey/23-24-Falcons-10U-A1
 description: "Explore comprehensive game summaries of the Chesterfield Falcons 10UA1's exciting weekend at the Maryville University Hockey Center. Discover how they tied 6-6 with the Kirkwood Stars in a dramatic improvement from past matchups, and read about their strategic 4-1 victory over the Affton All-Americans, showcasing resilience and skill in youth ice hockey"

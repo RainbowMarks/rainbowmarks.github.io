@@ -13,7 +13,6 @@ featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Hockey/23-24-Falcons-10U-A1/10-7-2023-vs-St-Peters
 
-
 gallery:
   StPetersIceHockeyPhotos:
   - image_path: /img/posts/2023/Hockey/10-7-2023/10-7-2023-1.jpg
