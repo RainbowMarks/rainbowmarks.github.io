@@ -4,51 +4,51 @@ title: "April 8th 2024 Eclipse from Trail of Tears State Park in Jackson, Missou
 subtitle: "Our second eclipse in 7 years"
 active: "blog"
 image:
-  feature: "/img/posts/2024/space/eclipse/Eclipse3000-1.jpg"
-date: '2024-04-15T13:30:00+00:00'
-header-img: "/img/posts/2024/space/eclipse/Eclipse3000-1.jpg"
+  feature: "/img/posts/2024/space/eclipse/Eclipse3000-3.jpg"
+date: '2024-04-15T12:30:00+00:00'
+header-img: "/img/posts/2024/space/eclipse/Eclipse3000-3.jpg"
 permalink: "Events/2024/04/Eclipse"
 tags: [ space, eclipse, sun, moon, totality, missouri] 
 featured: true
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/April-8th-2024-Total-Eclipse
-description: "Photos from the April 8th, 2024 Eclipse shot in Jackson Missouri at the Trail of Tears State Park"
+description: "Photos from the April 8th, 2024 Eclipse shot in Jackson, Missouri at the Trail of Tears State Park"
 keywords: "Space, Eclipse, Sun, Moon, National Eclipse, North America, Missouri"
 
 gallery:
   NationalEclipse:
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-1.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Initial phases of the eclipse, showing the moon’s progression over the sun.
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-2.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Reflection of the eclipse in my camera equipment April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-3.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Diamond Ring Effect during the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-4.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Totality during the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-5.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Composite of multiple totality shots April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-6.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Totality with flare from the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-7.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Sun coming out of totality during the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-8.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Three photo composite of various stages of the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-9.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Sun coming out of totality during the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-10.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Circular composite of various stages of the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
   - image_path: /img/posts/2024/space/eclipse/Eclipse3000-11.jpg
-    image-caption: April 8th, 2024 Total Eclipse from Trail of Tears State Park
+    image-caption: Square composite of various stages of the April 8th, 2024 Total Eclipse from Trail of Tears State Park
     image-copyright: Copyright 2024 RainbowMarks.com
 
 ---
@@ -68,28 +68,28 @@ Getting down to the state park was relatively uneventful, morning traffic in St.
 We ended up deciding to watch the eclipse from right near our parked truck as opposed to finding a grassy spot to sit in. I wanted to keep our clear sky view and not have any trees blocking our view or any of the cameras I would be setting up. We packed lunch and snacks ahead of time, so beyond fishing and hitting the public restrooms we didn't need to leave our spot for anything.
 
 ## Equipment
-For the eclipse I would be shooting with 3 cameras, though only one really counted. I setup two GoPro cameras on tripods, one a Hero12 set to record video for the entirity of the eclipse. The other a Hero9 that I set on a timelapse, taking a photo every 5 seconds. 
+For the eclipse I would be shooting with 3 cameras, though only one really counted. I setup two GoPro cameras on tripods, one a Hero12 set to record video for the entirety of the eclipse. The other a Hero9 that I set on a timelapse, taking a photo every 5 seconds. 
 
 My main rig for shooting the eclipse was my [Canon R5](https://amzn.to/43YUB1K). For a lens I had a [70-200m](https://amzn.to/3JkqUPh) and a [2X extender](https://amzn.to/3W01HkS) attached. I attached a solar filter (same one I used in 2017) to the lens hood with rubberbands, this allowed me to quickly remove the filter during totality to get unprotected shots of the eclipse. The filter I used was an [8" Orion filter, though not as fancy as the ones currently on Amazon](https://amzn.to/3vKdhG2).
 
 All three cameras were mounted on their own tripod, though none of them with any star trackers, maybe in the future I'll have one of those fancy tools. 
 
-{% picture /img/posts/2024/eclipse/Equipment-1.jpg --alt Eclipse Photo Camera Setup %}
+{% picture /img/posts/2024/space/eclipse/Equipment-1.jpg --alt Eclipse Photo Camera Setup %}
 
 ## During the Eclipse
-During the event I was running back and forth between my R5 and the family. Trying to get a variety of shots, but also trying to spend time with the family as well. I had my camera setup on shutter priority (TV), which means I was targetting adjustment of primarily the shutterspeed for the event. I shot a variety of speeds from 1/5 (of a second) up to 1/8000, though a majority of the shots and what worked were between 1/640 and 1/2500. 
+During the event I was running back and forth between my R5 and the family. Trying to get a variety of shots, but also trying to spend time with the family as well. I had my camera setup on shutter priority (TV), which means I was targetting adjustment of primarily the shutterspeed for the event. I shot a variety of speeds from 1/5 (of a second) up to 1/8000, though a majority of the shots and what worked were between 1/640 and 1/2500. For my ISO I shot at 100 pretty much the entire time.
 
-The biggest struggle I had during the eclipse was focusing. I tried setting auto-focus to on, but if you do that, you always have to be centered on the sun, and that's very difficult to do when running on a tripod with a long lens/extender. You don't realize how quickly the sun moves until you watch it though a zoom. So for focusing I manually focused, though the real struggle there was the solar filter. The way I had it mounted on the lens hood (without the hood extended) meant getting to the focus ring with my large hands was difficult.
+The biggest struggle I had during the eclipse was focusing. I tried setting auto-focus to on but for that to work you always have to be centered on the sun, and that's very difficult to do when running on a tripod with a long lens/extender. You don't realize how quickly the sun moves until you watch it though a zoom. So for focusing I manually focused, though the real struggle there was the solar filter. The way I had it mounted on the lens hood (without the hood extended) meant getting to the focus ring with my large hands was difficult.
 
-I ended up messing with focus throughout the day, though I am not sure I was ever 100% happy with how I got it set, for the most part the photos worked out. 
+I ended up working with focus throughout the day, though I am not sure I was ever 100% happy with how I got it set, for the most part the photos worked out. 
 
-## The Results
-Now for the important part, the actual results! You can find the photos I have processed and chosen to post here on the page, [as well as in our high resolution gallery available here](https://photos.rainbowmarks.com/2024/April-8th-2024-Total-Eclipse). Most of the shots I've posted are during totality, though I have quite a few other stages. Bluntly, the other stages of the eclipse sort of get reppetative, while they make cool composition shots, I found them boring as individual shots so I didn't post them for now. 
+## See and Purchase The Results
+Now for the important part, the actual results! You can find the photos I have processed and chosen to post here on the page, [as well as in our high resolution gallery available here](https://photos.rainbowmarks.com/2024/April-8th-2024-Total-Eclipse). Most of the shots I've posted are during totality, though I have quite a few other stages. Bluntly, the other stages of the eclipse sort of get repetitive, while they make cool composition shots, I found them boring as individual shots so I didn't post them for now. 
 
-You'll find in the shots a couple of composits, where I merged together multiple photos to create something unique. [All of these photos are available as prints, canvas and acryllics via our online gallery](https://photos.rainbowmarks.com/2024/April-8th-2024-Total-Eclipse). If you're interested in purchasing one of these photos in another format, [please feel free to reach out](https://www.chrishammond.com/Contact). 
+You'll find in the shots a couple of composites, where I merged together multiple photos to create something unique. [All of these photos are available as prints, canvas and acrylics via our online gallery](https://photos.rainbowmarks.com/2024/April-8th-2024-Total-Eclipse). If you're interested in purchasing one of these photos in another format, [please feel free to reach out](https://www.chrishammond.com/Contact). 
 
-## You need to experience a total eclipse!
-Experiencing a total eclipse is a profound, almost mystical event. While a partial eclipse is certainly memorable, achieving totality transforms the experience entirely. It’s something you truly have to see for yourself to understand the full emotional and visual impact. People travel thousands of miles for just a few minutes of this celestial phenomenon, and once you’ve witnessed it, you'll understand why. To get a taste of what I’m talking about, [check out this captivating 7-minute, 4K video of the eclipse](https://www.youtube.com/watch?v=HqN1OctY_30). Totality starts around 1:16, and you can hear the awe and excitement in the crowd's reactions. It’s a preview of the exhilarating experience that awaits you.
+## You need to experience a Total Eclipse!
+Experiencing a Total Eclipse is a profound, almost mystical event. While a partial eclipse is certainly memorable, achieving totality transforms the experience entirely. It’s something you truly have to see for yourself to understand the full emotional and visual impact. People travel thousands of miles for just a few minutes of this celestial phenomenon, and once you’ve witnessed it, you'll understand why. To get a taste of what I’m talking about, [check out this captivating 7-minute, 4K video of the eclipse](https://www.youtube.com/watch?v=HqN1OctY_30). Totality starts around 1:16, and you can hear the awe and excitement in the crowd's reactions. It’s a preview of the exhilarating experience that awaits you.
 
 ## Give your feedback!
 If you have any feedback on our eclipse photos, [feel free to follow along and comment on our photos over on our Facebook page](https://www.facebook.com/rainbowmarksphoto).
