@@ -47,3 +47,10 @@ The first event was Event #2 on April 21, 2024 at the Family Arena in St. Charle
 [View Event #2 Gallery](https://photos.rainbowmarks.com/2024/Autocross/St-Louis-Region-SCCA/4-21-2024-Event-2/Heat-3)
 
 Also be sure to [check out the event writeup on AutocrossBlog.com](https://www.autocrossblog.com/st-louis-autocross-event-2-2024)
+
+
+# Event #3 CAM Challenge
+The next event in the series was the CAM Challenge event held May 4th and 5th at the St. Charles Family Arena. We shot both Heat 2 and Heat 3 over Saturday afternoon and Sunday morning. 
+[View Event #3 Gallery](https://photos.rainbowmarks.com/2024/Autocross/STL-CAM-Challenge)
+
+Also be sure to [check out the event writeup on AutocrossBlog.com](https://www.autocrossblog.com/2024-st-louis-cam-challenge)
