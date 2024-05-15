@@ -8,6 +8,7 @@ image:
   feature: "img/slider/home03.jpg"
 redirect_from:
   - About
+  - About/
 ---
 <img src="{% picture direct200 img/MidSouthHeadshot-1.jpg %}" align="right" alt="Chris Hammond of RainbowMarks Photography" />RainbowMarks Photography is a project from <a href="https://www.chrishammond.com" target="_blank">Chris Hammond</a>. The name RainbowMarks comes from Rainbow Landmarks, one of the great (if I do say so myself) photos I've taken was the photo here on this page of the Sydney Opera House on a trip to Australia in 2012.
 
