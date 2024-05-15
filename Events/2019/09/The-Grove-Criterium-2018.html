@@ -83,7 +83,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1715782095" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1715783110" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -199,11 +199,16 @@
 					<div class="row">
 						<div class="mainheading">
 							<!-- Post Title -->
-							<h1 class="posttitle">The Grove Criterium 2018</h1>
+							<h1 class="posttitle" itemprop="headline">
+								The Grove Criterium 2018
+							</h1>
 
 							<h2 class="subheading">Bicycle Races in St. Louis, Missouri</h2>
 
-							<span class="meta">Posted on September 24, 2019</span>
+							<span class="meta"
+								>Posted on
+								<span itemprop="datePublished">September 24, 2019</span>
+							</span>
 
 							<span
 								class="time-tag-categ"
@@ -299,7 +304,10 @@
 					</div>
 					<div class="row">
 						<div class="container">
-							<div class="post-author text-center">
+							<div
+								class="post-author text-center"
+								itemtype="http://schema.org/Person"
+							>
 								<img
 									src="/img/2022_ChrisHammond_200.jpg"
 									alt="Chris Hammond's photo"
@@ -312,8 +320,8 @@
 										><a
 											href="/about/"
 											title="About Chris Hammond"
-											itemprop="url"
-											>Chris Hammond</a
+											itemprop="sameAs"
+											><span itemprop="name">Chris Hammond</span></a
 										></span
 									>
 								</h4>
@@ -324,6 +332,7 @@
 										display: inline-block;
 										font-size: 0.75em;
 									"
+									itemprop="description"
 								>
 									RainbowMarks Photography based out of Wildwood, MO.
 									Specializing in automotive, sports, events, action, landscapes

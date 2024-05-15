@@ -92,7 +92,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1715782095" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1715783110" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -208,7 +208,7 @@
 					<div class="row">
 						<div class="mainheading">
 							<!-- Post Title -->
-							<h1 class="posttitle">
+							<h1 class="posttitle" itemprop="headline">
 								Capturing the Spirit of CrossFit Competitions in St. Louis
 							</h1>
 
@@ -216,7 +216,9 @@
 								Have us photograph your next CrossFit competition or event!
 							</h2>
 
-							<span class="meta">Posted on October 1, 2023</span>
+							<span class="meta"
+								>Posted on <span itemprop="datePublished">October 1, 2023</span>
+							</span>
 
 							<span
 								class="time-tag-categ"
@@ -750,7 +752,10 @@
 					</div>
 					<div class="row">
 						<div class="container">
-							<div class="post-author text-center">
+							<div
+								class="post-author text-center"
+								itemtype="http://schema.org/Person"
+							>
 								<img
 									src="/img/2022_ChrisHammond_200.jpg"
 									alt="Chris Hammond's photo"
@@ -763,8 +768,8 @@
 										><a
 											href="/about/"
 											title="About Chris Hammond"
-											itemprop="url"
-											>Chris Hammond</a
+											itemprop="sameAs"
+											><span itemprop="name">Chris Hammond</span></a
 										></span
 									>
 								</h4>
@@ -775,6 +780,7 @@
 										display: inline-block;
 										font-size: 0.75em;
 									"
+									itemprop="description"
 								>
 									RainbowMarks Photography based out of Wildwood, MO.
 									Specializing in automotive, sports, events, action, landscapes
