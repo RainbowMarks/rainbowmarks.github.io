@@ -59,7 +59,7 @@ redirect_from:
 {% if paginator.total_pages > 1 %}
 <ul class="pager" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">
   {% if paginator.previous_page %}
-  <li class="previous">
+  <li class="previous pager-button btn btn-outline-primary">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
@@ -67,7 +67,7 @@ redirect_from:
   <span class="button-height"> Page {{paginator.page}} of {{paginator.total_pages}}</span>
 
   {% if paginator.next_page %}
-  <li class="next">
+  <li class="next pager-button btn btn-outline-primary">
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
   </li>
   {% endif %}

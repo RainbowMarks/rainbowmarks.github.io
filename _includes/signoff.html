@@ -1,5 +1,5 @@
-<div class="post-author text-center">                       
+<div class="post-author text-center" itemtype="http://schema.org/Person">                       
 	        <img src="{{ site.baseurl }}/img/{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/>    
-	    <h4>By <span itemprop="name" class="fn"><a href="{{ site.baseurl }}/about/" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></h4>
-	    <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;font-size:.75em;">{{ site.owner.info }}</div>
+	    <h4>By <span itemprop="name" class="fn"><a href="{{ site.baseurl }}/about/" title="About {{ site.owner.name }}" itemprop="sameAs" ><span itemprop="name">{{ site.owner.name }}</span></a></span></h4>
+	    <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;font-size:.75em;" itemprop="description">{{ site.owner.info }}</div>
 </div>
