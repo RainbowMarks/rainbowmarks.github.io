@@ -46,7 +46,7 @@
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1715782990">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1715784822">
     <link href="/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -77,6 +77,9 @@
     /></noscript>
     <!-- End Meta Pixel Code -->
 
+    <script src="https://code.jquery.com/jquery-3.7.1.slim.js" integrity="sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    
 </head>
   
   
@@ -241,7 +244,11 @@ style="margin-right:1em; z-index: 4;">
 
 <script language="javascript" type="text/javascript">
 	var pageUrl = "/Events/2023/01/RIP-Ken-Block";
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+
+
+	$(document).ready(function ($) {
+
+		//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
 	$('.popup').on('mfpChange', function(e /*, params */) {
 	  originalUrl = window.location.href.split('?')[0];
 	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
@@ -254,7 +261,7 @@ style="margin-right:1em; z-index: 4;">
 	  window.history.replaceState({}, '', pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
 	});
 
-	$(document).ready(function ($) {
+
     $('a.popup').magnificPopup({
       type: 'image',
       gallery: {
@@ -273,11 +280,11 @@ style="margin-right:1em; z-index: 4;">
 
 	//check if the url contains a photo
 	$( document ).ready(function($) {
-		//console.log('Page Load',  window.location.href.split('?')[1]);
+		console.log('Page Load',  window.location.href.split('?')[1]);
 		var galleryNameLoc = window.location.href.indexOf("galleryname=")
 		if(galleryNameLoc>0)
 		{
-			//console.log('Found Index',  index);
+			console.log('Found Index',  index);
 			var gindex = window.location.href.substring(galleryNameLoc+12).split("&")[0];
 			//console.log('G Index:', gindex);
 			//console.log('Item:',$('#' + gindex));
@@ -286,7 +293,7 @@ style="margin-right:1em; z-index: 4;">
 
 			if(loc>0)
 			{
-				//console.log('Found It',  window.location.href.substring(loc));
+				console.log('Found It',  window.location.href.substring(loc));
 				var index = window.location.href.substring(loc+9).split("&")[0];
 				//console.log('Found Index',  index);
 				//lookup the image on the page if there are multiple galleries		
@@ -425,8 +432,6 @@ style="margin-right:1em; z-index: 4;">
 </footer>
 
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
 
 
 <!-- Custom Theme JavaScript -->

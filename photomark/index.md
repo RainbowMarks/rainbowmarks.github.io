@@ -10,5 +10,5 @@ PhotoMark.co is a photo marking and sharing service for events. We provide a sim
 
 The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.
 
-- Chris Hammond RainbowMarks.com
+- Chris Hammond - RainbowMarks Photography
 
