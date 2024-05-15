@@ -9,7 +9,7 @@ date: '2024-01-01T23:15:00+00:00'
 header-img: "/img/posts/2024/EventPhotos/EventPhotos-1.jpg"
 permalink: "Events/2024/01/BookYour2024Events"
 tags: [events, bookings, book, digital, downloads, packages]
-featured: true
+featured: false
 includegallery: false
 galleryurl: 
 description: "Book RainbowMarks Photography for your 2024 events in the Midwest. Specializing in dynamic event photography in Wildwood, MO, and the St. Louis area. Covering sports, races, and more with flexible packages. Capture your memories in stunning detail!"
