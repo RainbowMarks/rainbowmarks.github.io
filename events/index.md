@@ -62,6 +62,7 @@ We have experience shooting events of all sizes and types. Some, but not all, of
       <li>Baseball</li>
       <li><a href="/events/hockey/">Ice Hockey</a></li>
       <li><a href="/events/hockey/">Roller Hockey</a></li>
+      <li><a href="/events/lacrosse/">Lacrosse</a></li>
       <li>Gymnastics</li>
       <li>Team Photos</li>
       <li>Individual Photos</li>
@@ -77,8 +78,7 @@ We have experience shooting events of all sizes and types. Some, but not all, of
       <li>NASCAR</li>
       <li>Indy Car</li>
     </ul>
-    
-    <h3>Bicycle Events</h3>
+   <h3>Bicycle Events</h3>
     <ul>
       <li><a href="/Events/2023/05/StLouisBikeRacePhotography/">Gravel Races</a></li>
       <li><a href="/Events/2023/05/StLouisBikeRacePhotography/">Cyclocross Races</a></li>
