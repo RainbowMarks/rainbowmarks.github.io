@@ -21,9 +21,9 @@ I err'd on the side of not including the logo on the photos that were made avail
 
 Well, I am proud to announce I've come up with a way for you to do that! 
 
-Introducing [PHOTOMARK.CO](https://PHOTOMARK.CO), a simple way for you to add the MR340 logo to your photos from the event. The basics are:
+Introducing [PHOTOMARK.CO](/), a simple way for you to add the MR340 logo to your photos from the event. The basics are:
 
-1. [Visit the website](https://PHOTOMARK.CO).
+1. [Visit the website](/photomark).
 2. Upload your photo. 
 3. Choose your Logo option (black and gray).
 4. Download the newly generated photo!
