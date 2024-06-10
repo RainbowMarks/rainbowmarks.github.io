@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Spirit of St. Louis Air Show & Stem Expo"
+title: "Spirit of St. Louis Air Show & STEM Expo"
 subtitle: "My favorite time of year, taking photos of airplanes at an air show!"
 active: "blog"
 image:

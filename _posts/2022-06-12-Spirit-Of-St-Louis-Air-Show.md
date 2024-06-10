@@ -9,7 +9,7 @@ date: '2022-06-12T21:20:00+00:00'
 header-img: "/img/posts/2022/AirShows/6-11-2022/AirShow-1.jpg"
 
 permalink: "Events/2022/06/SpiritAirShow"
-categories: [event, airshow]
+categories: [event, airshow, air show, st louis, missouri, fighter, jet ]
 featured: false
 ---
 
