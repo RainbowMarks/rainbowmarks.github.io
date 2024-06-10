@@ -6,7 +6,7 @@ active: "blog"
 image:
   feature: "/img/posts/2024/Wildlife/BaldEagles/BaldEagles-9.jpg"
 date: '2024-01-25T16:30:00+00:00'
-header-img: "/img/posts/2024//Wildlife/BaldEagles/BaldEagles-9.jpg"
+header-img: "/img/posts/2024/Wildlife/BaldEagles/BaldEagles-9.jpg"
 permalink: "Events/2024/01/BaldEaglesClarksville"
 categories: [ wildlife, nature, bald eagles]
 featured: false
@@ -17,34 +17,34 @@ keywords: "Missouri, Bald Eagle, Eagles, River, Winter, Freeze, Frozen, Fish, Wi
 
 gallery:
   BaldEaglesClarksville:
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-1.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-1.jpg
     image-caption: Bald Eagles in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-2.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-2.jpg
     image-caption: Bald Eagles Sunrise in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-3.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-3.jpg
     image-caption: Bald Eagle at Sunrise in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-4.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-4.jpg
     image-caption: Bald Eagle Lock and Dam in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-5.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-5.jpg
     image-caption: Bald Eagle carrying fish in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-6.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-6.jpg
     image-caption: Bald Eagle over Clarence Cannon National Wildlife Refuge in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-7.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-7.jpg
     image-caption: Bald Eagles in Winfield, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-8.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-8.jpg
     image-caption: Bald Eagles in Winfield, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/BaldEagles-9.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/BaldEagles-9.jpg
     image-caption: Bald Eagle over Clarence Cannon National Wildlife Refuge in Clarksville, Missouri
     image-copyright: Copyright 2024 RainbowMarks.com
-  - image_path: /img/posts/2024//Wildlife/BaldEagles/Birds2024.jpg
+  - image_path: /img/posts/2024/Wildlife/BaldEagles/Birds2024.jpg
     image-caption: 99 Photos of a Bald Eagle catching a fish
     image-copyright: Copyright 2024 RainbowMarks.com
 
