@@ -65,4 +65,4 @@ After an hour or so in Clarksville, I headed south on 79. I ended up driving thr
 
 Here in the gallery you can see a couple of the shots I was able to capture, I look forward to going back again soon.
 
-I've posted a 36 megabyte image that has 99 shots of one particular Bald Eagle going through the motions of catching and flying off with a fish. You can see the full high resolution photo here: [Bald Eagle Catching Fish](https://www.rainbowmarks.com/img/Birds2024-2.jpg)
+I've posted a 36 megabyte image that has 99 shots of one particular Bald Eagle going through the motions of catching and flying off with a fish. You can see the full high resolution photo here: [Bald Eagle Catching Fish](https://rainbowmarks.com/img/Birds2024-2.jpg)
