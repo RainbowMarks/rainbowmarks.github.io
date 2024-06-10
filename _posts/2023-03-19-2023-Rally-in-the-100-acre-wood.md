@@ -9,7 +9,7 @@ date: '2023-03-19T10:00:00+00:00'
 header-img: "/img/posts/2023/100aw/Stage3-11.jpg"
 
 permalink: "Events/2023/03/100AcreWood"
-tags: [event, motorsports, rally, dirt]
+categories: [event, motorsports, rally, dirt]
 featured: false
 redirect_from: 
   - "Events/2022/03/100AcreWood"

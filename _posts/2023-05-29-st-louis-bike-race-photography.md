@@ -9,7 +9,7 @@ date: '2023-05-29T00:20:00+00:00'
 header-img: "/img/posts/2023/Bikes/bikeracephotos/bikeracephotos-1.jpg"
 
 permalink: "Events/2023/05/StLouisBikeRacePhotography/"
-tags: [event, bikes]
+categories: [event, bikes]
 featured: false
 
 redirect_from: 

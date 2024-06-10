@@ -9,7 +9,7 @@ date: '2021-12-28T14:15:00+00:00'
 header-img: "/img/posts/2021/HolidayJamboree/HolidayJamboree-1.jpg"
 
 permalink: "Events/2021/12/ChesterfieldHockeyHolidayJamboree"
-tags: [event, hockey, tournament, usa-hockey, ice]
+categories: [event, hockey, tournament, usa-hockey, ice]
 featured: false
 ---
 

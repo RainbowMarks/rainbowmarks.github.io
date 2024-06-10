@@ -5,8 +5,8 @@
     <description>RainbowMarks Photography, Wildwood, Missouri</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 09 Jun 2024 23:18:46 -0500</pubDate>
-    <lastBuildDate>Sun, 09 Jun 2024 23:18:46 -0500</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2024 00:24:26 -0500</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2024 00:24:26 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -29,11 +29,10 @@
         <link>http://localhost:4000/Events/2024/06/SpiritOfStLouisAirShow</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/06/SpiritOfStLouisAirShow</guid>
         
+        
         <category>missouri</category>
         
         <category>air show</category>
-        
-        <category>planes</category>
         
         <category>airplanes</category>
         
@@ -41,6 +40,9 @@
         
         <category>st louis</category>
         
+        <category>fighter</category>
+        
+        <category>jet</category>
         
       </item>
     
@@ -65,6 +67,7 @@
         <link>http://localhost:4000/Events/2024/04/StLouisRegion</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/04/StLouisRegion</guid>
         
+        
         <category>missouri</category>
         
         <category>cars</category>
@@ -74,7 +77,6 @@
         <category>st louis</category>
         
         <category>scca</category>
-        
         
       </item>
     
@@ -140,6 +142,7 @@ Sunday the 7th I spent a few hours pouring over potential locations and weather 
         <link>http://localhost:4000/Events/2024/04/Eclipse</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/04/Eclipse</guid>
         
+        
         <category>space</category>
         
         <category>eclipse</category>
@@ -151,7 +154,6 @@ Sunday the 7th I spent a few hours pouring over potential locations and weather 
         <category>totality</category>
         
         <category>missouri</category>
-        
         
       </item>
     
@@ -187,12 +189,12 @@ Sunday the 7th I spent a few hours pouring over potential locations and weather 
         <link>http://localhost:4000/Events/2024/03/NASAPACELaunch</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/03/NASAPACELaunch</guid>
         
+        
         <category>space</category>
         
         <category>rocket</category>
         
         <category>launch</category>
-        
         
       </item>
     
@@ -234,8 +236,8 @@ Sunday the 7th I spent a few hours pouring over potential locations and weather 
         <link>http://localhost:4000/Events/2024/02/BlueNoteCupPhotography</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/02/BlueNoteCupPhotography</guid>
         
-        <category>hockey</category>
         
+        <category>hockey</category>
         
       </item>
     
@@ -263,12 +265,12 @@ Sunday the 7th I spent a few hours pouring over potential locations and weather 
         <link>http://localhost:4000/Events/2024/01/BaldEaglesClarksville</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/01/BaldEaglesClarksville</guid>
         
+        
         <category>wildlife</category>
         
         <category>nature</category>
         
         <category>bald eagles</category>
-        
         
       </item>
     
@@ -314,12 +316,12 @@ Sunday the 7th I spent a few hours pouring over potential locations and weather 
         <link>http://localhost:4000/Events/2024/01/January20thHockey</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/01/January20thHockey</guid>
         
+        
         <category>events</category>
         
         <category>hockey</category>
         
         <category>games</category>
-        
         
       </item>
     
@@ -401,6 +403,7 @@ Serving St. Louis and the Midwest&lt;br /&gt;
         <link>http://localhost:4000/Events/2024/01/BookYour2024Events</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2024/01/BookYour2024Events</guid>
         
+        
         <category>events</category>
         
         <category>bookings</category>
@@ -412,7 +415,6 @@ Serving St. Louis and the Midwest&lt;br /&gt;
         <category>downloads</category>
         
         <category>packages</category>
-        
         
       </item>
     
@@ -435,6 +437,7 @@ Serving St. Louis and the Midwest&lt;br /&gt;
         <link>http://localhost:4000/Events/2023/12/HolidayPrices</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2023/12/HolidayPrices</guid>
         
+        
         <category>sale</category>
         
         <category>holiday</category>
@@ -446,7 +449,6 @@ Serving St. Louis and the Midwest&lt;br /&gt;
         <category>physical</category>
         
         <category>digital</category>
-        
         
       </item>
     
@@ -481,6 +483,7 @@ Prefer to keep things digital? We’ve got you covered with 30% off all digital 
         <link>http://localhost:4000/Events/2023/11/Blackfriday</link>
         <guid isPermaLink="true">http://localhost:4000/Events/2023/11/Blackfriday</guid>
         
+        
         <category>sale</category>
         
         <category>holiday</category>
@@ -490,7 +493,6 @@ Prefer to keep things digital? We’ve got you covered with 30% off all digital 
         <category>blackfriday</category>
         
         <category>cybermonday</category>
-        
         
       </item>
     

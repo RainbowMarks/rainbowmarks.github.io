@@ -9,7 +9,7 @@ date: '2023-06-07T15:20:00+00:00'
 header-img: "/img/posts/2023/ScottAFBAirShow/ScottAFBAirShow-1.jpg"
 
 permalink: "Events/2023/06/ScottAFBAirShow/"
-tags: [event, airshow, airplane, fighter, jet, aircraft]
+categories: [event, airshow, airplanes, fighter, jet, air show]
 featured: false
 
 gallery:

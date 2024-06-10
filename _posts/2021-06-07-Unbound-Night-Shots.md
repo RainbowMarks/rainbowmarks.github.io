@@ -9,7 +9,7 @@ date: "2021-06-07T13:05:00+00:00"
 permalink: "Events/2021/06/unbound-gravel-night-shots"
 header-img: "/img/posts/UnboundGravel/Nightshots/Nightshots-225.jpg"
 
-tags: [bicycle,event,unbound]
+categories: [bicycle,event,unbound]
 ---
 
 The 2021 Unbound Gravel 200 about 2 miles 20.5 Miles from the Finish. Mostly 200 mile riders, with some XL's sprinkled in as well. We had a blast out cheering these riders on as the sunset and stuck around this point until after midnight.

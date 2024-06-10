@@ -8,7 +8,7 @@ image:
 date: '2023-08-28T18:30:00+00:00'
 header-img: "/img/posts/2023/Music/TheSideHustle/SkyLounge8182023-91.jpg"
 permalink: "Events/2023/08/TheSideHustle/"
-tags: [music, band, rock, Missouri, event]
+categories: [music, band, rock, missouri, event]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Music/The-Side-Hustle-Sky-Music-Lounge-August-2023/

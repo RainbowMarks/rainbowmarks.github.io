@@ -8,7 +8,7 @@ image:
 date: '2024-01-22T09:00:00+00:00'
 header-img: "/img/posts/2024/Hockey/January20thWeekend/January20thWeekend-1.jpg"
 permalink: "Events/2024/01/January20thHockey"
-tags: [events, hockey, games]
+categories: [events, hockey, games]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Hockey/23-24-Falcons-10U-A1

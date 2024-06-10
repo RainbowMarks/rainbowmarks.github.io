@@ -11,7 +11,7 @@ header-img: "/img/posts/2021/ICCChallenge/Air-1.jpg"
 permalink: "Events/2021/08/August-15-2021-ICC-Challenge-Mountain-Bike-Race"
 redirect_from: 
   -  "Events/2021/07/August-15-2021-ICC-Challenge-Mountain-Bike-Race"
-tags: [bike,event]
+categories: [bike,event]
 ---
 I was out at Indian Camp Creek park on 8/15/2021 shooting photos of the ICC Challenge mountain bike race. I tried to get a shot of everyone, I likely missed at least a few folks, but I've posted 3870 photos organized into three galleries.
 

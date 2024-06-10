@@ -9,7 +9,7 @@ date: '2022-07-17T23:00:00+00:00'
 header-img: "/img/posts/2022/Bikes/MinerTough/MinerTough-1.jpg"
 
 permalink: "Events/2022/07/MinerToughWeekend"
-tags: [event, bike, race, dirt, run, mtb, mountain bike]
+categories: [event, bike, race, dirt, run, mtb, mountain bike]
 featured: false
 
 ---

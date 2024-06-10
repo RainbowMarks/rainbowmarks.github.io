@@ -8,7 +8,7 @@ image:
 date: '2024-04-15T12:30:00+00:00'
 header-img: "/img/posts/2024/space/eclipse/Eclipse3000-3.jpg"
 permalink: "Events/2024/04/Eclipse"
-tags: [ space, eclipse, sun, moon, totality, missouri] 
+categories: [ space, eclipse, sun, moon, totality, missouri] 
 featured: true
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/April-8th-2024-Total-Eclipse

@@ -9,7 +9,7 @@ date: '2022-02-27T08:15:00+00:00'
 header-img: "/img/posts/2022/Gymnastics/StLouisClassic-90.jpg"
 
 permalink: "Events/2022/02/StLouisClassicGymnastics"
-tags: [event, gymnastics]
+categories: [event, gymnastics]
 featured: false
 ---
 

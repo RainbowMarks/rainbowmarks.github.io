@@ -9,7 +9,7 @@ date: '2023-05-17T09:20:00+00:00'
 header-img: "/img/posts/2023/Baseball/5-17-2023/5-17-2023-1.jpg"
 
 permalink: "Events/2023/05/May17thSection6"
-tags: [event, baseball]
+categories: [event, baseball]
 featured: false
 redirect_from: 
   - "Events/2022/05/May17thSection6"

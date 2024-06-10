@@ -9,7 +9,7 @@ date: '2019-09-26T16:47:25+00:00'
 permalink: "Events/2019/09/Photopalooza-2018-Sip-Shoot"
 header-img: "/img/posts/SipandShoot2018.jpg"
 
-tags: [event]
+categories: [event]
 ---
 November 8th, 2018 RainbowMarks took part in the Creve Coeuer Camera Photopalooza Sip &amp; Shoot out at Smartt Field in St. Charles, MO.
 

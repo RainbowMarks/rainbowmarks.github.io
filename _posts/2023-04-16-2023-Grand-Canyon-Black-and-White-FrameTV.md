@@ -9,7 +9,7 @@ date: '2023-04-16T10:00:00+00:00'
 header-img: "/img/posts/2023/GrandCanyonBW/GrandCanyonBW-6.jpg"
 
 permalink: "Events/2023/04/Grand-Canyon-Black-and-White-FrameTV"
-tags: [landscape, nature, grand canyon, frame tv]
+categories: [landscape, nature, grand canyon, frame tv]
 featured: false
 redirect_from: 
   - "Events/2022/04/Grand-Canyon-Black-and-White-FrameTV"

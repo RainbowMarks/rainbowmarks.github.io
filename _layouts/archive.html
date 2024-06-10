@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<!-- Begin List Posts
+================================================== -->
+<section class="recent-posts">
+    <div class="row listrecent">
+        <section class="section--postsWrapper">
+            <div class="container">
+                <div class="blockGroup">
+                    <ul class="blockGroup-list">  
+                        <div class="section-title">
+                            <h1>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h1>
+                        </div>
+                        {% for post in site.categories[page.title] %}
+                        <li class="block">
+                            <div class="postArticle-wrapper">
+                                <div class="post-preview"
+                                    style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+
+                                    <a href="{{ post.url | prepend: site.baseurl }}">
+                                    {% if post.image.feature %}
+                                    {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
+                                    {% endif %}
+                                    <p class="post-title"
+                                        style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+                                        {{ post.title }}
+                                    </p>
+                                    </a>
+                                    {% if post.subtitle %}
+                                    <p class="post-subtitle"
+                                    style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+                                    {{ post.subtitle }}</p>
+                                    {% endif %}
+
+                                    <p class="post-meta"
+                                    style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+                                    Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+                                </div>
+
+                            </div>
+                        </li>
+                        {% endfor %}    
+                        <p>&nbsp;</p>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+    </div>
+</section>

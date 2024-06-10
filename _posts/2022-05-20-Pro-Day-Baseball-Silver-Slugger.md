@@ -9,7 +9,7 @@ date: '2022-05-20T09:20:00+00:00'
 header-img: "/img/posts/2022/Baseball/5-20-2022/ProDay-1.jpg"
 
 permalink: "Events/2022/05/ProDayTournament2022"
-tags: [event, baseball]
+categories: [event, baseball]
 featured: false
 ---
 

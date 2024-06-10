@@ -9,7 +9,7 @@ date: '2022-04-27T09:25:00+00:00'
 header-img: "/img/posts/2022/Lacrosse/4-26-2022/4-26-2022-24.jpg"
 
 permalink: "Events/2022/04/April26Lacrosse"
-tags: [event, lacrosse]
+categories: [event, lacrosse]
 featured: false
 ---
 

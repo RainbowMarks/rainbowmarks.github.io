@@ -9,7 +9,7 @@ image:
 date: '2023-11-23T08:15:00+00:00'
 header-img: "/img/posts/2023/Christmas2014/Christmas2014-1.jpg"
 permalink: "Events/2023/12/HolidayPrices"
-tags: [sale, holiday, christmas, prints, physical, digital]
+categories: [sale, holiday, christmas, prints, physical, digital]
 featured: false
 includegallery: false
 galleryurl: 

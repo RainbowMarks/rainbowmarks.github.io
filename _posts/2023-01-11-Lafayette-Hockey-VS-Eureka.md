@@ -9,7 +9,7 @@ date: '2023-01-11T00:30:00+00:00'
 header-img: "/img/posts/2023/Lafayette/LafayetteVSEureka-1.jpg"
 
 permalink: "Events/2023/01/Lafayette-VS-Eureka"
-tags: [news, hockey, event]
+categories: [news, hockey, event]
 featured: false
 
 ---

@@ -9,7 +9,7 @@ date: '2022-04-27T09:20:00+00:00'
 header-img: "/img/posts/2022/Baseball/4-26-2022/4-26-2022Team-18.jpg"
 
 permalink: "Events/2022/04/April26JVBaseball"
-tags: [event, baseball]
+categories: [event, baseball]
 featured: false
 ---
 

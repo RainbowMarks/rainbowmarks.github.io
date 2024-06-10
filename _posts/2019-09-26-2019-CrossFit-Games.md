@@ -9,7 +9,7 @@ date: '2019-09-26T19:58:21+00:00'
 permalink: "Events/2019/09/2019-CrossFit-Games"
 header-img: "/img/posts/CrossFitGames2019.jpg"
 
-tags: [crossfit,event]
+categories: [crossfit,event]
 ---
 
 One of the coolest things RainbowMarks has ever done was attend and shoot the 2019 CrossFit Games in Madison Wisconsin. We had received press credentials, so our access to the games was absolutely amazing.

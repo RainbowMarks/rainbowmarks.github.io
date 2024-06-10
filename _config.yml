@@ -67,8 +67,17 @@ tags_path: "/blog/tag/"
 # Plugins
 plugins:
  - jekyll-paginate
+ - jekyll-feed
+ - jekyll-archives
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md",vendor]
 
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
 # SiteMap
 sitemap:

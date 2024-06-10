@@ -9,7 +9,7 @@ date: '2023-01-30T20:30:00+00:00'
 header-img: "/img/posts/2023/Knights/Knights-1.jpg"
 
 permalink: "Events/2023/01/Knights-vs-Blues"
-tags: [news, hockey, event]
+categories: [news, hockey, event]
 featured: false
 
 ---

@@ -9,7 +9,7 @@ date: '2023-05-25T09:20:00+00:00'
 header-img: "/img/posts/2023/Hockey/5-23-2023/5-23-2023-1.jpg"
 
 permalink: "Events/2023/05/AAABluesHockeySpring/"
-tags: [event, hockey]
+categories: [event, hockey]
 featured: false
 
 redirect_from: 

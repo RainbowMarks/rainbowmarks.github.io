@@ -9,7 +9,7 @@ date: '2022-04-11T09:15:00+00:00'
 header-img: "/img/posts/2022/AprilChesterfieldJamboree/AprilChesterfieldJamboree-1.jpg"
 
 permalink: "Events/2022/04/AprilChesterfieldJamboree"
-tags: [event, hockey]
+categories: [event, hockey]
 featured: false
 ---
 

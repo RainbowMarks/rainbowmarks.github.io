@@ -9,7 +9,7 @@ date: '2023-07-09T13:20:00+00:00'
 header-img: "/img/posts/2023/Watersports/Freedom100/Freedom100-1.jpg"
 
 permalink: "Events/2023/07/Freedom100/"
-tags: [event, padding, boat, race]
+categories: [event, padding, boat, race]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Watersports/The-Freedom-Race-100

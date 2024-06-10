@@ -9,7 +9,7 @@ date: '2022-01-17T13:15:00+00:00'
 header-img: "/img/posts/2022/Blues/BluesVsKracken-2.jpg"
 
 permalink: "Events/2022/01/Chesterfield-Hockey-At-St-Louis-Blues"
-tags: [event, hockey, tournament, usa-hockey, ice, nhl, blues]
+categories: [event, hockey, tournament, usa-hockey, ice, nhl, blues]
 featured: false
 ---
 

@@ -8,7 +8,7 @@ image:
 date: '2024-02-28T10:30:00+00:00'
 header-img: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.jpg"
 permalink: "Events/2024/02/BlueNoteCupPhotography"
-tags: [ hockey ]
+categories: [ hockey ]
 featured: false
 includegallery: false
 galleryurl: 

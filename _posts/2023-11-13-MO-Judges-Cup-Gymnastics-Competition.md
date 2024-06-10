@@ -9,7 +9,7 @@ date: '2023-11-13T08:15:00+00:00'
 header-img: "/img/posts/2023/Gymnastics/MoJudgesCup-1.jpg"
 
 permalink: "Events/2023/11/MoJudgesCup"
-tags: [event, gymnastics]
+categories: [ event, gymnastics, missouri ]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Gymnastics/MO-Judges-Cup-2023

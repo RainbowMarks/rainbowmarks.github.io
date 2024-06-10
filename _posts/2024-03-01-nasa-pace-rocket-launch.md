@@ -8,7 +8,7 @@ image:
 date: '2024-03-01T09:30:00+00:00'
 header-img: "/img/posts/2024/space/nasapace/PACELaunch-1.jpg"
 permalink: "Events/2024/03/NASAPACELaunch"
-tags: [ space, rocket, launch] 
+categories: [ space, rocket, launch] 
 featured: true
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/SpaceX-Falcon-9-PACE-Launch

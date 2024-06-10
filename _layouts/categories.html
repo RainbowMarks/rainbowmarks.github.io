@@ -1,0 +1,65 @@
+---
+layout: default
+description: "Categories for {{ site.title }}"
+permalink: "/category"
+---
+<h1>{{ site.title }} - Categories</h1>
+<div class="row listrecent">
+    {% assign sortedCategories = site.categories | sort %}
+    {% for category in sortedCategories %}
+
+    <section class="section--postsWrapper">
+        <div class="container">
+            <div class="blockGroup">
+                <div class="section-title col-md-12 mt-4">
+                    <h2 id="{{ category[0] | replace: " ","-" }}">Category <span class="text-capitalize"><a href="{{site.baseurl}}/category/{{ category[0] | url_escape | strip | slugify }}/">{{ category[0] }}</a></span></h2>
+                </div>
+           
+
+                <ul class="blockGroup-list">  
+
+                {% assign pages_list = category[1] %}
+                {% for post in pages_list %}
+                {% if post.title != null %}
+                {% if group == null or group == post.group %}
+
+                <li class="block">
+                    <div class="postArticle-wrapper">
+                        <div class="post-preview"
+                            style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
+
+                            <a href="{{ post.url | prepend: site.baseurl }}">
+                            {% if post.image.feature %}
+                            {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
+                            {% endif %}
+                            <p class="post-title"
+                                style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+                                {{ post.title }}
+                            </p>
+                            </a>
+                            {% if post.subtitle %}
+                            <p class="post-subtitle"
+                            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+                            {{ post.subtitle }}</p>
+                            {% endif %}
+
+                            <p class="post-meta"
+                            style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">
+                            Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+                        </div>
+                    </div>
+                </li>
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+        <p>&nbsp;</p>
+                </ul>
+            </div>
+        </div>
+    </section>
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+{% endfor %}
+
+
+</div>

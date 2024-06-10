@@ -9,7 +9,7 @@ date: '2023-02-13T10:30:00+00:00'
 header-img: "/img/posts/2023/Falcons/2-12-2023-41.jpg"
 
 permalink: "Events/2023/02/Falcons-vs-St-Peters"
-tags: [news, hockey, event]
+categories: [news, hockey, event]
 featured: false
 
 ---

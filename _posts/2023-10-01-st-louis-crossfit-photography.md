@@ -9,7 +9,7 @@ date: '2023-10-01T09:00:00+00:00'
 header-img: "/img/posts/2023/CrossFit/CrossFit-1.jpg"
 
 permalink: "Events/2023/10/CrossFitPhotography/"
-tags: [event, CrossFit]
+categories: [event, crossfit ]
 featured: false
 
 gallery:

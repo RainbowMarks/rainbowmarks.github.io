@@ -9,7 +9,7 @@ date: "2021-06-07T13:04:00+00:00"
 permalink: "Events/2021/06/unbound-gravel-finish-line"
 header-img: "/img/posts/UnboundGravel/FinishLine/FinishLine-7.jpg"
 
-tags: [bicycle,event,unbound]
+categories: [bicycle,event,unbound]
 ---
 
 A small collection of 2021 Unbound Gravel 200 Finish Line Shots, we weren't around the finish long unfortunately. 

@@ -9,7 +9,7 @@ date: "2021-06-07T13:00:00+00:00"
 permalink: "Events/2021/06/unbound-gravel-alma"
 header-img: "/img/posts/UnboundGravel/AlmaCheckPoint/AlmaCheckPoint-5.jpg"
 
-tags: [bicycle,event,unbound]
+categories: [bicycle,event,unbound]
 ---
 
 The 2021 Unbound Gravel 200 Alma Checkpoint #1, Around mile 66 on the 200 mile route. If you haven't been to Alma before, you should check it out! It is a wonderful small town in Texas and has been featured in both the 2019 and 2021 rides.

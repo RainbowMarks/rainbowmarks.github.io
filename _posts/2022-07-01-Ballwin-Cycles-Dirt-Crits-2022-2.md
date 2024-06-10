@@ -9,7 +9,7 @@ date: '2022-07-01T10:00:00+00:00'
 header-img: "/img/posts/2022/Bikes/DirtCrits2/DirtCrits2-244.jpg"
 
 permalink: "Events/2022/06/BallwinCyclesDirtCrits2022-2"
-tags: [event, bike, race, dirt]
+categories: [event, bike, race, dirt]
 featured: false
 ---
 

@@ -9,7 +9,7 @@ date: '2021-07-19T08:30:00+00:00'
 header-img: "/img/posts/2021/RunTheLeadbelt/RunTheLeadbelt-3.jpg"
 
 permalink: "Events/2021/07/July-17-2021-Run-The-Leadbelt"
-tags: [run,event]
+categories: [run,event]
 ---
 Run The Leadbelt took place in St. Joe State Park near Park Hill, Missouri on Saturday July 17th, 2021. We were out shooting for both days, we attempted to get everyone who competed, apologies if we missed you! 
 

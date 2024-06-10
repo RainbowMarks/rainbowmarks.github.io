@@ -8,7 +8,7 @@ image:
 date: '2024-04-22T12:30:00+00:00'
 header-img: "/img/posts/2024/autocross/stlouis/Event2-6.jpg"
 permalink: "Events/2024/04/StLouisRegion"
-tags: [ missouri, cars, autocross, st louis, scca ] 
+categories: [ missouri, cars, autocross, st louis, scca ] 
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Autocross

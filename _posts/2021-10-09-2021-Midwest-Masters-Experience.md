@@ -9,7 +9,7 @@ date: '2021-10-11T09:15:00+00:00'
 header-img: "/img/posts/2021/MWME/Overall-6.jpg"
 
 permalink: "Events/2021/10/MidwestMastersExperience"
-tags: [event, crossfit, competition]
+categories: [event, crossfit, competition]
 featured: false
 ---
 

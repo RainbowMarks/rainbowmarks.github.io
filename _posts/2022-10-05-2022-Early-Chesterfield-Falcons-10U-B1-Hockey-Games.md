@@ -9,7 +9,7 @@ date: '2022-10-05T09:30:00+00:00'
 header-img: "/img/posts/2022/Hockey/EarlySeason/EarlySeason-1.jpg"
 
 permalink: "Events/2022/10/Early-Chesterfield-Falcons-10U-B1-Hockey-Games"
-tags: [hockey, event, game, youth]
+categories: [hockey, event, game, youth]
 featured: false
 ---
 As the 22-23 Hockey Season has started, I wanted to get a blog post up with an easy way to get to photos from the Hockey games I've shot. Primarily I will be shooting the Chesterfield Falcons 10U B1 team, but I will also be shooting other games here and there as well!

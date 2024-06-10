@@ -9,7 +9,7 @@ date: '2022-01-09T19:15:00+00:00'
 header-img: "/img/posts/2022/OldKinderhook/OldKinderhook-1.jpg"
 
 permalink: "Events/2022/01/Old-Kinderhook-8u-White-Hockey-Tournament"
-tags: [event, hockey, tournament, usa-hockey, ice, old kinderhook]
+categories: [event, hockey, tournament, usa-hockey, ice, old kinderhook]
 featured: false
 ---
 

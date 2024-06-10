@@ -9,7 +9,7 @@ date: '2022-03-09T14:15:00+00:00'
 header-img: "/img/posts/2022/Nashville/Games-82.jpg"
 
 permalink: "Events/2022/03/CountryWesternShowdownHockey"
-tags: [event, hockey]
+categories: [event, hockey]
 featured: false
 ---
 

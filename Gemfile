@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'html-proofer'
   gem 'jekyll-redirect-from'
+  gem 'jekyll-archives'
 
 end
 gem "webrick", "~> 1.7"
