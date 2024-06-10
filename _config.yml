@@ -1,7 +1,7 @@
 # Site settings
 title: RainbowMarks Photography
 email: "rainbowmarks@christoc.com"
-description: "RainbowMarks Photography, Wildwood, Missouri"
+description: "RainbowMarks Photography, specializing in event photography in and around St. Louis Missouri."
 url: https://rainbowmarks.com
 baseurl: 
 facebook_username: "rainbowmarksphoto"
@@ -11,7 +11,7 @@ github_username:
 deviantart_username: 
 flickr_username: "chammond"
 discus_shortname: "rainbowmarks"
-share: false
+share: true
 google_analytics: G-6V585TFXGW # UA-69145-51
 
 data_dir: _data

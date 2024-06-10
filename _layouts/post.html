@@ -56,6 +56,9 @@ layout: default
     {{ content }}
     <br>
     <br>
+    <hr class="small" />
+
+    {% if site.share %}{% include share.html %}{% endif %}
 
     <!-- Post Categories -->
     <div class="after-post-cats">
@@ -108,9 +111,6 @@ layout: default
   <div class="row">
     <div class="container">
     {% include signoff.html %}
-    <hr class="small">
-    {% if site.share %}{% include share.html %}{% endif %}
-
     </div>
   </div>
   </div>
