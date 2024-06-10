@@ -7,45 +7,42 @@ layout: default
  
   <!-- Post Content -->
   <div class="container">
+    <div class="row">
+      <div class="mainheading">
+          <!-- Post Title -->
+        <h1 class="posttitle" itemprop="headline">{{ page.title }}</h1>
+        <span class="meta">Posted on <span itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</span>
+          {% if page.last_modified_at %}
+          (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y %H:%M" }}</time>)
+          {% endif %}
 
-  <div class="row">
-    <div class="mainheading">
+        </span>
 
-      <!-- Post Title -->
-    <h1 class="posttitle" itemprop="headline">{{ page.title }}</h1>
-    {% if page.subtitle %}
-      <h2 class="subheading">{{ page.subtitle }}</h2>
-      {% endif %}
-      <span class="meta">Posted on <span itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</span>
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y %H:%M" }}</time>)
+        <span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.45);">
+
+        {% assign minutes = content | number_of_words | divided_by: 180 %}
+        <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+        {{ minutes }} minute read
+
+        </span>
+
+        <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+        {% if site.adsense == "enabled" %}
+          {% include adsense-under-header.html %}
+        {% endif %}
+        <!-- End Adsense -->
+
+        <!-- Post Featured Image -->
+        {% if page.image.feature %}
+          {% picture {{ page.image.feature }} class="featured-image img-fluid lazyimg" --alt {{ page.title}}  %}
+        {% endif %}
+        <!-- End Featured Image -->
+
+        {% if page.subtitle %}
+        <h2 class="subheading">{{ page.subtitle }}</h2>
         {% endif %}
 
-      </span>
-
-      <span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.45);">
-
-      {% assign minutes = content | number_of_words | divided_by: 180 %}
-      <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
-      {{ minutes }} minute read
-
-      </span>
-  
-    <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-    {% if site.adsense == "enabled" %}
-      {% include adsense-under-header.html %}
-    {% endif %}
-    <!-- End Adsense -->
-
-    <!-- Post Featured Image -->
-    {% if page.image.feature %}
-      {% picture {{ page.image.feature }} class="featured-image img-fluid lazyimg" --alt {{ page.title}}  %}
-    {% endif %}
-    <!-- End Featured Image -->
-
-  </div>
-  
-  
+      </div>  
   </div>
 
   <div class="row">

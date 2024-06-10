@@ -9,7 +9,7 @@ date: '2024-01-25T16:30:00+00:00'
 header-img: "/img/posts/2024//Wildlife/BaldEagles/BaldEagles-9.jpg"
 permalink: "Events/2024/01/BaldEaglesClarksville"
 tags: [ wildlife, nature, bald eagles]
-featured: true
+featured: false
 includegallery: false
 galleryurl: 
 description: ""
