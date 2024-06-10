@@ -4,4 +4,6 @@ tag: "autocross"
 title: "Tags - Autocross Photos"
 permalink: "/blog/tag/autocross/"
 header-img: "/img/posts/ProFinale2018.jpg"
+redirect_to:
+  - /category/autocross/
 ---

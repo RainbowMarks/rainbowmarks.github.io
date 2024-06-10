@@ -57,10 +57,8 @@ This week was no different, after getting back from our trip to NYC super early 
 
 I spent the afternoon Thursday running in and out of the house camera in hand trying to get photos of planes as they flew over while simultaneously trying to get work done throughout the day.
 
-Friday I was able to view quite a bit of the practices flights that occurred from up off of Wildhorse Creek Road in Chesterfield, followed by spending the entire day Saturday sitting just past the end of the runway at Spirit Airport to catch the performers in action.
+Friday I was able to view quite a bit of the practice flights that occurred from up off of Wildhorse Creek road in Chesterfield. Saturday I spent the entire day in a spot at the air show just beyond the end of the runway at Spirit Airport to catch the performers in action.
 
-Over the past 4 days I took nearly thirteen thousand photos and have spent a considerable amount of time culling down to a manageable list of photos that I thought could be published. 
+Over the past 4 days I took nearly thirteen thousand photos, I have spent a considerable amount of time culling down to a manageable list of photos that I thought could be published, you can find over 300 for your viewing pleasure in the [online gallery](https://photos.rainbowmarks.com/2024/Spirit-Of-St-Louis-Air-Show-Stem-Expo) with just a few of those featured in the gallery here on this blog post. 
 
-You will find a small selection of those published photos here, and the rest in our [online gallery for the Spirit of St. Louis Air Show & STEM Expo](https://photos.rainbowmarks.com/2024/Spirit-Of-St-Louis-Air-Show-Stem-Expo).
-
-Stay tuned as we work on some special print promotions from the Air Show later this month.
+Stay tuned as we work on some special print discounts from the Air Show later this month.

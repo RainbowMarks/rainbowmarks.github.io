@@ -8,7 +8,7 @@ image:
 date: '2023-08-17T16:30:00+00:00'
 header-img: "/img/posts/2023/MR340/ReaperMark.jpg"
 permalink: "Events/2023/08/PHOTOMARK/"
-categories: [event, race, paddle, boat, MR340, river, Missouri]
+categories: [event, race, paddle, boat, MR340, river, missouri ]
 featured: false
 includegallery: false
 ---
