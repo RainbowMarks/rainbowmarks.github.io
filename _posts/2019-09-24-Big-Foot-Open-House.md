@@ -9,7 +9,7 @@ date: "2019-09-24T18:07:19+00:00"
 header-img: "/img/posts/BigFoot2018.jpg"
 
 permalink: "Events/2019/09/Big-Foot-Open-House"
-categories: [motorsports,event]
+categories: [ missouri, monster truck, big foot, high roller, events, automobile, trucks, motorsports ] 
 ---
 
 In June 2018 we went down to visit our friends from the High Roller monster truck at the Big Foot Open House in Pacific, Missouri. Check out some of those photos!
