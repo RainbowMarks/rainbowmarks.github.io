@@ -5,7 +5,7 @@ subtitle: "My favorite time of year, taking photos of airplanes at an air show!"
 active: "blog"
 image:
   feature: "/img/posts/2024/june/spiritofstlouis/spiritblogpost-9.jpg"
-date: '2024-05-09T20:30:00+00:00'
+date: '2024-06-09T20:30:00+00:00'
 header-img: "/img/posts/2024/june/spiritofstlouis/spiritblogpost-9.jpg"
 permalink: "Events/2024/06/SpiritOfStLouisAirShow"
 categories: [ missouri, air show, airplanes, blue angels, st louis, fighter, jet ] 

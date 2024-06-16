@@ -5,7 +5,7 @@ subtitle: "6 years later I finally made it back to the Big Foot Open House!"
 active: "blog"
 image:
   feature: "/img/posts/2024/june/bigfootopenhouse/bigfootopenhouseblog-1.jpg"
-date: '2024-05-09T20:30:00+00:00'
+date: '2024-06-15T20:30:00+00:00'
 header-img: "/img/posts/2024/june/bigfootopenhouse/bigfootopenhouseblog-1.jpg"
 permalink: "Events/2024/06/big-foot-open-house"
 categories: [ missouri, monster truck, big foot, high roller, events, automobile, trucks, motorsports ] 
