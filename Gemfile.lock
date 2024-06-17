@@ -26,7 +26,7 @@ GEM
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
-    fiber-storage (0.1.1)
+    fiber-storage (0.1.2)
     forwardable-extended (2.6.0)
     google-protobuf (4.27.1-x86_64-linux)
       bigdecimal
@@ -44,7 +44,7 @@ GEM
     http_parser.rb (0.8.0)
     i18n (1.14.5)
       concurrent-ruby (~> 1.0)
-    io-event (1.6.0)
+    io-event (1.6.4)
     jekyll (4.3.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -96,7 +96,7 @@ GEM
     mime-types (3.5.2)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2024.0604)
-    nokogiri (1.16.5-x86_64-linux)
+    nokogiri (1.16.6-x86_64-linux)
       racc (~> 1.4)
     objective_elements (1.1.2)
     pathutil (0.16.2)
@@ -107,21 +107,21 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    public_suffix (5.0.5)
+    public_suffix (5.1.1)
     racc (1.8.0)
     rainbow (3.1.1)
     rake (13.2.1)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rexml (3.2.9)
+    rexml (3.3.0)
       strscan
-    rouge (4.2.1)
+    rouge (4.3.0)
     ruby-rc4 (0.1.5)
     ruby-vips (2.0.17)
       ffi (~> 1.9)
     safe_yaml (1.0.5)
-    sass-embedded (1.77.4-x86_64-linux-gnu)
+    sass-embedded (1.77.5-x86_64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
     strscan (3.1.0)
     terminal-table (3.0.2)
@@ -133,7 +133,7 @@ GEM
     unicode-display_width (2.5.0)
     webrick (1.8.1)
     yell (2.2.2)
-    zeitwerk (2.6.15)
+    zeitwerk (2.6.16)
 
 PLATFORMS
   x86_64-linux
