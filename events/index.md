@@ -63,7 +63,7 @@ We have experience shooting events of all sizes and types. Some, but not all, of
       <li><a href="/events/hockey/">Ice Hockey</a></li>
       <li><a href="/events/hockey/">Roller Hockey</a></li>
       <li><a href="/events/lacrosse/">Lacrosse</a></li>
-      <li>Gymnastics</li>
+      <li><a href="/Events/2023/11/MoJudgesCup">Gymnastics</a></li>
       <li>Team Photos</li>
       <li>Individual Photos</li>
     </ul>
@@ -71,12 +71,12 @@ We have experience shooting events of all sizes and types. Some, but not all, of
     <ul>
       <li>Car Shows</li>
       <li>Automotive Races</li>
-      <li>Monster Trucks</li>
+      <li><a href="/Events/2024/06/big-foot-open-house">Monster Trucks</a></li>
       <li>Rally Races</li>
-      <li>Road Races</li>
-      <li>Autocross</li>
-      <li>NASCAR</li>
-      <li>Indy Car</li>
+      <li><a href="/Events/2021/10/2021RunOffs">Road Races</a></li>
+      <li><a href="/Events/2024/04/StLouisRegion">Autocross</a></li>
+      <li><a href="/Events/2023/06/EnjoyIllinois300/">NASCAR</a></li>
+      <li><a href="/Events/2021/08/August-21-2021-IndyCar-Race-At-WWT-Raceway">Indy Car</a></li>
     </ul>
    <h3>Bicycle Events</h3>
     <ul>
@@ -88,15 +88,15 @@ We have experience shooting events of all sizes and types. Some, but not all, of
     </ul>
   </div>
   <div class="col-6">
-    <h3>CrossFit Events</h3>
+    <h3><a href="/Events/2023/10/CrossFitPhotography/">CrossFit Events</a></h3>
     <ul>
-      <li>CrossFit Games</li>
-      <li>Team Competitions</li>
+      <li><a href="/Events/2019/09/2019-CrossFit-Games">CrossFit Games</a></li>
+      <li><a href="/Events/2021/10/MidwestMastersExperience">Team Competitions</a></li>
       <li>Individual Competitions</li>
     </ul>
     <h3>Running Events</h3>
     <ul>
-      <li>Trail Runs</li>
+      <li><a href="/Events/2023/07/MinerTough/">Trail Runs</a></li>
       <li>Ultra-Marathons</li>
     </ul>
     <h3>Watersports</h3>
@@ -107,7 +107,7 @@ We have experience shooting events of all sizes and types. Some, but not all, of
         <h3>Music Events</h3>
     <ul>
       <li>Concerts</li>
-      <li>Lounge Events</li>
+      <li><a href="/Events/2023/08/TheSideHustle/">Lounge Events</a></li>
       <li>Band Competitions</li>
       <li>Bar Shows</li>
     </ul>
