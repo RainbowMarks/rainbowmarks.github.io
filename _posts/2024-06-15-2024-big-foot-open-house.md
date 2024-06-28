@@ -39,7 +39,7 @@ gallery:
     image-caption: "High Roller II at the 2024 Big Foot Open House"
     image-copyright: Copyright 2024 RainbowMarks.com
 ---
-One of the very first blog posts on this website, from back in 2019, was for the [2018 Big Foot Open House](Events/2019/09/Big-Foot-Open-House). Six years later I finally made it back out to the Big Foot Open House in Pacific Missouri and took more photos! 
+One of the very first blog posts on this website, from back in 2019, was for the [2018 Big Foot Open House](/Events/2019/09/Big-Foot-Open-House). Six years later I finally made it back out to the Big Foot Open House in Pacific Missouri and took more photos! 
 
 I'm fond of High Roller II, so I went with the intention of taking some great pictures of the Krekeler's Ford Ranger, but I managed to also get quite a few other trucks while I was out there this year.
 
