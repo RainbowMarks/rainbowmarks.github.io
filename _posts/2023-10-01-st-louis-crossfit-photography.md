@@ -3,8 +3,7 @@ layout: "post"
 title: "Capturing the Spirit of CrossFit Competitions in St. Louis"
 subtitle: "Have us photograph your next CrossFit competition or event!"
 active: "blog"
-image:
-  feature: "/img/posts/2023/CrossFit/CrossFit-1.jpg"
+image: "/img/posts/2023/CrossFit/CrossFit-1.jpg"
 date: '2023-10-01T09:00:00+00:00'
 header-img: "/img/posts/2023/CrossFit/CrossFit-1.jpg"
 

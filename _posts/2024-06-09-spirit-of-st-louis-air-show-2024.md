@@ -3,12 +3,11 @@ layout: "post"
 title: "Spirit of St. Louis Air Show & STEM Expo"
 subtitle: "My favorite time of year, taking photos of airplanes at an air show!"
 active: "blog"
-image:
-  feature: "/img/posts/2024/june/spiritofstlouis/spiritblogpost-9.jpg"
+image: "/img/posts/2024/june/spiritofstlouis/spiritblogpost-9.jpg"
 date: '2024-06-09T20:30:00+00:00'
 header-img: "/img/posts/2024/june/spiritofstlouis/spiritblogpost-9.jpg"
 permalink: "Events/2024/06/SpiritOfStLouisAirShow"
-categories: [ missouri, air show, airplanes, blue angels, st louis, fighter, jet ] 
+categories: [ missouri, air show, airplanes, blue angels, st louis, fighter, jet, event, events ] 
 featured: true
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Spirit-Of-St-Louis-Air-Show-Stem-Expo

@@ -3,8 +3,7 @@ layout: "post"
 title: "2-12-2023 Chesterfield Falcons 10u B1 vs St Peters B1"
 subtitle: "at Pacific Ice Rink"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Falcons/2-12-2023-41.jpg"
+image: "/img/posts/2023/Falcons/2-12-2023-41.jpg"
 date: '2023-02-13T10:30:00+00:00'
 header-img: "/img/posts/2023/Falcons/2-12-2023-41.jpg"
 

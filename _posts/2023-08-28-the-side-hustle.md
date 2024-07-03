@@ -3,8 +3,7 @@ layout: "post"
 title: "The Side Hustle at Sky Music Lounge 8-18-2023"
 subtitle: "Music in St. Louis"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Music/TheSideHustle/SkyLounge8182023-91.jpg"
+image: "/img/posts/2023/Music/TheSideHustle/SkyLounge8182023-91.jpg"
 date: '2023-08-28T18:30:00+00:00'
 header-img: "/img/posts/2023/Music/TheSideHustle/SkyLounge8182023-91.jpg"
 permalink: "Events/2023/08/TheSideHustle/"

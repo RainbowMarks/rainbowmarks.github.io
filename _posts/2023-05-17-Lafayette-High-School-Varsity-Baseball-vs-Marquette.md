@@ -3,8 +3,7 @@ layout: "post"
 title: "Lafayette High School Varsity Baseball VS Marquette Class 6 Playoffs"
 subtitle: "Swing batter batter swing"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Baseball/5-17-2023/5-17-2023-1.jpg"
+image: "/img/posts/2023/Baseball/5-17-2023/5-17-2023-1.jpg"
 date: '2023-05-17T09:20:00+00:00'
 header-img: "/img/posts/2023/Baseball/5-17-2023/5-17-2023-1.jpg"
 

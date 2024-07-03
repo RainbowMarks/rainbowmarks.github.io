@@ -3,8 +3,7 @@ layout: "post"
 title: "2018 ProSolo Finale - Super Challenge"
 subtitle: "Autocross in Lincoln, Nebraska"
 active: "blog"
-image:
-  feature: "/img/posts/ProFinale2018.jpg"
+image: "/img/posts/ProFinale2018.jpg"
 date: '2019-09-26T15:58:48+00:00'
 permalink: "Events/2019/09/2018-ProSolo-Finale-Super-Challenge"
 header-img: "/img/posts/ProFinale2018.jpg"

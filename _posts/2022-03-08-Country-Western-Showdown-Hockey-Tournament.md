@@ -3,8 +3,7 @@ layout: "post"
 title: "Nashville Country Western Showdown Hockey 2022"
 subtitle: "Cowboy hats on ice!"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Nashville/Games-82.jpg"
+image: "/img/posts/2022/Nashville/Games-82.jpg"
 date: '2022-03-09T14:15:00+00:00'
 header-img: "/img/posts/2022/Nashville/Games-82.jpg"
 

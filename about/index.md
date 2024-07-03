@@ -4,8 +4,7 @@ title: "About"
 description: "More about RainbowMarks Photography and Chris Hammond"
 active: about
 header-img: "img/slider/home03.jpg"
-image:
-  feature: "img/slider/home03.jpg"
+image: "img/slider/home03.jpg"
 redirect_from:
   - About
   - About/

@@ -3,8 +3,7 @@ layout: "post"
 title: "Chesterfield Hockey 6U Inaugural Holiday Classic"
 subtitle: "Mini-mite hockey"
 active: "blog"
-image:
-    feature: "/img/posts/2019MiniMiteHolidayClassicDay300.jpg"
+image:  "/img/posts/2019MiniMiteHolidayClassicDay300.jpg"
 date: '2019-12-29T22:50:26+00:00'
 permalink: "Events/2019/12/chesterfield-hockey-6u-inaugural-holiday-classic"
 header-img: "/img/posts/2019MiniMiteHolidayClassicDay300.jpg"

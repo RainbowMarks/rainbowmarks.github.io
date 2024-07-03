@@ -5,8 +5,7 @@ description: "Have us shoot your Lacrosse game around the St. Louis Region!"
 keywords: "St. Louis lacrosse photography, Lacrosse photographers in St. Louis, Sports photography St. Louis, Lacrosse action shots, St. Louis youth sports photography, Professional lacrosse photos, St. Louis game photography, RainbowMarks lacrosse photos, High-quality lacrosse pictures, Affordable lacrosse photography St. Louis"
 active: "events"
 header-img: "/img/LacrosseEvents-1.jpg"
-image:
-  feature: "/img/LacrosseEvents-1.jpg"
+image: "/img/LacrosseEvents-1.jpg"
 type: website
 ---
 Capture every goal, every pass, and every triumphant cheer right here in St. Louis. Let the passion of the game and the spirit of young talent shine through in stunning, professionally shot photographs by RainbowMarks.com, your local St. Louis lacrosse photography expert!

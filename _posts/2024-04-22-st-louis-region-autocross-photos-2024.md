@@ -3,8 +3,7 @@ layout: "post"
 title: "St. Louis Region Autocross Photos 2024"
 subtitle: "A listing of St. Louis region autocross events with link to their photo galleries"
 active: "blog"
-image:
-  feature: "/img/posts/2024/autocross/stlouis/Event2-6.jpg"
+image: "/img/posts/2024/autocross/stlouis/Event2-6.jpg"
 date: '2024-04-22T12:30:00+00:00'
 header-img: "/img/posts/2024/autocross/stlouis/Event2-6.jpg"
 permalink: "Events/2024/04/StLouisRegion"

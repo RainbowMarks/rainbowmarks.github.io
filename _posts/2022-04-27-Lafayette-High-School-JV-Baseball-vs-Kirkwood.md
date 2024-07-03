@@ -3,8 +3,7 @@ layout: "post"
 title: "Lafayette High School JV Baseball VS Kirkwood"
 subtitle: "Swing batter batter"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Baseball/4-26-2022/4-26-2022Team-18.jpg"
+image: "/img/posts/2022/Baseball/4-26-2022/4-26-2022Team-18.jpg"
 date: '2022-04-27T09:20:00+00:00'
 header-img: "/img/posts/2022/Baseball/4-26-2022/4-26-2022Team-18.jpg"
 

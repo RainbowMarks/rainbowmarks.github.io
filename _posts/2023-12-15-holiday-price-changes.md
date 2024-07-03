@@ -4,8 +4,7 @@ title: "New Pricing! 30% reduction in price on most physical items!"
 subtitle: "Changes for 2024"
 
 active: "blog"
-image:
-  feature: "/img/posts/2023/Christmas2014/Christmas2014-1.jpg"
+image: "/img/posts/2023/Christmas2014/Christmas2014-1.jpg"
 date: '2023-11-23T08:15:00+00:00'
 header-img: "/img/posts/2023/Christmas2014/Christmas2014-1.jpg"
 permalink: "Events/2023/12/HolidayPrices"

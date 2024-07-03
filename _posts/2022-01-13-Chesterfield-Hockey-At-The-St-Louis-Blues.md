@@ -3,8 +3,7 @@ layout: "post"
 title: "Chesterfield Hockey Falcons at the St. Louis Blues Game January 13, 2022"
 subtitle: "8U White playing during intermission after the first period"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Blues/BluesVsKracken-2.jpg"
+image: "/img/posts/2022/Blues/BluesVsKracken-2.jpg"
 date: '2022-01-17T13:15:00+00:00'
 header-img: "/img/posts/2022/Blues/BluesVsKracken-2.jpg"
 

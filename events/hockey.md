@@ -5,8 +5,7 @@ description: "Have us shoot your Hockey game around the St. Louis Region!"
 keywords: "Photographer, Photography, Saint Louis, St. Louis, STL, Hockey, Games, Youth Hockey"
 active: "events"
 header-img: "/img/HockeyEvents-1.jpg"
-image:
-  feature: "/img/HockeyEvents-1.jpg"
+image: "/img/HockeyEvents-1.jpg"
 type: website
 ---
 

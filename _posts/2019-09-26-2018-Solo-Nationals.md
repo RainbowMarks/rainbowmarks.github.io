@@ -3,8 +3,7 @@ layout: "post"
 title: "2018 Solo Nationals"
 subtitle: "Autocross in Lincoln, Nebraska"
 active: "blog"
-image:
-  feature: "/img/posts/SoloNationals2018.jpg"
+image: "/img/posts/SoloNationals2018.jpg"
 date: '2019-09-26T16:32:33+00:00'
 permalink: "Events/2019/09/2018-Solo-Nationals"
 header-img: "/img/posts/SoloNationals2018.jpg"

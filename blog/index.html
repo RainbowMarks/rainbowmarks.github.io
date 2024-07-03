@@ -4,8 +4,7 @@ description: "Our blog contains the latest events we've shot, along with promoti
 title: "Photography Blog"
 active: blog
 header-img: "/img/journal/bridge-1.jpg"
-image:
-  feature: "/img/journal/bridge-1.jpg"
+image: "/img/journal/bridge-1.jpg"
 redirect_from: 
   - "Blog"
 ---
@@ -26,8 +25,8 @@ redirect_from:
               style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
               <a href="{{ post.url | prepend: site.baseurl }}">
-                {% if post.image.feature %}
-                {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
+                {% if post.image %}
+                {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}
                 {% endif %}
                 <p class="post-title"
                   style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">

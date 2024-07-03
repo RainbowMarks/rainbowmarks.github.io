@@ -3,8 +3,7 @@ layout: "post"
 title: "2023 Rally in the 100 Acre Wood Pictures"
 subtitle: "Dry and cold!"
 active: "blog"
-image:
-  feature: "/img/posts/2023/100aw/Stage3-11.jpg"
+image: "/img/posts/2023/100aw/Stage3-11.jpg"
 date: '2023-03-19T10:00:00+00:00'
 header-img: "/img/posts/2023/100aw/Stage3-11.jpg"
 

@@ -5,13 +5,13 @@
     <description>RainbowMarks Photography, specializing in event photography in and around St. Louis Missouri.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Jun 2024 15:34:41 -0500</pubDate>
-    <lastBuildDate>Mon, 17 Jun 2024 15:34:41 -0500</lastBuildDate>
+    <pubDate>Wed, 03 Jul 2024 14:31:47 -0500</pubDate>
+    <lastBuildDate>Wed, 03 Jul 2024 14:31:47 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>2024 Big Foot Open House</title>
-        <description>&lt;p&gt;One of the very first blog posts on this website, from back in 2019, was for the &lt;a href=&quot;Events/2019/09/Big-Foot-Open-House&quot;&gt;2018 Big Foot Open House&lt;/a&gt;. Six years later I finally made it back out to the Big Foot Open House in Pacific Missouri and took more photos!&lt;/p&gt;
+        <description>&lt;p&gt;One of the very first blog posts on this website, from back in 2019, was for the &lt;a href=&quot;/Events/2019/09/Big-Foot-Open-House&quot;&gt;2018 Big Foot Open House&lt;/a&gt;. Six years later I finally made it back out to the Big Foot Open House in Pacific Missouri and took more photos!&lt;/p&gt;
 
 &lt;p&gt;I’m fond of High Roller II, so I went with the intention of taking some great pictures of the Krekeler’s Ford Ranger, but I managed to also get quite a few other trucks while I was out there this year.&lt;/p&gt;
 
@@ -55,6 +55,8 @@
         
         <category>motorsports</category>
         
+        <category>event</category>
+        
       </item>
     
       <item>
@@ -89,6 +91,10 @@
         <category>fighter</category>
         
         <category>jet</category>
+        
+        <category>event</category>
+        
+        <category>events</category>
         
       </item>
     
@@ -200,6 +206,8 @@ Sunday the 7th I spent a few hours pouring over potential locations and weather 
         <category>totality</category>
         
         <category>missouri</category>
+        
+        <category>event</category>
         
       </item>
     

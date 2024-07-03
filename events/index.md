@@ -5,8 +5,7 @@ description: "Have us shoot your events around the St. Louis Region!"
 keywords: "Photographer, Photography, Saint Louis, St. Louis, STL, Event, Event Photos, Races, Bike Race, Car Race, Car Racing, Automotive"
 active: "events"
 header-img: "/img/Events-3.jpg"
-image:
-  feature: "/img/Events-3.jpg"
+image: "/img/Events-3.jpg"
 redirect_from: 
   - "Events"
 type: website
@@ -21,7 +20,7 @@ At RainbowMarks Photography we thoroughly enjoy getting out and shooting events.
   <div class="col-8">
   <h2>Recent Events</h2>
     <ul>
-     {% for post in site.tags.event limit:5 %}    
+     {% for post in site.categories.event limit:5 %}    
           <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li>          
       {% endfor %}    
     </ul>

@@ -3,8 +3,7 @@ layout: "post"
 title: "Lafayette High School JV Baseball VS Jackson"
 subtitle: "Baseball is back"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Baseball/4-23-2022/4-23-2022Team-36.jpg"
+image: "/img/posts/2022/Baseball/4-23-2022/4-23-2022Team-36.jpg"
 date: '2022-04-27T09:15:00+00:00'
 header-img: "/img/posts/2022/Baseball/4-23-2022/4-23-2022Team-36.jpg"
 

@@ -3,8 +3,7 @@ layout: "post"
 title: "2024 Blue Note Cup Photos"
 subtitle: "Book your games today!"
 active: "blog"
-image:
-  feature: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.jpg"
+image: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.jpg"
 date: '2024-02-28T10:30:00+00:00'
 header-img: "/img/posts/2024/Hockey/BNC24/BNC24Flyer.jpg"
 permalink: "Events/2024/02/BlueNoteCupPhotography"

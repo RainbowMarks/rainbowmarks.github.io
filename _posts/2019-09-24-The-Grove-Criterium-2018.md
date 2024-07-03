@@ -3,8 +3,7 @@ layout: "post"
 title: "The Grove Criterium 2018"
 subtitle: "Bicycle Races in St. Louis, Missouri"
 active: "blog"
-image:
-  feature: "/img/posts/TheGrove2018.jpg"
+image: "/img/posts/TheGrove2018.jpg"
 date: "2019-09-24T18:23:48+00:00"
 header-img: "/img/posts/TheGrove2018.jpg"
 

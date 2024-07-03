@@ -3,8 +3,7 @@ layout: "post"
 title: "August 29th, 2021 Missouri Interscholastic Cycling League Race 1"
 subtitle: "The first race in the 2021 race series out at Indian Camp Creek"
 active: "blog"
-image:
-  feature: "/img/posts/2021/NICA-1/NICA-1.jpg"
+image: "/img/posts/2021/NICA-1/NICA-1.jpg"
 date: '2021-08-30T18:30:00+00:00'
 header-img: "/img/posts/2021/NICA-1/NICA-1.jpg"
 

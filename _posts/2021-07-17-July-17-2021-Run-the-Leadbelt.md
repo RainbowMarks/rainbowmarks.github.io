@@ -3,8 +3,7 @@ layout: "post"
 title: "July 17th, 2021 Run The Leadbelt Trail Race"
 subtitle: "Saturday of the Miner Tough Weekend in St. Joe State Park"
 active: "blog"
-image:
-  feature: "/img/posts/2021/RunTheLeadbelt/RunTheLeadbelt-3.jpg"
+image: "/img/posts/2021/RunTheLeadbelt/RunTheLeadbelt-3.jpg"
 date: '2021-07-19T08:30:00+00:00'
 header-img: "/img/posts/2021/RunTheLeadbelt/RunTheLeadbelt-3.jpg"
 

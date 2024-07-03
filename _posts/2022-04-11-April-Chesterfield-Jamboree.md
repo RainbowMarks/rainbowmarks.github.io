@@ -3,8 +3,7 @@ layout: "post"
 title: "Maryville University Hockey Center Jamboree April 2022"
 subtitle: "Last jamboree for 2021-2022 season!"
 active: "blog"
-image:
-  feature: "/img/posts/2022/AprilChesterfieldJamboree/AprilChesterfieldJamboree-1.jpg"
+image: "/img/posts/2022/AprilChesterfieldJamboree/AprilChesterfieldJamboree-1.jpg"
 date: '2022-04-11T09:15:00+00:00'
 header-img: "/img/posts/2022/AprilChesterfieldJamboree/AprilChesterfieldJamboree-1.jpg"
 

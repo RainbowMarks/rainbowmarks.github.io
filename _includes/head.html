@@ -15,7 +15,30 @@
     <link rel="icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
 
     {% assign cacheBust = site.time | date:'?v=%s' %}
-    {% seo %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:image" content="{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}" />
+    {% if page.type %}
+    <meta property="og:type" content="{{ page.type }}" />
+    {% else %}    
+    <meta property="og:type" content="article" />
+    {% endif %}
+    <meta property="og:title" content="{{ page.title }}" />
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta name="description" content="{{ page.description }}">
+    {% else %}
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta name="description" content="{{ site.description }}">
+    {% endif %}       
+    <meta name="keywords" content="{{ page.keywords }}">
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@{{ site.authors[page.author].twitter }}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+    <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}">
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html' }}">
     {% if page.keywords %}
     <meta name="keywords" content="{{ page.keywords }}">
     {% endif %}
@@ -65,4 +88,56 @@
     <script src="https://code.jquery.com/jquery-3.7.1.slim.js" integrity="sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
     
+    {% if page.url != "/" %}
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "url": "{{ site.url }}{{ page.url }}",
+          "name": {{ page.title | jsonify }},
+          "headline": {{ page.title | jsonify }},
+          "keywords": {{ page.keywords | join: ',' | jsonify }},
+          "description": {{ page.description | strip_html | strip_newlines | strip | jsonify }},
+          "articleBody": {{ page.content | strip_html | strip_newlines | strip | jsonify  }},
+          {% if page.date  %}
+          "datePublished": {{ page.date | jsonify }},
+          {% endif %}
+          {% if page.last_modified_at  %}
+          "dateModified": {{ page.last_modified_at | default: page.date | jsonify }},
+          {% endif %}
+          {% if page.author %}
+          "author": {
+            "@type": "Person",
+            "name": {{ author.display_name | jsonify }},
+            "givenName": {{ author.first_name | jsonify }},
+            "familyName": {{ author.last_name | jsonify }},
+            "email": {{ author.email | jsonify }},
+            "url": "{{ author.web }}"
+          },
+          {% endif %}
+          "publisher": {
+            "@type": "Organization",
+            "name": {{ site.title | jsonify }},
+            "url": "{{ site.url }}",
+            "logo": {
+              "@type": "ImageObject",
+              "width": 32,
+              "height": 32,
+              "url": "{{ site.url }}/{{ site.favicon }}"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ site.url }}/{{ page.url }}"
+          },
+          {% if page.image or site.header-img %}
+          "image": [
+            "{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}"
+          ]
+          {% endif %}
+        }
+    </script>
+    {% endif %}
+    
+
 </head>

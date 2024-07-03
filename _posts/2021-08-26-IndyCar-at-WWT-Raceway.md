@@ -3,8 +3,7 @@ layout: "post"
 title: "August 21, 2021 Indy Car Race at WWT Raceway"
 subtitle: "Photos of the 2021 Bommarito 500"
 active: "blog"
-image:
-  feature: "/img/posts/2021/IndyCar/IndyCars8-21-2021-62.jpg"
+image: "/img/posts/2021/IndyCar/IndyCars8-21-2021-62.jpg"
 date: '2021-08-30T16:30:00+00:00'
 header-img: "/img/posts/2021/IndyCar/IndyCars8-21-2021-62.jpg"
 

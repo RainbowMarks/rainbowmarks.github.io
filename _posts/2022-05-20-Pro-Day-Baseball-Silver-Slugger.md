@@ -3,8 +3,7 @@ layout: "post"
 title: "Pro-Day Baseball Silver Slugger Tournament Wildwood, MO May 2022"
 subtitle: "Tournament photos"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Baseball/5-20-2022/ProDay-1.jpg"
+image: "/img/posts/2022/Baseball/5-20-2022/ProDay-1.jpg"
 date: '2022-05-20T09:20:00+00:00'
 header-img: "/img/posts/2022/Baseball/5-20-2022/ProDay-1.jpg"
 

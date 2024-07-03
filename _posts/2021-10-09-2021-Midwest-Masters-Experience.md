@@ -3,8 +3,7 @@ layout: "post"
 title: "2021 Midwest Masters Experience CrossFit Competition"
 subtitle: "Hosted by CrossFit Wildwood, photos from four events"
 active: "blog"
-image:
-  feature: "/img/posts/2021/MWME/Overall-6.jpg"
+image: "/img/posts/2021/MWME/Overall-6.jpg"
 date: '2021-10-11T09:15:00+00:00'
 header-img: "/img/posts/2021/MWME/Overall-6.jpg"
 

@@ -3,8 +3,7 @@ layout: "post"
 title: "Chesterfield Hockey 6U Inaugural Turkey Jamboree"
 subtitle: "Mini-mite hockey"
 active: "blog"
-image:
-    feature: "/img/posts/TurkeyJamboree2019.jpg"
+image:  "/img/posts/TurkeyJamboree2019.jpg"
 date: '2019-12-29T18:47:07+00:00'
 permalink: "Events/2019/12/chesterfield-hockey-6u-inaugural-turkey-jamboree"
 header-img: "/img/posts/TurkeyJamboree2019.jpg"

@@ -3,8 +3,7 @@ layout: "post"
 title: "2019 CrossFit Games"
 subtitle: "Madison, Wisconsin"
 active: "blog"
-image:
-  feature: "/img/posts/CrossFitGames2019.jpg"
+image: "/img/posts/CrossFitGames2019.jpg"
 date: '2019-09-26T19:58:21+00:00'
 permalink: "Events/2019/09/2019-CrossFit-Games"
 header-img: "/img/posts/CrossFitGames2019.jpg"

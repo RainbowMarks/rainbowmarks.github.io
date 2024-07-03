@@ -3,8 +3,7 @@ layout: "post"
 title: "AAA St. Louis Blues Squirt Spring Hockey"
 subtitle: "10U Ice Hockey Spring 2023"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Hockey/5-23-2023/5-23-2023-1.jpg"
+image: "/img/posts/2023/Hockey/5-23-2023/5-23-2023-1.jpg"
 date: '2023-05-25T09:20:00+00:00'
 header-img: "/img/posts/2023/Hockey/5-23-2023/5-23-2023-1.jpg"
 

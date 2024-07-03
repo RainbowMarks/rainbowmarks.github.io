@@ -3,8 +3,7 @@ layout: "post"
 title: "Chesterfield Falcons 10U-A1 Shine at the Leprechaun Lashout Tournament"
 subtitle: "A visit to Notre Dame"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Hockey/LeprechaunLashout/LeprechaunLashout-1.jpg"
+image: "/img/posts/2023/Hockey/LeprechaunLashout/LeprechaunLashout-1.jpg"
 date: '2023-11-06T09:00:00+00:00'
 header-img: "/img/posts/2023/Hockey/LeprechaunLashout/LeprechaunLashout-1.jpg"
 permalink: "Events/2023/11/leprechaunlashout/"

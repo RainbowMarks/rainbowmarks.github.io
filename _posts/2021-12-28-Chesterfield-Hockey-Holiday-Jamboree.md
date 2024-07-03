@@ -3,8 +3,7 @@ layout: "post"
 title: "2021 Maryville University Hockey Center Holiday Jamboree"
 subtitle: "Chesterfield Hockey Assocation 8U White Team Games"
 active: "blog"
-image:
-  feature: "/img/posts/2021/HolidayJamboree/HolidayJamboree-1.jpg"
+image: "/img/posts/2021/HolidayJamboree/HolidayJamboree-1.jpg"
 date: '2021-12-28T14:15:00+00:00'
 header-img: "/img/posts/2021/HolidayJamboree/HolidayJamboree-1.jpg"
 

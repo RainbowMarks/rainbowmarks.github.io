@@ -3,8 +3,7 @@ layout: "post"
 title: "High School Hockey Lafayette Versus Eureka"
 subtitle: "Battle on 109"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Lafayette/LafayetteVSEureka-1.jpg"
+image: "/img/posts/2023/Lafayette/LafayetteVSEureka-1.jpg"
 date: '2023-01-11T00:30:00+00:00'
 header-img: "/img/posts/2023/Lafayette/LafayetteVSEureka-1.jpg"
 

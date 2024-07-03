@@ -3,8 +3,7 @@ layout: "post"
 title: "Spirit of St. Louis Air Show Pictures"
 subtitle: "Photos of cool airplanes!"
 active: "blog"
-image:
-  feature: "/img/posts/2022/AirShows/6-11-2022/AirShow-1.jpg"
+image: "/img/posts/2022/AirShows/6-11-2022/AirShow-1.jpg"
 date: '2022-06-12T21:20:00+00:00'
 header-img: "/img/posts/2022/AirShows/6-11-2022/AirShow-1.jpg"
 

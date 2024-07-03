@@ -3,8 +3,7 @@ layout: "post"
 title: "2023 Miner Tough Weekend"
 subtitle: "Trail run and Mountain Bike Race"
 active: "blog"
-image:
-  feature: "/img/posts/2023/MinerTough/MinerTough.jpg"
+image: "/img/posts/2023/MinerTough/MinerTough.jpg"
 date: '2023-07-15T17:20:00+00:00'
 header-img: "/img/posts/2023/MinerTough/MinerTough.jpg"
 

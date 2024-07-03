@@ -3,8 +3,7 @@ layout: "post"
 title: "2023 The Freedom 100 Paddle Race"
 subtitle: "Boonville to Jefferson City, MO"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Watersports/Freedom100/Freedom100-1.jpg"
+image: "/img/posts/2023/Watersports/Freedom100/Freedom100-1.jpg"
 date: '2023-07-09T13:20:00+00:00'
 header-img: "/img/posts/2023/Watersports/Freedom100/Freedom100-1.jpg"
 

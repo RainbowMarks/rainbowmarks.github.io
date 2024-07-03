@@ -3,8 +3,7 @@ layout: "post"
 title: "2013 St. Louis Knights Central States Hockey"
 subtitle: "vs Chicago Blues"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Knights/Knights-1.jpg"
+image: "/img/posts/2023/Knights/Knights-1.jpg"
 date: '2023-01-30T20:30:00+00:00'
 header-img: "/img/posts/2023/Knights/Knights-1.jpg"
 

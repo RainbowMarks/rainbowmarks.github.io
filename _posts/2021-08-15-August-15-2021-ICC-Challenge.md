@@ -3,8 +3,7 @@ layout: "post"
 title: "August 15th, 2021 ICC Challenge Mountain Bike Race"
 subtitle: "A great mountain bike race out at Indian Camp Creek park"
 active: "blog"
-image:
-  feature: "/img/posts/2021/ICCChallenge/Air-1.jpg"
+image: "/img/posts/2021/ICCChallenge/Air-1.jpg"
 date: '2021-08-16T16:30:00+00:00'
 header-img: "/img/posts/2021/ICCChallenge/Air-1.jpg"
 

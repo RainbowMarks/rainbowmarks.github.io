@@ -3,8 +3,7 @@ layout: "post"
 title: "Lafayette High School Girls Lacrosse 4-26-2022 VS Parkway West"
 subtitle: "My first lacrosse game"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Lacrosse/4-26-2022/4-26-2022-24.jpg"
+image: "/img/posts/2022/Lacrosse/4-26-2022/4-26-2022-24.jpg"
 date: '2022-04-27T09:25:00+00:00'
 header-img: "/img/posts/2022/Lacrosse/4-26-2022/4-26-2022-24.jpg"
 

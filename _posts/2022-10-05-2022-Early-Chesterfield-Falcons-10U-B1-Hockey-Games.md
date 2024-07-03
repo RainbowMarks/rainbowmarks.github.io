@@ -3,8 +3,7 @@ layout: "post"
 title: "Early Chesterfield Falcons 10U B1 Hockey Games"
 subtitle: "Photos from early season games for the Chesterfield Falcons 10U B1 Hockey Team"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Hockey/EarlySeason/EarlySeason-1.jpg"
+image: "/img/posts/2022/Hockey/EarlySeason/EarlySeason-1.jpg"
 date: '2022-10-05T09:30:00+00:00'
 header-img: "/img/posts/2022/Hockey/EarlySeason/EarlySeason-1.jpg"
 

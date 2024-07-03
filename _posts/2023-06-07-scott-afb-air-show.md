@@ -3,8 +3,7 @@ layout: "post"
 title: "2023 Scott Air Force Base Air Show Photos"
 subtitle: "Aerial Photography at its Finest"
 active: "blog"
-image:
-  feature: "/img/posts/2023/ScottAFBAirShow/ScottAFBAirShow-1.jpg"
+image: "/img/posts/2023/ScottAFBAirShow/ScottAFBAirShow-1.jpg"
 date: '2023-06-07T15:20:00+00:00'
 header-img: "/img/posts/2023/ScottAFBAirShow/ScottAFBAirShow-1.jpg"
 

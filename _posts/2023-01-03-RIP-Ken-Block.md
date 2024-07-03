@@ -3,8 +3,7 @@ layout: "post"
 title: "Rest in Peace Ken Block"
 subtitle: "You will be missed"
 active: "blog"
-image:
-  feature: "/img/posts/2023/KenBlock/KenBlock.jpg"
+image: "/img/posts/2023/KenBlock/KenBlock.jpg"
 date: '2023-01-03T09:30:00+00:00'
 header-img: "/img/posts/2023/KenBlock/KenBlock.jpg"
 

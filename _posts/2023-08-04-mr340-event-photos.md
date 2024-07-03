@@ -3,8 +3,7 @@ layout: "post"
 title: "2023 Missouri River Relief MR340 Event Photos"
 subtitle: "The 2023 Missouri River Relief MR340 Event Photos are now available!"
 active: "blog"
-image:
-  feature: "/img/posts/2023/MR340/Blog-1.jpg"
+image: "/img/posts/2023/MR340/Blog-1.jpg"
 date: '2023-08-04T21:00:00+00:00'
 header-img: "/img/posts/2023/MR340/Blog-1.jpg"
 permalink: "Events/2023/08/MR340/"

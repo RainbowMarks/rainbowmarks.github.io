@@ -3,8 +3,7 @@ layout: "post"
 title: "Capturing the Passion of St. Louis Hockey: A Journey Through the Lens"
 subtitle: "Have us shoot your next team event or game"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Hockey/stlhockey/stlhockey-1.jpg"
+image: "/img/posts/2023/Hockey/stlhockey/stlhockey-1.jpg"
 date: '2023-05-26T09:20:00+00:00'
 header-img: "/img/posts/2023/Hockey/stlhockey/stlhockey-1.jpg"
 

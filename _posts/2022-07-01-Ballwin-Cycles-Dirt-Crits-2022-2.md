@@ -3,8 +3,7 @@ layout: "post"
 title: "Ballwin Cycles Dirt Crits 2022 Event 2"
 subtitle: "Photos of cool people!"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Bikes/DirtCrits2/DirtCrits2-244.jpg"
+image: "/img/posts/2022/Bikes/DirtCrits2/DirtCrits2-244.jpg"
 date: '2022-07-01T10:00:00+00:00'
 header-img: "/img/posts/2022/Bikes/DirtCrits2/DirtCrits2-244.jpg"
 

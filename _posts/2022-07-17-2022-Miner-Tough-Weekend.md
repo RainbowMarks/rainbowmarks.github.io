@@ -3,8 +3,7 @@ layout: "post"
 title: "2022 Miner Tough Weekend"
 subtitle: "Playing with Lead"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Bikes/MinerTough/MinerTough-1.jpg"
+image: "/img/posts/2022/Bikes/MinerTough/MinerTough-1.jpg"
 date: '2022-07-17T23:00:00+00:00'
 header-img: "/img/posts/2022/Bikes/MinerTough/MinerTough-1.jpg"
 

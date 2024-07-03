@@ -3,8 +3,7 @@ layout: "post"
 title: "Add a 2023 MR340 Event WaterMark to your Photos!"
 subtitle: "A simple way for you to add the Event logo to your photos"
 active: "blog"
-image:
-  feature: "/img/posts/2023/MR340/ReaperMark.jpg"
+image: "/img/posts/2023/MR340/ReaperMark.jpg"
 date: '2023-08-17T16:30:00+00:00'
 header-img: "/img/posts/2023/MR340/ReaperMark.jpg"
 permalink: "Events/2023/08/PHOTOMARK/"

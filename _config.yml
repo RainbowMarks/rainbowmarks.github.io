@@ -13,15 +13,30 @@ flickr_username: "chammond"
 discus_shortname: "rainbowmarks"
 share: true
 google_analytics: G-6V585TFXGW # UA-69145-51
-
+favicon: favicon.ico
 data_dir: _data
 
 # Owner/author information
 owner:
   name: Chris Hammond
   avatar: 2022_ChrisHammond_200.jpg
-  favicon: favicon.ico
+  
   info: RainbowMarks Photography based out of Wildwood, MO. Specializing in automotive, sports, events, action, landscapes and of course Rainbows. 
+
+authors:
+   ChrisHammond:
+    name: Chris Hammond
+    display_name: Chris Hammond
+    first_name: Chris
+    last_name: Hammond
+    gravatar: bff097b7cc348bebce39ee1c7694d125
+    email: rainbowmarks@christoc.com
+    web: https://www.chrishammond.com
+    twitter: https://twitter.com/collectorofjack
+    description: "<a href=\"https://www.chrishammond.com\">Chris</a> has been collecting Jack Daniel's for 26 years and uses this site to document his collection. <a href=\"/JackDanielsCollector\">Read more about his story</a>"
+
+
+
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -36,7 +51,7 @@ comments:
 
 # Internal nav
 nav:
- # - MR340: "/mr340/2023"
+  - MR340: "/mr340/2024"
   - BLOG: "/blog/"
   - GALLERIES: "https://photos.rainbowmarks.com/"
   - EVENTS: "/events/"
@@ -100,11 +115,17 @@ picture:
   output: generated/
 
 # gallery page generation
+# gallery page generation
 defaults:
   - scope:
       type: galleryimage  # select all galleryimage pages
     values:
       layout: picture
+  - scope:
+      path: ""  # An empty string here means all files
+      type: "posts"
+    values:
+      author: "ChrisHammond"
 
 exclude:
   - /img/portfolio/*

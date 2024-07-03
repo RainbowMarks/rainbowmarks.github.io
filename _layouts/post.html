@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign post = page %}
 
-<article>
+<article itemscope itemtype="https://schema.org/BlogPosting">
  
   <!-- Post Content -->
   <div class="container">
@@ -11,7 +11,8 @@ layout: default
       <div class="mainheading">
           <!-- Post Title -->
         <h1 class="posttitle" itemprop="headline">{{ page.title }}</h1>
-        <span class="meta">Posted on <span itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</span>
+        <span class="meta">Posted on 
+          <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y %I:%M %p" }}</time>
           {% if page.last_modified_at %}
           (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y %H:%M" }}</time>)
           {% endif %}
@@ -33,8 +34,8 @@ layout: default
         <!-- End Adsense -->
 
         <!-- Post Featured Image -->
-        {% if page.image.feature %}
-          {% picture {{ page.image.feature }} class="featured-image img-fluid lazyimg" --alt {{ page.title}}  %}
+        {% if page.image %}
+          {% picture {{ page.image }} class="featured-image img-fluid lazyimg" itemprop="image" --alt {{ page.title}}  %}
         {% endif %}
         <!-- End Featured Image -->
 
@@ -48,9 +49,9 @@ layout: default
   <div class="row">
 
     {% if post.gallery or page.includegallery %}
-    <div class="col col-md-9">
+    <div class="col col-md-9" itemprop="articleBody">
     {% else %}
-    <div class="col col-md-12">
+    <div class="col col-md-12" itemprop="articleBody">
     {% endif %}
 
     {{ content }}

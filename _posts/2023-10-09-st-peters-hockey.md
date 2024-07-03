@@ -3,8 +3,7 @@ layout: "post"
 title: "St. Peters Youth Ice Hockey Photos - 10U-A1 10-7-2023"
 subtitle: "St. Peters 10UA1 vs Chesterfield Falcons 10UA1"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Hockey/10-7-2023/10-7-2023-1.jpg"
+image: "/img/posts/2023/Hockey/10-7-2023/10-7-2023-1.jpg"
 date: '2023-10-09T09:00:00+00:00'
 header-img: "/img/posts/2023/Hockey/10-7-2023/10-7-2023-1.jpg"
 permalink: "Events/2023/10/StPetersIceHockeyPhotos/"

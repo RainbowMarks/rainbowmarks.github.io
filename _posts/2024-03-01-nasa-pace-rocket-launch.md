@@ -3,8 +3,7 @@ layout: "post"
 title: "NASA PACE Falcon 9 Rocket Launch"
 subtitle: "Up close and personal"
 active: "blog"
-image:
-  feature: "/img/posts/2024/space/nasapace/PACELaunch-1.jpg"
+image: "/img/posts/2024/space/nasapace/PACELaunch-1.jpg"
 date: '2024-03-01T09:30:00+00:00'
 header-img: "/img/posts/2024/space/nasapace/PACELaunch-1.jpg"
 permalink: "Events/2024/03/NASAPACELaunch"

@@ -3,8 +3,7 @@ layout: "post"
 title: "St. Louis Classic Gymnastics Competition Excel Silver - February 26, 2022"
 subtitle: "Girls having fun"
 active: "blog"
-image:
-  feature: "/img/posts/2022/Gymnastics/StLouisClassic-90.jpg"
+image: "/img/posts/2022/Gymnastics/StLouisClassic-90.jpg"
 date: '2022-02-27T08:15:00+00:00'
 header-img: "/img/posts/2022/Gymnastics/StLouisClassic-90.jpg"
 

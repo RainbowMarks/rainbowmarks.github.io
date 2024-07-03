@@ -3,8 +3,7 @@ layout: "post"
 title: "Samsung Frame TV Artwork - Grand Canyon Black and White"
 subtitle: "Taken on a trip in January 2023"
 active: "blog"
-image:
-  feature: "/img/posts/2023/GrandCanyonBW/GrandCanyonBW-6.jpg"
+image: "/img/posts/2023/GrandCanyonBW/GrandCanyonBW-6.jpg"
 date: '2023-04-16T10:00:00+00:00'
 header-img: "/img/posts/2023/GrandCanyonBW/GrandCanyonBW-6.jpg"
 

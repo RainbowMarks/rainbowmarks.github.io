@@ -10,8 +10,8 @@
                             <a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                         </h2>
                         <a href="{{ post.url | prepend: site.baseurl }}">
-                            {% if post.image.feature %}
-                                {% picture blogcrop {{ post.image.feature }} class="featured-box-img-cover lazyimg"  --alt {{ post.title }} %}
+                            {% if post.image %}
+                                {% picture blogcrop {{ post.image }} class="featured-box-img-cover lazyimg"  --alt {{ post.title }} %}
                             {% else %}
                             {% endif %}
                         </a>

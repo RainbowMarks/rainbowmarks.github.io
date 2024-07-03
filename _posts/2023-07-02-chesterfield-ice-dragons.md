@@ -3,8 +3,7 @@ layout: "post"
 title: "Chesterfield Ice Dragons"
 subtitle: "10u Squirt Ice Hockey"
 active: "blog"
-image:
-  feature: "/img/posts/2023/Hockey/IceDragons/Nashville-6-30-2023-17.jpg"
+image: "/img/posts/2023/Hockey/IceDragons/Nashville-6-30-2023-17.jpg"
 date: '2023-07-02T19:20:00+00:00'
 header-img: "/img/posts/2023/Hockey/IceDragons/Nashville-6-30-2023-17.jpg"
 

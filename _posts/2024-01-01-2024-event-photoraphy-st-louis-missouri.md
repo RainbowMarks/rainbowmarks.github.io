@@ -3,8 +3,7 @@ layout: "post"
 title: "Book Your 2024 Events with RainbowMarks Photography – Capture Every Moment!"
 subtitle: "Midwest Event Photography"
 active: "blog"
-image:
-  feature: "/img/posts/2024/EventPhotos/EventPhotos-1.jpg"
+image: "/img/posts/2024/EventPhotos/EventPhotos-1.jpg"
 date: '2024-01-01T23:15:00+00:00'
 header-img: "/img/posts/2024/EventPhotos/EventPhotos-1.jpg"
 permalink: "Events/2024/01/BookYour2024Events"

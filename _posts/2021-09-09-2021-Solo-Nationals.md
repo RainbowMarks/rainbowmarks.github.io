@@ -3,8 +3,7 @@ layout: "post"
 title: "2021 TireRack SCCA Solo National Championship Photos"
 subtitle: "6 Days of Car Racing in Lincoln Nebraska"
 active: "blog"
-image:
-  feature: "/img/posts/2021/2021SoloNationals/2021-Solo-Nationals.jpg"
+image: "/img/posts/2021/2021SoloNationals/2021-Solo-Nationals.jpg"
 date: '2021-09-09T18:30:00+00:00'
 header-img: "/img/posts/2021/2021SoloNationals/2021-Solo-Nationals.jpg"
 

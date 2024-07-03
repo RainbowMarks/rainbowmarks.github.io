@@ -1,3 +1,4 @@
+{% assign author = site.authors[page.author] %}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -19,7 +20,7 @@
 
   {% include Scroll_to_Top.html %}
 
-  {% if page.image.feature %}
+  {% if page.image %}
   <style>
     body::after {
       content:"";
@@ -27,7 +28,7 @@
       background-repeat: no-repeat;
       background-position:center;
       height:100vh;
-      background-image:url({{ site.url }}{% if page.image.feature %}{% picture direct {{ page.image.feature }} %}{% else %}{{ site.header-img }}{% endif %});
+      background-image:url({{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %});
       opacity: 0.25;
       top: 0;
       left: 0;

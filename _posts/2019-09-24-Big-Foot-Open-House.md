@@ -3,8 +3,7 @@ layout: "post"
 title: "Big Foot Open House"
 subtitle: "June 2018"
 active: "blog"
-image:
-  feature: "/img/posts/BigFoot2018.jpg"
+image: "/img/posts/BigFoot2018.jpg"
 date: "2019-09-24T18:07:19+00:00"
 header-img: "/img/posts/BigFoot2018.jpg"
 

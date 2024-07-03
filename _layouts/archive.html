@@ -20,8 +20,8 @@ layout: default
                                     style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
                                     <a href="{{ post.url | prepend: site.baseurl }}">
-                                    {% if post.image.feature %}
-                                    {% picture blogcrop {{ post.image.feature }} --alt {{ post.title }} %}
+                                    {% if post.image %}
+                                    {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}
                                     {% endif %}
                                     <p class="post-title"
                                         style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; ">

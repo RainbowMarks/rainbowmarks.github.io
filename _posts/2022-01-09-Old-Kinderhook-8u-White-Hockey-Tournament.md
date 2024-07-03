@@ -3,8 +3,7 @@ layout: "post"
 title: "2022 Old Kinderhook 8U White Pond Hockey"
 subtitle: "Mostly Chesterfield Falcons but a few others teams mixed in as well"
 active: "blog"
-image:
-  feature: "/img/posts/2022/OldKinderhook/OldKinderhook-1.jpg"
+image: "/img/posts/2022/OldKinderhook/OldKinderhook-1.jpg"
 date: '2022-01-09T19:15:00+00:00'
 header-img: "/img/posts/2022/OldKinderhook/OldKinderhook-1.jpg"
 

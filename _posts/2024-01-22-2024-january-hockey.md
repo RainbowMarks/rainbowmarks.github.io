@@ -3,8 +3,7 @@ layout: "post"
 title: "January 20th weekend Hockey!"
 subtitle: "It was a busy productive weekend on the ice."
 active: "blog"
-image:
-  feature: "/img/posts/2024/Hockey/January20thWeekend/January20thWeekend-1.jpg"
+image: "/img/posts/2024/Hockey/January20thWeekend/January20thWeekend-1.jpg"
 date: '2024-01-22T09:00:00+00:00'
 header-img: "/img/posts/2024/Hockey/January20thWeekend/January20thWeekend-1.jpg"
 permalink: "Events/2024/01/January20thHockey"

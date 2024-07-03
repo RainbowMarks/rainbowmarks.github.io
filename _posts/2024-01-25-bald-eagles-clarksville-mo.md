@@ -3,8 +3,7 @@ layout: "post"
 title: "Bald Eagles in Clarksville, Missouri January 2024"
 subtitle: "My first trip to Clarksville"
 active: "blog"
-image:
-  feature: "/img/posts/2024/Wildlife/BaldEagles/BaldEagles-9.jpg"
+image: "/img/posts/2024/Wildlife/BaldEagles/BaldEagles-9.jpg"
 date: '2024-01-25T16:30:00+00:00'
 header-img: "/img/posts/2024/Wildlife/BaldEagles/BaldEagles-9.jpg"
 permalink: "Events/2024/01/BaldEaglesClarksville"

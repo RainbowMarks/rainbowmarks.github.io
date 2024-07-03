@@ -3,8 +3,7 @@ layout: "post"
 title: "Photopalooza 2018 - Sip & Shoot"
 subtitle: "Creve Couer Camera event"
 active: "blog"
-image:
-  feature: "/img/posts/SipandShoot2018.jpg"
+image: "/img/posts/SipandShoot2018.jpg"
 date: '2019-09-26T16:47:25+00:00'
 permalink: "Events/2019/09/Photopalooza-2018-Sip-Shoot"
 header-img: "/img/posts/SipandShoot2018.jpg"

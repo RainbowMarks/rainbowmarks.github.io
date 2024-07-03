@@ -3,8 +3,7 @@ layout: "post"
 title: "Scarecrow Joe @ Sky Music Lounge"
 subtitle: "Rockin out!"
 active: "blog"
-image:
-  feature: "/img/posts/ScarecrowJoe2018.jpg"
+image: "/img/posts/ScarecrowJoe2018.jpg"
 date: '2019-09-26T16:53:37+00:00'
 permalink: "Events/2019/09/Scarecrow-Joe-Sky-Music-Lounge"
 header-img: "/img/posts/ScarecrowJoe2018.jpg"
