@@ -10,9 +10,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:image" content="{{ site.url }}{% if page.header-img %}{% picture direct {{ page.header-img }} %}{% else %}{{ site.header-img }}{% endif %}" /> 
-    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
-    <link rel="icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
+    <title>{% if page.title %}{{ page.title }} - {{ site.shorttitle }}{% else %}{{ site.title }}{% endif %}</title>
 
     {% assign cacheBust = site.time | date:'?v=%s' %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
@@ -42,6 +40,9 @@
     {% if page.keywords %}
     <meta name="keywords" content="{{ page.keywords }}">
     {% endif %}
+
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico?" type="image/x-icon">
      
     <!-- CSS -->
     <!-- Bootstrap Core CSS -->
