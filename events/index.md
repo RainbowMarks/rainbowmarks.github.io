@@ -14,7 +14,7 @@ At RainbowMarks Photography we thoroughly enjoy getting out and shooting events.
 
 <div class="row">
   <div class="col-4">
-    <a href="https://rainbowmarks.com/blog/">{% picture portthumb /img/posts/UnboundGravel/Nightshots/Nightshots-225.jpg %}
+    <a href="https://rainbowmarks.com/blog/">{% picture portthumb /img/posts/UnboundGravel/Nightshots/Nightshots-225.jpg --alt Nighttime photo from Unbound Gravel %}
     </a>
   </div>
   <div class="col-8">
