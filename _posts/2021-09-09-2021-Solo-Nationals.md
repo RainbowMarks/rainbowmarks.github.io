@@ -16,33 +16,33 @@ All photos have been tagged with Car Number and Class, so you can search for you
 
 [View the Galleries Here](https://photos.rainbowmarks.com/2021/Cars/2021-Solo-Nationals-and-ProSolo-Finale)
 
-{% picture /img/posts/2021/2021SoloNationals/Barnes-12.jpg %}
+{% picture /img/posts/2021/2021SoloNationals/Barnes-12.jpg --alt 2021 Solo Nationals %}
 
 ## ProSolo Finale/Challenges
 I shot all of the competitors in the Challenge rounds, as well as some shots on both mornings of the first run group or two. Outside of that, I did not shoot run groups in the Finale, running in a pro simply doesn't allow for that kind of time.
 
-{% picture /img/posts/2021/2021SoloNationals/Cindy-1.jpg %}
+{% picture /img/posts/2021/2021SoloNationals/Cindy-1.jpg --alt 2021 Solo Nationals %}
 
 ## Purchase options
 You can purchase an individual photo for $10 per download, there are also multiple print options that you can select at various prices.
 
-{% picture /img/posts/2021/2021SoloNationals/FSAE-1.jpg %}
+{% picture /img/posts/2021/2021SoloNationals/FSAE-1.jpg --alt 2021 Solo Nationals %}
 
 ## 2021 Solo Nationals Photo Discounts
 Using our Gallery software I have not yet figured out how to easily setup packages, so it is not easy to just sell you all the photos of one driver or multiple drivers in one vehicle.
 
-{% picture /img/posts/2021/2021SoloNationals/HandsFree-2.jpg %}
+{% picture /img/posts/2021/2021SoloNationals/HandsFree-2.jpg --alt 2021 Solo Nationals %}
 
 ## Now for the photos!
 
 [View the Galleries Here](https://photos.rainbowmarks.com/2021/Cars/2021-Solo-Nationals-and-ProSolo-Finale)
 
-{% picture /img/posts/2021/2021SoloNationals/69sts-1.jpg %}
+{% picture /img/posts/2021/2021SoloNationals/69sts-1.jpg --alt 2021 Solo Nationals %}
 
 ## Photo Size
 Photos were shot on a Canon R5, with a 43 megapixel sensor. 99% of the photos posted have NOT been cropped, they are very large, so you can crop them and still get a great photo if you want to clean up any open space.
 
-{% picture /img/posts/2021/2021SoloNationals/MasonSSC-1.jpg %}
+{% picture /img/posts/2021/2021SoloNationals/MasonSSC-1.jpg --alt 2021 Solo Nationals %}
 
 ## Heats that I did NOT shoot:
 - Tuesday Heat 4 West Course (SSP/CAM-C, I did get a few shots as I was running there)
