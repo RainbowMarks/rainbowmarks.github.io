@@ -18,13 +18,13 @@ Use the "search" on my Gallery site to more easily find your photos by Bib numbe
 
 I tried to get a shot of every competitor, I am pretty sure I missed a couple though, sorry parents! 
 
-### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-1.jpg %}" /> Junior High Boys Races](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-Jr-High)
+### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-1.jpg %}" alt="Junior high boys races" /> Junior High Boys Races](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-Jr-High)
 
-### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-2.jpg %}" /> Girls Races](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-Female-Races)
+### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-2.jpg %}" alt="Grisl races"/> Girls Races](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-Female-Races)
 
-### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-3.jpg %}" /> High School Boys Races](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-High-School-Boys)
+### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-3.jpg %}" alt="High school boys races"/> High School Boys Races](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-High-School-Boys)
 
-### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-4.jpg %}" /> Before and After Shots](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-Pre-Race)
+### [<img src="{% picture direct200 /img/posts/2021/NICA-1/NICA-4.jpg %}" alt="Before and after shots"/> Before and After Shots](https://photos.rainbowmarks.com/2021/Bikes/NICA-8292021/NICA-8-29-2021-Pre-Race)
 
 
 You can purchase a   digital download of my shots via the links above. 

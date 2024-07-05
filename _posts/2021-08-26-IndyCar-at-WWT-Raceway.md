@@ -15,6 +15,6 @@ Saturday August 21st, 2021 I grabbed the camera gear and headed out to World Wid
 
 I had a blast, and have a bunch of [photos available](https://photos.rainbowmarks.com/2021/Cars/2021-Indy-Cars-at-WWT-Raceway)
 
-{% picture /img/posts/2021/IndyCar/IndyCars8-21-2021-62.jpg %}
-{% picture /img/posts/2021/IndyCar/IndyCars8-21-2021-68.jpg %}
-{% picture /img/posts/2021/IndyCar/IndyCars8-21-2021-69.jpg %}
+{% picture /img/posts/2021/IndyCar/IndyCars8-21-2021-62.jpg --alt Indy Cars at WWT Raceway %}
+{% picture /img/posts/2021/IndyCar/IndyCars8-21-2021-68.jpg --alt Indy Cars at WWT Raceway%}
+{% picture /img/posts/2021/IndyCar/IndyCars8-21-2021-69.jpg --alt Indy Cars at WWT Raceway%}

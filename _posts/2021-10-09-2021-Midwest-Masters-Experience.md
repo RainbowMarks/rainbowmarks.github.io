@@ -16,14 +16,14 @@ This weekend I shot my first CrossFit competition since the [2019 CrossFit Games
 
 [View the Galleries Here](https://photos.rainbowmarks.com/2021/2021-Midwest-Masters-Experience)
 
-{% picture /img/posts/2021/MWME/Overall-4.jpg %}
+{% picture /img/posts/2021/MWME/Overall-4.jpg --alt Midwest Masters Experience Crossfit photos %}
 
 ## Purchasing Photos
 For this event, the digital downloads are free, but you need a password to access them (see how to get the password below)! You can still purchase prints and other items from within the galleries. 
 
 [View the Galleries Here](https://photos.rainbowmarks.com/2021/2021-Midwest-Masters-Experience)
 
-{% picture /img/posts/2021/MWME/Overall-2.jpg %}
+{% picture /img/posts/2021/MWME/Overall-2.jpg --alt Midwest Masters Experience Crossfit photos%}
 
 ## Photo Size
 Photos were shot on a Canon R5, with a 43 megapixel sensor. 99% of the photos posted have NOT been cropped, they are very large, so you can crop them and still get a great photo if you want to clean up any open space.
