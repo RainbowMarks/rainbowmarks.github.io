@@ -18,11 +18,11 @@ I was out at Indian Camp Creek park on 8/15/2021 shooting photos of the ICC Chal
 
 Use the "search" on my Gallery site to more easily find your photos by Bib number, I manually tagged every picture with a bib number if I could read your number plate, if not, sorry you didn't get tagged.
 
-### [<img src="{% picture direct200 /img/posts/2021/ICCChallenge/ICC-1.jpg %}" /> 9am-10am Big Hitters and NICA/Juniors](https://photos.rainbowmarks.com/2021/Bikes/ICC/ICC-Big-Hitters-and-NICA)
+### [<img src="{% picture direct200 /img/posts/2021/ICCChallenge/ICC-1.jpg %}" alt="9am-10am Big Hitters and NICA/Juniors" /> 9am-10am Big Hitters and NICA/Juniors](https://photos.rainbowmarks.com/2021/Bikes/ICC/ICC-Big-Hitters-and-NICA)
 
-### [<img src="{% picture direct200 /img/posts/2021/ICCChallenge/ICC-2.jpg %}" /> 10am-11am Men and Women Marathon and Cat 3](https://photos.rainbowmarks.com/2021/Bikes/ICC/2021-ICC-Marathon-and-Cat-3-10am-11am)
+### [<img src="{% picture direct200 /img/posts/2021/ICCChallenge/ICC-2.jpg %}" alt="10am-11am Men and Women Marathon and Cat 3"/> 10am-11am Men and Women Marathon and Cat 3](https://photos.rainbowmarks.com/2021/Bikes/ICC/2021-ICC-Marathon-and-Cat-3-10am-11am)
 
-### [<img src="{% picture direct200 /img/posts/2021/ICCChallenge/ICC-3.jpg %}" /> 11-12:30pm Cat 1/2 and Men and Women Marathons](https://photos.rainbowmarks.com/2021/Bikes/ICC/2021-ICC-Cat-12-and-Marathon-11am-1230pm)
+### [<img src="{% picture direct200 /img/posts/2021/ICCChallenge/ICC-3.jpg %}" alt="11-12:30pm Cat 1/2 and Men and Women Marathons"/> 11-12:30pm Cat 1/2 and Men and Women Marathons](https://photos.rainbowmarks.com/2021/Bikes/ICC/2021-ICC-Cat-12-and-Marathon-11am-1230pm)
 
 I had a blast out there and appreciate all the feedback I've had on photos posted. 
 
