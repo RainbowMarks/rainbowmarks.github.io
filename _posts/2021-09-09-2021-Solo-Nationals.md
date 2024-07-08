@@ -8,7 +8,7 @@ date: '2021-09-09T18:30:00+00:00'
 header-img: "/img/posts/2021/2021SoloNationals/2021-Solo-Nationals.jpg"
 
 permalink: "Events/2021/09/2021-solo-nationals"
-categories: [cars,event, autocross,scca]
+categories: [ cars,event, autocross, scca, automotive]
 ---
 The time has come, I have uploaded all the 2021 Solo Nationals and ProSolo Finale Photos from last week. I did **NOT** shoot every heat, between running and working announce for Heat 1 on Thursday and Friday, and just being tired all week, there were a few heats that I wasn't able to get to, those are listed at the bottom of this page. Galleries are organized by Day and then by Run Heat/Classes.
 
