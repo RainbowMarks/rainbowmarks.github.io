@@ -31,7 +31,7 @@ redirect_from:
   </div>
   <div class="col-md-4">
     <h2>View Last Year's Photos!</h2>
-    <a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can [search](https://photos.rainbowmarks.com/search) by boat number)
+    <a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can <a href="https://photos.rainbowmarks.com/search">search</a> by boat number)
     <p></p>
     <h2>Finish Line Photos</h2>
     <p>This year we will be at the finish line attempting to take photos of every finisher and have the ability to print those photos onsite shortly thereafter. </p>
