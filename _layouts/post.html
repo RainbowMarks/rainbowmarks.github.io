@@ -49,12 +49,13 @@ layout: default
   <div class="row">
 
     {% if post.gallery or page.includegallery %}
-    <div class="col col-md-9" itemprop="articleBody">
+    <div class="col col-md-9">
     {% else %}
-    <div class="col col-md-12" itemprop="articleBody">
+    <div class="col col-md-12">
     {% endif %}
-
-    {{ content }}
+      <div itemprop="articleBody">
+        {{ content }}
+      </div>
     <br>
     <br>
     <hr class="small" />
