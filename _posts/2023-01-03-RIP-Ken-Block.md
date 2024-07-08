@@ -8,7 +8,7 @@ date: '2023-01-03T09:30:00+00:00'
 header-img: "/img/posts/2023/KenBlock/KenBlock.jpg"
 
 permalink: "Events/2023/01/RIP-Ken-Block"
-categories: [news, rally]
+categories: [news, rally, automotive]
 featured: false
 
 gallery:
