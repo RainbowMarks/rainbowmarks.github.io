@@ -3,9 +3,9 @@ layout: "post"
 title: "2024 Miner Tough Weekend"
 subtitle: "Trail run and Mountain Bike Race"
 active: "blog"
-image: "/img/posts/2024/july/MinerTough-01.jpg"
+image: "/img/posts/2024/july/MinerTough-1.jpg"
 date: '2024-07-15T10:20:00+00:00'
-header-img: "/img/posts/2024/july/MinerTough-01.jpg"
+header-img: "/img/posts/2024/july/MinerTough-1.jpg"
 
 permalink: "Events/2024/07/MinerTough/"
 categories: [event, race, trail, run, mtb, mountain bike]
