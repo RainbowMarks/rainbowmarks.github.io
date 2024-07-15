@@ -2,6 +2,7 @@
 layout: "post"
 title: "2024 Miner Tough Weekend"
 subtitle: "Trail run and Mountain Bike Race"
+description: "Our fourth time shooting the Miner Tough trail run and mountain bike race down in St. Joe State Park the weekend of July 13th/14th 2024"
 active: "blog"
 image: "/img/posts/2024/july/MinerTough-1.jpg"
 date: '2024-07-15T10:20:00+00:00'
