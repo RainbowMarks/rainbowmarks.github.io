@@ -24,7 +24,7 @@ redirect_from:
     <p>RainbowMarks Photography is happy to be back at the MR340 as the Official Photographer of the race!</p>
     <p>We will be at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempt to be at the finish line for every boat that crosses the line in St. Charles, Missouri.</p>
     <h3>Can I pre-pay for photos?</h3>
-    <p>For 2024 we have a single [Pre-Race photo package available](https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3). You get [3 high resolution digital downloads](https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3) (of your choosing) for the price of two. $50 instead of $75. This deal is only good until the start of the race. You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
+    <p>For 2024 we have a single <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">Pre-Race photo package available</a>. You get <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">3 high resolution digital downloads</a>> (of your choosing) for the price of two. $50 instead of $75. This deal is only good until the start of the race. You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
 
   </div>
   <div class="col-md-4">
