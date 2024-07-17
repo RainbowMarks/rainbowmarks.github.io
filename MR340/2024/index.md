@@ -22,11 +22,9 @@ redirect_from:
 <div class="row">
   <div class="col-md-8">
     <p>RainbowMarks Photography is happy to be back at the MR340 as the Official Photographer of the race!</p>
-    <p>
-    We are working on our photo package options for 2024. We will be at the starting line, and then various stops or check points along the race route to catch photos throughout the race. We will also attempt to be at the finish line for every boat that crosses the line in St. Charles, Missouri. </p>
-
+    <p>We will be at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempt to be at the finish line for every boat that crosses the line in St. Charles, Missouri.</p>
     <h3>Can I pre-pay for photos?</h3>
-    <p>While we did a prepaid package last year, we haven't quite decided if we will do that same thing again this year or not. </p>
+    <p>For 2024 we have a single [Pre-Race photo package available](https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3). You get [3 high resolution digital downloads](https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3) (of your choosing) for the price of two. $50 instead of $75. This deal is only good until the start of the race. You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
 
   </div>
   <div class="col-md-4">
@@ -34,14 +32,14 @@ redirect_from:
     <a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can <a href="https://photos.rainbowmarks.com/search">search</a> by boat number)
     <p></p>
     <h2>Finish Line Photos</h2>
-    <p>This year we will be at the finish line attempting to take photos of every finisher and have the ability to print those photos onsite shortly thereafter. </p>
+    <p>This year we will be at the finish line attempting to take photos of every finisher. If you're there and want to order prints for pickup at the finish line party let us know! </p>
   </div>
 </div>
 <div class="row">
   <div class="col-md-12">
   <h3>Photo Pricing</h3>
     <p>Individual Photos can be purchased via the gallery links above. Individual photos are $25 each for digital download.</p>
-    <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc).</p>
+    <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc) in our online galleries.</p>
   </div>
 </div>
 <div class="row">
@@ -57,3 +55,15 @@ redirect_from:
     <p>If you have any special requests for photos <a href="https://www.chrishammond.com/contact">feel free to reach out and ask</a>!.</p>
   </div>
 </div>
+
+
+<script>
+    (function(b,d,h,e,f,a,c){a=d.getElementsByTagName("script");c=!1;
+    var k=e.substring(e.lastIndexOf("/")+1);b.formIds=b.formIds?b.formIds:[];
+    for(var g=0;g<a.length;g++)-1<a[g].src.indexOf(k)&&(c=!0);b[f]&&(b.formIds=b.formIds.concat(b[f].form_ids));
+    b.formObject=f;b[f]=function(a){if(a.form_ids){
+        var c=b.formIds.concat(a.form_ids),d=[],e;for(e in c)c.hasOwnProperty(e)&&-1==d.indexOf(c[e])&&d.push(c[e]);
+        a.form_ids=d}b[f]=a};c||(a=d.createElement(h),c=d.getElementsByTagName(h)[0],a.async=!0,a.src=e,c.parentNode.insertBefore(a,
+            c))})(window,document,'script', '//cdn3.editmysite.com/app/marketing/js/dist/lead-form.js','leadForm');
+    leadForm({ form_ids: ["bf90a3a1-eae1-4060-982c-6dd11f90f703"], preview: 0, asset_domain: 'cdn3.editmysite.com/app/marketing', data_domain: 'www.weebly.com/app/marketing' });
+</script>
