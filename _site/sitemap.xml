@@ -345,6 +345,10 @@
 <lastmod>2024-06-15T15:30:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Events/2024/07/MinerTough/</loc>
+<lastmod>2024-07-15T05:20:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/category</loc>
 </url>
 <url>
@@ -434,6 +438,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/hockey/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/night-sky/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/space/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/comet/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/unbound/</loc>
@@ -638,9 +651,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/bald-eagles/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/space/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/rocket/</loc>

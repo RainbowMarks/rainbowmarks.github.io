@@ -5,9 +5,47 @@
     <description>RainbowMarks Photography, specializing in event photography in and around St. Louis Missouri.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Jul 2024 14:31:47 -0500</pubDate>
-    <lastBuildDate>Wed, 03 Jul 2024 14:31:47 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Jul 2024 14:32:55 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Jul 2024 14:32:55 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>2024 Miner Tough Weekend</title>
+        <description>&lt;p&gt;Year four! of shooting the Miner Tough weekend down in St. Joe State Park here in Missouri kicked off with Trail Run on Saturday July 13th, 2024, followed by the Mountain Bike Race on Sunday July 14th.&lt;/p&gt;
+
+&lt;p&gt;Like last year, the event chose to have our photo services available for everyone to have access to free photo downloads! You can &lt;a href=&quot;https://photos.rainbowmarks.com/2024/Miner-Tough-Weekend&quot;&gt;find the photos from the Miner Tough Weekend events now&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;You’ll find three different galleries, I tried to get a photo of every entrant but likely missed a few:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://photos.rainbowmarks.com/2024/Miner-Tough-Weekend/Saturday-Trail-Run&quot;&gt;Trail Run on Saturday&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://photos.rainbowmarks.com/2024/Miner-Tough-Weekend/Sunday-Mountain-Bike-Race&quot;&gt;Mountain Bike Race on Sunday&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://photos.rainbowmarks.com/2024/Miner-Tough-Weekend/Sunday-MTB-GoPro-Randomness&quot;&gt;GoPro random shots from the MTB Race&lt;/a&gt; The camera was sitting next to a tree taking a photo every second. If you happened to pass at the right time to get in the frame and the photo wasn’t the blurriest thing ever created you might find yourself in these.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you would like you can order prints from our online galleries.&lt;/p&gt;
+
+&lt;p&gt;A big thanks to the event organizers for having us out again this year!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 15 Jul 2024 05:20:00 -0500</pubDate>
+        <link>http://localhost:4000/Events/2024/07/MinerTough/</link>
+        <guid isPermaLink="true">http://localhost:4000/Events/2024/07/MinerTough/</guid>
+        
+        
+        <category>event</category>
+        
+        <category>race</category>
+        
+        <category>trail</category>
+        
+        <category>run</category>
+        
+        <category>mtb</category>
+        
+        <category>mountain bike</category>
+        
+      </item>
     
       <item>
         <title>2024 Big Foot Open House</title>
@@ -56,6 +94,8 @@
         <category>motorsports</category>
         
         <category>event</category>
+        
+        <category>automotive</category>
         
       </item>
     
@@ -129,6 +169,8 @@
         <category>st louis</category>
         
         <category>scca</category>
+        
+        <category>automotive</category>
         
       </item>
     
@@ -469,40 +511,6 @@ Serving St. Louis and the Midwest&lt;br /&gt;
         <category>downloads</category>
         
         <category>packages</category>
-        
-      </item>
-    
-      <item>
-        <title>New Pricing! 30% reduction in price on most physical items!</title>
-        <description>&lt;p&gt;Coming into 2024, we’re making some changes! We’ve reduced our pricing for physical items (prints, frames, metal, acrylic, canvas, mugs, etc.) by up to 30%! We plan to keep these prices for the foreseeable future!&lt;/p&gt;
-
-&lt;h2 id=&quot;get-ordering&quot;&gt;Get Ordering!&lt;/h2&gt;
-&lt;p&gt;You can find all our photos from the last couple of years available for purchase in our &lt;a href=&quot;https://photos.rainbowmarks.com/&quot;&gt;Galleries&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-digital-pricing-and-offering&quot;&gt;New Digital Pricing and Offering&lt;/h2&gt;
-&lt;p&gt;We’re offering a lower-resolution digital download that you can use on social media for $10. At this time, we will no longer be offering high-resolution digital downloads of our work except for special occasions and prepaid events.&lt;/p&gt;
-
-&lt;p&gt;We hope you enjoy our work, and we look forward to seeing you at an event soon!&lt;/p&gt;
-
-&lt;h2 id=&quot;planning-an-event-in-2024&quot;&gt;Planning an event in 2024?&lt;/h2&gt;
-&lt;p&gt;We’re booking now for 2024! &lt;a href=&quot;https://www.chrishammond.com/Contact&quot;&gt;Contact us&lt;/a&gt; today! Reach out early and get discounted event pricing!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Nov 2023 02:15:00 -0600</pubDate>
-        <link>http://localhost:4000/Events/2023/12/HolidayPrices</link>
-        <guid isPermaLink="true">http://localhost:4000/Events/2023/12/HolidayPrices</guid>
-        
-        
-        <category>sale</category>
-        
-        <category>holiday</category>
-        
-        <category>christmas</category>
-        
-        <category>prints</category>
-        
-        <category>physical</category>
-        
-        <category>digital</category>
         
       </item>
     
