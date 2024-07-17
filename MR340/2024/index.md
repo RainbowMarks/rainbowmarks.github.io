@@ -24,22 +24,27 @@ redirect_from:
     <p>RainbowMarks Photography is happy to be back at the MR340 as the Official Photographer of the race!</p>
     <p>We will be at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempt to be at the finish line for every boat that crosses the line in St. Charles, Missouri.</p>
     <h3>Can I pre-pay for photos?</h3>
-    <p>For 2024 we have a single <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">Pre-Race photo package available</a>. You get <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">3 high resolution digital downloads</a> (of your choosing) for the price of two. $50 instead of $75. This deal is only good until the start of the race. You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
-
+    <p>For 2024 we have a single <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">Pre-Race photo package available</a>. You get <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">3 high resolution digital downloads</a> (of your choosing) for the price of two. $50 instead of $75. This deal is only good until the start of the race.</p>
+    <p>You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
   </div>
   <div class="col-md-4">
+      <h2>Smile For Your Photos!</h2>
+    
+    <p>I'll be out shooting at a variety of locations all weekend, and of course at the finish line! I should be wearing a straw hat, long sleeve and long sleeve shirts with both RainbowMarks and MR340 logos on them! If you see me with the camera in hand, SMILE FOR YOUR PHOTO!</p>
+
     <h2>View Last Year's Photos!</h2>
-    <a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can <a href="https://photos.rainbowmarks.com/search">search</a> by boat number)
-    <p></p>
-    <h2>Finish Line Photos</h2>
-    <p>This year we will be at the finish line attempting to take photos of every finisher. If you're there and want to order prints for pickup at the finish line party let us know! </p>
+    <p><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can <a href="https://photos.rainbowmarks.com/search">search</a> by boat number)</p>
+    
   </div>
 </div>
 <div class="row">
   <div class="col-md-12">
-  <h3>Photo Pricing</h3>
-    <p>Individual Photos can be purchased via the gallery links above. Individual photos are $25 each for digital download.</p>
-    <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc) in our online galleries.</p>
+    <h2>Finish Line Photos</h2>
+    <p>This year we will be at the finish line attempting to take photos of every finisher. If you're there and want to order prints for pickup at the finish line party let us know! </p>
+
+    <h2>Photo Pricing</h2>
+      <p>Individual Photos can be purchased via the gallery links when they are made available. Individual photos are $25 each for digital download.</p>
+      <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc) in our online galleries.</p>
   </div>
 </div>
 <div class="row">
