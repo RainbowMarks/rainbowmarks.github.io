@@ -485,10 +485,23 @@ card{
   background-color:rgba(255, 255, 255, .5);
 }
 
-.featured-posts{  
+.featured-posts, .featured-news{  
   overflow-y:auto;
   overflow-x:hidden;
+  
+}
+
+.featured-news{  
   margin-top:7em;
+}
+
+.featured-news a{
+    color: #fff; 
+    text-shadow: 
+      
+      1px 1px 0 black;
+
+  
 }
 
 .listfeaturedtag h2{
