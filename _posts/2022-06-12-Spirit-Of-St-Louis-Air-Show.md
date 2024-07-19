@@ -14,7 +14,7 @@ featured: false
 
 I've always been a big air show fan, and love getting out to take pictures!
 
-# View the Gallery of Spirit of St. Louis Air Show Pictures
+## View the Gallery of Spirit of St. Louis Air Show Pictures
 You can check out the [Spirit Of St Louis Air Show Pictures](https://photos.rainbowmarks.com/2022/Air-Shows/Spirit-Of-St-Louis-Air-Show-2022) by clicking the link. We have over 150 shots uploaded from Thursday's practice and Saturday's show. Please take a look at the shots and let us know what you think!
 
 ## Some of our favorites

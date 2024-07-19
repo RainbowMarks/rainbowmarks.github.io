@@ -6,7 +6,7 @@ active: purchase
 header-img: "img/journal/NeowiseComet7-18-2020-5.jpg"
 ---
 
-# Thank You For Purchasing
+## Thank You For Purchasing
 
 A very big thank you for purchasing from RainbowMarks Photography. Your transaction has been completed, and a receipt for your purchase has been emailed to you.
 
