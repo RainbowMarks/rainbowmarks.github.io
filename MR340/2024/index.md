@@ -23,19 +23,24 @@ redirect_from:
   <div class="col-md-8">
     <p>RainbowMarks Photography is happy to be back at the MR340 as the Official Photographer of the race!</p>
     <p>We will be at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempt to be at the finish line for every boat that crosses the line in St. Charles, Missouri.</p>
+  </div>
+  <div class="col-md-4 text-center"> 
+      <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3"><img src="{% picture direct img/posts/2024/mr340/actionbutton.png %}" alt="Purchase a pre-race package!"></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-8">
     <h3>Can I pre-pay for photos?</h3>
     <img src="{% picture direct img/posts/2024/mr340/Small2023/Small2023-800-10.jpg %}" alt="Two Canoes on the MR340">
     <p>For 2024 we have a single <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">Pre-Race photo package available</a>. You get <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">3 high resolution digital downloads</a> (of your choosing) for the price of two. $50 instead of $75. This deal is only good until the start of the race.</p>
     <p>You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
   </div>
-  <div class="col-md-4">
-      <h2>Smile For Your Photos!</h2>
+  <div class="col-md-4"> 
+    <h2>Smile For Your Photos!</h2>
     <img src="{% picture direct img/posts/2024/mr340/Small2023/Small2023-7.jpg %}" alt="Smile for your photo!">
     <p>I'll be out shooting at a variety of locations all weekend, and of course at the finish line! I should be wearing a straw hat, long sleeve and long sleeve shirts with both RainbowMarks and MR340 logos on them! If you see me with the camera in hand, SMILE FOR YOUR PHOTO!</p>
-
     <h2>View Last Year's Photos!</h2>
-    <p><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can <a href="https://photos.rainbowmarks.com/search">search</a> by boat number)</p>
-    
+    <p><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can <a href="https://photos.rainbowmarks.com/search">search</a> by boat number)</p>    
   </div>
 </div>
 <div class="row">
