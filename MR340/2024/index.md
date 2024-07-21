@@ -58,6 +58,7 @@ redirect_from:
   <div class="col-6">
     <h2>Photo Requests</h2>
     <p>If you have any special requests for photos <a href="https://www.chrishammond.com/contact">feel free to reach out and ask</a>!.</p>
+    <p>You can also attempt to reach me by phone: 650-260-8344</p>
   </div>
   <div class="col-md-6">
     <h2>Missouri River Relief</h2>
