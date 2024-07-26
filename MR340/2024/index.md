@@ -32,7 +32,7 @@ redirect_from:
   <div class="col-md-8">
     <h3>Can I pre-pay for photos?</h3>
     <img src="{% picture direct img/posts/2024/mr340/Small2023/Small2023-800-10.jpg %}" alt="Two Canoes on the MR340">
-    <p>For 2024 we have a single <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">Pre-Race photo package available</a>. You get <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">3 high resolution digital downloads</a> (of your choosing) for the price of two. $50 instead of $75. This deal is only good until Wednesday (7/24/2024) at noon!</p>
+    <p>For 2024 we have a single <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">Pre-Race photo package available</a>. You get <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">3 high resolution digital downloads</a> (of your choosing) for the price of two. $50 instead of $75. This deal is only good until Friday (7/26/2024) at 11:59pm!</p>
     <p>You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
     <p><i>Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries.</i></p>
   </div>
