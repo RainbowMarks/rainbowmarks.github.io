@@ -16,9 +16,7 @@ redirect_from:
 ---
 <div class="row">
   <div class="col-md-12">
-
-{% picture img/posts/2024/mr340/LastFinisher/LastFinisher-2.jpg --alt 2024 MR340 final finisher! %}
-
+    {% picture img/posts/2024/mr340/LastFinisher/LastFinisher-2.jpg --alt 2024 MR340 final finisher! %}
   </div>
 </div>
 
@@ -28,14 +26,15 @@ redirect_from:
     <p>We will be at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempt to be at the finish line for every boat that crosses the line in St. Charles, Missouri.</p>
   </div>
   <div class="col-md-4 text-center"> 
-      <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3"><img src="{% picture direct img/posts/2024/mr340/actionbutton.png %}" alt="Purchase a pre-race package!"></a>
+  <h3>All photos aren't live yet! </h3>
   </div>
 </div>
 <div class="row">
   <div class="col-md-8">
     <h3>Can I pre-pay for photos?</h3>
     <img src="{% picture direct img/posts/2024/mr340/Small2023/Small2023-800-10.jpg %}" alt="Two Canoes on the MR340">
-    <p>For 2024 we have a single <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">Pre-Race photo package available</a>. You get <a href="https://rainbowmarks.square.site/product/2024-mr340-pre-sale/3">3 high resolution digital downloads</a> (of your choosing) for the price of two. $50 instead of $75. This deal is only good until Friday (7/26/2024) at 11:59pm!</p>
+
+    <p>Pre-race package is no longer available</p> 
     <p>You can pay online with a credit card, post race you'll get an email with a link and a coupon code to use for downloading your purchased photos.</p>
     <p><i>Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries.</i></p>
   </div>
