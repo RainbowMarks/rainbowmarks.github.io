@@ -16,6 +16,9 @@ redirect_from:
 ---
 <div class="row">
   <div class="col-md-12">
+
+{% picture img/posts/2024/mr340/LastFinisher/LastFinisher-2.jpg --alt 2024 MR340 final finisher! %}
+
   </div>
 </div>
 
