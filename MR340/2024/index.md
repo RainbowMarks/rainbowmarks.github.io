@@ -16,6 +16,11 @@ redirect_from:
 ---
 <div class="row">
   <div class="col-md-12">
+
+
+  <h3>All photos aren't live yet! We are actively processing and getting them ready to upload this weekend! </h3>
+
+
     {% picture img/posts/2024/mr340/LastFinisher/LastFinisher-2.jpg --alt 2024 MR340 final finisher! %}
   </div>
 </div>
@@ -26,7 +31,7 @@ redirect_from:
     <p>We will be at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempt to be at the finish line for every boat that crosses the line in St. Charles, Missouri.</p>
   </div>
   <div class="col-md-4 text-center"> 
-  <h3>All photos aren't live yet! </h3>
+  
   </div>
 </div>
 <div class="row">
