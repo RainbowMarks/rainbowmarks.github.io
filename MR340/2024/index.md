@@ -16,11 +16,7 @@ redirect_from:
 ---
 <div class="row">
   <div class="col-md-12">
-
-
   <h3>All photos aren't live yet! We are actively processing and getting them ready to upload this weekend! </h3>
-
-
     {% picture img/posts/2024/mr340/LastFinisher/LastFinisher-2.jpg --alt 2024 MR340 final finisher! %}
   </div>
 </div>
@@ -47,8 +43,9 @@ redirect_from:
     <h2>Smile For Your Photos!</h2>
     <img src="{% picture direct img/posts/2024/mr340/Small2023/Small2023-7.jpg %}" alt="Smile for your photo!">
     <p>I'll be out shooting at a variety of locations all weekend, and of course at the finish line! I should be wearing a straw hat, long sleeve and long sleeve shirts with both RainbowMarks and MR340 logos on them! If you see me with the camera in hand, SMILE FOR YOUR PHOTO!</p>
-    <h2>View Last Year's Photos!</h2>
-    <p><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">Click to view the galleries</a><br/> (you can <a href="https://photos.rainbowmarks.com/search">search</a> by boat number)</p>    
+    <h2>View This Year's Photos!</h2>
+    <p><a href="https://photos.rainbowmarks.com/2024/MR340">Click to view the galleries</a></p>
+    <p><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">2023 MR340 Photos</a><br/></p>    
   </div>
 </div>
 <div class="row">
