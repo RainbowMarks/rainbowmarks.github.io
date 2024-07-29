@@ -37,7 +37,7 @@ redirect_from:
 
     <p>Pre-race package is no longer available</p> 
     <p>If you purchased the pre-race photo package pay attention to your email on Monday morning 7/29, you'll receive an email from @christoc.com with your discount code to use and a link to your filtered photos.</p>
-    <p><i>Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries.</i></p>
+    <p><i>Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries. Please reply to the 7/29 email to request a refund before 8/30/2024.</i></p>
   </div>
   <div class="col-md-4"> 
     <h2>Smile For Your Photos!</h2>
@@ -67,14 +67,3 @@ redirect_from:
     <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will once again donate 5% of all profits from this year's race to <br /><a href="https://riverrelief.org/" target="_blank"><img src="/img/MRR-logo-color-WEB-200px.png" border="0"><br />Missouri River Relief</a>.</p>
   </div>
 </div>
-
-<script>
-    (function(b,d,h,e,f,a,c){a=d.getElementsByTagName("script");c=!1;
-    var k=e.substring(e.lastIndexOf("/")+1);b.formIds=b.formIds?b.formIds:[];
-    for(var g=0;g<a.length;g++)-1<a[g].src.indexOf(k)&&(c=!0);b[f]&&(b.formIds=b.formIds.concat(b[f].form_ids));
-    b.formObject=f;b[f]=function(a){if(a.form_ids){
-        var c=b.formIds.concat(a.form_ids),d=[],e;for(e in c)c.hasOwnProperty(e)&&-1==d.indexOf(c[e])&&d.push(c[e]);
-        a.form_ids=d}b[f]=a};c||(a=d.createElement(h),c=d.getElementsByTagName(h)[0],a.async=!0,a.src=e,c.parentNode.insertBefore(a,
-            c))})(window,document,'script', '//cdn3.editmysite.com/app/marketing/js/dist/lead-form.js','leadForm');
-    leadForm({ form_ids: ["bf90a3a1-eae1-4060-982c-6dd11f90f703"], preview: 0, asset_domain: 'cdn3.editmysite.com/app/marketing', data_domain: 'www.weebly.com/app/marketing' });
-</script>
