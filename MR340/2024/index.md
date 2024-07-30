@@ -36,6 +36,7 @@ redirect_from:
       <a href="https://www.rainbowmarksphotography.com/2024-MR340/Portland">Portland</a> | 
       <a href="https://www.rainbowmarksphotography.com/2024-MR340/Finish-Line">Finish Line</a>
       </p>
+      <p>ProTip: Use the search box on the gallery pages to search by boat number</p>
   </div>
 </div>
 <div class="row">
