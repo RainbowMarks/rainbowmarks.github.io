@@ -53,12 +53,13 @@ comments:
 # Internal nav
 nav:
   - MR340: "/MR340/2024/"
+  - SOLO NATIONALS: "/Events/2024/08/SoloNationals"
   - BLOG: "/blog/"
   - GALLERIES: "https://photos.rainbowmarks.com/"
-  - EVENTS: "/events/"
+ # - EVENTS: "/events/"
  # - PURCHASE: "/purchase/"
   - ABOUT: "/about/"
-  - SHOP: "https://photos.rainbowmarks.com/"
+ #  - SHOP: "https://photos.rainbowmarks.com/"
   
 
 # All translation keys

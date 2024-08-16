@@ -8,7 +8,7 @@ date: '2024-04-15T12:30:00+00:00'
 header-img: "/img/posts/2024/space/eclipse/Eclipse3000-3.jpg"
 permalink: "Events/2024/04/Eclipse"
 categories: [ space, eclipse, sun, moon, totality, missouri, event ] 
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/April-8th-2024-Total-Eclipse
 description: "Photos from the April 8th, 2024 Eclipse shot in Jackson, Missouri at the Trail of Tears State Park"
