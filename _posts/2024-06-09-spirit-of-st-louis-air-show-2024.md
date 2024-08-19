@@ -8,7 +8,7 @@ date: '2024-06-09T20:30:00+00:00'
 header-img: "/img/posts/2024/june/spiritofstlouis/spiritblogpost-9.jpg"
 permalink: "Events/2024/06/SpiritOfStLouisAirShow"
 categories: [ missouri, air show, airplanes, blue angels, st louis, fighter, jet, event, events ] 
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Spirit-Of-St-Louis-Air-Show-Stem-Expo
 description: "Photos from multiple days of the 2024 air show in Chesterfield, Missouri"
