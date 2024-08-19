@@ -12,6 +12,33 @@ categories: [event, race, car, solo, autocross]
 featured: true
 includegallery: false
 galleryurl: 
+gallery:
+  OldSoloNationals:
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-1.jpg
+    image-caption: "2018 Solo Nationals In the Rain"
+    image-copyright: Copyright 2024 RainbowMarks.com
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-2.jpg
+    image-caption: "2018 Solo Nationals Golden Hour"
+    image-copyright: Copyright 2024 RainbowMarks.com
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-3.jpg
+    image-caption: "2018 Solo Nationals In The Dark"
+    image-copyright: Copyright 2024 RainbowMarks.com
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-4.jpg
+    image-caption: "2018 Solo Nationals In The Dark"
+    image-copyright: Copyright 2024 RainbowMarks.com
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-5.jpg
+    image-caption: "2021 Solo Nationals Trike"
+    image-copyright: Copyright 2024 RainbowMarks.com
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-6.jpg
+    image-caption: "2021 Solo Nationals C8"
+    image-copyright: Copyright 2024 RainbowMarks.com
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-7.jpg
+    image-caption: "2021 Solo Nationals CP Mustang"
+    image-copyright: Copyright 2024 RainbowMarks.com
+  - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-8.jpg
+    image-caption: "2021 Solo Nationals CP Mustang"
+    image-copyright: Copyright 2024 RainbowMarks.com
+
 ---
 Get ready, motorsport enthusiasts! RainbowMarks Photography is thrilled to announce our coverage of the 2024 Tire Rack SCCA Solo Nationals in Lincoln, Nebraska. This iconic event is the pinnacle of Solo competition, and we're geared up to capture the high-octane action from start to finish.
 
