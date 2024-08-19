@@ -22,9 +22,7 @@ Get ready, motorsport enthusiasts! RainbowMarks Photography is thrilled to annou
 We'll be on-site shooting as many competition runs as possible across the four days of the event. Our focus is on action shots that showcase the speed, precision, and thrill of Solo racing. Whether you're a competitor looking to relive your best runs or a fan wanting to see the action up close, we've got you covered.
 
 ## Pre-Event Special Package
-
 For those who want comprehensive coverage of their performance, we're offering an exclusive **Pre-Event Special Package**:
-
 - **$150** for every one of our published digital photos of your car from the 2024 Solo Nationals. (Individual photos will be $35/photo after the event)
 - This package includes all photos, no matter how many drivers or classes the car is entered in.
 - Automatically sorted, tagged and filtered photos for you and your car, no need to "search" through photos after the event.
@@ -32,7 +30,6 @@ For those who want comprehensive coverage of their performance, we're offering a
 - ProSolo Finale can be included for an additional **$50**.
 
 ### To maximize our success in capturing your car, please provide us with the following details when checking out:
-
 - **Car number**
 - **Class**
 - **Make/Model/Color**
@@ -42,15 +39,12 @@ This information helps us focus on your vehicle throughout the event, ensuring w
 **You can book this package online via [this link](https://rainbowmarks.square.site/product/2024-solo-nationals/4).**
 
 ## Post-Event Photo Availability
-
 If you decide to purchase photos after the event, individual photos will be available for **$25/photo**. However, securing the pre-event package guarantees you receive all available photos at a significant discount.
 
 ## Important Note
-
 As of right now, we will be running and working the final heat each day, which may limit our ability to shoot cars competing in those classes. We'll do our best to capture as much as we can, but please be aware of this potential limitation.
 
 ## Contact Us
-
 If you have any questions or need to provide us with your car details, feel free to reach out before the event. We're excited to capture the excitement of Solo Nationals and can't wait to see you in Lincoln!
 
 ---
