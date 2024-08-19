@@ -18,7 +18,6 @@ Get ready, motorsport enthusiasts! RainbowMarks Photography is thrilled to annou
 [BUY NOW](https://rainbowmarks.square.site/product/2024-solo-nationals/4)
 
 ## Capturing Every Moment
-
 We'll be on-site shooting as many competition runs as possible across the four days of the event. Our focus is on action shots that showcase the speed, precision, and thrill of Solo racing. Whether you're a competitor looking to relive your best runs or a fan wanting to see the action up close, we've got you covered.
 
 ## Pre-Event Special Package
@@ -37,6 +36,9 @@ For those who want comprehensive coverage of their performance, we're offering a
 This information helps us focus on your vehicle throughout the event, ensuring we get the best possible shots.
 
 **You can book this package online via [this link](https://rainbowmarks.square.site/product/2024-solo-nationals/4).**
+
+## Years of Solo Nationals Photo Experience
+I started attending the Solo Nationals in 2000. Throughout the years I've taken thousands upon thousands of competition photos at the event. [Check out some of the past years work in our Flickr Galleries](https://flickr.com/search/?user_id=17726343%40N00&view_all=1&text=nationals)
 
 ## Post-Event Photo Availability
 If you decide to purchase photos after the event, individual photos will be available for **$25/photo**. However, securing the pre-event package guarantees you receive all available photos at a significant discount.
