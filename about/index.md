@@ -13,7 +13,9 @@ redirect_from:
 
 The double rainbow presented itself over the harbor and I couldn't resist running around to get the perfect angle on the Opera House. A couple of years later, while visiting San Francisco, I happened to catch a rainbow over the Golden Gate Bridge.
 
-The combination of these two events and the works produced gave us the name to use for our photography business.
+The combination of these two events and the works produced gave me the name to use for my photography business.
+
+I've been taking digital photos for over 26 years and have been shooting automotive events for nearly that entire time!
 
 Do you have an [event](/events) (bike, car, running, crossfit) that you would like me to attend? [Feel free to reach out and see if schedules align](https://www.chrishammond.com/Contact). 
 
