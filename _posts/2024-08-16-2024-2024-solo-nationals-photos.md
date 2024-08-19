@@ -49,11 +49,13 @@ We'll be on-site shooting as many competition runs as possible across the four d
 
 ## Pre-Event Special Package
 For those who want comprehensive coverage of their performance, we're offering an exclusive **Pre-Event Special Package**:
-- **$100** for every one of our published digital photos of your car from the 2024 Solo Nationals. (Individual photos will be $25/photo after the event)
+- **$125** for every one of our published digital photos of your car from the 2024 Solo Nationals. (Individual photos will be $25/photo after the event)
 - This package includes all photos, no matter how many drivers or classes the car is entered in.
 - Automatically sorted, tagged and filtered photos for you and your car, no need to "search" through photos after the event.
-- We'll be specifically shooting cars that have prepaid! We will guarantee at least 4 individual photos for you (likely many more), or your money back! Everyone else comes second, we may or may not get photos of them!
+- We'll be specifically shooting cars that have prepaid! We will guarantee at least 5 individual photos for you (likely many more), or your money back! Everyone else comes second, we may or may not get photos of them!
+- 25% Discount on any Physical Orders (coupon code will be provided via email after 2024 Solo Nationals galleries are posted)
 - ProSolo Finale shots can be included for an additional **$50**.
+
 
 ### To maximize our success in capturing your car, please provide us with the following details when checking out:
 - **Car number**
