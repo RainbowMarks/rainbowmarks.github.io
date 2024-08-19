@@ -5,8 +5,8 @@
     <description>RainbowMarks Photography, specializing in event photography in and around St. Louis Missouri.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 19 Aug 2024 17:40:24 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 17:40:24 -0500</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2024 18:38:53 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2024 18:38:53 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -89,6 +89,18 @@
 &lt;hr /&gt;
 
 &lt;p&gt;Stay tuned to RainbowMarks Photography for more updates as we get closer to the event. Let’s make this year’s Solo Nationals one to remember!&lt;/p&gt;
+
+&lt;script&gt;
+    (function(b,d,h,e,f,a,c){a=d.getElementsByTagName(&quot;script&quot;);c=!1;
+    var k=e.substring(e.lastIndexOf(&quot;/&quot;)+1);b.formIds=b.formIds?b.formIds:[];
+    for(var g=0;g&lt;a.length;g++)-1&lt;a[g].src.indexOf(k)&amp;&amp;(c=!0);b[f]&amp;&amp;(b.formIds=b.formIds.concat(b[f].form_ids));
+    b.formObject=f;b[f]=function(a){if(a.form_ids){
+        var c=b.formIds.concat(a.form_ids),d=[],e;for(e in c)c.hasOwnProperty(e)&amp;&amp;-1==d.indexOf(c[e])&amp;&amp;d.push(c[e]);
+        a.form_ids=d}b[f]=a};c||(a=d.createElement(h),c=d.getElementsByTagName(h)[0],a.async=!0,a.src=e,c.parentNode.insertBefore(a,
+            c))})(window,document,&apos;script&apos;, &apos;//cdn3.editmysite.com/app/marketing/js/dist/lead-form.js&apos;,&apos;leadForm&apos;);
+    leadForm({ form_ids: [&quot;686236c0-8c5f-4a2f-b962-99e3a83027ea&quot;], preview: 0, asset_domain: &apos;cdn3.editmysite.com/app/marketing&apos;, data_domain: &apos;www.weebly.com/app/marketing&apos; });
+&lt;/script&gt;
+
 </description>
         <pubDate>Fri, 16 Aug 2024 05:20:00 -0500</pubDate>
         <link>http://localhost:4000/Events/2024/08/SoloNationals</link>
