@@ -23,10 +23,12 @@ We'll be on-site shooting as many competition runs as possible across the four d
 
 ## Pre-Event Special Package
 
-For those who want comprehensive coverage of their performance, we’re offering an exclusive **Pre-Event Special Package**:
+For those who want comprehensive coverage of their performance, we're offering an exclusive **Pre-Event Special Package**:
 
-- **$150** for every published digital photo of your car from the 2024 Solo Nationals.
+- **$150** for every one of our published digital photos of your car from the 2024 Solo Nationals. (Individual photos will be $35/photo after the event)
 - This package includes all photos, no matter how many drivers or classes the car is entered in.
+- Automatically sorted, tagged and filtered photos for you and your car, no need to "search" through photos after the event.
+- We'll be specifically shooting cars that have prepaid! We will guarantee at least 5 individual photos for you, or your money back! Everyone else comes second, we may or may not get photos of them!
 - ProSolo Finale can be included for an additional **$50**.
 
 ### To maximize our success in capturing your car, please provide us with the following details when checking out:
@@ -45,7 +47,7 @@ If you decide to purchase photos after the event, individual photos will be avai
 
 ## Important Note
 
-We will be running and working the final heat each day, which may limit our ability to shoot cars competing in those classes. We'll do our best to capture as much as we can, but please be aware of this potential limitation.
+As of right now, we will be running and working the final heat each day, which may limit our ability to shoot cars competing in those classes. We'll do our best to capture as much as we can, but please be aware of this potential limitation.
 
 ## Contact Us
 
@@ -53,4 +55,4 @@ If you have any questions or need to provide us with your car details, feel free
 
 ---
 
-Stay tuned to RainbowMarks Photography for more updates as we get closer to the event. Let’s make this year’s Solo Nationals one to remember!
+Stay tuned to RainbowMarks Photography for more updates as we get closer to the event. Let's make this year's Solo Nationals one to remember!
