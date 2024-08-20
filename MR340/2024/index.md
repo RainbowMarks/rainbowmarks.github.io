@@ -15,7 +15,11 @@ redirect_from:
 ---
 <div class="row">
   <div class="col-md-12 text-center">
+
+  {% picture img/posts/2024/mr340/Special-1.jpg --alt 2024 MR340 Limited Edition Canvas! --link https://photos.rainbowmarks.com/2024/MR340/MR340-Specials/i-DWjsdPV/buy %}
+
   <h3><a href="https://photos.rainbowmarks.com/2024/MR340">View the 2024 MR340 Photo Galleries</a></h3>
+
     {% picture img/posts/2024/mr340/LastFinisher/LastFinisher-2.jpg --alt 2024 MR340 final finisher! %}
   </div>
 </div>
