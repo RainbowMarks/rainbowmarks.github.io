@@ -53,7 +53,7 @@
     <link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/galleries.css">
-    <link rel="stylesheet" href="/css/magnificpopup.css?v=1724184642">
+    <link rel="stylesheet" href="/css/magnificpopup.css?v=1724363396">
     <link href="/css/tags-wrap.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -132,8 +132,9 @@
     
 
   <!-- Navigation -->
-<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md"
+<nav class="navbar navbar-dark fixed-top navbar-expand-md"
 style="margin-right:1em; z-index: 4;">
+
     <!-- Brand and toggle get grouped for better mobile display -->
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
     </button> <a href="/" title="HOME"><img src="/img/RB-2024Logo-Wide.png" alt="logo" style="width:465px;cursor:pointer;margin-top:15px;"></a>
@@ -151,6 +152,27 @@ style="margin-right:1em; z-index: 4;">
             </li>     
             <li class="active nav-item"><a href="/about/" class="nav-link">ABOUT</a>
             </li>  
+            <script src="/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form role="search" class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search: Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/js/lunrsearchengine.js"></script>
         </ul>
     </div>
     <!-- /.navbar-collapse -->

@@ -1,6 +1,7 @@
 <!-- Navigation -->
-<nav class="navbar navbar-dark navbar-custom fixed-top navbar-expand-md"
+<nav class="navbar navbar-dark fixed-top navbar-expand-md"
 style="margin-right:1em; z-index: 4;">
+
     <!-- Brand and toggle get grouped for better mobile display -->
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <i class="fa fa-bars fa-lg"></i>
     </button> <a href="{{ site.baseurl }}/" title="HOME"><img src="{{ site.baseurl }}/img/RB-2024Logo-Wide.png" alt="logo" style="width:465px;cursor:pointer;margin-top:15px;"></a>
@@ -14,6 +15,7 @@ style="margin-right:1em; z-index: 4;">
             </li>{% else %}
             <li class="nav-item"><a href="{{ nav_item[1] }}" class="nav-link">{{ nav_item[0] }}</a>
             </li>{% endif %} {% endfor %} {% endfor %}
+            {% include search-lunr.html %}
         </ul>
     </div>
     <!-- /.navbar-collapse -->
