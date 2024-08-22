@@ -17,45 +17,27 @@
 
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>gymnastics - RainbowMarks.com</title>
+		<title>Search - RainbowMarks.com</title>
 
-		<meta
-			property="og:url"
-			content="https://rainbowmarks.com/category/gymnastics/"
-		/>
+		<meta property="og:url" content="https://rainbowmarks.com/search/" />
 		<meta property="og:image" content="https://rainbowmarks.com" />
 
-		<meta property="og:type" content="category" />
+		<meta property="og:type" content="article" />
 
-		<meta property="og:title" content="gymnastics" />
+		<meta property="og:title" content="Search" />
 
-		<meta
-			property="og:description"
-			content="RainbowMarks Photography, specializing in event photography in and around St. Louis Missouri."
-		/>
-		<meta
-			name="description"
-			content="RainbowMarks Photography, specializing in event photography in and around St. Louis Missouri."
-		/>
+		<meta property="og:description" content="What are you looking for?" />
+		<meta name="description" content="What are you looking for?" />
 
 		<meta name="keywords" content="" />
 		<!-- Twitter Card data -->
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:site" content="@" />
-		<meta
-			name="twitter:title"
-			content="gymnastics - RainbowMarks Photography"
-		/>
-		<meta
-			name="twitter:description"
-			content="RainbowMarks Photography, specializing in event photography in and around St. Louis Missouri."
-		/>
+		<meta name="twitter:title" content="Search - RainbowMarks Photography" />
+		<meta name="twitter:description" content="What are you looking for?" />
 		<meta name="twitter:image" content="https://rainbowmarks.com" />
 
-		<link
-			rel="canonical"
-			href="https://rainbowmarks.com/category/gymnastics/"
-		/>
+		<link rel="canonical" href="https://rainbowmarks.com/search/" />
 
 		<link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon" />
 		<link rel="icon" href="/favicon.ico?" type="image/x-icon" />
@@ -73,7 +55,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1724363784" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1724363517" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -152,11 +134,11 @@
 			{
 				"@context": "https://schema.org",
 				"@type": "BlogPosting",
-				"url": "https://rainbowmarks.com/category/gymnastics/",
-				"name": "gymnastics",
-				"headline": "gymnastics",
+				"url": "https://rainbowmarks.com/search/",
+				"name": "Search",
+				"headline": "Search",
 				"keywords": "",
-				"description": "",
+				"description": "What are you looking for?",
 				"articleBody": "",
 
 				"publisher": {
@@ -172,7 +154,7 @@
 				},
 				"mainEntityOfPage": {
 					"@type": "WebPage",
-					"@id": "https://rainbowmarks.com//category/gymnastics/"
+					"@id": "https://rainbowmarks.com//search/"
 				}
 			}
 		</script>
@@ -267,142 +249,120 @@
 			<!-- /.container -->
 		</nav>
 		<div class="site-content">
-			<!-- Begin List Posts
-================================================== -->
-			<section class="recent-posts">
-				<div class="row listrecent">
-					<section class="section--postsWrapper">
-						<div class="container">
-							<div class="blockGroup">
-								<ul class="blockGroup-list">
-									<div class="section-title">
-										<h1>
-											Archive of posts with <span>category 'gymnastics'</span>
-										</h1>
-									</div>
-
-									<li class="block">
-										<div class="postArticle-wrapper">
-											<div
-												class="post-preview"
-												style="
-													border-bottom-style: solid;
-													border-bottom-width: 1px;
-													border-bottom-color: #530720;
-												"
-											>
-												<a href="/Events/2023/11/MoJudgesCup">
-													<img
-														src="/generated/img/posts/2023/Gymnastics/MoJudgesCup-1-800-e30585190.jpg"
-														alt="MO Judges Cup Gymnastics - November 10, 2023"
-														srcset="
-															/generated/img/posts/2023/Gymnastics/MoJudgesCup-1-200-e30585190.jpg   200w,
-															/generated/img/posts/2023/Gymnastics/MoJudgesCup-1-400-e30585190.jpg   400w,
-															/generated/img/posts/2023/Gymnastics/MoJudgesCup-1-800-e30585190.jpg   800w,
-															/generated/img/posts/2023/Gymnastics/MoJudgesCup-1-1600-e30585190.jpg 1600w,
-															/generated/img/posts/2023/Gymnastics/MoJudgesCup-1-2000-e30585190.jpg 2000w
-														"
-													/>
-
-													<p
-														class="post-title"
-														style="
-															font-family: Open Sans, Helvetica Neue, Helvetica,
-																Arial, sans-serif;
-														"
-													>
-														MO Judges Cup Gymnastics - November 10, 2023
-													</p>
-												</a>
-
-												<p
-													class="post-subtitle"
-													style="
-														font-family: Open Sans, Helvetica Neue, Helvetica,
-															Arial, sans-serif;
-													"
-												>
-													Olympia Ellisville Xcel Silver
-												</p>
-
-												<p
-													class="post-meta"
-													style="
-														font-family: Open Sans, Helvetica Neue, Helvetica,
-															Arial, sans-serif;
-													"
-												>
-													Posted on November 13, 2023
-												</p>
-											</div>
-										</div>
-									</li>
-
-									<li class="block">
-										<div class="postArticle-wrapper">
-											<div
-												class="post-preview"
-												style="
-													border-bottom-style: solid;
-													border-bottom-width: 1px;
-													border-bottom-color: #530720;
-												"
-											>
-												<a href="/Events/2022/02/StLouisClassicGymnastics">
-													<img
-														src="/generated/img/posts/2022/Gymnastics/StLouisClassic-90-800-39f637916.jpg"
-														alt="St. Louis Classic Gymnastics Competition Excel Silver - February 26, 2022"
-														srcset="
-															/generated/img/posts/2022/Gymnastics/StLouisClassic-90-200-39f637916.jpg   200w,
-															/generated/img/posts/2022/Gymnastics/StLouisClassic-90-400-39f637916.jpg   400w,
-															/generated/img/posts/2022/Gymnastics/StLouisClassic-90-800-39f637916.jpg   800w,
-															/generated/img/posts/2022/Gymnastics/StLouisClassic-90-1600-39f637916.jpg 1600w,
-															/generated/img/posts/2022/Gymnastics/StLouisClassic-90-2000-39f637916.jpg 2000w
-														"
-													/>
-
-													<p
-														class="post-title"
-														style="
-															font-family: Open Sans, Helvetica Neue, Helvetica,
-																Arial, sans-serif;
-														"
-													>
-														St. Louis Classic Gymnastics Competition Excel
-														Silver - February 26, 2022
-													</p>
-												</a>
-
-												<p
-													class="post-subtitle"
-													style="
-														font-family: Open Sans, Helvetica Neue, Helvetica,
-															Arial, sans-serif;
-													"
-												>
-													Girls having fun
-												</p>
-
-												<p
-													class="post-meta"
-													style="
-														font-family: Open Sans, Helvetica Neue, Helvetica,
-															Arial, sans-serif;
-													"
-												>
-													Posted on February 27, 2022
-												</p>
-											</div>
-										</div>
-									</li>
-
-									<p>&nbsp;</p>
-								</ul>
+			<!-- Page Header -->
+			<header class="intro-header">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 col-lg-offset-2 col-md-10 col-md-offset-1">
+							<div class="site-heading">
+								<h1>Search</h1>
+								<hr class="small" />
+								<span class="subheading">What are you looking for?</span>
 							</div>
 						</div>
-					</section>
+					</div>
 				</div>
-			</section>
+			</header>
+
+			<!-- Main Content -->
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<style type="text/css">
+							#search-input {
+								display: inline-block;
+								color: #008989;
+								background-color: #12161d;
+								border-color: #223333;
+								padding: 0.5em;
+								width: 100%;
+								font-size: 0.8em;
+							}
+
+							#search-input:focus {
+								display: inline-block;
+								color: #ddd;
+								background-color: #12161d;
+								border-color: #223333;
+								border-width: thick;
+								border-style: outset;
+								box-shadow: -1px 1px 5px 5px #008989;
+								outline: 0;
+								width: 100%;
+								font-size: 0.8em;
+							}
+						</style>
+
+						<!-- Html Elements for Search -->
+						<input
+							type="text"
+							id="search-input"
+							placeholder="Enter keywords..."
+						/>
+						<ul id="results-container" style="list-style-type: none"></ul>
+
+						<!-- Script pointing to super-search.js -->
+						<script src="/js/super-search.js" type="text/javascript"></script>
+
+						<script type="text/javascript">
+							SimpleJekyllSearch({
+								searchInput: document.getElementById("search-input"),
+								resultsContainer: document.getElementById("results-container"),
+								json: "/search.json",
+								searchResultTemplate:
+									'<li><a href="{url}" title="{desc}">{title}</a></li>',
+								noResultsText: "No results found",
+								limit: 10,
+								fuzzy: true,
+								exclude: ["Welcome"],
+							});
+						</script>
+
+						<style>
+							.site-tag a {
+								display: inline-block;
+								margin-right: 12px;
+							}
+						</style>
+
+						<br />
+
+						<style>
+							.site-category a {
+								display: inline-block;
+								margin-right: 12px;
+							}
+						</style>
+					</div>
+				</div>
+			</div>
+			<!-- Custom Theme JavaScript -->
+			<script src="/js/main.min.js "></script>
+			<!-- include image popups -->
+			<script src="/js/jquery.magnific-popup.js"></script>
+
+			<script type="text/javascript">
+				$(document).ready(function ($) {
+					$("a.popup").magnificPopup({
+						type: "image",
+						gallery: {
+							enabled: true,
+							navigateByImgClick: true,
+							preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+						},
+						image: {
+							titleSrc: function (item) {
+								return (
+									item.el.attr("title") +
+									"&nbsp;" +
+									item.el.attr("data-caption")
+								);
+							},
+						},
+						// other options
+					});
+				});
+			</script>
 		</div>
 		<!-- Footer -->
 		<footer>
