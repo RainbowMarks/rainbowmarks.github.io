@@ -11,13 +11,13 @@ var documents = [{
     "body": "Capture every slapshot, every goal, and every triumphant cheer right here in St. Louis. Let the passion of the game and the spirit of young talent shine through in stunning, professionally shot photographs by RainbowMarks. com, your local St. Louis hockey photography expert! What Our St. Louis Service Offers::    📌 Local Expertise: Specializing in capturing the intensity and excitement of St. Louis hockey games, we know exactly where to be to catch the perfect shot.     📌 Comprehensive Coverage: From the first puck drop to the final whistle, our photographer will be there, capturing the essence of the game with a keen eye for the action that makes St. Louis hockey unique.     📌 Competitive Pricing: For just $225, receive extensive coverage of your entire game. This fee can be shared among team parents to make capturing these memories even more accessible.     📌 High-Quality Digital Downloads: Utilizing state-of-the-art equipment, we ensure each photograph is crisp, clear, and vibrant. Relive the best action shots and candid moments through our premium online gallery, with downloads included in the fee. View some of our previous St. Louis hockey photos     📌 Expert Post-Processing: We meticulously process each image to highlight the best of St. Louis hockey’s colors, lighting, and details.     📌 Discounted Prints for St. Louis Fans: Turn your memories into tangible keepsakes with premium quality prints, available at exclusive discounted rates for the St. Louis hockey community.     📌 Personalized Online Gallery: Choose between a public or private gallery, designed for easy navigation, viewing, sharing, and downloading.     📌 Extensive Photo Selection: Expect to choose from 200-300 of the best photos from nearly a thousand shots taken during a standard 1-hour game.     📌 Personal Usage Rights: Enjoy the freedom to share, print, and cherish your images forever with rights for personal use.  📆 Secure Your Spot – St. Louis Slots Fill Up Fast!: Children grow up quickly, and the moments on the ice are fleeting. Secure the best memories of their hockey journey with St. Louis’s favorite photography service. Our commitment to quality and personalized service means our slots fill up quickly. Book now to avoid disappointment! Thank you for considering RainbowMarks Photography for your St. Louis hockey photography needs. We’re not just about taking pictures; we’re about capturing the heart of St. Louis hockey and preserving memories. Let’s create a lasting legacy of your child’s sporting journey together. "
     }, {
     "id": 2,
-    "url": "https://rainbowmarks.com/passwords/",
-    "title": "Gallery Password Page",
+    "url": "https://rainbowmarks.com/portfolio/",
+    "title": "PORTFOLIO",
     "body": ""
     }, {
     "id": 3,
-    "url": "https://rainbowmarks.com/portfolio/",
-    "title": "PORTFOLIO",
+    "url": "https://rainbowmarks.com/passwords/",
+    "title": "Gallery Password Page",
     "body": ""
     }, {
     "id": 4,
@@ -31,59 +31,59 @@ var documents = [{
     "body": "                                                                                                                                                               2024 Bommarito 500 IndyCar Photos            :                                                                                                                                                                                                   2024 Tire Rack SCCA Solo Nationals Photos            :                                                                                                                                                                                                   2024 American Water Missouri River 340 Paddle Race            :                                                                                                                                                                                                   2024 Miner Tough Weekend            :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           "
     }, {
     "id": 6,
-    "url": "https://rainbowmarks.com/events/",
-    "title": "St. Louis Missouri Event Photographer / Photography",
-    "body": "At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.         Recent Events:            2024 Bommarito 500 IndyCar Photos                2024 Tire Rack SCCA Solo Nationals Photos                2024 American Water Missouri River 340 Paddle Race                2024 Miner Tough Weekend                2024 Big Foot Open House                 Event Photography Packages:   We customize our packages for each event, so we can tailor our services for the specific needs of your event.   You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.   If you're interested in having RainbowMarks Photography shoot your event, please reach out and get more information     Event Organizer Specials:   Custom packages for your event(s)? We can do that!   Do you want to give out digital copies to all entrants? We can do that!   Do you want to include a physical print with each entry? We can do that!   Do you want to be hands off and let us run with your event photos? We can do that!    Custom Event Watermarks:  With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.   Types Of Events: We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, don’t hesitate to reach out and ask.   Youth Sports:      Baseball   Ice Hockey   Roller Hockey   Lacrosse   Gymnastics   Team Photos   Individual Photos    Automotive Events:      Car Shows   Automotive Races   Monster Trucks   Rally Races   Road Races   Autocross   NASCAR   Indy Car    Bicycle Events:      Gravel Races   Cyclocross Races   Mountain Bike Races   Road Races   Crits (criteriums)      CrossFit Events:      CrossFit Games   Team Competitions   Individual Competitions    Running Events:      Trail Runs   Ultra-Marathons    Watersports:      Multi-day long distance races   One day races      Music Events:      Concerts   Lounge Events   Band Competitions   Bar Shows      Get More Info "
-    }, {
-    "id": 7,
-    "url": "https://rainbowmarks.com/terms/",
-    "title": "Terms",
-    "body": "RainbowMarks Photography: Introduction: Welcome to RainbowMarks Photography. By accessing and using our services, you agree to comply with and be bound by the following terms and conditions. Please review them carefully. Copyright Notice: All photographs taken by RainbowMarks Photography are protected by international copyright laws. This includes any images displayed on our website, social media platforms, and those provided to clients upon purchase. Usage Rights: When you purchase a photograph from RainbowMarks Photography, you are buying a license to use the image for personal use only. This means you may:  Display the photograph in your home or personal space.  Share the photograph on personal social media accounts with appropriate credit to RainbowMarks Photography. Prohibited Uses: Without a separate commercial agreement, you may not:  Use the photograph for any commercial purposes, including but not limited to advertising, marketing, promotional materials, or any business-related activities.  Sell, sublicense, or redistribute the photograph.  Use the photograph in any manner that could be considered defamatory, obscene, or otherwise illegal. Commercial Use: If you wish to use a photograph for commercial purposes, you must obtain a separate license through an additional contract or agreement with RainbowMarks Photography. For inquiries about commercial use, please contact us directly at [rainbowmarks@christoc. com]. Alterations and Edits: You may not alter, edit, or manipulate the photographs in any way that changes the overall look, message, or integrity of the image without written consent from RainbowMarks Photography. Digital Downloads and Prints: All digital downloads and prints provided by RainbowMarks Photography are for personal use only. Any digital files are subject to the same usage rights and prohibitions as outlined above. Refunds and Returns: Due to the nature of digital photography, all sales are final. We do not offer refunds or returns on any purchased digital downloads or prints. Privacy Policy: RainbowMarks Photography is committed to protecting your privacy. Any personal information collected during your purchase will be used solely for the purpose of completing the transaction and delivering your photos. We will not share your information with any third parties without your consent. Changes to Terms: RainbowMarks Photography reserves the right to update or modify these terms at any time without prior notice. By continuing to use our services, you agree to be bound by the revised terms. Contact Information: For any questions or concerns regarding these terms, please contact us at: RainbowMarks PhotographyEmail: [rainbowmarks@christoc. com]Phone: 650-260-8344Address: Wildwood, MO "
-    }, {
-    "id": 8,
     "url": "https://rainbowmarks.com/portfolio/05/",
     "title": "Cars",
     "body": ""
     }, {
-    "id": 9,
+    "id": 7,
     "url": "https://rainbowmarks.com/portfolio/07/",
     "title": "Landscapes",
     "body": ""
     }, {
-    "id": 10,
-    "url": "https://rainbowmarks.com/portfolio/06/",
-    "title": "Astrophotography",
-    "body": ""
-    }, {
-    "id": 11,
+    "id": 8,
     "url": "https://rainbowmarks.com/portfolio/03/",
     "title": "Air Show Photos",
     "body": ""
     }, {
-    "id": 12,
-    "url": "https://rainbowmarks.com/portfolio/01/",
-    "title": "CrossFit Photography",
-    "body": ""
-    }, {
-    "id": 13,
-    "url": "https://rainbowmarks.com/portfolio/02/",
-    "title": "Yosemite National Park",
-    "body": ""
-    }, {
-    "id": 14,
+    "id": 9,
     "url": "https://rainbowmarks.com/portfolio/04/",
     "title": "Rainbows",
     "body": ""
     }, {
-    "id": 15,
+    "id": 10,
+    "url": "https://rainbowmarks.com/portfolio/01/",
+    "title": "CrossFit Photography",
+    "body": ""
+    }, {
+    "id": 11,
+    "url": "https://rainbowmarks.com/portfolio/06/",
+    "title": "Astrophotography",
+    "body": ""
+    }, {
+    "id": 12,
+    "url": "https://rainbowmarks.com/portfolio/02/",
+    "title": "Yosemite National Park",
+    "body": ""
+    }, {
+    "id": 13,
     "url": "https://rainbowmarks.com/about/",
     "title": "About",
     "body": "RainbowMarks Photography is a project from Chris Hammond. The name RainbowMarks comes from Rainbow Landmarks, one of the great (if I do say so myself) photos I’ve taken was the photo here on this page of the Sydney Opera House on a trip to Australia in 2012. The double rainbow presented itself over the harbor and I couldn’t resist running around to get the perfect angle on the Opera House. A couple of years later, while visiting San Francisco, I happened to catch a rainbow over the Golden Gate Bridge. The combination of these two events and the works produced gave me the name to use for my photography business. I’ve been taking digital photos for over 26 years and have been shooting automotive events for nearly that entire time! Do you have an event (bike, car, running, crossfit) that you would like me to attend? Feel free to reach out and see if schedules align. I hope you enjoy my work! Click here for information on purchasing photos "
     }, {
-    "id": 16,
+    "id": 14,
     "url": "https://rainbowmarks.com/photomark/",
     "title": "PhotoMark.CO - Photo Marking and Sharing for Events",
     "body": "PhotoMark. co is a photo marking and sharing service for events. We provide a simple way for event organizers to share photos with participants. We also provide a way for participants to search for their photos by bib number or other criteria. The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.  Chris Hammond - RainbowMarks Photography"
+    }, {
+    "id": 15,
+    "url": "https://rainbowmarks.com/terms/",
+    "title": "Terms",
+    "body": "RainbowMarks Photography: Introduction: Welcome to RainbowMarks Photography. By accessing and using our services, you agree to comply with and be bound by the following terms and conditions. Please review them carefully. Copyright Notice: All photographs taken by RainbowMarks Photography are protected by international copyright laws. This includes any images displayed on our website, social media platforms, and those provided to clients upon purchase. Usage Rights: When you purchase a photograph from RainbowMarks Photography, you are buying a license to use the image for personal use only. This means you may:  Display the photograph in your home or personal space.  Share the photograph on personal social media accounts with appropriate credit to RainbowMarks Photography. Prohibited Uses: Without a separate commercial agreement, you may not:  Use the photograph for any commercial purposes, including but not limited to advertising, marketing, promotional materials, or any business-related activities.  Sell, sublicense, or redistribute the photograph.  Use the photograph in any manner that could be considered defamatory, obscene, or otherwise illegal. Commercial Use: If you wish to use a photograph for commercial purposes, you must obtain a separate license through an additional contract or agreement with RainbowMarks Photography. For inquiries about commercial use, please contact us directly at [rainbowmarks@christoc. com]. Alterations and Edits: You may not alter, edit, or manipulate the photographs in any way that changes the overall look, message, or integrity of the image without written consent from RainbowMarks Photography. Digital Downloads and Prints: All digital downloads and prints provided by RainbowMarks Photography are for personal use only. Any digital files are subject to the same usage rights and prohibitions as outlined above. Refunds and Returns: Due to the nature of digital photography, all sales are final. We do not offer refunds or returns on any purchased digital downloads or prints. Privacy Policy: RainbowMarks Photography is committed to protecting your privacy. Any personal information collected during your purchase will be used solely for the purpose of completing the transaction and delivering your photos. We will not share your information with any third parties without your consent. Changes to Terms: RainbowMarks Photography reserves the right to update or modify these terms at any time without prior notice. By continuing to use our services, you agree to be bound by the revised terms. Contact Information: For any questions or concerns regarding these terms, please contact us at: RainbowMarks PhotographyEmail: [rainbowmarks@christoc. com]Phone: 650-260-8344Address: Wildwood, MO "
+    }, {
+    "id": 16,
+    "url": "https://rainbowmarks.com/events/",
+    "title": "St. Louis Missouri Event Photographer / Photography",
+    "body": "At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.         Recent Events:            2024 Bommarito 500 IndyCar Photos                2024 Tire Rack SCCA Solo Nationals Photos                2024 American Water Missouri River 340 Paddle Race                2024 Miner Tough Weekend                2024 Big Foot Open House                 Event Photography Packages:   We customize our packages for each event, so we can tailor our services for the specific needs of your event.   You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.   If you're interested in having RainbowMarks Photography shoot your event, please reach out and get more information     Event Organizer Specials:   Custom packages for your event(s)? We can do that!   Do you want to give out digital copies to all entrants? We can do that!   Do you want to include a physical print with each entry? We can do that!   Do you want to be hands off and let us run with your event photos? We can do that!    Custom Event Watermarks:  With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.   Types Of Events: We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, don’t hesitate to reach out and ask.   Youth Sports:      Baseball   Ice Hockey   Roller Hockey   Lacrosse   Gymnastics   Team Photos   Individual Photos    Automotive Events:      Car Shows   Automotive Races   Monster Trucks   Rally Races   Road Races   Autocross   NASCAR   Indy Car    Bicycle Events:      Gravel Races   Cyclocross Races   Mountain Bike Races   Road Races   Crits (criteriums)      CrossFit Events:      CrossFit Games   Team Competitions   Individual Competitions    Running Events:      Trail Runs   Ultra-Marathons    Watersports:      Multi-day long distance races   One day races      Music Events:      Concerts   Lounge Events   Band Competitions   Bar Shows      Get More Info "
     }, {
     "id": 17,
     "url": "https://rainbowmarks.com/purchase/",
@@ -171,27 +171,27 @@ var documents = [{
     "body": ""
     }, {
     "id": 34,
-    "url": "https://rainbowmarks.com/Events",
-    "title": "",
-    "body": ""
-    }, {
-    "id": 35,
-    "url": "https://rainbowmarks.com/Terms",
-    "title": "",
-    "body": ""
-    }, {
-    "id": 36,
-    "url": "https://rainbowmarks.com/Privacy",
-    "title": "",
-    "body": ""
-    }, {
-    "id": 37,
     "url": "https://rainbowmarks.com/About",
     "title": "",
     "body": ""
     }, {
-    "id": 38,
+    "id": 35,
     "url": "https://rainbowmarks.com/About/",
+    "title": "",
+    "body": ""
+    }, {
+    "id": 36,
+    "url": "https://rainbowmarks.com/Terms",
+    "title": "",
+    "body": ""
+    }, {
+    "id": 37,
+    "url": "https://rainbowmarks.com/Privacy",
+    "title": "",
+    "body": ""
+    }, {
+    "id": 38,
+    "url": "https://rainbowmarks.com/Events",
     "title": "",
     "body": ""
     }, {
@@ -223,7 +223,7 @@ var documents = [{
     "id": 44,
     "url": "https://rainbowmarks.com/redirects.json",
     "title": "",
-    "body": "{“/Events/2021/07/August-15-2021-ICC-Challenge-Mountain-Bike-Race”:”https://rainbowmarks. com/Events/2021/08/August-15-2021-ICC-Challenge-Mountain-Bike-Race”,”/Events/2022/06/BallwinCyclesDirtCrits2022-3”:”https://rainbowmarks. com/Events/2022/07/BallwinCyclesDirtCrits2022-3”,”/Events/2022/03/100AcreWood”:”https://rainbowmarks. com/Events/2023/03/100AcreWood”,”/Events/2022/04/Grand-Canyon-Black-and-White-FrameTV”:”https://rainbowmarks. com/Events/2023/04/Grand-Canyon-Black-and-White-FrameTV”,”/Events/2022/05/May17thSection6”:”https://rainbowmarks. com/Events/2023/05/May17thSection6”,”/Events/2022/05/AAABluesHockeySpring/”:”https://rainbowmarks. com/Events/2023/05/AAABluesHockeySpring/”,”/Events/2022/05/StLouisHockeyPhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisHockeyPhotography/”,”/Events/2022/05/StLouisBikeRacePhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisBikeRacePhotography/”,”/404. html”:”https://rainbowmarks. com/portfolio”,”/blog/tag/airplane/”:”https://rainbowmarks. com/category/airplane/”,”/blog/tag/autocross/”:”https://rainbowmarks. com/category/autocross/”,”/blog/tag/bicycle/”:”https://rainbowmarks. com/category/bicycle/”,”/tags”:”https://rainbowmarks. com/category”,”/tags/”:”https://rainbowmarks. com/category”,”/blog/tag/crossfit/”:”https://rainbowmarks. com/category/crossfit/”,”/blog/tag/event/”:”https://rainbowmarks. com/category/events/”,”/blog/tag/hockey/”:”https://rainbowmarks. com/category/hockey/”,”/passwords/”:”https://rainbowmarks. com/”,”/portfolio/”:”https://rainbowmarks. com/blog/”,”/blog/tag/”:”https://rainbowmarks. com/category”,”/Blog”:”https://rainbowmarks. com/blog/”,”/Events”:”https://rainbowmarks. com/events/”,”/Terms”:”https://rainbowmarks. com/terms/”,”/Privacy”:”https://rainbowmarks. com/terms/”,”/portfolio/05/”:”https://photos. rainbowmarks. com/Automotive-Portfolio”,”/portfolio/07/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/portfolio/06/”:”https://photos. rainbowmarks. com/Celestial-Portfolio/”,”/portfolio/03/”:”https://photos. rainbowmarks. com/Airshow-Portfolio”,”/portfolio/01/”:”https://photos. rainbowmarks. com/2019-CrossFit-Games/”,”/portfolio/02/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/portfolio/04/”:”https://photos. rainbowmarks. com/Rainbows”,”/About”:”https://rainbowmarks. com/about/”,”/About/”:”https://rainbowmarks. com/about/”,”/Purchase”:”https://rainbowmarks. com/purchase/”,”/mr340/2023”:”https://rainbowmarks. com/MR340/2023/”,”/mr340”:”https://rainbowmarks. com/MR340/2024/”,”/MR340”:”https://rainbowmarks. com/MR340/2024/”,”/mr340/2024”:”https://rainbowmarks. com/MR340/2024/”,”/blog/tag/motorsports/”:”https://rainbowmarks. com/category/motorsports/”,”/search/”:”https://rainbowmarks. com/”,”/blog/tag/unbound/”:”https://rainbowmarks. com/category/unbound/”} "
+    "body": "{“/Events/2021/07/August-15-2021-ICC-Challenge-Mountain-Bike-Race”:”https://rainbowmarks. com/Events/2021/08/August-15-2021-ICC-Challenge-Mountain-Bike-Race”,”/Events/2022/06/BallwinCyclesDirtCrits2022-3”:”https://rainbowmarks. com/Events/2022/07/BallwinCyclesDirtCrits2022-3”,”/Events/2022/03/100AcreWood”:”https://rainbowmarks. com/Events/2023/03/100AcreWood”,”/Events/2022/04/Grand-Canyon-Black-and-White-FrameTV”:”https://rainbowmarks. com/Events/2023/04/Grand-Canyon-Black-and-White-FrameTV”,”/Events/2022/05/May17thSection6”:”https://rainbowmarks. com/Events/2023/05/May17thSection6”,”/Events/2022/05/AAABluesHockeySpring/”:”https://rainbowmarks. com/Events/2023/05/AAABluesHockeySpring/”,”/Events/2022/05/StLouisHockeyPhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisHockeyPhotography/”,”/Events/2022/05/StLouisBikeRacePhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisBikeRacePhotography/”,”/404. html”:”https://rainbowmarks. com/portfolio”,”/blog/tag/airplane/”:”https://rainbowmarks. com/category/airplane/”,”/blog/tag/autocross/”:”https://rainbowmarks. com/category/autocross/”,”/blog/tag/bicycle/”:”https://rainbowmarks. com/category/bicycle/”,”/tags”:”https://rainbowmarks. com/category”,”/tags/”:”https://rainbowmarks. com/category”,”/blog/tag/crossfit/”:”https://rainbowmarks. com/category/crossfit/”,”/blog/tag/event/”:”https://rainbowmarks. com/category/events/”,”/blog/tag/hockey/”:”https://rainbowmarks. com/category/hockey/”,”/portfolio/”:”https://rainbowmarks. com/blog/”,”/passwords/”:”https://rainbowmarks. com/”,”/blog/tag/”:”https://rainbowmarks. com/category”,”/Blog”:”https://rainbowmarks. com/blog/”,”/portfolio/05/”:”https://photos. rainbowmarks. com/Automotive-Portfolio”,”/portfolio/07/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/portfolio/03/”:”https://photos. rainbowmarks. com/Airshow-Portfolio”,”/portfolio/04/”:”https://photos. rainbowmarks. com/Rainbows”,”/portfolio/01/”:”https://photos. rainbowmarks. com/2019-CrossFit-Games/”,”/portfolio/06/”:”https://photos. rainbowmarks. com/Celestial-Portfolio/”,”/portfolio/02/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/About”:”https://rainbowmarks. com/about/”,”/About/”:”https://rainbowmarks. com/about/”,”/Terms”:”https://rainbowmarks. com/terms/”,”/Privacy”:”https://rainbowmarks. com/terms/”,”/Events”:”https://rainbowmarks. com/events/”,”/Purchase”:”https://rainbowmarks. com/purchase/”,”/mr340/2023”:”https://rainbowmarks. com/MR340/2023/”,”/mr340”:”https://rainbowmarks. com/MR340/2024/”,”/MR340”:”https://rainbowmarks. com/MR340/2024/”,”/mr340/2024”:”https://rainbowmarks. com/MR340/2024/”,”/blog/tag/motorsports/”:”https://rainbowmarks. com/category/motorsports/”,”/search/”:”https://rainbowmarks. com/”,”/blog/tag/unbound/”:”https://rainbowmarks. com/category/unbound/”} "
     }, {
     "id": 45,
     "url": "https://rainbowmarks.com/galleries/2022RallyInThe100AcreWood/SmallGallery-1/",
