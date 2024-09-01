@@ -6,13 +6,13 @@ description: "We will be at the upcoming 2024 Tire Rack SCCA Solo National Champ
 active: "blog"
 image: "/img/posts/2024/august/BlogPostPre/PeruFaces-1.jpg"
 date: '2024-08-16T10:20:00+00:00'
-last_modified_at: '2024-08-19T17:20:00+00:00'
+last_modified_at: '2024-08-31T23:50:00+00:00'
 header-img: "/img/posts/2024/august/BlogPostPre/PeruFaces-1.jpg"
 permalink: "Events/2024/08/SoloNationals"
 categories: [event, race, car, solo, autocross]
 featured: true
-includegallery: false
-galleryurl: 
+includegallery: true
+galleryurl: https://photos.rainbowmarks.com/2024/Autocross/2024-Solo-National-Championships
 gallery:
   OldSoloNationals:
   - image_path: /img/posts/2024/august/BlogPostPre/BlogPostPre-1.jpg
@@ -55,7 +55,7 @@ For those who want comprehensive coverage of their performance, we're offering a
 - Automatically sorted, tagged and filtered photos for you and your car, no need to "search" through photos after the event.
 - We'll be specifically shooting cars that have prepaid! We will guarantee at least 5 individual photos for you (likely many more), or your money back! Everyone else comes second, we may or may not get photos of them!
 - 25% Discount on any Physical Orders (coupon code will be provided via email after 2024 Solo Nationals galleries are posted)
-- ProSolo Finale shots can be included for an additional **$50**.
+- ProSolo Finale shots can be included for an additional **$50** even after the Finale!
 
 
 ### To maximize our success in capturing your car, please provide us with the following details when checking out:
