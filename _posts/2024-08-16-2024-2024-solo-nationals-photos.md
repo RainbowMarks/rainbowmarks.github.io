@@ -74,7 +74,7 @@ I started attending the Solo Nationals in 2000. Throughout the years I've taken 
 If you decide to purchase photos after the event, individual photos will be available for **$25/photo**. However, securing the pre-event package guarantees you receive all available photos at a significant discount.
 
 ## Important Note
-As of right now, we will be running and working the final heat each day, which may limit our ability to shoot cars competing in those classes. We'll do our best to capture as much as we can, but please be aware of this potential limitation.
+As of right now, we will be running and working the final heat each day, which may limit our ability to shoot cars competing in those classes. We'll do our best to capture as much as we can, but please be aware of this potential limitation. If you purchase and we don't get any shots of you, a refund can be given.
 
 ## Contact Us
 If you have any questions or need to provide us with your car details, feel free to reach out before the event. We're excited to capture the excitement of Solo Nationals and can't wait to see you in Lincoln!
