@@ -16,14 +16,14 @@ var documents = [{
     "body": ""
     }, {
     "id": 3,
-    "url": "https://rainbowmarks.com/passwords/",
-    "title": "Gallery Password Page",
-    "body": ""
-    }, {
-    "id": 4,
     "url": "https://rainbowmarks.com/blog/",
     "title": "Photography Blog",
     "body": "                                                                                 Solo Nationals Photo Galleries                                      Uploading this week!                       Posted on September 2, 2024                                                                                           2024 Bommarito 500 IndyCar Photos                                      IndyCars in Madison Illinois!                       Posted on August 18, 2024                                                                                           2024 Tire Rack SCCA Solo Nationals Photos                                      We'll be there, taking the photos that you want!                       Posted on August 16, 2024                                                                                           2024 American Water Missouri River 340 Paddle Race                                      The longest continuous paddle race in the world!                       Posted on July 29, 2024                                                                                           2024 Miner Tough Weekend                                      Trail run and Mountain Bike Race                       Posted on July 15, 2024                                                                                           2024 Big Foot Open House                                      6 years later I finally made it back to the Big Foot Open House!                       Posted on June 15, 2024                                                                                           Spirit of St. Louis Air Show &amp; STEM Expo                                      My favorite time of year, taking photos of airplanes at an air show!                       Posted on June 9, 2024                                                                                           St. Louis Region Autocross Photos 2024                                      A listing of St. Louis region autocross events with link to their photo galleries                       Posted on April 22, 2024                                                                                           April 8th 2024 Eclipse from Trail of Tears State Park in Jackson, Missouri                                      Our second eclipse in 7 years                       Posted on April 15, 2024                                                                                           NASA PACE Falcon 9 Rocket Launch                                      Up close and personal                       Posted on March 1, 2024                        &nbsp;         Page 1 of 10    Older Posts &rarr;   "
+    }, {
+    "id": 4,
+    "url": "https://rainbowmarks.com/passwords/",
+    "title": "Gallery Password Page",
+    "body": ""
     }, {
     "id": 5,
     "url": "https://rainbowmarks.com/",
@@ -31,64 +31,64 @@ var documents = [{
     "body": "                                                                                                                                                               Solo Nationals Photo Galleries            :                                                                                                                                                                                                   2024 Bommarito 500 IndyCar Photos            :                                                                                                                                                                                                   2024 Tire Rack SCCA Solo Nationals Photos            :                                                                                                                                                                                                   2024 American Water Missouri River 340 Paddle Race            :                                                                                                                                                                                                   2024 Miner Tough Weekend            :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           "
     }, {
     "id": 6,
-    "url": "https://rainbowmarks.com/portfolio/05/",
-    "title": "Cars",
-    "body": ""
-    }, {
-    "id": 7,
-    "url": "https://rainbowmarks.com/portfolio/07/",
-    "title": "Landscapes",
-    "body": ""
-    }, {
-    "id": 8,
-    "url": "https://rainbowmarks.com/portfolio/03/",
-    "title": "Air Show Photos",
-    "body": ""
-    }, {
-    "id": 9,
-    "url": "https://rainbowmarks.com/portfolio/04/",
-    "title": "Rainbows",
-    "body": ""
-    }, {
-    "id": 10,
-    "url": "https://rainbowmarks.com/portfolio/01/",
-    "title": "CrossFit Photography",
-    "body": ""
-    }, {
-    "id": 11,
-    "url": "https://rainbowmarks.com/portfolio/06/",
-    "title": "Astrophotography",
-    "body": ""
-    }, {
-    "id": 12,
-    "url": "https://rainbowmarks.com/portfolio/02/",
-    "title": "Yosemite National Park",
-    "body": ""
-    }, {
-    "id": 13,
     "url": "https://rainbowmarks.com/about/",
     "title": "About",
     "body": "RainbowMarks Photography is a project from Chris Hammond. The name RainbowMarks comes from Rainbow Landmarks, one of the great (if I do say so myself) photos I’ve taken was the photo here on this page of the Sydney Opera House on a trip to Australia in 2012. The double rainbow presented itself over the harbor and I couldn’t resist running around to get the perfect angle on the Opera House. A couple of years later, while visiting San Francisco, I happened to catch a rainbow over the Golden Gate Bridge. The combination of these two events and the works produced gave me the name to use for my photography business. I’ve been taking digital photos for over 26 years and have been shooting automotive events for nearly that entire time! Do you have an event (bike, car, running, crossfit) that you would like me to attend? Feel free to reach out and see if schedules align. I hope you enjoy my work! Click here for information on purchasing photos "
     }, {
-    "id": 14,
-    "url": "https://rainbowmarks.com/photomark/",
-    "title": "PhotoMark.CO - Photo Marking and Sharing for Events",
-    "body": "PhotoMark. co is a photo marking and sharing service for events. We provide a simple way for event organizers to share photos with participants. We also provide a way for participants to search for their photos by bib number or other criteria. The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.  Chris Hammond - RainbowMarks Photography"
+    "id": 7,
+    "url": "https://rainbowmarks.com/portfolio/02/",
+    "title": "Yosemite National Park",
+    "body": ""
     }, {
-    "id": 15,
+    "id": 8,
+    "url": "https://rainbowmarks.com/portfolio/05/",
+    "title": "Cars",
+    "body": ""
+    }, {
+    "id": 9,
+    "url": "https://rainbowmarks.com/portfolio/01/",
+    "title": "CrossFit Photography",
+    "body": ""
+    }, {
+    "id": 10,
+    "url": "https://rainbowmarks.com/portfolio/04/",
+    "title": "Rainbows",
+    "body": ""
+    }, {
+    "id": 11,
+    "url": "https://rainbowmarks.com/portfolio/07/",
+    "title": "Landscapes",
+    "body": ""
+    }, {
+    "id": 12,
+    "url": "https://rainbowmarks.com/portfolio/06/",
+    "title": "Astrophotography",
+    "body": ""
+    }, {
+    "id": 13,
+    "url": "https://rainbowmarks.com/portfolio/03/",
+    "title": "Air Show Photos",
+    "body": ""
+    }, {
+    "id": 14,
     "url": "https://rainbowmarks.com/terms/",
     "title": "Terms",
     "body": "RainbowMarks Photography: Introduction: Welcome to RainbowMarks Photography. By accessing and using our services, you agree to comply with and be bound by the following terms and conditions. Please review them carefully. Copyright Notice: All photographs taken by RainbowMarks Photography are protected by international copyright laws. This includes any images displayed on our website, social media platforms, and those provided to clients upon purchase. Usage Rights: When you purchase a photograph from RainbowMarks Photography, you are buying a license to use the image for personal use only. This means you may:  Display the photograph in your home or personal space.  Share the photograph on personal social media accounts with appropriate credit to RainbowMarks Photography. Prohibited Uses: Without a separate commercial agreement, you may not:  Use the photograph for any commercial purposes, including but not limited to advertising, marketing, promotional materials, or any business-related activities.  Sell, sublicense, or redistribute the photograph.  Use the photograph in any manner that could be considered defamatory, obscene, or otherwise illegal. Commercial Use: If you wish to use a photograph for commercial purposes, you must obtain a separate license through an additional contract or agreement with RainbowMarks Photography. For inquiries about commercial use, please contact us directly at [rainbowmarks@christoc. com]. Alterations and Edits: You may not alter, edit, or manipulate the photographs in any way that changes the overall look, message, or integrity of the image without written consent from RainbowMarks Photography. Digital Downloads and Prints: All digital downloads and prints provided by RainbowMarks Photography are for personal use only. Any digital files are subject to the same usage rights and prohibitions as outlined above. Refunds and Returns: Due to the nature of digital photography, all sales are final. We do not offer refunds or returns on any purchased digital downloads or prints. Privacy Policy: RainbowMarks Photography is committed to protecting your privacy. Any personal information collected during your purchase will be used solely for the purpose of completing the transaction and delivering your photos. We will not share your information with any third parties without your consent. Changes to Terms: RainbowMarks Photography reserves the right to update or modify these terms at any time without prior notice. By continuing to use our services, you agree to be bound by the revised terms. Contact Information: For any questions or concerns regarding these terms, please contact us at: RainbowMarks PhotographyEmail: [rainbowmarks@christoc. com]Phone: 650-260-8344Address: Wildwood, MO "
     }, {
-    "id": 16,
-    "url": "https://rainbowmarks.com/events/",
-    "title": "St. Louis Missouri Event Photographer / Photography",
-    "body": "At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.         Recent Events:            Solo Nationals Photo Galleries                2024 Bommarito 500 IndyCar Photos                2024 Tire Rack SCCA Solo Nationals Photos                2024 American Water Missouri River 340 Paddle Race                2024 Miner Tough Weekend                 Event Photography Packages:   We customize our packages for each event, so we can tailor our services for the specific needs of your event.   You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.   If you're interested in having RainbowMarks Photography shoot your event, please reach out and get more information     Event Organizer Specials:   Custom packages for your event(s)? We can do that!   Do you want to give out digital copies to all entrants? We can do that!   Do you want to include a physical print with each entry? We can do that!   Do you want to be hands off and let us run with your event photos? We can do that!    Custom Event Watermarks:  With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.   Types Of Events: We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, don’t hesitate to reach out and ask.   Youth Sports:      Baseball   Ice Hockey   Roller Hockey   Lacrosse   Gymnastics   Team Photos   Individual Photos    Automotive Events:      Car Shows   Automotive Races   Monster Trucks   Rally Races   Road Races   Autocross   NASCAR   Indy Car    Bicycle Events:      Gravel Races   Cyclocross Races   Mountain Bike Races   Road Races   Crits (criteriums)      CrossFit Events:      CrossFit Games   Team Competitions   Individual Competitions    Running Events:      Trail Runs   Ultra-Marathons    Watersports:      Multi-day long distance races   One day races      Music Events:      Concerts   Lounge Events   Band Competitions   Bar Shows      Get More Info "
-    }, {
-    "id": 17,
+    "id": 15,
     "url": "https://rainbowmarks.com/purchase/",
     "title": "Purchasing RainbowMarks Photography",
     "body": "We have purchaseable photos available on our Galleries page. Prices will vary by event and gallery. Copyright: Purchasing our photos will get you a photoo for personal use. Commercial use options are available on a case by case basis, please feel free to reach out to us before purchase if you have any questions. If you have any trouble or questions, please feel free to reach out to me via my personal contact page, we’ll ask you details about event and individual so we can determine which photo(s) you want. "
+    }, {
+    "id": 16,
+    "url": "https://rainbowmarks.com/photomark/",
+    "title": "PhotoMark.CO - Photo Marking and Sharing for Events",
+    "body": "PhotoMark. co is a photo marking and sharing service for events. We provide a simple way for event organizers to share photos with participants. We also provide a way for participants to search for their photos by bib number or other criteria. The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.  Chris Hammond - RainbowMarks Photography"
+    }, {
+    "id": 17,
+    "url": "https://rainbowmarks.com/MR340/2024/",
+    "title": "MR340 - 2024 Missouri River 340 Photos",
+    "body": "      View the 2024 MR340 Photo Galleries:       RainbowMarks Photography was happy to be back at the MR340 as the Official Photographer of the race!   We were at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempted to be at the finish line for every boat that crosses the line in St. Charles, Missouri. We missed a few, but hopefully not you!     View This Year's Photos!:   Click here to view ALL galleries   Check-In |    Start |    Napoleon |    Waverly |    Glasgow |    Portland |    Finish Line       ProTip: Use the search box on the gallery pages to search by boat number     Photo Pricing:    Individual Photos can be purchased via the gallery links when they are made available. Individual photos are $25 each for digital download.    We also sell a variety of print formats (paper, canvas, metal, cards, etc) in our online galleries.   Finish Line Photos:   We attempted to be at the finish line for everyone who made it, unfortunately we did miss a few.      Did you Smile For Your Photos?:     We were out shooting at a variety of locations all week, and of course at the finish line! I hope you SMILED FOR YOUR PHOTO!    Can I pre-pay for photos?:   Pre-race package is no longer available   If you purchased the pre-race photo package you should have received an email on Monday morning 7/29 with your discount code to use and a link to your filtered photos.   Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries. Please reply to the 7/29 email to request a refund before 8/30/2024.     Photo Edit Requests:   If you have any special edit requests for photos feel free to reach out and ask!.   You can also attempt to reach me by phone: 650-260-8344     View Last Year's Photos!:     2023 MR340 Photos       Missouri River Relief:   As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will once again donate 5% of all profits from this year's race to Missouri River Relief.    "
     }, {
     "id": 18,
     "url": "https://rainbowmarks.com/MR340/2023/",
@@ -96,9 +96,9 @@ var documents = [{
     "body": "     A big thank you to everyone for making me feel so welcome at my first #MR340 this year! It was one to remember for sure. I've processed and uploaded all the photos! They have also all been tagged with Boat number where I was able to identify. That should make it easier to use the Search feature on the site to search for your boat number     View and download photos!:   View Galleries   Photo Pricing:   Individual Photos can be purchased via the gallery links above. Individual photos are $10 each for digital download.   We also sell a variety of print formats (paper, canvas, metal, cards, etc).     Missouri River Relief:   As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography donated over $250 from transactions to Missouri River Relief.     Pre-Event Photo Packages :   Pre-event pricing was available until 10:00pm on July 31st, 2023. Purchasers received a $75 store credit for $50. Multiple emails have gone out to those who purchased this package. If you lost your code please feel free to reach out for assistance.   Pre-Purchase Refunds:   The refund request window ended 8/31/2023. Please use your $75 store credit to download digital photos or order physical prints.  "
     }, {
     "id": 19,
-    "url": "https://rainbowmarks.com/MR340/2024/",
-    "title": "MR340 - 2024 Missouri River 340 Photos",
-    "body": "      View the 2024 MR340 Photo Galleries:       RainbowMarks Photography was happy to be back at the MR340 as the Official Photographer of the race!   We were at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempted to be at the finish line for every boat that crosses the line in St. Charles, Missouri. We missed a few, but hopefully not you!     View This Year's Photos!:   Click here to view ALL galleries   Check-In |    Start |    Napoleon |    Waverly |    Glasgow |    Portland |    Finish Line       ProTip: Use the search box on the gallery pages to search by boat number     Photo Pricing:    Individual Photos can be purchased via the gallery links when they are made available. Individual photos are $25 each for digital download.    We also sell a variety of print formats (paper, canvas, metal, cards, etc) in our online galleries.   Finish Line Photos:   We attempted to be at the finish line for everyone who made it, unfortunately we did miss a few.      Did you Smile For Your Photos?:     We were out shooting at a variety of locations all week, and of course at the finish line! I hope you SMILED FOR YOUR PHOTO!    Can I pre-pay for photos?:   Pre-race package is no longer available   If you purchased the pre-race photo package you should have received an email on Monday morning 7/29 with your discount code to use and a link to your filtered photos.   Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries. Please reply to the 7/29 email to request a refund before 8/30/2024.     Photo Edit Requests:   If you have any special edit requests for photos feel free to reach out and ask!.   You can also attempt to reach me by phone: 650-260-8344     View Last Year's Photos!:     2023 MR340 Photos       Missouri River Relief:   As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will once again donate 5% of all profits from this year's race to Missouri River Relief.    "
+    "url": "https://rainbowmarks.com/events/",
+    "title": "St. Louis Missouri Event Photographer / Photography",
+    "body": "At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.         Recent Events:            Solo Nationals Photo Galleries                2024 Bommarito 500 IndyCar Photos                2024 Tire Rack SCCA Solo Nationals Photos                2024 American Water Missouri River 340 Paddle Race                2024 Miner Tough Weekend                 Event Photography Packages:   We customize our packages for each event, so we can tailor our services for the specific needs of your event.   You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.   If you're interested in having RainbowMarks Photography shoot your event, please reach out and get more information     Event Organizer Specials:   Custom packages for your event(s)? We can do that!   Do you want to give out digital copies to all entrants? We can do that!   Do you want to include a physical print with each entry? We can do that!   Do you want to be hands off and let us run with your event photos? We can do that!    Custom Event Watermarks:  With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.   Types Of Events: We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, don’t hesitate to reach out and ask.   Youth Sports:      Baseball   Ice Hockey   Roller Hockey   Lacrosse   Gymnastics   Team Photos   Individual Photos    Automotive Events:      Car Shows   Automotive Races   Monster Trucks   Rally Races   Road Races   Autocross   NASCAR   Indy Car    Bicycle Events:      Gravel Races   Cyclocross Races   Mountain Bike Races   Road Races   Crits (criteriums)      CrossFit Events:      CrossFit Games   Team Competitions   Individual Competitions    Running Events:      Trail Runs   Ultra-Marathons    Watersports:      Multi-day long distance races   One day races      Music Events:      Concerts   Lounge Events   Band Competitions   Bar Shows      Get More Info "
     }, {
     "id": 20,
     "url": "https://rainbowmarks.com/events/lacrosse/",
@@ -191,39 +191,39 @@ var documents = [{
     "body": ""
     }, {
     "id": 38,
-    "url": "https://rainbowmarks.com/Events",
-    "title": "",
-    "body": ""
-    }, {
-    "id": 39,
     "url": "https://rainbowmarks.com/Purchase",
     "title": "",
     "body": ""
     }, {
-    "id": 40,
-    "url": "https://rainbowmarks.com/mr340/2023",
-    "title": "",
-    "body": ""
-    }, {
-    "id": 41,
+    "id": 39,
     "url": "https://rainbowmarks.com/mr340",
     "title": "",
     "body": ""
     }, {
-    "id": 42,
+    "id": 40,
     "url": "https://rainbowmarks.com/MR340",
     "title": "",
     "body": ""
     }, {
-    "id": 43,
+    "id": 41,
     "url": "https://rainbowmarks.com/mr340/2024",
+    "title": "",
+    "body": ""
+    }, {
+    "id": 42,
+    "url": "https://rainbowmarks.com/mr340/2023",
+    "title": "",
+    "body": ""
+    }, {
+    "id": 43,
+    "url": "https://rainbowmarks.com/Events",
     "title": "",
     "body": ""
     }, {
     "id": 44,
     "url": "https://rainbowmarks.com/redirects.json",
     "title": "",
-    "body": "{“/Events/2021/07/August-15-2021-ICC-Challenge-Mountain-Bike-Race”:”https://rainbowmarks. com/Events/2021/08/August-15-2021-ICC-Challenge-Mountain-Bike-Race”,”/Events/2022/06/BallwinCyclesDirtCrits2022-3”:”https://rainbowmarks. com/Events/2022/07/BallwinCyclesDirtCrits2022-3”,”/Events/2022/03/100AcreWood”:”https://rainbowmarks. com/Events/2023/03/100AcreWood”,”/Events/2022/04/Grand-Canyon-Black-and-White-FrameTV”:”https://rainbowmarks. com/Events/2023/04/Grand-Canyon-Black-and-White-FrameTV”,”/Events/2022/05/May17thSection6”:”https://rainbowmarks. com/Events/2023/05/May17thSection6”,”/Events/2022/05/AAABluesHockeySpring/”:”https://rainbowmarks. com/Events/2023/05/AAABluesHockeySpring/”,”/Events/2022/05/StLouisHockeyPhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisHockeyPhotography/”,”/Events/2022/05/StLouisBikeRacePhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisBikeRacePhotography/”,”/404. html”:”https://rainbowmarks. com/portfolio”,”/blog/tag/airplane/”:”https://rainbowmarks. com/category/airplane/”,”/blog/tag/autocross/”:”https://rainbowmarks. com/category/autocross/”,”/blog/tag/bicycle/”:”https://rainbowmarks. com/category/bicycle/”,”/tags”:”https://rainbowmarks. com/category”,”/tags/”:”https://rainbowmarks. com/category”,”/blog/tag/crossfit/”:”https://rainbowmarks. com/category/crossfit/”,”/blog/tag/event/”:”https://rainbowmarks. com/category/events/”,”/blog/tag/hockey/”:”https://rainbowmarks. com/category/hockey/”,”/portfolio/”:”https://rainbowmarks. com/blog/”,”/passwords/”:”https://rainbowmarks. com/”,”/blog/tag/”:”https://rainbowmarks. com/category”,”/Blog”:”https://rainbowmarks. com/blog/”,”/portfolio/05/”:”https://photos. rainbowmarks. com/Automotive-Portfolio”,”/portfolio/07/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/portfolio/03/”:”https://photos. rainbowmarks. com/Airshow-Portfolio”,”/portfolio/04/”:”https://photos. rainbowmarks. com/Rainbows”,”/portfolio/01/”:”https://photos. rainbowmarks. com/2019-CrossFit-Games/”,”/portfolio/06/”:”https://photos. rainbowmarks. com/Celestial-Portfolio/”,”/portfolio/02/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/About”:”https://rainbowmarks. com/about/”,”/About/”:”https://rainbowmarks. com/about/”,”/Terms”:”https://rainbowmarks. com/terms/”,”/Privacy”:”https://rainbowmarks. com/terms/”,”/Events”:”https://rainbowmarks. com/events/”,”/Purchase”:”https://rainbowmarks. com/purchase/”,”/mr340/2023”:”https://rainbowmarks. com/MR340/2023/”,”/mr340”:”https://rainbowmarks. com/MR340/2024/”,”/MR340”:”https://rainbowmarks. com/MR340/2024/”,”/mr340/2024”:”https://rainbowmarks. com/MR340/2024/”,”/blog/tag/motorsports/”:”https://rainbowmarks. com/category/motorsports/”,”/search/”:”https://rainbowmarks. com/”,”/blog/tag/unbound/”:”https://rainbowmarks. com/category/unbound/”} "
+    "body": "{“/Events/2021/07/August-15-2021-ICC-Challenge-Mountain-Bike-Race”:”https://rainbowmarks. com/Events/2021/08/August-15-2021-ICC-Challenge-Mountain-Bike-Race”,”/Events/2022/06/BallwinCyclesDirtCrits2022-3”:”https://rainbowmarks. com/Events/2022/07/BallwinCyclesDirtCrits2022-3”,”/Events/2022/03/100AcreWood”:”https://rainbowmarks. com/Events/2023/03/100AcreWood”,”/Events/2022/04/Grand-Canyon-Black-and-White-FrameTV”:”https://rainbowmarks. com/Events/2023/04/Grand-Canyon-Black-and-White-FrameTV”,”/Events/2022/05/May17thSection6”:”https://rainbowmarks. com/Events/2023/05/May17thSection6”,”/Events/2022/05/AAABluesHockeySpring/”:”https://rainbowmarks. com/Events/2023/05/AAABluesHockeySpring/”,”/Events/2022/05/StLouisHockeyPhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisHockeyPhotography/”,”/Events/2022/05/StLouisBikeRacePhotography/”:”https://rainbowmarks. com/Events/2023/05/StLouisBikeRacePhotography/”,”/404. html”:”https://rainbowmarks. com/portfolio”,”/blog/tag/airplane/”:”https://rainbowmarks. com/category/airplane/”,”/blog/tag/autocross/”:”https://rainbowmarks. com/category/autocross/”,”/blog/tag/bicycle/”:”https://rainbowmarks. com/category/bicycle/”,”/tags”:”https://rainbowmarks. com/category”,”/tags/”:”https://rainbowmarks. com/category”,”/blog/tag/crossfit/”:”https://rainbowmarks. com/category/crossfit/”,”/blog/tag/event/”:”https://rainbowmarks. com/category/events/”,”/blog/tag/hockey/”:”https://rainbowmarks. com/category/hockey/”,”/portfolio/”:”https://rainbowmarks. com/blog/”,”/blog/tag/”:”https://rainbowmarks. com/category”,”/Blog”:”https://rainbowmarks. com/blog/”,”/passwords/”:”https://rainbowmarks. com/”,”/About”:”https://rainbowmarks. com/about/”,”/About/”:”https://rainbowmarks. com/about/”,”/portfolio/02/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/portfolio/05/”:”https://photos. rainbowmarks. com/Automotive-Portfolio”,”/portfolio/01/”:”https://photos. rainbowmarks. com/2019-CrossFit-Games/”,”/portfolio/04/”:”https://photos. rainbowmarks. com/Rainbows”,”/portfolio/07/”:”https://photos. rainbowmarks. com/Landscape-Portfolio/”,”/portfolio/06/”:”https://photos. rainbowmarks. com/Celestial-Portfolio/”,”/portfolio/03/”:”https://photos. rainbowmarks. com/Airshow-Portfolio”,”/Terms”:”https://rainbowmarks. com/terms/”,”/Privacy”:”https://rainbowmarks. com/terms/”,”/Purchase”:”https://rainbowmarks. com/purchase/”,”/mr340”:”https://rainbowmarks. com/MR340/2024/”,”/MR340”:”https://rainbowmarks. com/MR340/2024/”,”/mr340/2024”:”https://rainbowmarks. com/MR340/2024/”,”/mr340/2023”:”https://rainbowmarks. com/MR340/2023/”,”/Events”:”https://rainbowmarks. com/events/”,”/blog/tag/motorsports/”:”https://rainbowmarks. com/category/motorsports/”,”/search/”:”https://rainbowmarks. com/”,”/blog/tag/unbound/”:”https://rainbowmarks. com/category/unbound/”} "
     }, {
     "id": 45,
     "url": "https://rainbowmarks.com/galleries/2022RallyInThe100AcreWood/SmallGallery-1/",
@@ -1403,7 +1403,7 @@ var documents = [{
     "id": 280,
     "url": "https://rainbowmarks.com/Events/2024/08/SoloNationals",
     "title": "2024 Tire Rack SCCA Solo Nationals Photos",
-    "body": "2024/08/16 - Get ready, motorsport enthusiasts! RainbowMarks Photography is thrilled to announce our coverage of the 2024 Tire Rack SCCA Solo Nationals in Lincoln, Nebraska. This iconic event is the pinnacle of Solo competition, and we’re geared up to capture the high-octane action from start to finish.  Capturing Every Moment: We’ll be on-site shooting as many competition runs as possible across the four days of the event. Our focus is on action shots that showcase the speed, precision, and thrill of Solo racing. Whether you’re a competitor looking to relive your best runs or a fan wanting to see the action up close, we’ve got you covered. Pre-Event Special Package: For those who want comprehensive coverage of their performance, we’re offering an exclusive Pre-Event Special Package:  $125 for every one of our published digital photos of your car from the 2024 Solo Nationals. (Individual photos will be $25/photo after the event) This package includes all photos, no matter how many drivers or classes the car is entered in.  Automatically sorted, tagged and filtered photos for you and your car, no need to “search” through photos after the event.  We’ll be specifically shooting cars that have prepaid! We will guarantee at least 5 individual photos for you (likely many more), or your money back! Everyone else comes second, we may or may not get photos of them! 25% Discount on any Physical Orders (coupon code will be provided via email after 2024 Solo Nationals galleries are posted) ProSolo Finale shots can be included for an additional $50 even after the Finale!To maximize our success in capturing your car, please provide us with the following details when checking out::  Car number Class Make/Model/ColorThis information helps us focus on your vehicle throughout the event, ensuring we get the best possible shots. You can book this package online via this link. Years of Solo Nationals Photo Experience: I started attending the Solo Nationals in 2000. Throughout the years I’ve taken thousands upon thousands of competition photos at the event. Check out some of the past years work in our Flickr Galleries Post-Event Photo Availability: If you decide to purchase photos after the event, individual photos will be available for $25/photo. However, securing the pre-event package guarantees you receive all available photos at a significant discount. Important Note: As of right now, we will be running and working the final heat each day, which may limit our ability to shoot cars competing in those classes. We’ll do our best to capture as much as we can, but please be aware of this potential limitation. If you purchase and we don’t get any shots of you, a refund can be given. Contact Us: If you have any questions or need to provide us with your car details, feel free to reach out before the event. We’re excited to capture the excitement of Solo Nationals and can’t wait to see you in Lincoln! Stay tuned to RainbowMarks Photography for more updates as we get closer to the event. Let’s make this year’s Solo Nationals one to remember! "
+    "body": "2024/08/16 - Get ready, motorsport enthusiasts! RainbowMarks Photography is thrilled to announce our coverage of the 2024 Tire Rack SCCA Solo Nationals in Lincoln, Nebraska. This iconic event is the pinnacle of Solo competition, and we’re geared up to capture the high-octane action from start to finish.  Capturing Every Moment: We’ll be on-site shooting as many competition runs as possible across the four days of the event. Our focus is on action shots that showcase the speed, precision, and thrill of Solo racing. Whether you’re a competitor looking to relive your best runs or a fan wanting to see the action up close, we’ve got you covered. Pre-Event Special Package (NO LONGER AVAILABLE AT DISCOUNT): For those who want comprehensive coverage of their performance, we’re offering an exclusive Pre-Event Special Package:  $125 for every one of our published digital photos of your car from the 2024 Solo Nationals. (Individual photos will be $25/photo after the event) This package includes all photos, no matter how many drivers or classes the car is entered in.  Automatically sorted, tagged and filtered photos for you and your car, no need to “search” through photos after the event.  We’ll be specifically shooting cars that have prepaid! We will guarantee at least 5 individual photos for you (likely many more), or your money back! Everyone else comes second, we may or may not get photos of them! 25% Discount on any Physical Orders (coupon code will be provided via email after 2024 Solo Nationals galleries are posted) ProSolo Finale shots can be included for an additional $50 even after the Finale!To maximize our success in capturing your car, please provide us with the following details when checking out::  Car number Class Make/Model/ColorThis information helps us focus on your vehicle throughout the event, ensuring we get the best possible shots. You can book this package online via this link. Years of Solo Nationals Photo Experience: I started attending the Solo Nationals in 2000. Throughout the years I’ve taken thousands upon thousands of competition photos at the event. Check out some of the past years work in our Flickr Galleries Post-Event Photo Availability: If you decide to purchase photos after the event, individual photos will be available for $25/photo. However, securing the pre-event package guarantees you receive all available photos at a significant discount. Important Note: As of right now, we will be running and working the final heat each day, which may limit our ability to shoot cars competing in those classes. We’ll do our best to capture as much as we can, but please be aware of this potential limitation. If you purchase and we don’t get any shots of you, a refund can be given. Contact Us: If you have any questions or need to provide us with your car details, feel free to reach out before the event. We’re excited to capture the excitement of Solo Nationals and can’t wait to see you in Lincoln! Stay tuned to RainbowMarks Photography for more updates as we get closer to the event. Let’s make this year’s Solo Nationals one to remember! "
     }, {
     "id": 281,
     "url": "https://rainbowmarks.com/Events/2024/07/MR340/",

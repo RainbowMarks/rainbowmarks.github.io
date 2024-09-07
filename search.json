@@ -930,17 +930,6 @@
   
    {
      
-        "title"    : "Gallery Password Page",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/passwords/",
-        "date"     : "",
-        "content"   : ""
-     
-   } ,
-  
-   {
-     
         "title"    : "tags",
         "category" : "",
         "tags"     : "",
@@ -963,6 +952,17 @@
   
    {
      
+        "title"    : "Gallery Password Page",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/passwords/",
+        "date"     : "",
+        "content"   : ""
+     
+   } ,
+  
+   {
+     
         "title"    : "RainbowMarks Action and Event Photography in Wildwood, Missouri",
         "category" : "",
         "tags"     : "",
@@ -974,43 +974,32 @@
   
    {
      
+        "title"    : "About",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/about/",
+        "date"     : "",
+        "content"   : "<p><img src=\"/generated/img/MidSouthHeadshot-1-375-f9f4151b7.jpg\" align=\"right\" alt=\"Chris Hammond of RainbowMarks Photography\" />RainbowMarks Photography is a project from <a href=\"https://www.chrishammond.com\" target=\"_blank\">Chris Hammond</a>. The name RainbowMarks comes from Rainbow Landmarks, one of the great (if I do say so myself) photos I’ve taken was the photo here on this page of the Sydney Opera House on a trip to Australia in 2012.</p>\n\n<p>The double rainbow presented itself over the harbor and I couldn’t resist running around to get the perfect angle on the Opera House. A couple of years later, while visiting San Francisco, I happened to catch a rainbow over the Golden Gate Bridge.</p>\n\n<p>The combination of these two events and the works produced gave me the name to use for my photography business.</p>\n\n<p>I’ve been taking digital photos for over 26 years and have been shooting automotive events for nearly that entire time!</p>\n\n<p>Do you have an <a href=\"/events\">event</a> (bike, car, running, crossfit) that you would like me to attend? <a href=\"https://www.chrishammond.com/Contact\">Feel free to reach out and see if schedules align</a>.</p>\n\n<p>I hope you enjoy my work!</p>\n\n<p><a href=\"/purchase/\">Click here for information on purchasing photos</a></p>\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Yosemite National Park",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/02/",
+        "date"     : "",
+        "content"   : "\n"
+     
+   } ,
+  
+   {
+     
         "title"    : "Cars",
         "category" : "",
         "tags"     : "",
         "url"      : "/portfolio/05/",
-        "date"     : "",
-        "content"   : "\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Landscapes",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/portfolio/07/",
-        "date"     : "",
-        "content"   : "\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Air Show Photos",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/portfolio/03/",
-        "date"     : "",
-        "content"   : "\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Rainbows",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/portfolio/04/",
         "date"     : "",
         "content"   : "\n"
      
@@ -1029,6 +1018,28 @@
   
    {
      
+        "title"    : "Rainbows",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/04/",
+        "date"     : "",
+        "content"   : "\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Landscapes",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/07/",
+        "date"     : "",
+        "content"   : "\n"
+     
+   } ,
+  
+   {
+     
         "title"    : "Astrophotography",
         "category" : "",
         "tags"     : "",
@@ -1040,34 +1051,12 @@
   
    {
      
-        "title"    : "Yosemite National Park",
+        "title"    : "Air Show Photos",
         "category" : "",
         "tags"     : "",
-        "url"      : "/portfolio/02/",
+        "url"      : "/portfolio/03/",
         "date"     : "",
         "content"   : "\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "About",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/about/",
-        "date"     : "",
-        "content"   : "<p><img src=\"/generated/img/MidSouthHeadshot-1-375-f9f4151b7.jpg\" align=\"right\" alt=\"Chris Hammond of RainbowMarks Photography\" />RainbowMarks Photography is a project from <a href=\"https://www.chrishammond.com\" target=\"_blank\">Chris Hammond</a>. The name RainbowMarks comes from Rainbow Landmarks, one of the great (if I do say so myself) photos I’ve taken was the photo here on this page of the Sydney Opera House on a trip to Australia in 2012.</p>\n\n<p>The double rainbow presented itself over the harbor and I couldn’t resist running around to get the perfect angle on the Opera House. A couple of years later, while visiting San Francisco, I happened to catch a rainbow over the Golden Gate Bridge.</p>\n\n<p>The combination of these two events and the works produced gave me the name to use for my photography business.</p>\n\n<p>I’ve been taking digital photos for over 26 years and have been shooting automotive events for nearly that entire time!</p>\n\n<p>Do you have an <a href=\"/events\">event</a> (bike, car, running, crossfit) that you would like me to attend? <a href=\"https://www.chrishammond.com/Contact\">Feel free to reach out and see if schedules align</a>.</p>\n\n<p>I hope you enjoy my work!</p>\n\n<p><a href=\"/purchase/\">Click here for information on purchasing photos</a></p>\n"
-     
-   } ,
-  
-   {
-     
-        "title"    : "PhotoMark.CO - Photo Marking and Sharing for Events",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/photomark/",
-        "date"     : "",
-        "content"   : "<p>PhotoMark.co is a photo marking and sharing service for events. We provide a simple way for event organizers to share photos with participants. We also provide a way for participants to search for their photos by bib number or other criteria.</p>\n\n<p>The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.</p>\n\n<ul>\n  <li>Chris Hammond - RainbowMarks Photography</li>\n</ul>\n\n"
      
    } ,
   
@@ -1084,23 +1073,34 @@
   
    {
      
-        "title"    : "St. Louis Missouri Event Photographer / Photography",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/events/",
-        "date"     : "",
-        "content"   : "<p>At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.</p>\n\n<div class=\"row\">\n  <div class=\"col-4\">\n    <a href=\"https://rainbowmarks.com/blog/\"><img src=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg\" alt=\"Nighttime photo from Unbound Gravel\" srcset=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-200-843b7935f.jpg 200w, /generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg 400w\" />\n\n    </a>\n  </div>\n  <div class=\"col-8\">\n  <h2>Recent Events</h2>\n    <ul>\n         \n          <li><a href=\"/Events/2024/09/SoloNationalsGallery/\">Solo Nationals Photo Galleries</a> </li>          \n          \n          <li><a href=\"/Events/2024/08/Bommarito500Photos/\">2024 Bommarito 500 IndyCar Photos</a> </li>          \n          \n          <li><a href=\"/Events/2024/08/SoloNationals\">2024 Tire Rack SCCA Solo Nationals Photos</a> </li>          \n          \n          <li><a href=\"/Events/2024/07/MR340/\">2024 American Water Missouri River 340 Paddle Race</a> </li>          \n          \n          <li><a href=\"/Events/2024/07/MinerTough/\">2024 Miner Tough Weekend</a> </li>          \n          \n    </ul>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n    <h2>Event Photography Packages</h2>\n    <p>We customize our packages for each event, so we can tailor our services for the specific needs of your event.</p>\n    <p>You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.</p>\n    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">please reach out and get more information</a></p>\n  </div>\n  <div class=\"col-6\"> \n    <h2>Event Organizer Specials</h2>\n    <p>Custom packages for your event(s)? <strong>We can do that!</strong> </p>\n    <p>Do you want to give out digital copies to all entrants? <strong>We can do that!</strong> </p>\n    <p>Do you want to include a physical print with each entry? <strong>We can do that!</strong> </p>\n    <p>Do you want to be hands off and let us run with your event photos? <strong>We can do that!</strong> </p>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-12\">\n  <h2>Custom Event Watermarks</h2>\n  <p>With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.</p>  \n  </div>\n</div>\n\n<h2 id=\"types-of-events\">Types Of Events</h2>\n<p>We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, <a href=\"https://www.chrishammond.com/Contact\">don’t hesitate to reach out and ask</a>.</p>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n  <h3>Youth Sports</h3>\n    <ul>\n      <li>Baseball</li>\n      <li><a href=\"/events/hockey/\">Ice Hockey</a></li>\n      <li><a href=\"/events/hockey/\">Roller Hockey</a></li>\n      <li><a href=\"/events/lacrosse/\">Lacrosse</a></li>\n      <li><a href=\"/Events/2023/11/MoJudgesCup\">Gymnastics</a></li>\n      <li>Team Photos</li>\n      <li>Individual Photos</li>\n    </ul>\n    <h3>Automotive Events</h3>\n    <ul>\n      <li>Car Shows</li>\n      <li>Automotive Races</li>\n      <li><a href=\"/Events/2024/06/big-foot-open-house\">Monster Trucks</a></li>\n      <li>Rally Races</li>\n      <li><a href=\"/Events/2021/10/2021RunOffs\">Road Races</a></li>\n      <li><a href=\"/Events/2024/04/StLouisRegion\">Autocross</a></li>\n      <li><a href=\"/Events/2023/06/EnjoyIllinois300/\">NASCAR</a></li>\n      <li><a href=\"/Events/2021/08/August-21-2021-IndyCar-Race-At-WWT-Raceway\">Indy Car</a></li>\n    </ul>\n   <h3>Bicycle Events</h3>\n    <ul>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Gravel Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Cyclocross Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Mountain Bike Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Road Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Crits (criteriums)</a></li>\n    </ul>\n  </div>\n  <div class=\"col-6\">\n    <h3><a href=\"/Events/2023/10/CrossFitPhotography/\">CrossFit Events</a></h3>\n    <ul>\n      <li><a href=\"/Events/2019/09/2019-CrossFit-Games\">CrossFit Games</a></li>\n      <li><a href=\"/Events/2021/10/MidwestMastersExperience\">Team Competitions</a></li>\n      <li>Individual Competitions</li>\n    </ul>\n    <h3>Running Events</h3>\n    <ul>\n      <li><a href=\"/Events/2023/07/MinerTough/\">Trail Runs</a></li>\n      <li>Ultra-Marathons</li>\n    </ul>\n    <h3>Watersports</h3>\n    <ul>\n      <li>Multi-day long distance races</li>\n      <li>One day races</li>\n    </ul>\n        <h3>Music Events</h3>\n    <ul>\n      <li>Concerts</li>\n      <li><a href=\"/Events/2023/08/TheSideHustle/\">Lounge Events</a></li>\n      <li>Band Competitions</li>\n      <li>Bar Shows</li>\n    </ul>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-12\">\n    <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">Get More Info</a>\n  </div>\n</div>\n\n"
-     
-   } ,
-  
-   {
-     
         "title"    : "Purchasing RainbowMarks Photography",
         "category" : "",
         "tags"     : "",
         "url"      : "/purchase/",
         "date"     : "",
         "content"   : "<p>We have purchaseable photos available on our <a href=\"https://photos.rainbowmarks.com\">Galleries page</a>. Prices will vary by event and gallery.</p>\n\n<p><em>Copyright:</em> Purchasing our photos will get you a photoo for personal use. Commercial use options are available on a case by case basis, please feel free to reach out to us before purchase if you have any questions.</p>\n\n<p>If you have any trouble or questions, please feel free to reach out to me via my personal <a href=\"https://chrishammond.com/Contact\">contact page</a>, we’ll ask you details about event and individual so we can determine which photo(s) you want.</p>\n\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "PhotoMark.CO - Photo Marking and Sharing for Events",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/photomark/",
+        "date"     : "",
+        "content"   : "<p>PhotoMark.co is a photo marking and sharing service for events. We provide a simple way for event organizers to share photos with participants. We also provide a way for participants to search for their photos by bib number or other criteria.</p>\n\n<p>The website is currently dormant but may be revived again in the future. Thank you to everyone who used the service in the past.</p>\n\n<ul>\n  <li>Chris Hammond - RainbowMarks Photography</li>\n</ul>\n\n"
+     
+   } ,
+  
+   {
+     
+        "title"    : "MR340 - 2024 Missouri River 340 Photos",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/MR340/2024/",
+        "date"     : "2024-07-03T08:30:00+00:00",
+        "content"   : "<div class=\"row\">\n  <div class=\"col-md-12 text-center\">\n  <a href=\"https://photos.rainbowmarks.com/2024/MR340/MR340-Specials/i-DWjsdPV/buy\">\n    <img src=\"/generated/img/posts/2024/mr340/Special-1-800-37dd1ba84.jpg\" alt=\"2024 MR340 Limited Edition Canvas\" srcset=\"/generated/img/posts/2024/mr340/Special-1-200-37dd1ba84.jpg 200w, /generated/img/posts/2024/mr340/Special-1-400-37dd1ba84.jpg 400w, /generated/img/posts/2024/mr340/Special-1-800-37dd1ba84.jpg 800w, /generated/img/posts/2024/mr340/Special-1-1600-37dd1ba84.jpg 1600w, /generated/img/posts/2024/mr340/Special-1-2000-37dd1ba84.jpg 2000w\" />\n\n  </a>\n  <h3><a href=\"https://photos.rainbowmarks.com/2024/MR340\">View the 2024 MR340 Photo Galleries</a></h3>\n\n    <img src=\"/generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-800-9647efde5.jpg\" alt=\"2024 MR340 final finisher!\" srcset=\"/generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-200-9647efde5.jpg 200w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-400-9647efde5.jpg 400w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-800-9647efde5.jpg 800w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-1600-9647efde5.jpg 1600w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-2000-9647efde5.jpg 2000w\" />\n\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-md-8\">\n    <p>RainbowMarks Photography was happy to be back at the MR340 as the Official Photographer of the race!</p>\n    <p>We were at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempted to be at the finish line for every boat that crosses the line in St. Charles, Missouri. We missed a few, but hopefully not you!</p>\n  </div>\n  <div class=\"col-md-4 text-center\"> \n    <h2>View This Year's Photos!</h2>\n    <p><a href=\"https://photos.rainbowmarks.com/2024/MR340\">Click here to view ALL galleries</a>\n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Check-In\">Check-In</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Start\">Start</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Napoleon\">Napoleon</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Waverly\">Waverly</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Glasgow\">Glasgow</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Portland\">Portland</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Finish-Line\">Finish Line</a>\n      </p>\n      <p>ProTip: Use the search box on the gallery pages to search by boat number</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-8\">\n    <h2>Photo Pricing</h2>\n      <p>Individual Photos can be purchased via the gallery links when they are made available. Individual photos are $25 each for digital download.</p>\n      <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc) in our online galleries.</p>\n\n    <h2>Finish Line Photos</h2>\n    <p>We attempted to be at the finish line for everyone who made it, unfortunately we did miss a few. </p>\n\n  </div>\n  <div class=\"col-md-4\"> \n    <h2>Did you Smile For Your Photos?</h2>\n    <img src=\"/generated/img/posts/2024/mr340/Small2023/Small2023-7-300-6bb814667.jpg\" alt=\"Smile for your photo!\" />\n    <p>We were out shooting at a variety of locations all week, and of course at the finish line! I hope you SMILED FOR YOUR PHOTO!</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-12\">\n  <h3>Can I pre-pay for photos?</h3>\n    <p>Pre-race package is no longer available</p> \n    <p>If you purchased the pre-race photo package you should have received an email on Monday morning 7/29 with your discount code to use and a link to your filtered photos.</p>\n    <p><i>Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries. Please reply to the 7/29 email to request a refund before 8/30/2024.</i></p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <h2>Photo Edit Requests</h2>\n    <p>If you have any special edit requests for photos <a href=\"https://www.chrishammond.com/contact\">feel free to reach out and ask</a>!.</p>\n    <p>You can also attempt to reach me by phone: 650-260-8344</p>\n        <h2>View Last Year's Photos!</h2>    \n    <p><a href=\"https://photos.rainbowmarks.com/2023/Watersports/MR340\">2023 MR340 Photos</a><br /></p>    \n\n  </div>\n  <div class=\"col-md-6\">\n    <h2>Missouri River Relief</h2>\n    <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will once again donate 5% of all profits from this year's race to <br /><a href=\"https://riverrelief.org/\" target=\"_blank\"><img src=\"/img/MRR-logo-color-WEB-200px.png\" border=\"0\" /><br />Missouri River Relief</a>.</p>\n    \n  </div>\n</div>\n"
      
    } ,
   
@@ -1117,12 +1117,12 @@
   
    {
      
-        "title"    : "MR340 - 2024 Missouri River 340 Photos",
+        "title"    : "St. Louis Missouri Event Photographer / Photography",
         "category" : "",
         "tags"     : "",
-        "url"      : "/MR340/2024/",
-        "date"     : "2024-07-03T08:30:00+00:00",
-        "content"   : "<div class=\"row\">\n  <div class=\"col-md-12 text-center\">\n  <a href=\"https://photos.rainbowmarks.com/2024/MR340/MR340-Specials/i-DWjsdPV/buy\">\n    <img src=\"/generated/img/posts/2024/mr340/Special-1-800-37dd1ba84.jpg\" alt=\"2024 MR340 Limited Edition Canvas\" srcset=\"/generated/img/posts/2024/mr340/Special-1-200-37dd1ba84.jpg 200w, /generated/img/posts/2024/mr340/Special-1-400-37dd1ba84.jpg 400w, /generated/img/posts/2024/mr340/Special-1-800-37dd1ba84.jpg 800w, /generated/img/posts/2024/mr340/Special-1-1600-37dd1ba84.jpg 1600w, /generated/img/posts/2024/mr340/Special-1-2000-37dd1ba84.jpg 2000w\" />\n\n  </a>\n  <h3><a href=\"https://photos.rainbowmarks.com/2024/MR340\">View the 2024 MR340 Photo Galleries</a></h3>\n\n    <img src=\"/generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-800-9647efde5.jpg\" alt=\"2024 MR340 final finisher!\" srcset=\"/generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-200-9647efde5.jpg 200w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-400-9647efde5.jpg 400w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-800-9647efde5.jpg 800w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-1600-9647efde5.jpg 1600w, /generated/img/posts/2024/mr340/LastFinisher/LastFinisher-2-2000-9647efde5.jpg 2000w\" />\n\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-md-8\">\n    <p>RainbowMarks Photography was happy to be back at the MR340 as the Official Photographer of the race!</p>\n    <p>We were at the starting line, and then various stops and ramps along the race route to catch photos throughout the race. We will also attempted to be at the finish line for every boat that crosses the line in St. Charles, Missouri. We missed a few, but hopefully not you!</p>\n  </div>\n  <div class=\"col-md-4 text-center\"> \n    <h2>View This Year's Photos!</h2>\n    <p><a href=\"https://photos.rainbowmarks.com/2024/MR340\">Click here to view ALL galleries</a>\n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Check-In\">Check-In</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Start\">Start</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Napoleon\">Napoleon</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Waverly\">Waverly</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Glasgow\">Glasgow</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Portland\">Portland</a> | \n      <a href=\"https://www.rainbowmarksphotography.com/2024-MR340/Finish-Line\">Finish Line</a>\n      </p>\n      <p>ProTip: Use the search box on the gallery pages to search by boat number</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-8\">\n    <h2>Photo Pricing</h2>\n      <p>Individual Photos can be purchased via the gallery links when they are made available. Individual photos are $25 each for digital download.</p>\n      <p>We also sell a variety of print formats (paper, canvas, metal, cards, etc) in our online galleries.</p>\n\n    <h2>Finish Line Photos</h2>\n    <p>We attempted to be at the finish line for everyone who made it, unfortunately we did miss a few. </p>\n\n  </div>\n  <div class=\"col-md-4\"> \n    <h2>Did you Smile For Your Photos?</h2>\n    <img src=\"/generated/img/posts/2024/mr340/Small2023/Small2023-7-300-6bb814667.jpg\" alt=\"Smile for your photo!\" />\n    <p>We were out shooting at a variety of locations all week, and of course at the finish line! I hope you SMILED FOR YOUR PHOTO!</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-md-12\">\n  <h3>Can I pre-pay for photos?</h3>\n    <p>Pre-race package is no longer available</p> \n    <p>If you purchased the pre-race photo package you should have received an email on Monday morning 7/29 with your discount code to use and a link to your filtered photos.</p>\n    <p><i>Refunds will only be provided if I don't have 3 photos of you/your boat available in online galleries. Please reply to the 7/29 email to request a refund before 8/30/2024.</i></p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <h2>Photo Edit Requests</h2>\n    <p>If you have any special edit requests for photos <a href=\"https://www.chrishammond.com/contact\">feel free to reach out and ask</a>!.</p>\n    <p>You can also attempt to reach me by phone: 650-260-8344</p>\n        <h2>View Last Year's Photos!</h2>    \n    <p><a href=\"https://photos.rainbowmarks.com/2023/Watersports/MR340\">2023 MR340 Photos</a><br /></p>    \n\n  </div>\n  <div class=\"col-md-6\">\n    <h2>Missouri River Relief</h2>\n    <p>As part of our commitment to the MR340 and the Missouri River, RainbowMarks Photography will once again donate 5% of all profits from this year's race to <br /><a href=\"https://riverrelief.org/\" target=\"_blank\"><img src=\"/img/MRR-logo-color-WEB-200px.png\" border=\"0\" /><br />Missouri River Relief</a>.</p>\n    \n  </div>\n</div>\n"
+        "url"      : "/events/",
+        "date"     : "",
+        "content"   : "<p>At RainbowMarks Photography we thoroughly enjoy getting out and shooting events. We love providing memories to event participants so that they can look back on the joy, or pain that they experienced! We are based in Wildwood, Missouri, we shoot events all around St. Louis and the Midwest.</p>\n\n<div class=\"row\">\n  <div class=\"col-4\">\n    <a href=\"https://rainbowmarks.com/blog/\"><img src=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg\" alt=\"Nighttime photo from Unbound Gravel\" srcset=\"/generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-200-843b7935f.jpg 200w, /generated/img/posts/UnboundGravel/Nightshots/Nightshots-225-400-843b7935f.jpg 400w\" />\n\n    </a>\n  </div>\n  <div class=\"col-8\">\n  <h2>Recent Events</h2>\n    <ul>\n         \n          <li><a href=\"/Events/2024/09/SoloNationalsGallery/\">Solo Nationals Photo Galleries</a> </li>          \n          \n          <li><a href=\"/Events/2024/08/Bommarito500Photos/\">2024 Bommarito 500 IndyCar Photos</a> </li>          \n          \n          <li><a href=\"/Events/2024/08/SoloNationals\">2024 Tire Rack SCCA Solo Nationals Photos</a> </li>          \n          \n          <li><a href=\"/Events/2024/07/MR340/\">2024 American Water Missouri River 340 Paddle Race</a> </li>          \n          \n          <li><a href=\"/Events/2024/07/MinerTough/\">2024 Miner Tough Weekend</a> </li>          \n          \n    </ul>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n    <h2>Event Photography Packages</h2>\n    <p>We customize our packages for each event, so we can tailor our services for the specific needs of your event.</p>\n    <p>You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.</p>\n    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">please reach out and get more information</a></p>\n  </div>\n  <div class=\"col-6\"> \n    <h2>Event Organizer Specials</h2>\n    <p>Custom packages for your event(s)? <strong>We can do that!</strong> </p>\n    <p>Do you want to give out digital copies to all entrants? <strong>We can do that!</strong> </p>\n    <p>Do you want to include a physical print with each entry? <strong>We can do that!</strong> </p>\n    <p>Do you want to be hands off and let us run with your event photos? <strong>We can do that!</strong> </p>\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-12\">\n  <h2>Custom Event Watermarks</h2>\n  <p>With our home grown watermarking service, you can either have all event photos include your Event logo, or you can allow your participants to add the event logo to the photos afterwards.</p>  \n  </div>\n</div>\n\n<h2 id=\"types-of-events\">Types Of Events</h2>\n<p>We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don’t see your event type listed, <a href=\"https://www.chrishammond.com/Contact\">don’t hesitate to reach out and ask</a>.</p>\n\n<div class=\"row\">\n  <div class=\"col-6\">\n  <h3>Youth Sports</h3>\n    <ul>\n      <li>Baseball</li>\n      <li><a href=\"/events/hockey/\">Ice Hockey</a></li>\n      <li><a href=\"/events/hockey/\">Roller Hockey</a></li>\n      <li><a href=\"/events/lacrosse/\">Lacrosse</a></li>\n      <li><a href=\"/Events/2023/11/MoJudgesCup\">Gymnastics</a></li>\n      <li>Team Photos</li>\n      <li>Individual Photos</li>\n    </ul>\n    <h3>Automotive Events</h3>\n    <ul>\n      <li>Car Shows</li>\n      <li>Automotive Races</li>\n      <li><a href=\"/Events/2024/06/big-foot-open-house\">Monster Trucks</a></li>\n      <li>Rally Races</li>\n      <li><a href=\"/Events/2021/10/2021RunOffs\">Road Races</a></li>\n      <li><a href=\"/Events/2024/04/StLouisRegion\">Autocross</a></li>\n      <li><a href=\"/Events/2023/06/EnjoyIllinois300/\">NASCAR</a></li>\n      <li><a href=\"/Events/2021/08/August-21-2021-IndyCar-Race-At-WWT-Raceway\">Indy Car</a></li>\n    </ul>\n   <h3>Bicycle Events</h3>\n    <ul>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Gravel Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Cyclocross Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Mountain Bike Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Road Races</a></li>\n      <li><a href=\"/Events/2023/05/StLouisBikeRacePhotography/\">Crits (criteriums)</a></li>\n    </ul>\n  </div>\n  <div class=\"col-6\">\n    <h3><a href=\"/Events/2023/10/CrossFitPhotography/\">CrossFit Events</a></h3>\n    <ul>\n      <li><a href=\"/Events/2019/09/2019-CrossFit-Games\">CrossFit Games</a></li>\n      <li><a href=\"/Events/2021/10/MidwestMastersExperience\">Team Competitions</a></li>\n      <li>Individual Competitions</li>\n    </ul>\n    <h3>Running Events</h3>\n    <ul>\n      <li><a href=\"/Events/2023/07/MinerTough/\">Trail Runs</a></li>\n      <li>Ultra-Marathons</li>\n    </ul>\n    <h3>Watersports</h3>\n    <ul>\n      <li>Multi-day long distance races</li>\n      <li>One day races</li>\n    </ul>\n        <h3>Music Events</h3>\n    <ul>\n      <li>Concerts</li>\n      <li><a href=\"/Events/2023/08/TheSideHustle/\">Lounge Events</a></li>\n      <li>Band Competitions</li>\n      <li>Bar Shows</li>\n    </ul>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-12\">\n    <a href=\"https://www.chrishammond.com/Contact\" class=\"btn btn-primary\">Get More Info</a>\n  </div>\n</div>\n\n"
      
    } ,
   
