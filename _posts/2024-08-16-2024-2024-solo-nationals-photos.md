@@ -48,7 +48,7 @@ Get ready, motorsport enthusiasts! RainbowMarks Photography is thrilled to annou
 ## Capturing Every Moment
 We'll be on-site shooting as many competition runs as possible across the four days of the event. Our focus is on action shots that showcase the speed, precision, and thrill of Solo racing. Whether you're a competitor looking to relive your best runs or a fan wanting to see the action up close, we've got you covered.
 
-## Pre-Event Special Package
+## Pre-Event Special Package (NO LONGER AVAILABLE AT DISCOUNT)
 For those who want comprehensive coverage of their performance, we're offering an exclusive **Pre-Event Special Package**:
 - **$125** for every one of our published digital photos of your car from the 2024 Solo Nationals. (Individual photos will be $25/photo after the event)
 - This package includes all photos, no matter how many drivers or classes the car is entered in.
