@@ -10,7 +10,7 @@ last_modified_at: '2024-08-31T23:50:00+00:00'
 header-img: "/img/posts/2024/august/BlogPostPre/PeruFaces-1.jpg"
 permalink: "Events/2024/08/SoloNationals"
 categories: [event, race, car, solo, autocross]
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Autocross/2024-Solo-National-Championships
 gallery:
