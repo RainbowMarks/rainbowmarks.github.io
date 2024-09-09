@@ -1,8 +1,8 @@
 ---
 layout: "post"
 title: "Solo Nationals Photo Galleries"
-subtitle: "Uploading this week!"
-description: "We've started posting photos from the 2024 Solo Nationals and ProSolo Finale!"
+subtitle: "All our photos are uploaded!"
+description: "We've uploaded all our photos from the 2024 Solo Nationals, ProSolo Finale and CAM Invitational!"
 active: "blog"
 image: "/img/posts/2024/september/nationals/Nationals-1.jpg"
 date: '2024-09-02T20:20:00+00:00'

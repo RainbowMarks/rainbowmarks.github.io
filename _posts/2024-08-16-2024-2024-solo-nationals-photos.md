@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "2024 Tire Rack SCCA Solo Nationals Photos"
-subtitle: "We'll be there, taking the photos that you want!"
+subtitle: "We were there, taking the photos that you wanted!"
 description: "We will be at the upcoming 2024 Tire Rack SCCA Solo National Championships in Lincoln Nebraska, taking the photos that you want to see!"
 active: "blog"
 image: "/img/posts/2024/august/BlogPostPre/PeruFaces-1.jpg"
@@ -41,6 +41,9 @@ gallery:
     image-copyright: Copyright 2024 RainbowMarks.com
 
 ---
+
+## Update: [Check out our 2024 Solo Nationals Photo Announcement Post](https://rainbowmarks.com/Events/2024/09/SoloNationalsGallery/)
+
 Get ready, motorsport enthusiasts! RainbowMarks Photography is thrilled to announce our coverage of the 2024 Tire Rack SCCA Solo Nationals in Lincoln, Nebraska. This iconic event is the pinnacle of Solo competition, and we're geared up to capture the high-octane action from start to finish.
 
 {% picture  /img/posts/2024/august/BlogPostPre/buynow.jpg --link https://rainbowmarks.square.site/product/2024-solo-nationals/4 %}
