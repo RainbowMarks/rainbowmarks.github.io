@@ -55,11 +55,11 @@ gallery:
 
 I’ve just finished uploading over 23,000 photos from the 2024 Solo National Championships, ProSolo Finale, and CAM Invitational—all held in Lincoln, Nebraska from August 30th to September 6th, 2024! [You can check them out here](https://photos.rainbowmarks.com/2024/Autocross/2024-Solo-National-Championships).
 
-🔍 Find your car: Many photos are already tagged with car and class numbers. For example, searching "42FS" in the gallery will bring up all tagged photos of that car. We’re actively tagging more photos to make your search even easier.
+🔍 Find your car: All of the photos are tagged with car and class numbers. For example, searching "42FS" in the gallery will bring up all tagged photos of that car, this should make it really easy to find your own car!
 
-📸 Get your photos: High-resolution digital downloads are available for $25 each. Want ALL photos of your car? You can get them for $200, or $275 if you participated in ProSolo too! This includes a custom private gallery delivered within 48 hours. [Visit this link](https://rainbowmarks.square.site/product/2024-solo-nationals/4) to purchase.
+📸 Get your photos: High-resolution digital downloads are available for $25 each. Want ALL photos of your car? You can get them for $200, or $275 if you participated in ProSolo too! This includes a custom private gallery delivered within 24-48 hours. [Visit this link](https://rainbowmarks.square.site/product/2024-solo-nationals/4) to purchase.
 
-If you’ve already purchased the event special package, keep an eye on your inbox! Your custom gallery links will be sent out in the next 24-48 hours.
+If you’ve already purchased the event special package you should have received an email with information on how to access! If not, please reach out!
 
 Enjoy the memories and share your favorites! 🎉📷 #SoloNats #ProSolo #CAMInvitational #Autocross
 [Click on the Gallery link here on this page for all the photos](https://photos.rainbowmarks.com/2024/Autocross/2024-Solo-National-Championships). 
