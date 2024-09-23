@@ -52,10 +52,10 @@ comments:
 
 # Internal nav
 nav:
-  - SOLO NATIONALS: "/Events/2024/09/SoloNationalsGallery/"
+ # - SOLO NATIONALS: "/Events/2024/09/SoloNationalsGallery/"
   - BLOG: "/blog/"
   - GALLERIES: "https://photos.rainbowmarks.com/"
- # - EVENTS: "/events/"
+  - EVENTS: "/events/"
  # - PURCHASE: "/purchase/"
   - ABOUT: "/about/"
  #  - SHOP: "https://photos.rainbowmarks.com/"
