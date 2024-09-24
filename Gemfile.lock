@@ -149,7 +149,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll_picture_tag
   kramdown-parser-gfm
-  webrick (~> 1.7)
+  webrick (~> 1.8, >= 1.8.2)
 
 BUNDLED WITH
    2.3.22
