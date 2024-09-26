@@ -380,10 +380,7 @@
 <loc>https://rainbowmarks.com/about/</loc>
 </url>
 <url>
-<loc>https://rainbowmarks.com/terms/</loc>
-</url>
-<url>
-<loc>https://rainbowmarks.com/purchase/</loc>
+<loc>https://rainbowmarks.com/events/</loc>
 </url>
 <url>
 <loc>https://rainbowmarks.com/photomark/</loc>
@@ -396,7 +393,10 @@
 <loc>https://rainbowmarks.com/MR340/2023/</loc>
 </url>
 <url>
-<loc>https://rainbowmarks.com/events/</loc>
+<loc>https://rainbowmarks.com/terms/</loc>
+</url>
+<url>
+<loc>https://rainbowmarks.com/purchase/</loc>
 </url>
 <url>
 <loc>https://rainbowmarks.com/events/lacrosse/</loc>

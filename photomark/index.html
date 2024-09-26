@@ -69,7 +69,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1727210864" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1727376319" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -235,7 +235,7 @@
 					<form
 						role="search"
 						class="bd-search"
-						onSubmit="return lunr_search(document.getElementById('lunrsearch').value);"
+						onsubmit="return sanitizeAndSearch();"
 					>
 						<input
 							type="text"
@@ -253,6 +253,25 @@
 					</div>
 
 					<script src="/js/lunrsearchengine.js"></script>
+
+					<script>
+						function sanitizeAndSearch() {
+							const searchBox = document.getElementById("lunrsearch");
+							const originalValue = searchBox.value;
+
+							// Sanitize the search input
+							const sanitizedValue = originalValue.replace(
+								/[<>\/\\{}()$&+%#'"`]/g,
+								""
+							);
+
+							// Set the sanitized value back to the input field (optional)
+							searchBox.value = sanitizedValue;
+
+							// Pass sanitized value to lunr_search function
+							return lunr_search(sanitizedValue);
+						}
+					</script>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
