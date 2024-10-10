@@ -65,6 +65,8 @@ We have experience shooting events of all sizes and types. Some, but not all, of
       <li><a href="/Events/2023/11/MoJudgesCup">Gymnastics</a></li>
       <li>Team Photos</li>
       <li>Individual Photos</li>
+      <li>Senior Sports Photos</li>
+      <li>Senior Night Game Photos</li>
     </ul>
     <h3>Automotive Events</h3>
     <ul>
