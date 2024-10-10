@@ -365,6 +365,10 @@
 <lastmod>2024-09-02T15:20:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Blog/2024/10/how-to-photograph-the-northern-lights</loc>
+<lastmod>2024-10-10T05:21:49-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/category</loc>
 </url>
 <url>
@@ -451,6 +455,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/comet/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/astro/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/unbound/</loc>
