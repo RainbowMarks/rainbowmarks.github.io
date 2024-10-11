@@ -60,4 +60,5 @@ It was dark, and I was able to park pretty close to the Mississippi River. I qui
 The photos here are some of the selected photos taken on my Canon R5 with a 15-35mm lens.
 
 Here's a timelapse of those and more photos all together:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaXKIvGcx60?si=HgiuOvghybsE1yHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="550" height="315" src="https://www.youtube.com/embed/HaXKIvGcx60?si=HgiuOvghybsE1yHr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

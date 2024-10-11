@@ -32,6 +32,8 @@ gallery:
 ---
 With the recent influx of solar activity the ability for more parts of the United States to see the Northern Lights (aurora borealis) has increased many times over the past year. We are in a peak phase of sun activity this year and may continue to have opportunities for the near future, but you never know, so if you've got an opportunity to get outside, do it! 
 
+[See some of the output from these tips](/Blog/2024/10/northern-lights-over-missouri)
+
 The Northern Lights, or Aurora Borealis, are one of the most breathtaking natural phenomena to witness. Capturing them through photography, however, can be tricky due to the unique conditions and low-light environment. Here’s a comprehensive guide on how to best photograph the Northern Lights and come home with stunning images.
 
 ## 1. Choose the Right Time and Location
