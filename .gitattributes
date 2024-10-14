@@ -1,1 +1,10 @@
+# Handle line endings automatically for text files
 * text=auto
+
+# Files that should always have LF endings
+*.html text eol=lf
+*.xml text eol=lf
+
+# Binary files should not be modified
+*.jpg binary
+*.png binary
