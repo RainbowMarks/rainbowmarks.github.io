@@ -10,7 +10,7 @@ header-img: "/img/posts/2024/july/MinerTough-1.jpg"
 
 permalink: "Events/2024/07/MinerTough/"
 categories: [event, race, trail, run, mtb, mountain bike]
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Miner-Tough-Weekend
 
