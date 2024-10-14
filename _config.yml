@@ -21,7 +21,7 @@ data_dir: _data
 owner:
   name: Chris Hammond
   avatar: 2022_ChrisHammond_200.jpg
-  
+  web: https://www.chrishammond.com
   info: RainbowMarks Photography based out of Wildwood, MO. Specializing in automotive, sports, events, action, landscapes and of course Rainbows. 
 
 authors:
@@ -33,10 +33,8 @@ authors:
     gravatar: bff097b7cc348bebce39ee1c7694d125
     email: rainbowmarks@christoc.com
     web: https://www.chrishammond.com
-    twitter: https://twitter.com/collectorofjack
-    description: "<a href=\"https://www.chrishammond.com\">Chris</a> has been collecting Jack Daniel's for 26 years and uses this site to document his collection. <a href=\"/JackDanielsCollector\">Read more about his story</a>"
-
-
+    twitter: https://twitter.com/rainbowmarks
+    description: "<a href=\"https://www.chrishammond.com\">Chris</a> has used digital photography for 26+ years to document a variety of hobbies and ths photography business stated from that!"
 
 
 # Settings for comments helper
@@ -58,6 +56,7 @@ nav:
   - EVENTS: "/events/"
  # - PURCHASE: "/purchase/"
   - ABOUT: "/about/"
+  - CONTACT US: "https://forms.gle/nW53hFmwBrNjqdg96"
  #  - SHOP: "https://photos.rainbowmarks.com/"
   
 
