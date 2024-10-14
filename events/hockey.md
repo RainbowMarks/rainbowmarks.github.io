@@ -37,7 +37,7 @@ Capture every slapshot, every goal, and every triumphant cheer right here in St.
 
 ### 📆 **Secure Your Spot – St. Louis Slots Fill Up Fast!**
 
-Children grow up quickly, and the moments on the ice are fleeting. Secure the best memories of their hockey journey with St. Louis's favorite photography service. Our commitment to quality and personalized service means our slots fill up quickly. Book now to avoid disappointment!
+Children grow up quickly, and the moments on the ice are fleeting. Secure the best memories of their hockey journey with St. Louis's favorite photography service. Our commitment to quality and personalized service means our slots fill up quickly. [Book now to avoid disappointment](https://www.chrishammond.com/contact)!
 
 ---
 
