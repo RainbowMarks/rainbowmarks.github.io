@@ -32,7 +32,7 @@ At RainbowMarks Photography we thoroughly enjoy getting out and shooting events.
     <h2>Event Photography Packages</h2>
     <p>We customize our packages for each event, so we can tailor our services for the specific needs of your event.</p>
     <p>You can pre-purchase event photos and give them out to your attendees, or we can provide on-site photo package sales, as well as post event photo sales. All photos are professionally retouched, cropped and made ready for the customer after the event completes. We offer digital downloads, as well as physical print options.</p>
-    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href="https://www.chrishammond.com/Contact" class="btn btn-primary">please reach out and get more information</a></p>
+    <p>If you're interested in having RainbowMarks Photography shoot your event, <a href="https://cjh.am/rbmcontact" class="btn btn-primary">please reach out and get more information</a></p>
   </div>
   <div class="col-6"> 
     <h2>Event Organizer Specials</h2>
@@ -52,7 +52,7 @@ At RainbowMarks Photography we thoroughly enjoy getting out and shooting events.
 </div>
 
 ## Types Of Events
-We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don't see your event type listed, [don't hesitate to reach out and ask](https://www.chrishammond.com/Contact).
+We have experience shooting events of all sizes and types. Some, but not all, of the event types you will find below. Just because you don't see your event type listed, [don't hesitate to reach out and ask](https://cjh.am/rbmcontact).
 
 <div class="row">
   <div class="col-6">
@@ -116,7 +116,7 @@ We have experience shooting events of all sizes and types. Some, but not all, of
 </div>
 <div class="row">
   <div class="col-12">
-    <a href="https://www.chrishammond.com/Contact" class="btn btn-primary">Get More Info</a>
+    <a href="https://cjh.am/rbmcontact" class="btn btn-primary">Get More Info</a>
   </div>
 </div>
 

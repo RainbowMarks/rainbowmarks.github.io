@@ -28,4 +28,4 @@ For this event, the digital downloads are free, but you need a password to acces
 ## Photo Size
 Photos were shot on a Canon R5, with a 43 megapixel sensor. 99% of the photos posted have NOT been cropped, they are very large, so you can crop them and still get a great photo if you want to clean up any open space.
 
-[Please feel free to drop me a line](https://chrishammond.com/contact/).
+[Please feel free to drop me a line](https://cjh.am/rbmcontact/).

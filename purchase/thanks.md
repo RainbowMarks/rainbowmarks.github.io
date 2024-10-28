@@ -10,7 +10,7 @@ header-img: "img/journal/NeowiseComet7-18-2020-5.jpg"
 
 A very big thank you for purchasing from RainbowMarks Photography. Your transaction has been completed, and a receipt for your purchase has been emailed to you.
 
-If you have any questions please don't hestitate to reach out [contact page](https://www.chrishammond.com/Contact)
+If you have any questions please don't hestitate to reach out [contact page](https://cjh.am/rbmcontact)
 
 <form>
 </form>

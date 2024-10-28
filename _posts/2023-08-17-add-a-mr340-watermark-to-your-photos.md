@@ -33,4 +33,4 @@ If you haven't purchased any MR340 photos yet, you can [do so here](https://phot
 
 Currently the website is pretty simple, allowing you to choose only from the 2023 MR340 logo options, in the future I might make it a little more customizable to support future, and past, events! 
 
-This is 100% brand new, custom code, so if you run into any problems, [please don't hesitate to reach out](https://chrishammond.com/contact) with feedback!
+This is 100% brand new, custom code, so if you run into any problems, [please don't hesitate to reach out](https://cjh.am/rbmcontact) with feedback!

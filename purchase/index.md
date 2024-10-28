@@ -12,5 +12,5 @@ We have purchaseable photos available on our [Galleries page](https://photos.rai
 
 *Copyright:* Purchasing our photos will get you a photoo for personal use. Commercial use options are available on a case by case basis, please feel free to reach out to us before purchase if you have any questions.
 
-If you have any trouble or questions, please feel free to reach out to me via my personal [contact page](https://chrishammond.com/Contact), we'll ask you details about event and individual so we can determine which photo(s) you want.
+If you have any trouble or questions, please feel free to reach out to me via my personal [contact page](https://cjh.am/rbmcontact), we'll ask you details about event and individual so we can determine which photo(s) you want.
 

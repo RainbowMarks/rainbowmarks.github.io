@@ -57,7 +57,7 @@ Choose from a range of photo products:
 
 ## Book Early for 2024!
 
-As the 2024 calendar fills up, we encourage early bookings, especially for weekends. [Contact us for **Midwest event photography packages** and pricing details]](https://www.chrishammond.com/Contact).
+As the 2024 calendar fills up, we encourage early bookings, especially for weekends. [Contact us for **Midwest event photography packages** and pricing details]](https://cjh.am/rbmcontact).
 
 ---
 
@@ -66,6 +66,6 @@ As the 2024 calendar fills up, we encourage early bookings, especially for weeke
 Serving St. Louis and the Midwest  
 "Capturing Every Moment with Color and Passion"
 
-[Book Now](https://www.chrishammond.com/Contact) | [Gallery](https://photos.rainbowmarks.com/) | [Like us on Facebook](https://www.facebook.com/rainbowmarksphoto)
+[Book Now](https://cjh.am/rbmcontact) | [Gallery](https://photos.rainbowmarks.com/) | [Like us on Facebook](https://www.facebook.com/rainbowmarksphoto)
 
 📞 Contact us today to discuss your event needs and let us help you preserve your memories in vivid detail. Remember, the best moments are fleeting, but our photographs make them last forever!

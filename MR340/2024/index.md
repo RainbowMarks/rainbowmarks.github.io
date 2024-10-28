@@ -70,7 +70,7 @@ redirect_from:
 <div class="row">
   <div class="col-6">
     <h2>Photo Edit Requests</h2>
-    <p>If you have any special edit requests for photos <a href="https://www.chrishammond.com/contact">feel free to reach out and ask</a>!.</p>
+    <p>If you have any special edit requests for photos <a href="https://cjh.am/rbmcontact">feel free to reach out and ask</a>!.</p>
     <p>You can also attempt to reach me by phone: 650-260-8344</p>
         <h2>View Last Year's Photos!</h2>    
     <p><a href="https://photos.rainbowmarks.com/2023/Watersports/MR340">2023 MR340 Photos</a><br/></p>    

@@ -66,5 +66,5 @@ Photos were shot on a Canon R5, with a 43 megapixel sensor. 99% of the photos po
 
 
 ## Feedback
-I realize there are a number of other photographers out there, each having their own style and availability. This was my first time really dedicating time to shooting the Solo Nationals, I would love your feedback, [please feel free to drop me a line](https://chrishammond.com/contact/).
+I realize there are a number of other photographers out there, each having their own style and availability. This was my first time really dedicating time to shooting the Solo Nationals, I would love your feedback, [please feel free to drop me a line](https://cjh.am/rbmcontact/).
 

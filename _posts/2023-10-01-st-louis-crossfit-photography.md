@@ -72,8 +72,8 @@ While international events like the CrossFit Games remain a highlight, our heart
 
 Whether you're an event organizer, a CrossFit athlete, or a fan, we invite you to experience the world through our lens. Let RainbowMarks Photography be the bridge between your event and unforgettable memories.
 
-For inquiries, bookings, or to simply ask a question, [**Contact Us**](https://www.chrishammond.com/Contact) today.
+For inquiries, bookings, or to simply ask a question, [**Contact Us**](https://cjh.am/rbmcontact) today.
 
 Remember, with RainbowMarks, every shot is not just a photo; it’s an emotion, a memory, a legacy.
 
-[Book Today](https://www.chrishammond.com/Contact)
+[Book Today](https://cjh.am/rbmcontact)

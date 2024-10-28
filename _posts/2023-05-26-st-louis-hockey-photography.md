@@ -35,7 +35,7 @@ Updated October 2023: [Check Out Our One Game Hockey Photo Package](https://rain
 
 As an experienced sports photographer in the vibrant city of St. Louis, there's one subject that has always captured my attention, and that of my camera lens, like no other: St. Louis hockey. I have had the privilege to experience the heart-pounding, ice-skating action from behind my camera, capturing the intensity of every game and transforming them into captivating St. Louis hockey photos.
 
-[Book Today](https://www.chrishammond.com/Contact)
+[Book Today](https://cjh.am/rbmcontact)
 
 Hockey, being the heartbeat of this incredible city, provides a captivating display of athleticism and emotion, an ideal subject for a passionate photographer like me. However, a St. Louis hockey game is not merely about capturing shots of athletes, but a compelling narrative of human endeavor and the spirit of the community.
 
@@ -61,7 +61,7 @@ So whether you're a player, a parent, or a coach, I invite you to explore my hoc
 
 Together, we can immortalize the intensity, the passion, and the spirit of St. Louis hockey, one photo at a time.
 
-[Book Today](https://www.chrishammond.com/Contact)
+[Book Today](https://cjh.am/rbmcontact)
 
 [See some of the thousands of Hockey Photos we have taken over the years](https://photos.rainbowmarks.com/search#q=hockey)
 
