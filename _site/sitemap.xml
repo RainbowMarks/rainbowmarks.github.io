@@ -377,6 +377,10 @@
 <lastmod>2024-10-14T09:30:49-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Blog/2024/11/missouri-class5-district2-football</loc>
+<lastmod>2024-11-16T14:30:49-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/category</loc>
 </url>
 <url>
@@ -703,6 +707,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/team/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/football/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/championship/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/lafayette/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/page2/</loc>
