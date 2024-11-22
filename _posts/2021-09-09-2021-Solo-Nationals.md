@@ -9,6 +9,7 @@ header-img: "/img/posts/2021/2021SoloNationals/2021-Solo-Nationals.jpg"
 
 permalink: "Events/2021/09/2021-solo-nationals"
 categories: [ cars,event, autocross, scca, automotive]
+description: "Browse 2021 Solo Nationals and ProSolo Finale photos, tagged by car number and class. Includes purchasing options and photo specifications."
 ---
 The time has come, I have uploaded all the 2021 Solo Nationals and ProSolo Finale Photos from last week. I did **NOT** shoot every heat, between running and working announce for Heat 1 on Thursday and Friday, and just being tired all week, there were a few heats that I wasn't able to get to, those are listed at the bottom of this page. Galleries are organized by Day and then by Run Heat/Classes.
 
@@ -67,4 +68,3 @@ Photos were shot on a Canon R5, with a 43 megapixel sensor. 99% of the photos po
 
 ## Feedback
 I realize there are a number of other photographers out there, each having their own style and availability. This was my first time really dedicating time to shooting the Solo Nationals, I would love your feedback, [please feel free to drop me a line](https://cjh.am/rbmcontact/).
-

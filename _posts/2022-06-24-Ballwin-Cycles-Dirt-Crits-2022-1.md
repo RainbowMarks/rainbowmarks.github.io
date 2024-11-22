@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/Bikes/DirtCrits1/DirtCrits1Jump-1.jpg"
 permalink: "Events/2022/06/BallwinCyclesDirtCrits2022-1"
 categories: [event, bike, race, dirt]
 featured: false
+description: "Explore the highlights from the Ballwin Cycles Dirt Crits event held in Valley Park on June 23, 2022, featuring photos of all riders."
 ---
-
 Ballwin Cycles Dirt Crits from 2 Timing Guys, first event down in Valley Park on June 23rd, 2022
 
 I tried to get multiple shots of every rider.

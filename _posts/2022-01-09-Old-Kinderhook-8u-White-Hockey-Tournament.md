@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/OldKinderhook/OldKinderhook-1.jpg"
 permalink: "Events/2022/01/Old-Kinderhook-8u-White-Hockey-Tournament"
 categories: [event, hockey, tournament, usa-hockey, ice, old kinderhook]
 featured: false
+description: "Explore our gallery of photos from the Synergy Pond Hockey Tournament at Old Kinderhook. Available for digital download."
 ---
-
 We took a trip to Old Kinderhook for the Synergy Pond Hockey Tournament down there this weekend, I took a number of games (all the games Chesterfield played, plus a couple of others).
 
 Photos are organized by day and available for purchase (digital download $10 per shot)
@@ -25,5 +25,3 @@ Photos are organized by day and available for purchase (digital download $10 per
 
 ## [Click for Sunday](https://photos.rainbowmarks.com/2022/Hockey/Old-Kinderhook/Old-Kinderhook-192022/)
 <iframe src="https://photos.rainbowmarks.com/frame/slideshow?key=NxPpkt&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
-
-

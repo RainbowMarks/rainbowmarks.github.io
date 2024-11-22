@@ -28,7 +28,7 @@ gallery:
   - image_path: /img/posts/2024/october/OldNorthernLights/OldNorthernLights-5.jpg
     image-caption: "Northern Lights over eastern Missouri, May 2024"
     image-copyright: Copyright 2024 RainbowMarks.com
-
+description: "Explore tips on how to capture stunning images of the Northern Lights, from choosing the right time and location to understanding camera settings."
 ---
 With the recent influx of solar activity the ability for more parts of the United States to see the Northern Lights (aurora borealis) has increased many times over the past year. We are in a peak phase of sun activity this year and may continue to have opportunities for the near future, but you never know, so if you've got an opportunity to get outside, do it! 
 

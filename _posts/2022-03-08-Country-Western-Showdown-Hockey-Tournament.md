@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/Nashville/Games-82.jpg"
 permalink: "Events/2022/03/CountryWesternShowdownHockey"
 categories: [event, hockey]
 featured: false
+description: "Explore lively photos from the 2022 Country Western Showdown in Nashville, featuring Chesterfield Falcons - McCarthy."
 ---
-
 Photos from 2022 Country Western Showdown in Nashville, TN are posted.
 
 Most of the photos are from the games with Chesterfield Falcons - McCarthy, playing teams from outside of St. Louis, including St. Peters, Center Ice, Nashville and Queen City Royals.

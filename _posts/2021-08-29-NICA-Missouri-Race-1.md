@@ -9,6 +9,7 @@ header-img: "/img/posts/2021/NICA-1/NICA-1.jpg"
 
 permalink: "Events/2021/08/August-29-2021-NICA-Race-1"
 categories: [bike,event]
+description: "Explore stunning photos from the Missouri Interscholastic Cycling League 2021 Race Series #1. Find your shots via bib number."
 ---
 Once again I spent a day (8/29/2021) out at Indian Camp Creek Park shooting a mountain bike race. This time I was shooting the Missouri Interscholastic Cycling League 2021 Race Series Race #1. 
 

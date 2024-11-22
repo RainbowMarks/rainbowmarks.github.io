@@ -9,7 +9,7 @@ permalink: "Events/2019/09/2018-Solo-Nationals"
 header-img: "/img/posts/SoloNationals2018.jpg"
 
 categories: [autocross,event]
-
+description: "Relive the 2018 TireRack SCCA Solo Nationals with RainbowMarks' extensive photo collection from the unique, wet and dark event."
 ---
 The 2018 TireRack SCCA Solo Nationals in September 2018 started out on Tuesday the 4th, with a both Wet and Dark day. The event ran late into the evening and ended up having to be stopped due to darkness and finished up the following morning.
 

@@ -44,8 +44,7 @@ gallery:
   - image_path: /img/posts/2023/Watersports/Freedom100/Faces-9.jpg
     image-caption: The Freedom 100 Race Faces
     image-copyright: Copyright 2023 RainbowMarks.com
-  
-
+description: "Cherish the thrill of The Freedom 100 Paddle Race through our photo gallery. Browse and purchase shots of every moment."
 ---
 Our first full paddle race, The Freedom 100 from Boonville Missouri to Jefferson City, Missouri held on Saturday July 8th, 2023.
 

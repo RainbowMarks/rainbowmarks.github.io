@@ -9,6 +9,7 @@ permalink: "Events/2019/12/chesterfield-hockey-6u-inaugural-turkey-jamboree"
 header-img: "/img/posts/TurkeyJamboree2019.jpg"
 
 categories: [hockey,event]
+description: "Experience the excitement of the first Mini Mite Turkey Jamboree with Chesterfield Hockey, captured by RainbowMarks. View and purchase photos here!"
 ---
 The weekend after Thanksgiving 2019 the Chesterfield Hockey Association held the first Mini Mite Turkey Jamboree at the Maryville University Hockey Center in Chesterfield, Missouri. RainbowMarks was there shooting, here are some of those shots!
 

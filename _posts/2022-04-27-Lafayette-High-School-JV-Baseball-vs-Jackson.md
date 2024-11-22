@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/Baseball/4-23-2022/4-23-2022Team-36.jpg"
 permalink: "Events/2022/04/April23JVBaseball"
 categories: [event, baseball]
 featured: false
+description: "Explore photos from the Lafayette High School JV baseball game against Jackson held on April 23rd, 2022."
 ---
-
 Photos from the Lafayette High School JV Baseball game against Jackson on April 23rd, 2022 (2nd game of 2)
 
 [Click here to Purchase Photos](https://photos.rainbowmarks.com/2022/Baseball/Lafayette-JV-4-23-2022)

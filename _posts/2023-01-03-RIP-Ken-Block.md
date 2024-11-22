@@ -19,6 +19,7 @@ gallery:
   - image_path: /img/posts/2023/KenBlock/KenBlock-2.jpg
     image-caption: Ken Block at the Rally in the 100 Acre Wood
     image-copyright: RainbowMarks.com
+description: ""Remembering Ken Block, who tragically passed away in a snowmobile accident. Cherish memories from 2022 100 Acre Wood Rally.""
 ---
 Sad news in the automotive world today. Ken Block has passed away from a snowmobile accident in Utah.
 

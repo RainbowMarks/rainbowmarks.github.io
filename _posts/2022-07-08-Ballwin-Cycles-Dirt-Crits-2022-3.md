@@ -13,8 +13,8 @@ featured: false
 
 redirect_from: 
   - "Events/2022/06/BallwinCyclesDirtCrits2022-3"
+description: "Recap of the 2nd Ballwin Cycles Dirt Crits event in Valley Park on July 7th, 2022. Don't miss our pictures, available for purchase."
 ---
-
 Ballwin Cycles Dirt Crits from 2 Timing Guys, second event down in Valley Park on July 7th, 2022
 
 [You can find these on our Facebook page](https://www.facebook.com/media/set/?vanity=rainbowmarksphoto&set=a.2662296380570538)

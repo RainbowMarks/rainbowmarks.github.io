@@ -9,8 +9,8 @@ permalink: "Events/2019/12/chesterfield-hockey-6u-inaugural-holiday-classic"
 header-img: "/img/posts/2019MiniMiteHolidayClassicDay300.jpg"
 
 categories: [hockey,event]
+description: "Explore captivating shots from the 2019 Mini Mite Holiday Classic held by Chesterfield Hockey Association, captured by RainbowMarks."
 ---
-
 The weekend after Christmas 2019 the Chesterfield Hockey Association held the first Mini Mite Holiday Classic at the Maryville University Hockey Center in Chesterfield, Missouri. RainbowMarks was there shooting, here are some of those shots!
 
 If you&#39;re interested in purchasing the photos,&nbsp;<a href="/Purchase">check out our Purchase page for more details.</a>

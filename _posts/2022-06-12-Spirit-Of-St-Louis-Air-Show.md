@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/AirShows/6-11-2022/AirShow-1.jpg"
 permalink: "Events/2022/06/SpiritAirShow"
 categories: [event, airshow, air show, st louis, missouri, fighter, jet ]
 featured: false
+description: "Explore over 150 captivating photos from the Spirit of St. Louis Air Show and purchase your favourite prints."
 ---
-
 I've always been a big air show fan, and love getting out to take pictures!
 
 ## View the Gallery of Spirit of St. Louis Air Show Pictures
@@ -23,4 +23,3 @@ You can check out the [Spirit Of St Louis Air Show Pictures](https://photos.rain
 From there you can purchase a number of different print options. [We are fond of the 20"x30" Acryllic Prints](https://photos.rainbowmarks.com/2022/Air-Shows/Spirit-Of-St-Louis-Air-Show-2022/Saturday/i-qGcxWFr/buy)!
 
 <iframe src="https://photos.rainbowmarks.com/frame/slideshow?key=wZm9gL&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
-

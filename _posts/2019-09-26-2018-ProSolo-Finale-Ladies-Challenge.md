@@ -9,7 +9,7 @@ permalink: "Events/2019/09/2018-ProSolo-Finale-Ladies-Challenge"
 header-img: "/img/posts/ProLadies2018.jpg"
 
 categories: [autocross,event]
-
+description: "Dive into the exhilarating Ladies Challenge at the 2018 SCCA ProSolo Finale, featuring over 300 photos of the thrilling race day."
 ---
 Shots from the Ladies Challenge at the 2018 SCCA ProSolo Finale in Lincoln Nebraska on Sunday September 2nd, 2018.
 

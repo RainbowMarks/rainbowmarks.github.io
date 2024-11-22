@@ -43,7 +43,7 @@ gallery:
   - image_path: /img/posts/2024/october/NorthernLights/NorthernLights10-10-10.jpg
     image-caption: "Northern Lights over eastern Missouri, October 10th, 2024"
     image-copyright: Copyright 2024 RainbowMarks.com
-
+description: "See the breathtaking Northern Lights captured by our blogger with a Canon R5. Experience the photographic journey and enjoy the stunning timelapse!"
 ---
 [Yesterday I posted about how to take photos of the Northern Lights](/Blog/2024/10/how-to-photograph-the-northern-lights), here are the results of my own process.
 

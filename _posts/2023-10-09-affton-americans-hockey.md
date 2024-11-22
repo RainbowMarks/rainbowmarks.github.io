@@ -41,7 +41,7 @@ gallery:
   - image_path: /img/posts/2023/Hockey/10-8-2023/10-8-2023-9.jpg
     image-caption: Affton Americans Ice Hockey Photos
     image-copyright: Copyright 2023 RainbowMarks.com
-
+description: "Recap of the 10U A1 Squirt Hockey match between Affton Americans and Chesterfield Falcons with Chesterfield celebrating their first seasonal win."
 ---
 **Game Summary: Affton Americans vs. Chesterfield Falcons (10U A1 Squirt Hockey Match on 10/8/2023)**
 

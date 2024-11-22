@@ -44,6 +44,7 @@ gallery:
   - image_path: /img/posts/2023/Hockey/10-7-2023/10-7-2023-10.jpg
     image-caption: St. Peters Ice Hockey Photos
     image-copyright: Copyright 2023 RainbowMarks.com
+description: "Experience the electrifying 10U A1 Squirt Hockey Match between St. Peters Hockey and Chesterfield Falcons, filled with talent, grit, and drama."
 ---
 ## Game Summary: St. Peters Hockey vs Chesterfield Falcons (10U A1 Squirt Hockey Match)
 

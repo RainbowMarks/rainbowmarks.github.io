@@ -71,6 +71,7 @@ gallery:
   - image_path: /img/posts/2023/MR340/gallery/BlogPost-19.jpg
     image-caption: 2023 Missouri River 340 Photo
     image-copyright: Copyright 2023 RainbowMarks.com
+description: "Discover stunning photos from the 2023 Missouri River Relief MR340 event, captured amidst unpredictable weather. Enjoy the action-rich river race."
 ---
 [The 2023 Missouri River Relief MR340 Event Photos are now available](https://photos.rainbowmarks.com/2023/Watersports/MR340)!
 

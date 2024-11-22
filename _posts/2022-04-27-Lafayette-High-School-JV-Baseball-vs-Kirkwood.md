@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/Baseball/4-26-2022/4-26-2022Team-18.jpg"
 permalink: "Events/2022/04/April26JVBaseball"
 categories: [event, baseball]
 featured: false
+description: "Check out the stunning photos from the Lafayette High School JV Baseball game against Kirkwood held on April 26th, 2022."
 ---
-
 Photos from the Lafayette High School JV Baseball game against Kirkwood on April 26th, 2022
 
 [Click here to Purchase Photos](https://photos.rainbowmarks.com/2022/Baseball/Lafayette-JV-4-26-2022)

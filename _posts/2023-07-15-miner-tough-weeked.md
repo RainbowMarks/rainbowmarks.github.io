@@ -12,7 +12,7 @@ categories: [event, race, trail, run, mtb, mountain bike]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Miner-Tough-Weekend
-
+description: "Recap of the 2023 Miner Tough Weekend covering the Leadbelt races in St. Joe State Park, Missouri. Grab your free photo downloads now!"
 ---
 Year three of shooting the Miner Tough weekend down in St. Joe State Park here in Missouri kicked off with Run The Leadbelt on Saturday July 15th, 2023, followed by the Leadbelt XC Mountain Bike Race on Sunday July 16th.
 
@@ -21,5 +21,3 @@ This year the event chose to have our photo services available for everyone to h
 If you would like you can order prints from our URL above, or you can download the photos and print elsewhere, up to you.
 
 A big thanks to the event organizers for having us out again this year!
-
-

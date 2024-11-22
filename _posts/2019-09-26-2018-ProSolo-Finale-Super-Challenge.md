@@ -9,6 +9,7 @@ permalink: "Events/2019/09/2018-ProSolo-Finale-Super-Challenge"
 header-img: "/img/posts/ProFinale2018.jpg"
 
 categories: [autocross,event]
+description: "Explore 436 photos from the exciting Super Challenge at the 2018 SCCA ProSolo Finale in Lincoln, Nebraska."
 ---
 Shots from the Super Challenge at the 2018 SCCA ProSolo Finale in Lincoln Nebraska on Sunday September 2nd, 2018.
 

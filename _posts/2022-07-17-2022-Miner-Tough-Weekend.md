@@ -10,9 +10,8 @@ header-img: "/img/posts/2022/Bikes/MinerTough/MinerTough-1.jpg"
 permalink: "Events/2022/07/MinerToughWeekend"
 categories: [event, bike, race, dirt, run, mtb, mountain bike]
 featured: false
-
+description: "Relive the 2022 Miner Tough Weekend with our photo slideshows from the Run the Leadbelt and Leadbelt XC events."
 ---
-
 The 2022 Miner Tough Weekend occurred July 16th and 17th down at St. Joe State Park near Park Hills, Missouri.
 
 [Download/Purchase Photos](https://photos.rainbowmarks.com/event/2022-Miner-Tough)

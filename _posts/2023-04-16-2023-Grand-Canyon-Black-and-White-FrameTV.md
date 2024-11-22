@@ -41,6 +41,7 @@ gallery:
   - image_path: /img/posts/2023/GrandCanyonBW/GrandCanyonBW-6-inset.jpg
     image-caption: Black and White photo of the snow covered Grand Canyon inset into a Samsung Frame TV
     image-copyright: Copyright 2023 RainbowMarks.com
+description: "Explore and purchase custom photography for your Samsung Frame TV, starting with striking black and white Grand Canyon images."
 ---
 Recently I had my eyes opened up to the wonder of the Samsung Frame TV. If you have a Frame TV you can use it as a picture frame, either pulling in art work from Samsung (with a monthly subscription) or by providing your own digital files for use as display pieces on the device.
 
@@ -53,5 +54,3 @@ You can see some of the photos in the gallery here on this page, if you are inte
 If you're interested in purchasing any of these photos as prints instead of digital downloads, [you can find them over on this gallery](https://photos.rainbowmarks.com/Landscapes/Grand-Canyon/January-2023-BW/).
 
 Stay tuned as we create more custom art for the Samsung Frame TV in future galleries and posts.
-
-

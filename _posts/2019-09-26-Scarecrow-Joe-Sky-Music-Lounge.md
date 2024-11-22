@@ -7,7 +7,7 @@ image: "/img/posts/ScarecrowJoe2018.jpg"
 date: '2019-09-26T16:53:37+00:00'
 permalink: "Events/2019/09/Scarecrow-Joe-Sky-Music-Lounge"
 header-img: "/img/posts/ScarecrowJoe2018.jpg"
-
+description: "Explore RainbowMarks' stunning photography from their debut music show at Sky Music Lounge on February 23, 2019."
 ---
 RainbowMarks was asked to shoot our first music show on February 23rd, 2019 at the Sky Music Lounge. We think the photos of this excellent venue turned out great and look forward to getting to shoot more shows there!
 

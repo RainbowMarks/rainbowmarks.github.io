@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/Blues/BluesVsKracken-2.jpg"
 permalink: "Events/2022/01/Chesterfield-Hockey-At-St-Louis-Blues"
 categories: [event, hockey, tournament, usa-hockey, ice, nhl, blues]
 featured: false
+description: "Relive the Chesterfield Falcons 8U White 1 team's special moment of playing at the Enterprise Center during the Blues VS Kraken game."
 ---
-
 The Chesterfield Falcons 8U White 1 team had the opportunity to play at the Enterprise Center during the first ever Blues VS Kraken game on January 13, 2022.
 
 ## [Purchase Photos Here](https://photos.rainbowmarks.com/2022/Hockey/St-Louis-Blues-1-13-2022)

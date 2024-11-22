@@ -10,7 +10,7 @@ header-img: "/img/posts/2023/Falcons/2-12-2023-41.jpg"
 permalink: "Events/2023/02/Falcons-vs-St-Peters"
 categories: [news, hockey, event]
 featured: false
-
+description: "Revisit the Chesterfield Falcons' final regular season game of 22/23, where they triumphed over St. Peter's with a 2-1 victory."
 ---
 On Sunday February 12th, 2023, the Chesterfield Falcons had their final regular season game of the 22/23 season. They played St. Peters B1 at Pacific Ice Rink. Going into the game the Falcons were 10-2-3 vs St Peter's at 12-2-0. The Falcons came out on top with a 2-1 victory.
 

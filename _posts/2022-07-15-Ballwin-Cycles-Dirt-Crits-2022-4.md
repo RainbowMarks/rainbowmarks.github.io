@@ -10,9 +10,8 @@ header-img: "/img/posts/2022/Bikes/DirtCrits4/DirtCrits4-1.jpg"
 permalink: "Events/2022/07/BallwinCyclesDirtCrits2022-4"
 categories: [event, bike, race, dirt]
 featured: false
-
+description: "Explore the Ballwin Cycles Dirt Crits event photos from July 14, 2022. Purchase digital downloads or order prints today!"
 ---
-
 Ballwin Cycles Dirt Crits from 2 Timing Guys, second event down in Valley Park on July 14th, 2022
 
 You can purchase digital downloads without watermarks, or you can also order prints:

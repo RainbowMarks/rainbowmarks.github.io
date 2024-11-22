@@ -49,6 +49,7 @@ gallery:
   - image_path: /img/posts/2023/Bikes/bikeracephotos/bikeracephotos-11.jpg
     image-caption: Unbound Gravel 2021 - Emporia, KS
     image-copyright: Copyright 2023 RainbowMarks.com
+description: "Explore the dynamic world of bicycle race photography with a seasoned St. Louis photographer, capturing unique stories of human resilience and sportin..."
 ---
 As a seasoned photographer specializing in dynamic sports coverage in the bustling city of St. Louis, there's a particular subject that never ceases to spark excitement in my camera lens and my creative soul: bicycle race photography. For over 20 years I have had the honor of immersing myself in the whir of wheels and the spirited determination of racers, capturing these intense moments and converting them into breathtaking bike racing photos.
 
@@ -78,5 +79,3 @@ So whether you're a racer, a supporter, or an event organizer, I invite you to e
 
 Together, we can immortalize the power, the passion, and the thrill of cycling races, one photo at a time.
 [Book Today](https://cjh.am/rbmcontact)
-
-

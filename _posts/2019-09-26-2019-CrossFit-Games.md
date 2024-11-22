@@ -9,8 +9,8 @@ permalink: "Events/2019/09/2019-CrossFit-Games"
 header-img: "/img/posts/CrossFitGames2019.jpg"
 
 categories: [crossfit,event]
+description: "Explore RainbowMarks' extensive gallery from the 2019 CrossFit Games, featuring photos of the world's fittest athletes in action."
 ---
-
 One of the coolest things RainbowMarks has ever done was attend and shoot the 2019 CrossFit Games in Madison Wisconsin. We had received press credentials, so our access to the games was absolutely amazing.
 
 We have posted nearly 2,000 photos from the CrossFit Games, featuring the fittest athletes from all over the world.

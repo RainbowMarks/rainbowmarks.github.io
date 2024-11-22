@@ -10,6 +10,7 @@ header-img: "/img/posts/2022/ICCChallenge/ICCChallenge-9.jpg"
 permalink: "Events/2022/08/August-14-2022-ICC-Challenge-Mountain-Bike-Race"
 categories: [bike, event, mtb, race]
 featured: false
+description: "Check out this blog post for photos from the ICC Challenge Mountain Bike Race at Indian Camp Creek park. Find, view and purchase your shots!"
 ---
 For the second year in a row I was out at Indian Camp Creek park for the ICC Challenge Mountain Bike Race. I tried to get a shot of everyone, I likely missed at least a few folks (big hitters and the e-bike class), but I've posted almost four thousand photos.
 

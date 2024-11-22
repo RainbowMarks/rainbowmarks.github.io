@@ -43,6 +43,7 @@ gallery:
   - image_path: /img/posts/2023/CrossFit/CrossFit-10.jpg
     image-caption: St. Louis CrossFit Photos
     image-copyright: Copyright 2023 RainbowMarks.com
+description: "Explore the vibrance and intensity of CrossFit competitions through the expert lens of RainbowMarks Photography, where each photo is an emotion, a mem..."
 ---
 Welcome to RainbowMarks Photography, where passion meets prowess! If you're seeking exceptional photography that vibrates with the spirit and intensity of CrossFit competitions, then you're in the right place. We've been at the heart of the action, capturing athletes in their finest moments, defying gravity and showcasing the very essence of determination.
 

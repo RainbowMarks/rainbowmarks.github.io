@@ -10,7 +10,7 @@ header-img: "/img/posts/2023/Knights/Knights-1.jpg"
 permalink: "Events/2023/01/Knights-vs-Blues"
 categories: [news, hockey, event]
 featured: false
-
+description: "Experience the thrilling 4-3 victory of the St Louis Knights over the Chicago Blues in a 2023 squirt hockey match. Browse the gallery."
 ---
 On Sunday January 29th, 2023, the St Louis Knights (2013 squirts) played the Chicago Blues at Maryville University Ice Center. The Knights came out on top with a 4-3 victory.
 

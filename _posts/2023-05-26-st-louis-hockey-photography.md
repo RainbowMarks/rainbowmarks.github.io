@@ -30,6 +30,7 @@ gallery:
   - image_path: /img/posts/2023/Hockey/stlhockey/stlhockey-5.jpg
     image-caption: St. Louis Hockey Photos
     image-copyright: Copyright 2023 RainbowMarks.com
+description: "Capture the thrill of St. Louis hockey with professional photography services. Relive every goal celebration and intense face-off in high-quality phot..."
 ---
 Updated October 2023: [Check Out Our One Game Hockey Photo Package](https://rainbowmarks.com/events/hockey/)
 
@@ -64,6 +65,3 @@ Together, we can immortalize the intensity, the passion, and the spirit of St. L
 [Book Today](https://cjh.am/rbmcontact)
 
 [See some of the thousands of Hockey Photos we have taken over the years](https://photos.rainbowmarks.com/search#q=hockey)
-
-
-

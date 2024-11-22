@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/Gymnastics/StLouisClassic-90.jpg"
 permalink: "Events/2022/02/StLouisClassicGymnastics"
 categories: [event, gymnastics]
 featured: false
+description: "View photos of Olympia Ellisville Excel Silver's performance at the St. Louis Classic Gymnastics Competition."
 ---
-
 Photos from Olympia Ellisville Excel Silver competing at the St. Louis Classic Gymnastics Competition at America's Center are posted.
 
 [Click here to Purchase Photos](https://photos.rainbowmarks.com/2022/Gymnastics/StLouisClassic2022/)

@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/AprilChesterfieldJamboree/AprilChesterfieldJamboree
 permalink: "Events/2022/04/AprilChesterfieldJamboree"
 categories: [event, hockey]
 featured: false
+description: "Check out event photos from the 8U Spring 2022 Jamboree featuring games with Chesterfield Falcons and other teams."
 ---
-
 Photos from final event of the 2021-2022 Season at the 8U Spring 2022 Jamboree are posted!
 
 The photos are from the games with Chesterfield Falcons - McCarthy, teams they played were from Kirkwood, Rockets, St. Peters and another Chesterfield team as well.

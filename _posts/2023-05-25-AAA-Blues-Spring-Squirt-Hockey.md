@@ -57,11 +57,10 @@ gallery:
   - image_path: /img/posts/2023/Hockey/5-23-2023/5-23-2023-13.jpg
     image-caption: Team 1 vs Team 4 5/23/2023
     image-copyright: Copyright 2023 RainbowMarks.com
-
+description: "Explore captivating photos from the AAA St. Louis Blues 10u spring hockey program's 5/23/2023 game and season highlights."
 ---
 My son has had the pleasure of playing with the AAA St. Louis Blues spring hockey program with Team 1 (Navy Blue) of the 6 team Squirt group. They have had lots of great ice team this spring, getting to skate with some of the best 10u ice hockey players in the St. Louis region.
 
 As their season wraps up here are some photos from their 5/23/2023 game against Team 4 (Orange).
 
 [All the photos from games I shot can be found here](https://photos.rainbowmarks.com/2023/Hockey/Spring-AAA-Blues-10U).
-

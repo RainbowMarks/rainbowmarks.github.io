@@ -17,7 +17,7 @@ gallery:
   - image_path: /img/posts/2023/100aw/Stage3-11.jpg
     image-caption: Semenuk and Williams in Subaru STI
     image-copyright: Copyright 2023 RainbowMarks.com
-
+description: "Explore stunning photos from the 2023 Rally in 100 Acre Wood. Purchase digital downloads and prints from various exciting stages of the event."
 ---
 I had a great time volunteering at the 2023 Rally in the 100 Acre Wood last weekend. I ended up getting to shoot on 6 different stages over two days down near Potosi and Salem Missouri.
 
@@ -55,6 +55,3 @@ I took almost 8k photos and have posted the best ones for your viewing pleasure.
   </div>
   </div>
 </div>
-
-
-

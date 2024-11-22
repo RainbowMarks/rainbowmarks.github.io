@@ -11,7 +11,7 @@ categories: [music, band, rock, missouri, event]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2023/Music/The-Side-Hustle-Sky-Music-Lounge-August-2023/
-
+description: "Explore my photo shoot experience with the band, The Side Hustle, at The Sky Music Lounge taken on August 18th."
 ---
 Friday night August 18th I had the pleasure of shooting a buddy's band, The Side Hustle at The Sky Music Lounge. Here are some of those shots:
 

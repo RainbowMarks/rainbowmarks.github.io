@@ -10,8 +10,8 @@ header-img: "/img/posts/2022/Lacrosse/4-26-2022/4-26-2022-24.jpg"
 permalink: "Events/2022/04/April26Lacrosse"
 categories: [event, lacrosse]
 featured: false
+description: "Browse through the vibrant pictures from Lafayette High School Girl's Lacrosse Senior Night against Parkway West."
 ---
-
 Photos-from the Lafayette High School Girl's Lacrosse, Senior Night, vs Parkway West
 
 [Click here to Purchase Photos](https://photos.rainbowmarks.com/2022/Lacrosse/Lafayette-Girls-4-26-2022)

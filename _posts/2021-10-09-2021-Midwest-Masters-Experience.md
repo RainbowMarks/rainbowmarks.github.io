@@ -10,8 +10,8 @@ header-img: "/img/posts/2021/MWME/Overall-6.jpg"
 permalink: "Events/2021/10/MidwestMastersExperience"
 categories: [event, crossfit, competition]
 featured: false
+description: "Explore captivating photos from the Midwest Masters Experience CrossFit event. Free digital downloads available with password."
 ---
-
 This weekend I shot my first CrossFit competition since the [2019 CrossFit Games](https://photos.rainbowmarks.com/CrossFit/2019-CrossFit-Games). I was asked to come out to CrossFit Wildwood to shoot the Midwest Masters Experience event. The event was great, with 60+ teams out there, all of the entrants 35+ (I believe) with the oldest being 72.
 
 [View the Galleries Here](https://photos.rainbowmarks.com/2021/2021-Midwest-Masters-Experience)

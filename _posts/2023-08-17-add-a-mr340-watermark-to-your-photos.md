@@ -10,6 +10,7 @@ permalink: "Events/2023/08/PHOTOMARK/"
 categories: [event, race, paddle, boat, MR340, river, missouri ]
 featured: false
 includegallery: false
+description: "Discover how to add the MR340 logo to your event photos with PhotoMark.co's new feature. Upload, choose a logo, and download!"
 ---
 ## PhotoMark.co has gone into hybernation as of 9/30/2023. It may be revived again in the future.
 
