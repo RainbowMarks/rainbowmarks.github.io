@@ -9,7 +9,7 @@ date: '2024-10-10T10:21:49+00:00'
 permalink: "Blog/2024/10/how-to-photograph-the-northern-lights"
 header-img: "/img/posts/2024/october/OldNorthernLights/OldNorthernLights-1.jpg"
 categories: [ night sky, space, astro ]
-featured: true
+featured: false
 includegallery: false
 gallery:
   OldNorthernLights:
