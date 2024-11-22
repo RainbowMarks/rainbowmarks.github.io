@@ -6,10 +6,9 @@ active: "blog"
 image: "/img/posts/TheGrove2018.jpg"
 date: "2019-09-24T18:23:48+00:00"
 header-img: "/img/posts/TheGrove2018.jpg"
-
 permalink: "Events/2019/09/The-Grove-Criterium-2018"
 categories: [bicycle,event]
-description: "Explore stunning photos from the 2018 "The Grove" criterium in St. Louis, a testament to the dynamic world of bicycle racing."
+description: "Explore stunning photos from the 2018 'The Grove' criterium in St. Louis, a testament to the dynamic world of bicycle racing."
 ---
 In August of 2018 I went down to &quot;The Grove&quot; here in St. Louis and shot a criterium (bicycle race). Check out some of the shots from that event. I started taking photos at bike races many years ago, and have shot them in Missouri, Colorado and California. They defintely create some of the coolest photos, I hope to shoot more in the future.
 

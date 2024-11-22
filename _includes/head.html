@@ -29,13 +29,19 @@
     <meta property="og:type" content="article" />
     {% endif %}
     <meta property="og:title" content="{{ page.title }}" />
-    {% if page.description %}
+
+    {% if page.type == "category" %}
+    <meta property="og:description" content="Explore posts in the {{ page.title }} category on {{ site.title }}." />
+    <meta name="description" content="Explore posts in the {{ page.title }} category on {{ site.title }}.">
+    {% elsif page.description %}
     <meta property="og:description" content="{{ page.description }}" />
     <meta name="description" content="{{ page.description }}">
     {% else %}
     <meta property="og:description" content="{{ site.description }}" />
     <meta name="description" content="{{ site.description }}">
-    {% endif %}       
+    {% endif %}
+
+
     <meta name="keywords" content="{{ page.keywords }}">
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">

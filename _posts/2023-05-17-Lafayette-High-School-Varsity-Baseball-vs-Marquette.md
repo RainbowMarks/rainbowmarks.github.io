@@ -33,7 +33,7 @@ gallery:
   - image_path: /img/posts/2023/Baseball/5-17-2023/5-17-2023-6.jpg
     image-caption: Lafayette VS Marquette Section 6 Playoffs
     image-copyright: Copyright 2023 RainbowMarks.com
-description: ""Relive Lafayette High's 3-1 victory over Marquette in Class 6 District 2 playoffs with our range of watermark-free photos, available for purchase.""
+description: "Relive Lafayette High's 3-1 victory over Marquette in Class 6 District 2 playoffs with our range of watermark-free photos, available for purchase."
 ---
 Photos from the Lafayette High School Varsity Baseball game against Marquette in the Class 6 District 2 playoffs on May 17th, 2023
 
