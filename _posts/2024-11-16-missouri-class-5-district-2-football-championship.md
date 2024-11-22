@@ -2,10 +2,11 @@
 layout: "post"
 title: "Missouri Class 5 District 2 Football Championship 2024"
 subtitle: "Lafayette Lancers versus the Washington Bluejays"
+description: "Friday night lights high school football photos with Lafayette High School Lancers versus the Washington High School (Missouri) Bluejays"
 active: "blog"
 image:  "/img/posts/2024/november/football/LafayetteVSWashington-1.jpg"
 date: '2024-11-16T20:30:49+00:00'
-#last_modified_at: '2024-10-10T08:21:49+00:00'
+last_modified_at: '2024-11-22T11:08:49+00:00'
 permalink: "Blog/2024/11/missouri-class5-district2-football"
 header-img: "/img/posts/2024/november/football/LafayetteVSWashington-1.jpg"
 categories: [ team, football, championship, lafayette ]
