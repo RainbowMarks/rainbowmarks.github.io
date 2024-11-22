@@ -11,7 +11,7 @@ categories: [ hockey ]
 featured: false
 includegallery: false
 galleryurl: 
-description: "Custom hockey photography for the Blue Note Cup"
+description: "Custom hockey photography for the 2024 Blue Note Cup ice hockey event held in February/March 2024"
 keywords: "Missouri, Ice Hockey, Blue Note Cup"
 ---
 ## 📸 Book Your Game Today!

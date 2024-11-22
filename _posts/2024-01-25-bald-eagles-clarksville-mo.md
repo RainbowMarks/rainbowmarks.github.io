@@ -11,7 +11,7 @@ categories: [ wildlife, nature, bald eagles]
 featured: false
 includegallery: false
 galleryurl: 
-description: ""
+description: "In January 2024 I visited Clarksville Missouri, right along the Mississippi River, to photograph bald eagles!"
 keywords: "Missouri, Bald Eagle, Eagles, River, Winter, Freeze, Frozen, Fish, Wildlife"
 
 gallery:
