@@ -10,7 +10,7 @@ header-img: "/img/posts/2024/september/nationals/Nationals-1.jpg"
 
 permalink: "Events/2024/09/SoloNationalsGallery/"
 categories: [event, race, car, solo, autocross]
-featured: true
+featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Autocross/2024-Solo-National-Championships
 
