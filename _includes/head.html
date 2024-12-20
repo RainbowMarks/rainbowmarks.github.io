@@ -31,8 +31,8 @@
     <meta property="og:title" content="{{ page.title }}" />
 
     {% if page.type == "category" %}
-    <meta property="og:description" content="Explore posts in the {{ page.title }} category on {{ site.title }}." />
-    <meta name="description" content="Explore posts in the {{ page.title }} category on {{ site.title }}.">
+    <meta property="og:description" content="Explore posts in the {{ page.title }} category on {{ site.title }}. {{ site.description }}" />
+    <meta name="description" content="Explore posts in the {{ page.title }} category on {{ site.title }}. {{ site.description }}">
     {% elsif page.description %}
     <meta property="og:description" content="{{ page.description }}" />
     <meta name="description" content="{{ page.description }}">
