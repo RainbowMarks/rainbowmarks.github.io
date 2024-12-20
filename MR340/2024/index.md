@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MR340 - 2024 Missouri River 340 Photos"
-description: "Pictures from the American Water Missouri River 340 are online!"
+description: "Pictures from the American Water Missouri River 340 are online! Come and purchase your photos today! Get digital or physical prints!"
 active: mr340
 header-img: "img/posts/2024/mr340/GroupStart-1.jpg"
 image: "img/posts/2024/mr340/GroupStart-1.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "More about RainbowMarks Photography and Chris Hammond"
+description: "More about RainbowMarks Photography and Chris Hammond. Please don't hesitate to reach out to us if you have any questions!"
 active: about
 header-img: "img/slider/home03.jpg"
 image: "img/slider/home03.jpg"

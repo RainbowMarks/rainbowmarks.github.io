@@ -11,9 +11,9 @@ categories: [ space, rocket, launch]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/SpaceX-Falcon-9-PACE-Launch
-description: "With a tour of Mission Control!"
+description: "A review of our visit to Cape Canaveral to watch the Falcon 9 PACE launch with a tour of Mission Control!"
 keywords: "NASA, PACE, SpaceX, Falcon 9"
-
+last_modified_at: '2024-12-20T11:00:49+00:00'
 gallery:
   BaldEaglesClarksville:
   - image_path: /img/posts/2024/space/nasapace/PACELaunch-1.jpg

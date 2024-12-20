@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Capture the Thrill of St. Louis Lacrosse with RainbowMarks Photography 📸"
-description: "Have us shoot your Lacrosse game around the St. Louis Region!"
+description: "Have us shoot your Lacrosse game around the St. Louis Region! Please check out some of our previous work and reach out to get started!"
 keywords: "St. Louis lacrosse photography, Lacrosse photographers in St. Louis, Sports photography St. Louis, Lacrosse action shots, St. Louis youth sports photography, Professional lacrosse photos, St. Louis game photography, RainbowMarks lacrosse photos, High-quality lacrosse pictures, Affordable lacrosse photography St. Louis"
 active: "events"
 header-img: "/img/LacrosseEvents-1.jpg"

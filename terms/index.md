@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Terms"
-description: "Privacy Policy, Terms of Service and Copyright Information"
+description: "Privacy Policy, Terms of Service and Copyright Information from RainbowMarks Photography."
 active: Terms
 header-img: "img/journal/BayBridge-1.jpg"
 redirect_from: 

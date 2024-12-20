@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Purchasing RainbowMarks Photography"
-description: "Learn more about purchasing our work"
+description: "Learn more about purchasing photos and other artwork from RainbowMarks Photography. We provide a number of different formats that you can choose from when purchasing."
 active: purchase
 header-img: "img/journal/NeowiseComet7-18-2020-5.jpg"
 redirect_from: 

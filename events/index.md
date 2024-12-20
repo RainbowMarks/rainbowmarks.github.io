@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "St. Louis Missouri Event Photographer / Photography"
-description: "Have us shoot your events around the St. Louis Region!"
+description: "Have us shoot your events around the St. Louis Region! This events page will show you some information about the types of events we can photograph."
 keywords: "Photographer, Photography, Saint Louis, St. Louis, STL, Event, Event Photos, Races, Bike Race, Car Race, Car Racing, Automotive"
 active: "events"
 header-img: "/img/Events-3.jpg"
