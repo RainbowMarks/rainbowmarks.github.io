@@ -11,7 +11,7 @@ categories: [events, bookings, book, digital, downloads, packages]
 featured: false
 includegallery: false
 galleryurl: 
-description: "Book RainbowMarks Photography for your 2024 events in the Midwest. Specializing in dynamic event photography in Wildwood, MO, and the St. Louis area. Covering sports, races, and more with flexible packages. Capture your memories in stunning detail!"
+description: "Book RainbowMarks Photography for your 2024 events in the Midwest. Capture your memories in stunning detail!"
 keywords: "RainbowMarks Photography, Event Photography Wildwood MO, Professional Photographers St. Louis, Sports Event Photography, 2024 Event Booking, Missouri River Paddle Race Photos, Miner Tough Photography, Unbound Gravel Emporia KS, Digital and Print Photo Services, Midwest Event Photography Packages"
 ---
 Are you planning an event in 2024 around Wildwood, Missouri, or in the broader St. Louis area? Looking for a professional photography service that captures the essence of your special moments? Look no further than **RainbowMarks Photography**, a leader in **event photography in Wildwood, MO**.

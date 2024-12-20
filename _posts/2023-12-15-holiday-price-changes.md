@@ -12,7 +12,7 @@ categories: [sale, holiday, christmas, prints, physical, digital]
 featured: false
 includegallery: false
 galleryurl: 
-description: "Discover RainbowMarks Photography's special offers for 2024! Enjoy 30% off on a variety of physical items including prints, frames, and more. Explore our new digital download options for social media, perfect for capturing your special moments. Book your 2024 event now and benefit from early booking discounts. Quality photography meets affordability!"
+description: "Explore our new digital download options for social media, perfect for capturing your special moments. Book your 2024 event now and benefit from early booking discounts. "
 keywords: "RainbowMarks Photography, photography deals, event photography sale, photography discount codes, professional photo prints, digital photo downloads, exclusive photography offers, 2023 event highlights, photography specials, holiday"
 ---
 Coming into 2024, we're making some changes! We've reduced our pricing for physical items (prints, frames, metal, acrylic, canvas, mugs, etc.) by up to 30%! We plan to keep these prices for the foreseeable future!
