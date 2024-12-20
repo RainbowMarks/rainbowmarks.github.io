@@ -11,7 +11,7 @@ categories: [events, hockey, games]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Hockey/23-24-Falcons-10U-A1
-description: "Explore comprehensive game summaries of the Chesterfield Falcons 10UA1's exciting weekend at the Maryville University Hockey Center. Discover how they tied 6-6 with the Kirkwood Stars in a dramatic improvement from past matchups, and read about their strategic 4-1 victory over the Affton All-Americans, showcasing resilience and skill in youth ice hockey"
+description: "Comprehensive game summaries of the Chesterfield Falcons 10UA1's exciting weekend at the Maryville University Hockey Center. Discover how they tied 6-6 with the Kirkwood Stars in a dramatic improvement from past matchups"
 keywords: "Chesterfield Falcons 10UA1, Kirkwood Stars 10UA1, Affton All-Americans 10UA1, Youth Ice Hockey, Maryville University Hockey Center, Game Summaries, Youth Sports, Competitive Hockey, Sportsmanship, Team Resilience, Athletic Improvement, Ice Hockey Strategy, Youth Hockey Games, Shanahan Rink, Hockey Match Highlights"
 
 gallery:
