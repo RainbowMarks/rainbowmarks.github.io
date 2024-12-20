@@ -31,11 +31,11 @@
 
 		<meta
 			property="og:description"
-			content="Our blog contains the latest events we've shot, along with promotions and other photography topics!"
+			content="Our blog contains the latest events we've shot, along with promotions and other photography topics! Please read along and enjoy our work!"
 		/>
 		<meta
 			name="description"
-			content="Our blog contains the latest events we've shot, along with promotions and other photography topics!"
+			content="Our blog contains the latest events we've shot, along with promotions and other photography topics! Please read along and enjoy our work!"
 		/>
 
 		<meta name="keywords" content="" />
@@ -48,7 +48,7 @@
 		/>
 		<meta
 			name="twitter:description"
-			content="Our blog contains the latest events we've shot, along with promotions and other photography topics!"
+			content="Our blog contains the latest events we've shot, along with promotions and other photography topics! Please read along and enjoy our work!"
 		/>
 		<meta
 			name="twitter:image"
@@ -73,7 +73,7 @@
 		<link rel="stylesheet" href="/css/WYSIWYG.css" media="screen" />
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/galleries.css" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1734733843" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1734734076" />
 		<link href="/css/tags-wrap.css" rel="stylesheet" />
 		<link rel="stylesheet" href="/css/journal.css" media="screen" />
 
@@ -170,7 +170,7 @@
 				"name": "Photography Blog",
 				"headline": "Photography Blog",
 				"keywords": "",
-				"description": "Our blog contains the latest events we've shot, along with promotions and other photography topics!",
+				"description": "Our blog contains the latest events we've shot, along with promotions and other photography topics! Please read along and enjoy our work!",
 				"articleBody": "{% for post in paginator.posts %}        {% assign post = site.posts.first %}        {% assign content = post.content %}                                                            {% if post.image %}                {% picture blogcrop {{ post.image }} --alt {{ post.title }} %}                {% endif %}                                  {{ post.title }}                                            {% if post.subtitle %}                              {{ post.subtitle }}              {% endif %}                              Posted on {{ post.date | date: \"%B %-d, %Y\" }}                                      {% endfor %}        &nbsp;            {% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}      &larr; Newer Posts    {% endif %}   Page {{paginator.page}} of {{paginator.total_pages}}  {% if paginator.next_page %}      Older Posts &rarr;    {% endif %}{% endif %}",
 
 				"publisher": {
@@ -316,7 +316,8 @@
 								<hr class="small" />
 								<span class="subheading"
 									>Our blog contains the latest events we've shot, along with
-									promotions and other photography topics!</span
+									promotions and other photography topics! Please read along and
+									enjoy our work!</span
 								>
 							</div>
 						</div>
