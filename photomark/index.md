@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PhotoMark.CO - Photo Marking and Sharing for Events"
-description: "More information about PhotoMark.CO"
+description: "More information about PhotoMark.CO. We build the website to add watermarks for specific events, the site is currently in retirement."
 active: about
 header-img: "img/journal/BayBridge-1.jpg"
 ---

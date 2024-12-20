@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Thank you for Purchasing from RainbowMarks Photography"
-description: "Thank You!"
+description: "Thank You for your purchase! If you have any questions or concerns please don't hestitate to reach out for assistance!"
 active: purchase
 header-img: "img/journal/NeowiseComet7-18-2020-5.jpg"
 ---
