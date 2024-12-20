@@ -2,7 +2,7 @@
 layout: "post"
 title: "Chesterfield Ice Dragons"
 subtitle: "10u Squirt Ice Hockey"
-description: "Ice Dragons hockey in Nashville Tennessee at the Music City Cup"
+description: "Follow the Chesterfield Ice Dragons 10u Squirt team's journey at the Music City Cup Hockey tournament. Check out their performance and exclusive photos here!"
 active: "blog"
 image: "/img/posts/2023/Hockey/IceDragons/Nashville-6-30-2023-17.jpg"
 date: '2023-07-02T19:20:00+00:00'

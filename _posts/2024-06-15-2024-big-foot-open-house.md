@@ -2,6 +2,7 @@
 layout: "post"
 title: "2024 Big Foot Open House"
 subtitle: "6 years later I finally made it back to the Big Foot Open House!"
+description: "Get an exclusive inside look at the 2024 Big Foot Open House in Pacific, Missouri! Explore 154 photos, car crushes, and meet the monster trucks up close."
 active: "blog"
 image: "/img/posts/2024/june/bigfootopenhouse/bigfootopenhouseblog-1.jpg"
 date: '2024-06-15T20:30:00+00:00'
@@ -11,7 +12,7 @@ categories: [ missouri, monster truck, big foot, high roller, events, automobile
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/2024-Big-Foot-Open-House
-description: "Photos from the monster truck car crush at the 2024 Big Foot Open House"
+
 keywords: "Missouri, St. Louis, Monster Truck, Big Foot, High Roller II, Ford, Dodge, Chevy "
 
 gallery:

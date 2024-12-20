@@ -2,6 +2,7 @@
 layout: "post"
 title: "St. Louis Region Autocross Photos 2024"
 subtitle: "A listing of St. Louis region autocross events with link to their photo galleries"
+description: "Explore the St. Louis Region Autocross 2024 Season with RainbowMarks Photography event galleries. View stunning photos from Event #2 and CAM Challenge."
 active: "blog"
 image: "/img/posts/2024/autocross/stlouis/Event2-6.jpg"
 date: '2024-04-22T12:30:00+00:00'
@@ -11,7 +12,7 @@ categories: [ missouri, cars, autocross, st louis, scca, automotive ]
 featured: false
 includegallery: true
 galleryurl: https://photos.rainbowmarks.com/2024/Autocross
-description: "A listing of St. Louis region autocross events with link to their photo galleries"
+
 keywords: "Missouri, St. Louis, SCCA, Autocross, Racing, "
 
 gallery:

@@ -2,7 +2,7 @@
 layout: "post"
 title: "Mountain Bike Team Photos"
 subtitle: "Custom MTB team photos for your NICA group"
-description: "Mountain bike team photo examples from the Rockwood Composite Vipers taken in October 2024"
+description: "Capture the thrill of biking with team photos from the Missouri Interscholastic Cycling League NICA. Check out the stunning gallery and book your own shoot now!"
 active: "blog"
 image:  "/img/posts/2024/october/mtb/mtb-2.jpg"
 date: '2024-10-14T14:30:49+00:00'
