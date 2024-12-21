@@ -17,7 +17,7 @@ The combination of these two events and the works produced gave me the name to u
 
 I've been taking digital photos for over 26 years and have been shooting automotive events for nearly that entire time!
 
-Do you have an [event](/events) (bike, car, running, crossfit) that you would like me to attend? [Feel free to reach out and see if schedules align](https://cjh.am/rbmcontact). 
+Do you have an [event](/events/) (bike, car, running, crossfit) that you would like me to attend? [Feel free to reach out and see if schedules align](https://cjh.am/rbmcontact). 
 
 I hope you enjoy my work!
 
