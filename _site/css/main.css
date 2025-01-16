@@ -480,7 +480,7 @@ body {
 }
 
 .container{
-  background:rgba(222,222,222,.05);
+  background:rgba(999,999,999,.25);
 }
 
 card{
@@ -527,7 +527,7 @@ card{
 
 @media only screen and (min-width: 768px) {
   .featuredcard{
-    width:45%;
+    width:48%;
     margin:.5em;
     float:left;
   }
