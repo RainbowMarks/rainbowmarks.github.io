@@ -10,7 +10,7 @@ last_modified_at: '2024-12-14T14:30:49+00:00'
 permalink: "Blog/2024/12/missouri-youth-hockey-photos"
 header-img: "/img/posts/2024/december/MoYouthHockey/MoYouthHockey-1.jpg"
 categories: [ team, missouri, hockey ]
-featured: true
+featured: false
 includegallery: true
 gallery:
   MoYouthHockey:
