@@ -1,0 +1,10 @@
+[build]
+  base = "" # Root directory of your project
+  publish = "_site" # Output directory for your Jekyll site
+  command = "bundle exec jekyll build" # Build command for Jekyll
+
+[build.environment]
+  RUBY_VERSION = "3.2.2" # Set Ruby version to match your Bundler requirements
+
+[context.production]
+  command = "bundle exec jekyll build"
