@@ -4,7 +4,7 @@
   command = "bundle exec jekyll build" # Build command for Jekyll
 
 [build.environment]
-  RUBY_VERSION = "3.1.0" # Set Ruby version to match your Bundler requirements
+  RUBY_VERSION = "3.2.2" # Set Ruby version to match your Bundler requirements
 
 [context.production]
   command = "bundle exec jekyll build"
