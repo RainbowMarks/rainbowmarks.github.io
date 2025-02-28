@@ -5,9 +5,29 @@
     <description>RainbowMarks Photography, specializing in event photography around St. Louis Missouri.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 16 Jan 2025 19:37:02 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Jan 2025 19:37:02 +0000</lastBuildDate>
-    <generator>Jekyll v4.3.4</generator>
+    <pubDate>Fri, 28 Feb 2025 17:16:55 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Feb 2025 17:16:55 +0000</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>2025 Wickenheiser Cup</title>
+        <description>&lt;p&gt;Photos from the 2025 Wickenheiser Cup where Rockwood Summit High School faced off against Parkway South High School at Centene Community Center.&lt;/p&gt;
+
+&lt;p&gt;It was a close game until midway through the third, Parkway South was up 1-0 when Rockwood Summit was able to tie it up with a goal!&lt;/p&gt;
+
+&lt;p&gt;After that however the wheels fell off the Rockwood Summit bus and Parkway South quickly put two more goals on the board to give themselves a lead and the momentum for the final few minutes of the game.&lt;/p&gt;
+
+&lt;p&gt;Congrats to both Rockwood Summit and Parkway South for the great seasons!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 28 Feb 2025 11:15:00 +0000</pubDate>
+        <link>http://localhost:4000/Events/2025/02/WickenheiserCup</link>
+        <guid isPermaLink="true">http://localhost:4000/Events/2025/02/WickenheiserCup</guid>
+        
+        
+        <category>hockey</category>
+        
+      </item>
     
       <item>
         <title>2025 St. Louis Hockey Photos</title>
@@ -422,52 +442,6 @@
         <category>solo</category>
         
         <category>autocross</category>
-        
-      </item>
-    
-      <item>
-        <title>2024 American Water Missouri River 340 Paddle Race</title>
-        <description>&lt;p&gt;📸 2024 American Water Missouri River 340 Photo Galleries Now Available! 📸&lt;/p&gt;
-
-&lt;p&gt;We’re excited to announce that the photo galleries from the 2024 American Water Missouri River 340 are now available for viewing and purchasing! Dive into the memories and relive the race through our extensive collection of photos.&lt;/p&gt;
-
-&lt;p&gt;📷 Check out the galleries here: &lt;a href=&quot;https://photos.rainbowmarks.com/2024/MR340&quot;&gt;2024 MR340 Gallery&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;🚤 For Pre-Order Customers: Use the Search feature on the gallery by boat number to easily find your photos from the race.&lt;/p&gt;
-
-&lt;p&gt;🔍 For Everyone Else: Over the next few days, I’ll be manually tagging boats I can identify. In the meantime, feel free to browse through the galleries to find your boat. &lt;em&gt;(Update, AI has made an attempt to tag every photo that had a visible number.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;🔹 Gallery Organization: Photos are organized by location and then broken into rough time windows to make it easier to find your shots.&lt;/p&gt;
-
-&lt;p&gt;💻 Photo Downloads: The easiest option for getting your race photos is through digital downloads. However, a variety of print formats are also available!&lt;/p&gt;
-
-&lt;p&gt;🎨 Custom Processing: Want custom processing, cropping, or color adjustments? This service is available for an additional cost and must be handled manually. Please reach out to rainbowmarks@christoc.com for more information.&lt;/p&gt;
-
-&lt;p&gt;🙏 Thank You: Thank you all for your patience! As a single photographer doing my best to shoot the entire race with very little sleep, if I missed you or your boat, my sincerest apologies.&lt;/p&gt;
-
-&lt;p&gt;Thank you for choosing RainbowMarks Photography to capture your 2024 MR340 memories!&lt;/p&gt;
-
-&lt;p&gt;Best,
-Chris Hammond
-RainbowMarks Photography
-🌈📸&lt;/p&gt;
-
-&lt;p&gt;#MR340 #RainbowMarksPhotography #RacePhotos #Marathon #Kayak #Canoe #Photography #RaceMemories #2024MR340&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Jul 2024 10:20:00 +0000</pubDate>
-        <link>http://localhost:4000/Events/2024/07/MR340/</link>
-        <guid isPermaLink="true">http://localhost:4000/Events/2024/07/MR340/</guid>
-        
-        
-        <category>event</category>
-        
-        <category>race</category>
-        
-        <category>boat</category>
-        
-        <category>paddle</category>
-        
-        <category>MR340</category>
         
       </item>
     

@@ -9,7 +9,7 @@ date: '2024-10-11T11:15:49+00:00'
 permalink: "Blog/2024/10/northern-lights-over-missouri"
 header-img: "/img/posts/2024/october/NorthernLights/NorthernLights10-10-1.jpg"
 categories: [ night sky, space, astro ]
-featured: true
+featured: false
 includegallery: false
 gallery:
   OldNorthernLights:
