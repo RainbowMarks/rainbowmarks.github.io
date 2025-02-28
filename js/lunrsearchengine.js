@@ -22,7 +22,7 @@ var documents = [{
     }, {
     "id": 4,
     "url": "https://rainbowmarks.com/blog/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "                                                                                 2025 Wickenheiser Cup                                      Photos from the game on February 27, 2025                       Posted on February 28, 2025                                                                                           2025 St. Louis Hockey Photos                                      Book your games today!                       Posted on January 16, 2025                                                                                           Capturing the Action: Missouri Youth Hockey Photos                                      2024-25 Season Photos!                       Posted on December 16, 2024                                                                                           Missouri Class 5 District 2 Football Championship 2024                                      Lafayette Lancers versus the Washington Bluejays                       Posted on November 16, 2024                                                                                           Mountain Bike Team Photos                                      Custom MTB team photos for your NICA group                       Posted on October 14, 2024                                                                                           Northern Lights over Missouri and the Mississipi River                                      Photos from October 10th, 2024                       Posted on October 11, 2024                                                                                           How to Photograph the Northern Lights: A Guide to Capturing Nature’s Spectacular Light Show                                      How best to take pictures of the Aurora Borealis                       Posted on October 10, 2024                                                                                           Solo Nationals Photo Galleries                                      All our photos are uploaded!                       Posted on September 2, 2024                                                                                           2024 Bommarito 500 IndyCar Photos                                      IndyCars in Madison Illinois!                       Posted on August 18, 2024                                                                                           2024 Tire Rack SCCA Solo Nationals Photos                                      We were there, taking the photos that you wanted!                       Posted on August 16, 2024                        &nbsp;         Page 1 of 10    Older Posts &rarr;   "
     }, {
     "id": 5,
@@ -1527,47 +1527,47 @@ var documents = [{
     }, {
     "id": 305,
     "url": "https://rainbowmarks.com/blog/page2/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 306,
     "url": "https://rainbowmarks.com/blog/page3/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 307,
     "url": "https://rainbowmarks.com/blog/page4/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 308,
     "url": "https://rainbowmarks.com/blog/page5/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 309,
     "url": "https://rainbowmarks.com/blog/page6/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 310,
     "url": "https://rainbowmarks.com/blog/page7/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 311,
     "url": "https://rainbowmarks.com/blog/page8/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 312,
     "url": "https://rainbowmarks.com/blog/page9/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 313,
     "url": "https://rainbowmarks.com/blog/page10/",
-    "title": "Photography Blog",
+    "title": "St. Louis Missouri Photography Blog",
     "body": "          {% for post in paginator. posts %}    {% assign post = site. posts. first %}    {% assign content = post. content %}                              {% if post. image %}        {% picture blogcrop {{ post. image }} --alt {{ post. title }} %}        {% endif %}                 {{ post. title }}                       {% if post. subtitle %}               {{ post. subtitle }}        {% endif %}               Posted on {{ post. date | date:  %B %-d, %Y  }}                    {% endfor %}    &nbsp;       {% if paginator. total_pages &gt; 1 %}  {% if paginator. previous_page %}   &larr; Newer Posts  {% endif %}  Page {{paginator. page}} of {{paginator. total_pages}} {% if paginator. next_page %}   Older Posts &rarr;  {% endif %}{% endif %} "
     }, {
     "id": 314,
